@@ -15,7 +15,7 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
 
 *too many = I don't know the real limit. At one point, I had 310 json in the directory and that was too many. I've also had 100 json in the directory, and that was okay. The limit is probably above 200.
 
-## Current Overrides
+## Platform Overrides for Currently Released Cores
 
 <table>
 <tr><td colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Single Game Arcade Cores</b></td></tr>
@@ -66,3 +66,62 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
  <td>pong - Atari Pong<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/pong.png" /></td>
 </tr>
 </table>
+
+## Platform Overrides for Unreleased* Cores
+
+* unreleased as of the commit date of this file.
+
+<table>
+<tr><td colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Single Game Arcade Cores</b></td></tr>
+<tr>
+ <td>jt1942 - 1942<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jt1942.png" /></td>
+ <td>jt1943 - 1943<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jt1943.png" /></td>
+ <td>jtbiocom - Bionic Commando<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main_unreleased//pics/jtbiocom.png" /></td>
+</tr>
+<tr>
+ <td>jtbtiger - Black Tiger<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtbtiger.png" /></td>
+ <td>jtbubl - Bubble Bobble<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtbubl.png" /></td>
+ <td>jtcommnd - Commando<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main_unreleased//pics/jtcommnd.png" /></td>
+</tr>
+<tr>
+ <td>jtcomsc - Combat School<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtcomsc.png" /></td>
+ <td>jtcop - Robocop<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtcop.png" /></td>
+ <td>jtf1drm - F1 Dream<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main_unreleased//pics/jtf1drm.png" /></td>
+</tr>
+<tr>
+ <td>jtgunsmk - Gunsmoke<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtgunsmk.png" /></td>
+ <td>jthige - Pirate Ship Higemaru <br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jthige.png" /></td>
+ <td>jtkchamp - Karate Champ<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main_unreleased//pics/jtkchamp.png" /></td>
+</tr>
+<tr>
+ <td>jtlabrun - Labyrinth Runner<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtlabrun.png" /></td>
+ <td>jtmidres - Midnight Resistance<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtmidres.png" /></td>
+ <td>jtninja - Bad Dudes<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main_unreleased//pics/jtninja.png" /></td>
+</tr>
+<tr>
+ <td>jtrastan - Rastan<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtrastan.png" /></td>
+ <td>jtrumble - Speed Rumbler <br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtrumble.png" /></td>
+ <td>jtsarms - Hyper Dyne Side Arms <br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main_unreleased//pics/jtsarms.png" /></td>
+</tr>
+<tr>
+ <td>jtsectnz - Section Z<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtsectnz.png" /></td>
+ <td>jtsf - Street Fighter<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtsf.png" /></td>
+ <td>jtshanon - Super Hang-On<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main_unreleased//pics/jtshanon.png" /></td>
+</tr>
+<tr>
+ <td>jtslyspy - Sly Spy<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtslyspy.png" /></td>
+ <td>jttora - Tiger Road <br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jttora.png" /></td>
+ <td>jttrojan - Trojan<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main_unreleased//pics/jttrojan.png" /></td>
+</tr>
+<tr>
+ <td>jtvulgus - Vulgus<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtvulgus.png" /></td>
+</tr>
+<tr><td colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</b></td></tr>
+<tr>
+ <td>jtcps1 - Capcom CPS-1 System<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtcps1.png" /></td>
+ <td>jtcps2 - Capcom CPS-2 System<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtcps2.png" /></td>
+</tr>
+<tr>
+ <td>jts16 - Sega System 16A<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jts16.png" /></td>
+ <td>jts16b - Sega System 16B<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jta16b.png" /></td>
+</tr>
