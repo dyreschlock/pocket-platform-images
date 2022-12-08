@@ -123,5 +123,5 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
 </tr>
 <tr>
  <td>jts16 - Sega System 16A<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jts16.png" /></td>
- <td>jts16b - Sega System 16B<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jta16b.png" /></td>
+ <td>jts16b - Sega System 16B<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jts16b.png" /></td>
 </tr>
