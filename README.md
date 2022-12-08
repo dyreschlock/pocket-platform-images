@@ -18,37 +18,33 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
 ## Current Overrides
 
 <table>
-<tr><td colspan="2">Jotego Cores</td></tr>
+<tr><td colspan="3">Jotego Cores</td></tr>
 <tr>
  <td>jtcontra - Contra<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtcontra.png" /></td>
  <td>jtdd - Double Dragon<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtdd.png" /></td>
-</tr>
-<tr>
  <td>jtdd2 - Double Dragon II<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtdd2.png" /></td>
- <td>jtgng - Ghosts 'n Goblins<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtgng.png" /></td>
 </tr>
 <tr>
+ <td>jtgng - Ghosts 'n Goblins<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtgng.png" /></td>
  <td>jtkicker - Shao-Lin's Road<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtkicker.png" /></td>
  <td>jtkunio - Renegade Kunio-kun<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtkunio.png" /></td>
 </tr>
 <tr>
  <td>jtmikie - Mikie<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtmikie.png" /></td>
  <td>jtoutrun - Outrun<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtoutrun.png" /></td>
-</tr>
-<tr>
  <td>jtpang - Pang<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtpang.png" /></td>
- <td>jtpinpon - Konami's Ping Pong<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtpinpon.png" /></td>
 </tr>
 <tr>
+ <td>jtpinpon - Konami's Ping Pong<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtpinpon.png" /></td>
  <td>jtroadf - Road Fighter<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtroadf.png" /></td>
  <td>jtroc - Roc'n Rope<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtroc.png" /></td>
 </tr>
 <tr>
  <td>jtsbaskt - Super Basketball<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtsbaskt.png" /></td>
  <td>jttrack - Track & Field<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jttrack.png" /></td>
+ <td>jtvigil - Vigilante<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtvigil.png" /></td>
 </tr>
 <tr>
- <td>jtvigil - Vigilante<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtvigil.png" /></td>
  <td>jtyiear - Yie Ar Kung-Fu<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtyiear.png" /></td>
 </tr>
 </table>
