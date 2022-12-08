@@ -15,10 +15,10 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
 
 *too many = I don't know the real limit. At one point, I had 310 json in the directory and that was too many. I've also had 100 json in the directory, and that was okay. The limit is probably above 200.
 
-## Current Overrides
+## Current Overrides for Single Arcade Cores
 
 <table>
-<tr><td colspan="3">Jotego Cores</td></tr>
+<tr><td colspan="3">** Jotego Cores **</td></tr>
 <tr>
  <td>jtcontra - Contra<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtcontra.png" /></td>
  <td>jtdd - Double Dragon<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtdd.png" /></td>
@@ -32,19 +32,40 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
 <tr>
  <td>jtmikie - Mikie<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtmikie.png" /></td>
  <td>jtoutrun - Outrun<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtoutrun.png" /></td>
- <td>jtpang - Pang<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtpang.png" /></td>
+ <td>jtpinpon - Konami's Ping Pong<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtpinpon.png" /></td>
 </tr>
 <tr>
- <td>jtpinpon - Konami's Ping Pong<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtpinpon.png" /></td>
  <td>jtroadf - Road Fighter<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtroadf.png" /></td>
  <td>jtroc - Roc'n Rope<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtroc.png" /></td>
+ <td>jtsbaskt - Super Basketball<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtsbaskt.png" /></td>
 </tr>
 <tr>
- <td>jtsbaskt - Super Basketball<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtsbaskt.png" /></td>
  <td>jttrack - Track & Field<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jttrack.png" /></td>
  <td>jtvigil - Vigilante<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtvigil.png" /></td>
-</tr>
-<tr>
  <td>jtyiear - Yie Ar Kung-Fu<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtyiear.png" /></td>
 </tr>
+<tr><td colspan="3">** Pram0d Cores **</td></tr>
+<tr>
+ <td>garegga - Battle Garegga<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/garegga.png" /></td>
+ <td>kingdmgp - Kingdom Gran Prix<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/kingdmgp.png" /></td>
+ <td>sstriker - Sorcerer Striker<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/sstriker.png" /></td>
+</tr>
+<tr>
+ <td>snowbros2 - Snow Bros 2<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/snowbros2.png" /></td>
+</tr>
+<tr><td colspan="3">** Pram0d Cores **</td></tr>
+<tr>
+ <td>pong - Atari Pong<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/pong.png" /></td>
+</tr>
 </table>
+
+## Current Overrides for Multiple Game Arcade Cores
+
+<table>
+<tr><td>** Jotego Cores** </td><td>** nullobject Cores **</td><td></td></tr>
+<tr>
+ <td>jtpang - Capcom Mitchell Board<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtpang.png" /></td>
+ <td>tecmo - Tecmo Rygar Board<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/tecmo.png" /></td>
+</tr>
+
+
