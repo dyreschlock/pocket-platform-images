@@ -18,7 +18,7 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
 ## Current Overrides
 
 <table>
-<tr><td colspan="3"><b>Jotego Single Game Arcade Cores</b></td></tr>
+<tr><td colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Single Game Arcade Cores</b></td></tr>
 <tr>
  <td>jtcontra - Contra<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtcontra.png" /></td>
  <td>jtdd - Double Dragon<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtdd.png" /></td>
@@ -44,15 +44,15 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
  <td>jtvigil - Vigilante<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtvigil.png" /></td>
  <td>jtyiear - Yie Ar Kung-Fu<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtyiear.png" /></td>
 </tr>
-<tr><td colspan="3"><b>Jotego Multi Game Arcade Cores</b></td></tr>
+<tr><td colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</b></td></tr>
 <tr>
  <td>jtpang - Capcom Mitchell Board<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtpang.png" /></td>
 </tr>
-<tr><td colspan="3"><b>nullobject Multi Game Arcade Cores</b></td><td></td></tr>
+<tr><td colspan="3"><b><a href="https://patreon.com/nullobject">nullobject</a> Multi Game Arcade Cores</b></td></tr>
 <tr>
  <td>tecmo - Tecmo Rygar Board<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/tecmo.png" /></td>
 </tr>
-<tr><td colspan="3"><b>Pram0d Single Game Arcade Cores</b></td></tr>
+<tr><td colspan="3"><b><a href="https://github.com/psomashekar">Pram0d</a> Single Game Arcade Cores</b></td></tr>
 <tr>
  <td>garegga - Battle Garegga<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/garegga.png" /></td>
  <td>kingdmgp - Kingdom Gran Prix<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/kingdmgp.png" /></td>
@@ -61,7 +61,7 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
 <tr>
  <td>snowbros2 - Snow Bros 2<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/snowbros2.png" /></td>
 </tr>
-<tr><td colspan="3"><b>agg23 Single Game Arcade Cores</b></td></tr>
+<tr><td colspan="3"><b><a href="https://github.com/agg23">agg23</a> Single Game Arcade Cores</b></td></tr>
 <tr>
  <td>pong - Atari Pong<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/pong.png" /></td>
 </tr>
