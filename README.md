@@ -15,10 +15,10 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
 
 *too many = I don't know the real limit. At one point, I had 310 json in the directory and that was too many. I've also had 100 json in the directory, and that was okay. The limit is probably above 200.
 
-## Current Overrides for Single Arcade Cores
+## Current Overrides
 
 <table>
-<tr><td colspan="3">** Jotego Cores **</td></tr>
+<tr><td colspan="3">**Jotego Single Game Arcade Cores**</td></tr>
 <tr>
  <td>jtcontra - Contra<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtcontra.png" /></td>
  <td>jtdd - Double Dragon<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtdd.png" /></td>
@@ -44,7 +44,15 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
  <td>jtvigil - Vigilante<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtvigil.png" /></td>
  <td>jtyiear - Yie Ar Kung-Fu<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtyiear.png" /></td>
 </tr>
-<tr><td colspan="3">** Pram0d Cores **</td></tr>
+<tr><td colspan="3">**Jotego Multi Game Arcade Cores**</td></tr>
+<tr>
+ <td>jtpang - Capcom Mitchell Board<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtpang.png" /></td>
+</tr>
+<tr><td colspan="3">**nullobject Multi Game Arcade Cores**</td><td></td></tr>
+<tr>
+ <td>tecmo - Tecmo Rygar Board<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/tecmo.png" /></td>
+</tr>
+<tr><td colspan="3">**Pram0d Single Game Arcade Cores**</td></tr>
 <tr>
  <td>garegga - Battle Garegga<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/garegga.png" /></td>
  <td>kingdmgp - Kingdom Gran Prix<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/kingdmgp.png" /></td>
@@ -53,19 +61,8 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
 <tr>
  <td>snowbros2 - Snow Bros 2<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/snowbros2.png" /></td>
 </tr>
-<tr><td colspan="3">** Pram0d Cores **</td></tr>
+<tr><td colspan="3">** agg23 Single Game Arcade Cores **</td></tr>
 <tr>
  <td>pong - Atari Pong<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/pong.png" /></td>
 </tr>
 </table>
-
-## Current Overrides for Multiple Game Arcade Cores
-
-<table>
-<tr><td>** Jotego Cores** </td><td>** nullobject Cores **</td><td></td></tr>
-<tr>
- <td>jtpang - Capcom Mitchell Board<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtpang.png" /></td>
- <td>tecmo - Tecmo Rygar Board<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/tecmo.png" /></td>
-</tr>
-
-
