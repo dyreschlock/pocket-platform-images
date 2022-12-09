@@ -17,7 +17,7 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
 
 ## Platform Overrides for Currently Released Cores
 
-<table style="th, td { padding: 3px 6px; }">
+<table>
 <tr><th colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Single Game Arcade Cores</b></td></tr>
 <tr>
  <td>jtcontra - Contra<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtcontra.png" /></td>
@@ -71,7 +71,7 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
 
 * unreleased as of the commit date of this file.
 
-<table style="th, td { padding: 3px 6px; }">
+<table>
 <tr><th colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Single Game Arcade Cores</b></td></tr>
 <tr>
  <td>jt1942 - 1942<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jt1942.png" /></td>
@@ -121,7 +121,7 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
 <tr><th colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</b></td></tr>
 <tr>
  <td>jtcps1 - Capcom CPS-1 System<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtcps1.png" /></td>
- <td>jtcps15 - Capcom CPS-1.5 System<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtcps15.png" /></td>
+ <td>jtcps15 - Capcom CPS-1.5 Sys<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtcps15.png" /></td>
  <td>jtcps2 - Capcom CPS-2 System<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtcps2.png" /></td>
 </tr>
 <tr>
