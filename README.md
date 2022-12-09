@@ -27,21 +27,24 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
 <tr>
  <td>jtgng - Ghosts 'n Goblins<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtgng.png" /></td>
  <td>jtkicker - Shao-Lin's Road<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtkicker.png" /></td>
- <td>jtkunio - Renegade Kunio-kun<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtkunio.png" /></td>
+ <td>jtkiwi - Insector X<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtkiwi.png" /></td>
 </tr>
 <tr>
+ <td>jtkunio - Renegade Kunio-kun<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtkunio.png" /></td>
  <td>jtmikie - Mikie<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtmikie.png" /></td>
  <td>jtoutrun - Outrun<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtoutrun.png" /></td>
- <td>jtpinpon - Konami's Ping Pong<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtpinpon.png" /></td>
 </tr>
 <tr>
+ <td>jtpinpon - Konami's Ping Pong<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtpinpon.png" /></td>
  <td>jtroadf - Road Fighter<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtroadf.png" /></td>
  <td>jtroc - Roc'n Rope<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtroc.png" /></td>
- <td>jtsbaskt - Super Basketball<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtsbaskt.png" /></td>
 </tr>
 <tr>
+ <td>jtsbaskt - Super Basketball<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtsbaskt.png" /></td>
  <td>jttrack - Track & Field<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jttrack.png" /></td>
  <td>jtvigil - Vigilante<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtvigil.png" /></td>
+</tr>
+<tr>
  <td>jtyiear - Yie Ar Kung-Fu<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtyiear.png" /></td>
 </tr>
 <tr><th colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</b></td></tr>
