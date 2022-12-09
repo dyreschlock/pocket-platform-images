@@ -119,6 +119,7 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
 <tr><td colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</b></td></tr>
 <tr>
  <td>jtcps1 - Capcom CPS-1 System<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtcps1.png" /></td>
+ <td>jtcps15 - Capcom CPS-1.5 System<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtcps15.png" /></td>
  <td>jtcps2 - Capcom CPS-2 System<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtcps2.png" /></td>
 </tr>
 <tr>
