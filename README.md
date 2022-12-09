@@ -17,8 +17,12 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
 
 ## Platform Overrides for Currently Released Cores
 
-<table>
-<tr><td colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Single Game Arcade Cores</b></td></tr>
+<style>
+ .tables th, .tables td { padding: 3px 6px; }
+</style>
+
+<table class="tables">
+<tr><th colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Single Game Arcade Cores</b></td></tr>
 <tr>
  <td>jtcontra - Contra<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtcontra.png" /></td>
  <td>jtdd - Double Dragon<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtdd.png" /></td>
@@ -44,15 +48,15 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
  <td>jtvigil - Vigilante<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtvigil.png" /></td>
  <td>jtyiear - Yie Ar Kung-Fu<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtyiear.png" /></td>
 </tr>
-<tr><td colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</b></td></tr>
+<tr><th colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</b></td></tr>
 <tr>
  <td>jtpang - Capcom Mitchell Board<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtpang.png" /></td>
 </tr>
-<tr><td colspan="3"><b><a href="https://patreon.com/nullobject">nullobject</a> Multi Game Arcade Cores</b></td></tr>
+<tr><th colspan="3"><b><a href="https://patreon.com/nullobject">nullobject</a> Multi Game Arcade Cores</b></td></tr>
 <tr>
  <td>tecmo - Tecmo Rygar Board<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/tecmo.png" /></td>
 </tr>
-<tr><td colspan="3"><b><a href="https://github.com/psomashekar">Pram0d</a> Single Game Arcade Cores</b></td></tr>
+<tr><th colspan="3"><b><a href="https://github.com/psomashekar">Pram0d</a> Single Game Arcade Cores</b></td></tr>
 <tr>
  <td>garegga - Battle Garegga<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/garegga.png" /></td>
  <td>kingdmgp - Kingdom Gran Prix<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/kingdmgp.png" /></td>
@@ -61,7 +65,7 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
 <tr>
  <td>snowbros2 - Snow Bros 2<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/snowbros2.png" /></td>
 </tr>
-<tr><td colspan="3"><b><a href="https://github.com/agg23">agg23</a> Single Game Arcade Cores</b></td></tr>
+<tr><th colspan="3"><b><a href="https://github.com/agg23">agg23</a> Single Game Arcade Cores</b></td></tr>
 <tr>
  <td>pong - Atari Pong<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/pong.png" /></td>
 </tr>
@@ -71,8 +75,8 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
 
 * unreleased as of the commit date of this file.
 
-<table>
-<tr><td colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Single Game Arcade Cores</b></td></tr>
+<table class="tables">
+<tr><th colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Single Game Arcade Cores</b></td></tr>
 <tr>
  <td>jt1942 - 1942<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jt1942.png" /></td>
  <td>jt1943 - 1943<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jt1943.png" /></td>
@@ -118,7 +122,7 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
  <td>jttrojan - Trojan<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jttrojan.png" /></td>
  <td>jtvulgus - Vulgus<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtvulgus.png" /></td>
 </tr>
-<tr><td colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</b></td></tr>
+<tr><th colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</b></td></tr>
 <tr>
  <td>jtcps1 - Capcom CPS-1 System<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtcps1.png" /></td>
  <td>jtcps15 - Capcom CPS-1.5 System<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtcps15.png" /></td>
