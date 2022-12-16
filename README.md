@@ -131,3 +131,7 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
  <td>jts16 - Sega System 16A <img src="_unreleased/pics/jts16.png" /></td>
  <td>jts16b - Sega System 16B <img src="_unreleased/pics/jts16b.png" /></td>
 </tr>
+<tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</th></tr>
+<tr>
+ <td>cave - Cave 68000 <img src="_unreleased/pics/cave.png" /></td>
+</tr>
