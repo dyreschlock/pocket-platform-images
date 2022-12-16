@@ -47,15 +47,15 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
 <tr>
  <td>jtyiear - Yie Ar Kung-Fu <img src="pics/jtyiear.png" /></td>
 </tr>
-<tr><th colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</b></th></tr>
+<tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</th></tr>
 <tr>
  <td>jtpang - Capcom Mitchell Board <img src="pics/jtpang.png" /></td>
 </tr>
-<tr><th colspan="3"><b><a href="https://patreon.com/nullobject">nullobject</a> Multi Game Arcade Cores</b></th></tr>
+<tr><th colspan="3"><a href="https://patreon.com/nullobject">nullobject</a> Multi Game Arcade Cores</th></tr>
 <tr>
  <td>tecmo - Tecmo Rygar Board <img src="pics/tecmo.png" /></td>
 </tr>
-<tr><th colspan="3"><b><a href="https://github.com/psomashekar">Pram0d</a> Single Game Arcade Cores</b></th></tr>
+<tr><th colspan="3"><a href="https://github.com/psomashekar">Pram0d</a> Single Game Arcade Cores</th></tr>
 <tr>
  <td>garegga - Battle Garegga <img src="pics/garegga.png" /></td>
  <td>kingdmgp - Kingdom Gran Prix <img src="pics/kingdmgp.png" /></td>
@@ -64,7 +64,7 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
 <tr>
  <td>snowbros2 - Snow Bros 2 <img src="pics/snowbros2.png" /></td>
 </tr>
-<tr><th colspan="3"><b><a href="https://github.com/agg23">agg23</a> Single Game Arcade Cores</b></th></tr>
+<tr><th colspan="3"><a href="https://github.com/agg23">agg23</a> Single Game Arcade Cores</th></tr>
 <tr>
  <td>pong - Atari Pong <img src="pics/pong.png" /></td>
 </tr>
@@ -75,7 +75,7 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
 * unreleased as of the commit date of this file.
 
 <table>
-<tr><th colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Single Game Arcade Cores</b></th></tr>
+<tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Single Game Arcade Cores</th></tr>
 <tr>
  <td>jt1942 - 1942 <img src="_unreleased/pics/jt1942.png" /></td>
  <td>jt1943 - 1943 <img src="_unreleased/pics/jt1943.png" /></td>
@@ -121,7 +121,7 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
  <td>jttrojan - Trojan <img src="_unreleased/pics/jttrojan.png" /></td>
  <td>jtvulgus - Vulgus <img src="_unreleased/pics/jtvulgus.png" /></td>
 </tr>
-<tr><th colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</b></th></tr>
+<tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</th></tr>
 <tr>
  <td>jtcps1 - Capcom CPS-1 System <img src="_unreleased/pics/jtcps1.png" /></td>
  <td>jtcps15 - Capcom CPS-1.5 Sys <img src="_unreleased/pics/jtcps15.png" /></td>
