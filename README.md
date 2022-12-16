@@ -20,9 +20,9 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
 <table>
 <tr><th colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Single Game Arcade Cores</b></td></tr>
 <tr>
- <td>jtcontra - Contra<br/><img src="pics/jtcontra.png" /></td>
- <td>jtdd - Double Dragon<br/><img src="pics/jtdd.png" /></td>
- <td>jtdd2 - Double Dragon II<br/><img src="pics/jtdd2.png" /></td>
+ <td>jtcontra - Contra <img src="pics/jtcontra.png" /></td>
+ <td>jtdd - Double Dragon <img src="pics/jtdd.png" /></td>
+ <td>jtdd2 - Double Dragon II <img src="pics/jtdd2.png" /></td>
 </tr>
 <tr>
  <td>jtgng - Ghosts 'n Goblins<br/><img src="pics/jtgng.png" /></td>
