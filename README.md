@@ -21,52 +21,52 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
 <tr><th colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Single Game Arcade Cores</b></td></tr>
 <tr>
  <td>jtcontra - Contra<br/><img src="pics/jtcontra.png" /></td>
- <td>jtdd - Double Dragon<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtdd.png" /></td>
- <td>jtdd2 - Double Dragon II<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtdd2.png" /></td>
+ <td>jtdd - Double Dragon<br/><img src="pics/jtdd.png" /></td>
+ <td>jtdd2 - Double Dragon II<br/><img src="pics/jtdd2.png" /></td>
 </tr>
 <tr>
- <td>jtgng - Ghosts 'n Goblins<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtgng.png" /></td>
- <td>jtkicker - Shao-Lin's Road<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtkicker.png" /></td>
- <td>jtkiwi - Insector X<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtkiwi.png" /></td>
+ <td>jtgng - Ghosts 'n Goblins<br/><img src="pics/jtgng.png" /></td>
+ <td>jtkicker - Shao-Lin's Road<br/><img src="pics/jtkicker.png" /></td>
+ <td>jtkiwi - Insector X<br/><img src="pics/jtkiwi.png" /></td>
 </tr>
 <tr>
- <td>jtkunio - Renegade Kunio-kun<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtkunio.png" /></td>
- <td>jtmikie - Mikie<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtmikie.png" /></td>
- <td>jtoutrun - Outrun<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtoutrun.png" /></td>
+ <td>jtkunio - Renegade Kunio-kun<br/><img src="pics/jtkunio.png" /></td>
+ <td>jtmikie - Mikie<br/><img src="pics/jtmikie.png" /></td>
+ <td>jtoutrun - Outrun<br/><img src="pics/jtoutrun.png" /></td>
 </tr>
 <tr>
- <td>jtpinpon - Konami's Ping Pong<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtpinpon.png" /></td>
- <td>jtroadf - Road Fighter<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtroadf.png" /></td>
- <td>jtroc - Roc'n Rope<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtroc.png" /></td>
+ <td>jtpinpon - Konami's Ping Pong<br/><img src="pics/jtpinpon.png" /></td>
+ <td>jtroadf - Road Fighter<br/><img src="pics/jtroadf.png" /></td>
+ <td>jtroc - Roc'n Rope<br/><img src="pics/jtroc.png" /></td>
 </tr>
 <tr>
- <td>jtsbaskt - Super Basketball<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtsbaskt.png" /></td>
- <td>jttrack - Track & Field<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jttrack.png" /></td>
- <td>jtvigil - Vigilante<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtvigil.png" /></td>
+ <td>jtsbaskt - Super Basketball<br/><img src="pics/jtsbaskt.png" /></td>
+ <td>jttrack - Track & Field<br/><img src="pics/jttrack.png" /></td>
+ <td>jtvigil - Vigilante<br/><img src="pics/jtvigil.png" /></td>
 </tr>
 <tr>
- <td>jtyiear - Yie Ar Kung-Fu<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtyiear.png" /></td>
+ <td>jtyiear - Yie Ar Kung-Fu<br/><img src="pics/jtyiear.png" /></td>
 </tr>
 <tr><th colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</b></td></tr>
 <tr>
- <td>jtpang - Capcom Mitchell Board<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/jtpang.png" /></td>
+ <td>jtpang - Capcom Mitchell Board<br/><img src="pics/jtpang.png" /></td>
 </tr>
 <tr><th colspan="3"><b><a href="https://patreon.com/nullobject">nullobject</a> Multi Game Arcade Cores</b></td></tr>
 <tr>
- <td>tecmo - Tecmo Rygar Board<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/tecmo.png" /></td>
+ <td>tecmo - Tecmo Rygar Board<br/><img src="pics/tecmo.png" /></td>
 </tr>
 <tr><th colspan="3"><b><a href="https://github.com/psomashekar">Pram0d</a> Single Game Arcade Cores</b></td></tr>
 <tr>
- <td>garegga - Battle Garegga<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/garegga.png" /></td>
- <td>kingdmgp - Kingdom Gran Prix<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/kingdmgp.png" /></td>
- <td>sstriker - Sorcerer Striker<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/sstriker.png" /></td>
+ <td>garegga - Battle Garegga<br/><img src="pics/garegga.png" /></td>
+ <td>kingdmgp - Kingdom Gran Prix<br/><img src="pics/kingdmgp.png" /></td>
+ <td>sstriker - Sorcerer Striker<br/><img src="pics/sstriker.png" /></td>
 </tr>
 <tr>
- <td>snowbros2 - Snow Bros 2<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/snowbros2.png" /></td>
+ <td>snowbros2 - Snow Bros 2<br/><img src="pics/snowbros2.png" /></td>
 </tr>
 <tr><th colspan="3"><b><a href="https://github.com/agg23">agg23</a> Single Game Arcade Cores</b></td></tr>
 <tr>
- <td>pong - Atari Pong<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/pics/pong.png" /></td>
+ <td>pong - Atari Pong<br/><img src="pics/pong.png" /></td>
 </tr>
 </table>
 
@@ -77,57 +77,57 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
 <table>
 <tr><th colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Single Game Arcade Cores</b></td></tr>
 <tr>
- <td>jt1942 - 1942<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jt1942.png" /></td>
- <td>jt1943 - 1943<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jt1943.png" /></td>
- <td>jtbiocom - Bionic Commando<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtbiocom.png" /></td>
+ <td>jt1942 - 1942<br/><img src="_unreleased/pics/jt1942.png" /></td>
+ <td>jt1943 - 1943<br/><img src="_unreleased/pics/jt1943.png" /></td>
+ <td>jtbiocom - Bionic Commando<br/><img src="_unreleased/pics/jtbiocom.png" /></td>
 </tr>
 <tr>
- <td>jtbtiger - Black Tiger<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtbtiger.png" /></td>
- <td>jtbubl - Bubble Bobble<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtbubl.png" /></td>
- <td>jtcommnd - Commando<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtcommnd.png" /></td>
+ <td>jtbtiger - Black Tiger<br/><img src="_unreleased/pics/jtbtiger.png" /></td>
+ <td>jtbubl - Bubble Bobble<br/><img src="_unreleased/pics/jtbubl.png" /></td>
+ <td>jtcommnd - Commando<br/><img src="_unreleased/pics/jtcommnd.png" /></td>
 </tr>
 <tr>
- <td>jtcomsc - Combat School<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtcomsc.png" /></td>
- <td>jtcop - Robocop<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtcop.png" /></td>
- <td>jtexed - Exed Exes<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtexed.png" /></td>
+ <td>jtcomsc - Combat School<br/><img src="_unreleased/pics/jtcomsc.png" /></td>
+ <td>jtcop - Robocop<br/><img src="_unreleased/pics/jtcop.png" /></td>
+ <td>jtexed - Exed Exes<br/><img src="_unreleased/pics/jtexed.png" /></td>
 </tr>
 <tr>
- <td>jtf1drm - F1 Dream<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtf1drm.png" /></td>
- <td>jtflane - Fast Lane<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtflane.png" /></td>
- <td>jtgunsmk - Gunsmoke<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtgunsmk.png" /></td>
+ <td>jtf1drm - F1 Dream<br/><img src="_unreleased/pics/jtf1drm.png" /></td>
+ <td>jtflane - Fast Lane<br/><img src="_unreleased/pics/jtflane.png" /></td>
+ <td>jtgunsmk - Gunsmoke<br/><img src="_unreleased/pics/jtgunsmk.png" /></td>
 </tr>
 <tr>
- <td>jthige - Pirate Ship Higemaru <br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jthige.png" /></td>
- <td>jtkchamp - Karate Champ<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtkchamp.png" /></td>
- <td>jtlabrun - Labyrinth Runner<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtlabrun.png" /></td>
+ <td>jthige - Pirate Ship Higemaru <br/><img src="_unreleased/pics/jthige.png" /></td>
+ <td>jtkchamp - Karate Champ<br/><img src="_unreleased/pics/jtkchamp.png" /></td>
+ <td>jtlabrun - Labyrinth Runner<br/><img src="_unreleased/pics/jtlabrun.png" /></td>
 </tr>
 <tr>
- <td>jtmidres - Midnight Resistance<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtmidres.png" /></td>
- <td>jtninja - Bad Dudes<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtninja.png" /></td>
- <td>jtrastan - Rastan<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtrastan.png" /></td>
+ <td>jtmidres - Midnight Resistance<br/><img src="_unreleased/pics/jtmidres.png" /></td>
+ <td>jtninja - Bad Dudes<br/><img src="_unreleased/pics/jtninja.png" /></td>
+ <td>jtrastan - Rastan<br/><img src="_unreleased/pics/jtrastan.png" /></td>
 </tr>
 <tr>
- <td>jtrumble - Speed Rumbler <br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtrumble.png" /></td>
- <td>jtsarms - Hyper Dyne Side Arms <br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtsarms.png" /></td>
- <td>jtsectnz - Section Z<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtsectnz.png" /></td>
+ <td>jtrumble - Speed Rumbler <br/><img src="_unreleased/pics/jtrumble.png" /></td>
+ <td>jtsarms - Hyper Dyne Side Arms <br/><img src="_unreleased/pics/jtsarms.png" /></td>
+ <td>jtsectnz - Section Z<br/><img src="_unreleased/pics/jtsectnz.png" /></td>
 </tr>
 <tr>
- <td>jtsf - Street Fighter<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtsf.png" /></td>
- <td>jtshanon - Super Hang-On<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtshanon.png" /></td>
- <td>jtslyspy - Sly Spy<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtslyspy.png" /></td>
+ <td>jtsf - Street Fighter<br/><img src="_unreleased/pics/jtsf.png" /></td>
+ <td>jtshanon - Super Hang-On<br/><img src="_unreleased/pics/jtshanon.png" /></td>
+ <td>jtslyspy - Sly Spy<br/><img src="_unreleased/pics/jtslyspy.png" /></td>
 </tr>
 <tr>
- <td>jttora - Tiger Road <br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jttora.png" /></td>
- <td>jttrojan - Trojan<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jttrojan.png" /></td>
- <td>jtvulgus - Vulgus<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtvulgus.png" /></td>
+ <td>jttora - Tiger Road <br/><img src="_unreleased/pics/jttora.png" /></td>
+ <td>jttrojan - Trojan<br/><img src="_unreleased/pics/jttrojan.png" /></td>
+ <td>jtvulgus - Vulgus<br/><img src="_unreleased/pics/jtvulgus.png" /></td>
 </tr>
 <tr><th colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</b></td></tr>
 <tr>
- <td>jtcps1 - Capcom CPS-1 System<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtcps1.png" /></td>
- <td>jtcps15 - Capcom CPS-1.5 Sys<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtcps15.png" /></td>
- <td>jtcps2 - Capcom CPS-2 System<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jtcps2.png" /></td>
+ <td>jtcps1 - Capcom CPS-1 System<br/><img src="_unreleased/pics/jtcps1.png" /></td>
+ <td>jtcps15 - Capcom CPS-1.5 Sys<br/><img src="_unreleased/pics/jtcps15.png" /></td>
+ <td>jtcps2 - Capcom CPS-2 System<br/><img src="_unreleased/pics/jtcps2.png" /></td>
 </tr>
 <tr>
- <td>jts16 - Sega System 16A<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jts16.png" /></td>
- <td>jts16b - Sega System 16B<br/><img src="https://raw.githubusercontent.com/dyreschlock/pocket-platform-images/main/_unreleased/pics/jts16b.png" /></td>
+ <td>jts16 - Sega System 16A<br/><img src="_unreleased/pics/jts16.png" /></td>
+ <td>jts16b - Sega System 16B<br/><img src="_unreleased/pics/jts16b.png" /></td>
 </tr>
