@@ -18,55 +18,55 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
 ## Platform Overrides for Currently Released Cores
 
 <table>
-<tr><th colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Single Game Arcade Cores</b></td></tr>
+<tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Single Game Arcade Cores</th></tr>
 <tr>
  <td>jtcontra - Contra <img src="pics/jtcontra.png" /></td>
  <td>jtdd - Double Dragon <img src="pics/jtdd.png" /></td>
  <td>jtdd2 - Double Dragon II <img src="pics/jtdd2.png" /></td>
 </tr>
 <tr>
- <td>jtgng - Ghosts 'n Goblins<br/><img src="pics/jtgng.png" /></td>
- <td>jtkicker - Shao-Lin's Road<br/><img src="pics/jtkicker.png" /></td>
- <td>jtkiwi - Insector X<br/><img src="pics/jtkiwi.png" /></td>
+ <td>jtgng - Ghosts 'n Goblins <img src="pics/jtgng.png" /></td>
+ <td>jtkicker - Shao-Lin's Road <img src="pics/jtkicker.png" /></td>
+ <td>jtkiwi - Insector X <img src="pics/jtkiwi.png" /></td>
 </tr>
 <tr>
- <td>jtkunio - Renegade Kunio-kun<br/><img src="pics/jtkunio.png" /></td>
- <td>jtmikie - Mikie<br/><img src="pics/jtmikie.png" /></td>
- <td>jtoutrun - Outrun<br/><img src="pics/jtoutrun.png" /></td>
+ <td>jtkunio - Renegade Kunio-kun <img src="pics/jtkunio.png" /></td>
+ <td>jtmikie - Mikie <img src="pics/jtmikie.png" /></td>
+ <td>jtoutrun - Outrun <img src="pics/jtoutrun.png" /></td>
 </tr>
 <tr>
- <td>jtpinpon - Konami's Ping Pong<br/><img src="pics/jtpinpon.png" /></td>
- <td>jtroadf - Road Fighter<br/><img src="pics/jtroadf.png" /></td>
- <td>jtroc - Roc'n Rope<br/><img src="pics/jtroc.png" /></td>
+ <td>jtpinpon - Konami's Ping Pong <img src="pics/jtpinpon.png" /></td>
+ <td>jtroadf - Road Fighter <img src="pics/jtroadf.png" /></td>
+ <td>jtroc - Roc'n Rope <img src="pics/jtroc.png" /></td>
 </tr>
 <tr>
- <td>jtsbaskt - Super Basketball<br/><img src="pics/jtsbaskt.png" /></td>
- <td>jttrack - Track & Field<br/><img src="pics/jttrack.png" /></td>
- <td>jtvigil - Vigilante<br/><img src="pics/jtvigil.png" /></td>
+ <td>jtsbaskt - Super Basketball <img src="pics/jtsbaskt.png" /></td>
+ <td>jttrack - Track & Field <img src="pics/jttrack.png" /></td>
+ <td>jtvigil - Vigilante <img src="pics/jtvigil.png" /></td>
 </tr>
 <tr>
- <td>jtyiear - Yie Ar Kung-Fu<br/><img src="pics/jtyiear.png" /></td>
+ <td>jtyiear - Yie Ar Kung-Fu <img src="pics/jtyiear.png" /></td>
 </tr>
-<tr><th colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</b></td></tr>
+<tr><th colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</b></th></tr>
 <tr>
- <td>jtpang - Capcom Mitchell Board<br/><img src="pics/jtpang.png" /></td>
+ <td>jtpang - Capcom Mitchell Board <img src="pics/jtpang.png" /></td>
 </tr>
-<tr><th colspan="3"><b><a href="https://patreon.com/nullobject">nullobject</a> Multi Game Arcade Cores</b></td></tr>
+<tr><th colspan="3"><b><a href="https://patreon.com/nullobject">nullobject</a> Multi Game Arcade Cores</b></th></tr>
 <tr>
- <td>tecmo - Tecmo Rygar Board<br/><img src="pics/tecmo.png" /></td>
+ <td>tecmo - Tecmo Rygar Board <img src="pics/tecmo.png" /></td>
 </tr>
-<tr><th colspan="3"><b><a href="https://github.com/psomashekar">Pram0d</a> Single Game Arcade Cores</b></td></tr>
+<tr><th colspan="3"><b><a href="https://github.com/psomashekar">Pram0d</a> Single Game Arcade Cores</b></th></tr>
 <tr>
- <td>garegga - Battle Garegga<br/><img src="pics/garegga.png" /></td>
- <td>kingdmgp - Kingdom Gran Prix<br/><img src="pics/kingdmgp.png" /></td>
- <td>sstriker - Sorcerer Striker<br/><img src="pics/sstriker.png" /></td>
+ <td>garegga - Battle Garegga <img src="pics/garegga.png" /></td>
+ <td>kingdmgp - Kingdom Gran Prix <img src="pics/kingdmgp.png" /></td>
+ <td>sstriker - Sorcerer Striker <img src="pics/sstriker.png" /></td>
 </tr>
 <tr>
- <td>snowbros2 - Snow Bros 2<br/><img src="pics/snowbros2.png" /></td>
+ <td>snowbros2 - Snow Bros 2 <img src="pics/snowbros2.png" /></td>
 </tr>
-<tr><th colspan="3"><b><a href="https://github.com/agg23">agg23</a> Single Game Arcade Cores</b></td></tr>
+<tr><th colspan="3"><b><a href="https://github.com/agg23">agg23</a> Single Game Arcade Cores</b></th></tr>
 <tr>
- <td>pong - Atari Pong<br/><img src="pics/pong.png" /></td>
+ <td>pong - Atari Pong <img src="pics/pong.png" /></td>
 </tr>
 </table>
 
@@ -75,59 +75,59 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
 * unreleased as of the commit date of this file.
 
 <table>
-<tr><th colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Single Game Arcade Cores</b></td></tr>
+<tr><th colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Single Game Arcade Cores</b></th></tr>
 <tr>
- <td>jt1942 - 1942<br/><img src="_unreleased/pics/jt1942.png" /></td>
- <td>jt1943 - 1943<br/><img src="_unreleased/pics/jt1943.png" /></td>
- <td>jtbiocom - Bionic Commando<br/><img src="_unreleased/pics/jtbiocom.png" /></td>
+ <td>jt1942 - 1942 <img src="_unreleased/pics/jt1942.png" /></td>
+ <td>jt1943 - 1943 <img src="_unreleased/pics/jt1943.png" /></td>
+ <td>jtbiocom - Bionic Commando <img src="_unreleased/pics/jtbiocom.png" /></td>
 </tr>
 <tr>
- <td>jtbtiger - Black Tiger<br/><img src="_unreleased/pics/jtbtiger.png" /></td>
- <td>jtbubl - Bubble Bobble<br/><img src="_unreleased/pics/jtbubl.png" /></td>
- <td>jtcommnd - Commando<br/><img src="_unreleased/pics/jtcommnd.png" /></td>
+ <td>jtbtiger - Black Tiger <img src="_unreleased/pics/jtbtiger.png" /></td>
+ <td>jtbubl - Bubble Bobble <img src="_unreleased/pics/jtbubl.png" /></td>
+ <td>jtcommnd - Commando <img src="_unreleased/pics/jtcommnd.png" /></td>
 </tr>
 <tr>
- <td>jtcomsc - Combat School<br/><img src="_unreleased/pics/jtcomsc.png" /></td>
- <td>jtcop - Robocop<br/><img src="_unreleased/pics/jtcop.png" /></td>
- <td>jtexed - Exed Exes<br/><img src="_unreleased/pics/jtexed.png" /></td>
+ <td>jtcomsc - Combat School <img src="_unreleased/pics/jtcomsc.png" /></td>
+ <td>jtcop - Robocop <img src="_unreleased/pics/jtcop.png" /></td>
+ <td>jtexed - Exed Exes <img src="_unreleased/pics/jtexed.png" /></td>
 </tr>
 <tr>
- <td>jtf1drm - F1 Dream<br/><img src="_unreleased/pics/jtf1drm.png" /></td>
- <td>jtflane - Fast Lane<br/><img src="_unreleased/pics/jtflane.png" /></td>
- <td>jtgunsmk - Gunsmoke<br/><img src="_unreleased/pics/jtgunsmk.png" /></td>
+ <td>jtf1drm - F1 Dream <img src="_unreleased/pics/jtf1drm.png" /></td>
+ <td>jtflane - Fast Lane <img src="_unreleased/pics/jtflane.png" /></td>
+ <td>jtgunsmk - Gunsmoke <img src="_unreleased/pics/jtgunsmk.png" /></td>
 </tr>
 <tr>
- <td>jthige - Pirate Ship Higemaru <br/><img src="_unreleased/pics/jthige.png" /></td>
- <td>jtkchamp - Karate Champ<br/><img src="_unreleased/pics/jtkchamp.png" /></td>
- <td>jtlabrun - Labyrinth Runner<br/><img src="_unreleased/pics/jtlabrun.png" /></td>
+ <td>jthige - Pirate Ship Higemaru  <img src="_unreleased/pics/jthige.png" /></td>
+ <td>jtkchamp - Karate Champ <img src="_unreleased/pics/jtkchamp.png" /></td>
+ <td>jtlabrun - Labyrinth Runner <img src="_unreleased/pics/jtlabrun.png" /></td>
 </tr>
 <tr>
- <td>jtmidres - Midnight Resistance<br/><img src="_unreleased/pics/jtmidres.png" /></td>
- <td>jtninja - Bad Dudes<br/><img src="_unreleased/pics/jtninja.png" /></td>
- <td>jtrastan - Rastan<br/><img src="_unreleased/pics/jtrastan.png" /></td>
+ <td>jtmidres - Midnight Resistance <img src="_unreleased/pics/jtmidres.png" /></td>
+ <td>jtninja - Bad Dudes <img src="_unreleased/pics/jtninja.png" /></td>
+ <td>jtrastan - Rastan <img src="_unreleased/pics/jtrastan.png" /></td>
 </tr>
 <tr>
- <td>jtrumble - Speed Rumbler <br/><img src="_unreleased/pics/jtrumble.png" /></td>
- <td>jtsarms - Hyper Dyne Side Arms <br/><img src="_unreleased/pics/jtsarms.png" /></td>
- <td>jtsectnz - Section Z<br/><img src="_unreleased/pics/jtsectnz.png" /></td>
+ <td>jtrumble - Speed Rumbler  <img src="_unreleased/pics/jtrumble.png" /></td>
+ <td>jtsarms - Hyper Dyne Side Arms  <img src="_unreleased/pics/jtsarms.png" /></td>
+ <td>jtsectnz - Section Z <img src="_unreleased/pics/jtsectnz.png" /></td>
 </tr>
 <tr>
- <td>jtsf - Street Fighter<br/><img src="_unreleased/pics/jtsf.png" /></td>
- <td>jtshanon - Super Hang-On<br/><img src="_unreleased/pics/jtshanon.png" /></td>
- <td>jtslyspy - Sly Spy<br/><img src="_unreleased/pics/jtslyspy.png" /></td>
+ <td>jtsf - Street Fighter <img src="_unreleased/pics/jtsf.png" /></td>
+ <td>jtshanon - Super Hang-On <img src="_unreleased/pics/jtshanon.png" /></td>
+ <td>jtslyspy - Sly Spy <img src="_unreleased/pics/jtslyspy.png" /></td>
 </tr>
 <tr>
- <td>jttora - Tiger Road <br/><img src="_unreleased/pics/jttora.png" /></td>
- <td>jttrojan - Trojan<br/><img src="_unreleased/pics/jttrojan.png" /></td>
- <td>jtvulgus - Vulgus<br/><img src="_unreleased/pics/jtvulgus.png" /></td>
+ <td>jttora - Tiger Road  <img src="_unreleased/pics/jttora.png" /></td>
+ <td>jttrojan - Trojan <img src="_unreleased/pics/jttrojan.png" /></td>
+ <td>jtvulgus - Vulgus <img src="_unreleased/pics/jtvulgus.png" /></td>
 </tr>
-<tr><th colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</b></td></tr>
+<tr><th colspan="3"><b><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</b></th></tr>
 <tr>
- <td>jtcps1 - Capcom CPS-1 System<br/><img src="_unreleased/pics/jtcps1.png" /></td>
- <td>jtcps15 - Capcom CPS-1.5 Sys<br/><img src="_unreleased/pics/jtcps15.png" /></td>
- <td>jtcps2 - Capcom CPS-2 System<br/><img src="_unreleased/pics/jtcps2.png" /></td>
+ <td>jtcps1 - Capcom CPS-1 System <img src="_unreleased/pics/jtcps1.png" /></td>
+ <td>jtcps15 - Capcom CPS-1.5 Sys <img src="_unreleased/pics/jtcps15.png" /></td>
+ <td>jtcps2 - Capcom CPS-2 System <img src="_unreleased/pics/jtcps2.png" /></td>
 </tr>
 <tr>
- <td>jts16 - Sega System 16A<br/><img src="_unreleased/pics/jts16.png" /></td>
- <td>jts16b - Sega System 16B<br/><img src="_unreleased/pics/jts16b.png" /></td>
+ <td>jts16 - Sega System 16A <img src="_unreleased/pics/jts16.png" /></td>
+ <td>jts16b - Sega System 16B <img src="_unreleased/pics/jts16b.png" /></td>
 </tr>
