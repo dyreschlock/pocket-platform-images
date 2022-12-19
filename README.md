@@ -99,29 +99,30 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
 <tr>
  <td>jthige - Pirate Ship Higemaru  <img src="_unreleased/pics/jthige.png" /></td>
  <td>jtkchamp - Karate Champ <img src="_unreleased/pics/jtkchamp.png" /></td>
- <td>jtlabrun - Labyrinth Runner <img src="_unreleased/pics/jtlabrun.png" /></td>
+ <td>jtktiger - Twin Cobra <img src="_unreleased/pics/jtktiger.png" /></td>
 </tr>
 <tr>
+ <td>jtlabrun - Labyrinth Runner <img src="_unreleased/pics/jtlabrun.png" /></td>
  <td>jtmidres - Midnight Resistance <img src="_unreleased/pics/jtmidres.png" /></td>
  <td>jtmx5k - Flak Attack <img src="_unreleased/pics/jtmx5k.png" /></td>
- <td>jtninja - Bad Dudes <img src="_unreleased/pics/jtninja.png" /></td>
 </tr>
 <tr>
+ <td>jtninja - Bad Dudes <img src="_unreleased/pics/jtninja.png" /></td>
  <td>jtrastan - Rastan <img src="_unreleased/pics/jtrastan.png" /></td>
  <td>jtrumble - Speed Rumbler  <img src="_unreleased/pics/jtrumble.png" /></td>
- <td>jtsarms - Hyper Dyne Side Arms  <img src="_unreleased/pics/jtsarms.png" /></td>
 </tr>
 <tr>
+ <td>jtsarms - Hyper Dyne Side Arms  <img src="_unreleased/pics/jtsarms.png" /></td>
  <td>jtsectnz - Section Z <img src="_unreleased/pics/jtsectnz.png" /></td>
  <td>jtsf - Street Fighter <img src="_unreleased/pics/jtsf.png" /></td>
- <td>jtshanon - Super Hang-On <img src="_unreleased/pics/jtshanon.png" /></td>
 </tr>
 <tr>
+ <td>jtshanon - Super Hang-On <img src="_unreleased/pics/jtshanon.png" /></td>
  <td>jtslyspy - Sly Spy <img src="_unreleased/pics/jtslyspy.png" /></td>
  <td>jttora - Tiger Road  <img src="_unreleased/pics/jttora.png" /></td>
- <td>jttrojan - Trojan <img src="_unreleased/pics/jttrojan.png" /></td>
 </tr>
 <tr>
+ <td>jttrojan - Trojan <img src="_unreleased/pics/jttrojan.png" /></td>
  <td>jtvulgus - Vulgus <img src="_unreleased/pics/jtvulgus.png" /></td>
 </tr>
 <tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</th></tr>
