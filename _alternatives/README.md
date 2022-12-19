@@ -8,6 +8,6 @@ These are overrides that were either used before or made as an alternative to wh
 <tr>
  <td>jtkunio - Renegade <img src="pics/jtkunio.png" /></td>
  <td>jtpang - Pang <img src="pics/jtpang.png" /></td>
- <td></td>
+ <td>jtkiwi - Insector X <img src="pics/jtkiwi.png /></td>
 </tr>
 </table>
