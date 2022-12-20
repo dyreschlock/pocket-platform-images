@@ -13,6 +13,7 @@ These are overrides that were either used before or made as an alternative to wh
 <tr><th colspan="3">Console Cores</th></tr>
 <tr>
  <td>snes - Super Nintendo <img src="pics/snes.png" /></td>
+ <td>nes - Nintendo NES <img src="pics/nes.png" /></td>
 </tr>
 </table>
 
