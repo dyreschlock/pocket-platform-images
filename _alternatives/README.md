@@ -14,6 +14,7 @@ These are overrides that were either used before or made as an alternative to wh
 <tr>
  <td>snes - Super Nintendo <img src="pics/snes.png" /></td>
  <td>nes - Nintendo NES <img src="pics/nes.png" /></td>
+ <td>genesis - Sega Genesis <img src="pics/genesis.png" /></td>
 </tr>
 </table>
 
