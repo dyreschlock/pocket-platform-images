@@ -24,7 +24,7 @@ These are overrides that were either used before or made as an alternative to wh
 <tr>
  <td>pce - Turbo Grafx 16 <img src="pics/pce.png" /></td>
  <td>coleco - Colecovision <img src="pics/coleco.png" /></td>
- <td>intv - Intellivision</td>
+ <td>intv - Intellivision <img src="pics/intv.png" /></td>
 </tr>
 <tr>
  <td>7800 - Atari 7800</td>
