@@ -36,5 +36,35 @@ These are overrides that were either used before or made as an alternative to wh
  <td>channel_f - Channel-F</td>
  <td>studio2 - RCA Studio II </td>
 </tr>
+<tr><th colspan="3">Handheld Cores</th></tr>
+<tr>
+ <td>gba - GameBoy Advance</td>
+ <td>gbc - GameBoy Color</td>
+ <td>gb - GameBoy</td>
+</tr>
+<tr>
+ <td>supergb - Super GameBoy</td>
+ <td>poke_mini - Pokemon Mini</td>
+ <td>gg - Sega GameGear</td>
+</tr>
+<tr>
+ <td>ngpc - NeoGeo Pocket Color</td>
+ <td>ngp - NeoGeo Pocket</td>
+ <td>lynx - Atari Lynx</td>
+</tr>
+<tr>
+ <td>arduboy - Arduboy</td>
+ <td>WonderSwan Color</td>
+ <td>WonderSwan</td>
+</tr>
+<tr>
+ <td>supervision - Supervision</td>
+ <td>megaduck - Mega Duck</td>
+ <td>gamate - Gamate</td>
+</tr>
+<tr>
+ <td>game_king - GameKing</td>
+ <td>avision - Adventure Vision</td>
+</tr>
 </table>
 
