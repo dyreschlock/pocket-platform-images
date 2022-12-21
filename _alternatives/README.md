@@ -14,11 +14,27 @@ These are overrides that were either used before or made as an alternative to wh
 <tr>
  <td>snes - Super Nintendo <img src="pics/snes.png" /></td>
  <td>nes - Nintendo NES <img src="pics/nes.png" /></td>
+ <td>ng - SNK Neo Geo <img src="pics/ng.png" /></td>
+</tr>
+<tr>
+ <td>sg1000 - Sega SG-1000 </td>
+ <td>sms - Master System </td>
  <td>genesis - Sega Genesis <img src="pics/genesis.png" /></td>
 </tr>
 <tr>
- <td>ng - SNK Neo Geo <img src="pics/ng.png" /></td>
  <td>pce - Turbo Grafx 16 <img src="pics/pce.png" /></td>
+ <td>coleco - Colecovision</td>
+ <td>intv - Intellivision</td>
+</tr>
+<tr>
+ <td>2600 - Atari 2600</td>
+ <td>5200 - Atari 5200</td>
+ <td>7800 - Atari 7800</td>
+</tr>
+<tr>
+ <td>arcadia - Arcadia 2001</td>
+ <td>channel_f - Channel-F</td>
+ <td>studio2 - RCA Studio II </td>
 </tr>
 </table>
 
