@@ -18,6 +18,7 @@ These are overrides that were either used before or made as an alternative to wh
 </tr>
 <tr>
  <td>ng - SNK Neo Geo <img src="pics/ng.png" /></td>
+ <td>pce - Turbo Grafx 16 <img src="pics/pce.png" /></td>
 </tr>
 </table>
 
