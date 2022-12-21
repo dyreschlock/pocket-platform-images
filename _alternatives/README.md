@@ -23,7 +23,7 @@ These are overrides that were either used before or made as an alternative to wh
 </tr>
 <tr>
  <td>pce - Turbo Grafx 16 <img src="pics/pce.png" /></td>
- <td>coleco - Colecovision</td>
+ <td>coleco - Colecovision <img src="pics/coleco.png" /></td>
  <td>intv - Intellivision</td>
 </tr>
 <tr>
