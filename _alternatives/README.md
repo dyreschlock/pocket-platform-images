@@ -17,9 +17,9 @@ These are overrides that were either used before or made as an alternative to wh
  <td>ng - SNK Neo Geo <img src="pics/ng.png" /></td>
 </tr>
 <tr>
- <td>sg1000 - Sega SG-1000 <img src="pics/sg1000.png" /></td>
- <td>sms - Master System </td>
  <td>genesis - Sega Genesis <img src="pics/genesis.png" /></td>
+ <td>sms - Master System <img src="pics/sms.png" /></td>
+ <td>sg1000 - Sega SG-1000 <img src="pics/sg1000.png" /></td>
 </tr>
 <tr>
  <td>pce - Turbo Grafx 16 <img src="pics/pce.png" /></td>
@@ -27,9 +27,9 @@ These are overrides that were either used before or made as an alternative to wh
  <td>intv - Intellivision</td>
 </tr>
 <tr>
- <td>2600 - Atari 2600</td>
- <td>5200 - Atari 5200</td>
  <td>7800 - Atari 7800</td>
+ <td>5200 - Atari 5200</td>
+ <td>2600 - Atari 2600</td>
 </tr>
 <tr>
  <td>arcadia - Arcadia 2001</td>
