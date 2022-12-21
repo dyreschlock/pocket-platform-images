@@ -16,5 +16,8 @@ These are overrides that were either used before or made as an alternative to wh
  <td>nes - Nintendo NES <img src="pics/nes.png" /></td>
  <td>genesis - Sega Genesis <img src="pics/genesis.png" /></td>
 </tr>
+<tr>
+ <td>ng - SNK Neo Geo <img src="pics/ng.png" /></td>
+</tr>
 </table>
 
