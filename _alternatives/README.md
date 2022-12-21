@@ -36,6 +36,9 @@ These are overrides that were either used before or made as an alternative to wh
  <td>channel_f - Channel-F</td>
  <td>studio2 - RCA Studio II </td>
 </tr>
+<tr>
+ <td>Odyssey 2</td>
+</tr>
 <tr><th colspan="3">Handheld Cores</th></tr>
 <tr>
  <td>gba - GameBoy Advance</td>
@@ -65,6 +68,15 @@ These are overrides that were either used before or made as an alternative to wh
 <tr>
  <td>game_king - GameKing</td>
  <td>avision - Adventure Vision</td>
+</tr>
+<tr><th colspan="3">Computer Cores</th></tr>
+<tr>
+ <td>Amiga</td>
+</tr>
+<tr>
+ <td>VideoBrain</td>
+ <td>Creativsion</td>
+ <td>pdp1 - PDP-1 Spacewar <img src="pics/pdp1.png" /></td>
 </tr>
 </table>
 
