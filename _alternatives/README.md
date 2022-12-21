@@ -17,7 +17,7 @@ These are overrides that were either used before or made as an alternative to wh
  <td>ng - SNK Neo Geo <img src="pics/ng.png" /></td>
 </tr>
 <tr>
- <td>sg1000 - Sega SG-1000 </td>
+ <td>sg1000 - Sega SG-1000 <img src="pics/sg1000.png" /></td>
  <td>sms - Master System </td>
  <td>genesis - Sega Genesis <img src="pics/genesis.png" /></td>
 </tr>
