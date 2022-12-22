@@ -32,12 +32,12 @@ These are overrides that were either used before or made as an alternative to wh
  <td>2600 - Atari 2600 <img src="pics/2600.png" /></td>
 </tr>
 <tr>
- <td>arcadia - Arcadia 2001</td>
- <td>channel_f - Channel-F</td>
- <td>studio2 - RCA Studio II </td>
+ <td>odyssey2 - Odyssey 2 <img src="pics/odyssey2.png" /></td>
+ <td>channel_f - Channel-F <img src="pics/channel_f.png" /></td>
+ <td>arcadia - Arcadia 2001 <img src="pics/arcadia.png" /></td>
 </tr>
 <tr>
- <td>Odyssey 2</td>
+ <td>studio2 - RCA Studio II <img src="pics/studio2.png" /></td>
 </tr>
 <tr><th colspan="3">Handheld Cores</th></tr>
 <tr>
