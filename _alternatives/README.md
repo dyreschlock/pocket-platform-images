@@ -29,7 +29,7 @@ These are overrides that were either used before or made as an alternative to wh
 <tr>
  <td>7800 - Atari 7800</td>
  <td>5200 - Atari 5200</td>
- <td>2600 - Atari 2600</td>
+ <td>2600 - Atari 2600 <img src="pics/2600.png" /></td>
 </tr>
 <tr>
  <td>arcadia - Arcadia 2001</td>
