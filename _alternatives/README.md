@@ -27,8 +27,8 @@ These are overrides that were either used before or made as an alternative to wh
  <td>intv - Intellivision <img src="pics/intv.png" /></td>
 </tr>
 <tr>
- <td>7800 - Atari 7800</td>
- <td>5200 - Atari 5200</td>
+ <td>7800 - Atari 7800 <img src="pics/7800.png" /></td>
+ <td>5200 - Atari 5200 <img src="pics/5200.png" /></td>
  <td>2600 - Atari 2600 <img src="pics/2600.png" /></td>
 </tr>
 <tr>
