@@ -51,23 +51,25 @@ These are overrides that were either used before or made as an alternative to wh
  <td>gg - Sega GameGear</td>
 </tr>
 <tr>
+ <td>arduboy - Arduboy <img src="pics/arduboy.png" /></td>
+ <td>game_king - GameKing <img src="pics/game_king.png" /></td>
+ <td>supervision - Supervision</td>
+</tr>
+<tr>
+ <td>megaduck - Mega Duck</td>
+ <td>gamate - Gamate</td>
+ <td>avision - Adventure Vision</td>
+</tr>
+<tr>
  <td>ngpc - NeoGeo Pocket Color</td>
  <td>ngp - NeoGeo Pocket</td>
  <td>lynx - Atari Lynx</td>
 </tr>
 <tr>
- <td>arduboy - Arduboy</td>
  <td>WonderSwan Color</td>
  <td>WonderSwan</td>
 </tr>
 <tr>
- <td>supervision - Supervision</td>
- <td>megaduck - Mega Duck</td>
- <td>gamate - Gamate</td>
-</tr>
-<tr>
- <td>game_king - GameKing <img src="pics/game_king.png" /></td>
- <td>avision - Adventure Vision</td>
 </tr>
 <tr><th colspan="3">Computer Cores</th></tr>
 <tr>
