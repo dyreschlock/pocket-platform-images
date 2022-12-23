@@ -41,12 +41,12 @@ These are overrides that were either used before or made as an alternative to wh
 </tr>
 <tr><th colspan="3">Handheld Cores</th></tr>
 <tr>
- <td>gba - GameBoy Advance</td>
- <td>gbc - GameBoy Color</td>
- <td>gb - GameBoy</td>
+ <td>gba - GameBoy Advance <img src="pics/gba.png" /></td>
+ <td>gbc - GameBoy Color <img src="pics/gbc.png" /></td>
+ <td>gb - GameBoy <img src="pics/gb.png" /></td>
 </tr>
 <tr>
- <td>supergb - Super GameBoy</td>
+ <td>supergb - Super GameBoy <img src="pics/sgb.png" /></td>
  <td>poke_mini - Pokemon Mini</td>
  <td>gg - Sega GameGear</td>
 </tr>
