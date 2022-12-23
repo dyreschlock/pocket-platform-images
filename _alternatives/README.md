@@ -66,7 +66,7 @@ These are overrides that were either used before or made as an alternative to wh
  <td>gamate - Gamate</td>
 </tr>
 <tr>
- <td>game_king - GameKing</td>
+ <td>game_king - GameKing <img src="pics/game_king.png" /></td>
  <td>avision - Adventure Vision</td>
 </tr>
 <tr><th colspan="3">Computer Cores</th></tr>
