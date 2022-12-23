@@ -46,7 +46,7 @@ Thanks to <a href="https://github.com/mattpannella">mattpannella</a> for release
 </tr>
 <tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</th></tr>
 <tr>
- <td>jtcps1 - Capcom CPS-1 System <img src="_unreleased/pics/jtcps1.png" /></td>
+ <td>jtcps1 - Capcom CPS-1 System <img src="pics/jtcps1.png" /></td>
  <td>jtpang - Capcom Mitchell Board <img src="pics/jtpang.png" /></td>
  <td>jtkiwi - Taito NewZealand Board <img src="pics/jtkiwi.png" /></td>
 </tr>
