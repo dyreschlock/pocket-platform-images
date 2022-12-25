@@ -56,9 +56,9 @@ These are overrides that were either used before or made as an alternative to wh
  <td>supervision - Supervision <img src="pics/supervision.png" /></td>
 </tr>
 <tr>
- <td>megaduck - Mega Duck</td>
- <td>gamate - Gamate</td>
- <td>avision - Adventure Vision</td>
+ <td>megaduck - Mega Duck <img src="pics/mega_duck.png" /></td>
+ <td>gamate - Gamate <img src="pics/gamate.png" /></td>
+ <td>avision - Adventure Vision <img src="pics/avision.png" /></td>
 </tr>
 <tr>
  <td>ngpc - NeoGeo Pocket Color</td>
