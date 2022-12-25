@@ -47,13 +47,13 @@ These are overrides that were either used before or made as an alternative to wh
 </tr>
 <tr>
  <td>supergb - Super GameBoy <img src="pics/sgb.png" /></td>
- <td>poke_mini - Pokemon Mini</td>
- <td>gg - Sega GameGear</td>
+ <td>poke_mini - Pokemon Mini <img src="pics/poke_mini.png" /></td>
+ <td>gg - Sega GameGear <img src="pics/gg.png" /></td>
 </tr>
 <tr>
  <td>arduboy - Arduboy <img src="pics/arduboy.png" /></td>
  <td>game_king - GameKing <img src="pics/game_king.png" /></td>
- <td>supervision - Supervision</td>
+ <td>supervision - Supervision <img src="pics/supervision.png" /></td>
 </tr>
 <tr>
  <td>megaduck - Mega Duck</td>
