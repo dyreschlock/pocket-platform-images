@@ -10,15 +10,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: Zip Folder
-        run: zip -r ${{ github.event.repository.name }}.zip ./Platforms
+        run: cd home; zip -r pocket-platform-overrides-home.zip Platforms
+
+      - name: Zip Folder
+        run: cd arcade; zip -r pocket-platform-overrides-arcade.zip Platforms
 
       - name: Release
         uses: softprops/action-gh-release@v1
         if: startsWith(github.ref, 'refs/tags/')
         with:
-          files: ${{ github.event.repository.name }}.zip
+          files: ./home/pocket-platform-overrides-home.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          files: ./arcade/pocket-platform-overrides-arcade.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
