@@ -67,12 +67,26 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>donkeykong - Donkey Kong <img src="pics/arcade/donkeykong.png" /></td>
 </tr>
 <tr>
+ <td>lunarlander - Lunar Lander <img src="pics/arcade/lunarlander.png" /></td>
+ <td>qbert - Q*Bert <img src="pics/arcade/qbert.png" /></td>
  <td>radarscope - Radar Scope <img src="pics/arcade/radarscope.png" /></td>
+</tr>
+<tr>
+ <td>spacerace - Space Race <img src="pics/arcade/spacerace.png" /></td>
+ <td>superbreakbout - Super Breakout <img src="pics/arcade/superbreakout.png" /></td>
 </tr>
 <tr><th colspan="3"><a href="https://github.com/opengateware">OpenGateware</a> Single Game Arcade Cores</th></tr>
 <tr>
  <td>bankpanic - Bank Panic <img src="pics/arcade/bankpanic.png" /></td>
  <td>congo - Congo Bongo <img src="pics/arcade/congo.png" /></td>
  <td>digdug - Dig Dug <img src="pics/arcade/digdug.png" /></td>
+</tr>
+<tr>
+ <td>galaga - Galaga <img src="pics/arcade/galaga.png" /></td>
+ <td>gberet - Green Beret <img src="pics/arcade/gberet.png" /></td>
+ <td>pooyan - Pooyan <img src="pics/arcade/pooyan.png" /></td>
+</tr>
+<tr>
+ <td>xevious - Devious <img src="pics/arcade/xevious.png" /></td>
 </tr>
 </table>
