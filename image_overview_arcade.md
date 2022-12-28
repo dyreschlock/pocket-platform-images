@@ -56,9 +56,19 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>sstriker - Sorcerer Striker <img src="pics/arcade/sstriker.png" /></td>
  <td>snowbros2 - Snow Bros 2 <img src="pics/arcade/snowbros2.png" /></td>
 </tr>
-<tr><th colspan="3"><a href="https://github.com/agg23">agg23</a> Single Game Arcade Cores</th></tr>
+<tr><th colspan="3"><a href="https://github.com/opengateware">OpenGateware</a> Single Game Arcade Cores</th></tr>
 <tr>
- <td>pong - Atari Pong <img src="pics/arcade/pong.png" /></td>
+ <td>bankpanic - Bank Panic <img src="pics/arcade/bankpanic.png" /></td>
+ <td>congo - Congo Bongo <img src="pics/arcade/congo.png" /></td>
+ <td>digdug - Dig Dug <img src="pics/arcade/digdug.png" /></td>
+</tr>
+<tr>
+ <td>galaga - Galaga <img src="pics/arcade/galaga.png" /></td>
+ <td>gberet - Green Beret <img src="pics/arcade/gberet.png" /></td>
+ <td>pooyan - Pooyan <img src="pics/arcade/pooyan.png" /></td>
+</tr>
+<tr>
+ <td>xevious - Devious <img src="pics/arcade/xevious.png" /></td>
 </tr>
 <tr><th colspan="3"><a href="https://github.com/ericlewis">ericlewis</a> Single Game Arcade Cores</th></tr>
 <tr>
@@ -75,18 +85,8 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>spacerace - Space Race <img src="pics/arcade/spacerace.png" /></td>
  <td>superbreakbout - Super Breakout <img src="pics/arcade/superbreakout.png" /></td>
 </tr>
-<tr><th colspan="3"><a href="https://github.com/opengateware">OpenGateware</a> Single Game Arcade Cores</th></tr>
+<tr><th colspan="3"><a href="https://github.com/agg23">agg23</a> Single Game Arcade Cores</th></tr>
 <tr>
- <td>bankpanic - Bank Panic <img src="pics/arcade/bankpanic.png" /></td>
- <td>congo - Congo Bongo <img src="pics/arcade/congo.png" /></td>
- <td>digdug - Dig Dug <img src="pics/arcade/digdug.png" /></td>
-</tr>
-<tr>
- <td>galaga - Galaga <img src="pics/arcade/galaga.png" /></td>
- <td>gberet - Green Beret <img src="pics/arcade/gberet.png" /></td>
- <td>pooyan - Pooyan <img src="pics/arcade/pooyan.png" /></td>
-</tr>
-<tr>
- <td>xevious - Devious <img src="pics/arcade/xevious.png" /></td>
+ <td>pong - Atari Pong <img src="pics/arcade/pong.png" /></td>
 </tr>
 </table>
