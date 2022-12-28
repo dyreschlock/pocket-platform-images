@@ -68,7 +68,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>pooyan - Pooyan <img src="pics/arcade/pooyan.png" /></td>
 </tr>
 <tr>
- <td>xevious - Devious <img src="pics/arcade/xevious.png" /></td>
+ <td>xevious - Xevious <img src="pics/arcade/xevious.png" /></td>
 </tr>
 <tr><th colspan="3"><a href="https://github.com/ericlewis">ericlewis</a> Single Game Arcade Cores</th></tr>
 <tr>
