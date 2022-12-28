@@ -60,4 +60,19 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>pong - Atari Pong <img src="pics/arcade/pong.png" /></td>
 </tr>
+<tr><th colspan="3"><a href="https://github.com/ericlewis">ericlewis</a> Single Game Arcade Cores</th></tr>
+<tr>
+ <td>asteroids - Atari Asteroids <img src="pics/arcade/asteroids.png" /></td>
+ <td>dominos - Atari Dominos <img src="pics/arcade/dominos.png" /></td>
+ <td>donkeykong - Donkey Kong <img src="pics/arcade/donkeykong.png" /></td>
+</tr>
+<tr>
+ <td>radarscope - Radar Scope <img src="pics/arcade/radarscope.png" /></td>
+</tr>
+<tr><th colspan="3"><a href="https://github.com/opengateware">OpenGateware</a> Single Game Arcade Cores</th></tr>
+<tr>
+ <td>bankpanic - Bank Panic <img src="pics/arcade/bankpanic.png" /></td>
+ <td>congo - Congo Bongo <img src="pics/arcade/congo.png" /></td>
+ <td>digdug - Dig Dug <img src="pics/arcade/digdug.png" /></td>
+</tr>
 </table>
