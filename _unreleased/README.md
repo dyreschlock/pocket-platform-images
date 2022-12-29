@@ -70,6 +70,17 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>cave - Cave 68000 <img src="pics/cave.png" /></td>
 </tr>
+<tr><th colspan="3"><a href="https://github.com/opengateware">OpenGateware</a> Single Game Arcade Cores</th></tr>
+<tr>
+ <td>ataritetris - Atari Tetris  <img src="pics/ataritetris.png" /></td>
+ <td>bombjack - Bomb Jack <img src="pics/bombjack.png" /></td>
+ <td>burgertime - Burger Time <img src="pics/burgertime.png" /></td>
+</tr>
+<tr>
+ <td>donkeykongjunior - Donkey Kong Jr.  <img src="pics/donkeykongjunior.png" /></td>
+ <td>donkeykong3 - Donkey Kong 3 <img src="pics/donkeykong3.png" /></td>
+ <td>zaxxon - Zaxxon <img src="pics/zaxxon.png" /></td>
+</tr>
 <tr><th colspan="3">Handheld Cores</th></tr>
 <tr>
  <td>ngpc - NeoGeo Pocket Color</td>
