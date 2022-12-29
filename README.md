@@ -15,11 +15,13 @@ The `pics` directory includes the raw PNG files I used to make the images.  I ha
  <td>
    Examples
    <img src="pics/arcade/garegga.png" />
+   <img src="pics/arcade/xevious.png" />
    <img src="pics/arcade/jtcps1.png" />
  </td>
  <td>
    Examples
    <img src="pics/home/snes.png" />
+   <img src="pics/home/nes.png" />
    <img src="pics/home/genesis.png" />
  </td>
 </tr>
