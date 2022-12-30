@@ -95,7 +95,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>ngpc - NeoGeo Pocket Color</td>
  <td>ngp - NeoGeo Pocket</td>
- <td>lynx - Atari Lynx</td>
+ <td>lynx - Atari Lynx <img src="pics/lynx.png" /></td>
 </tr>
 <tr>
  <td>WonderSwan Color</td>
