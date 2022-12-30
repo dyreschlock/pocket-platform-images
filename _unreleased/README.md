@@ -77,8 +77,18 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>burgertime - Burger Time <img src="pics/burgertime.png" /></td>
 </tr>
 <tr>
+ <td>crazyballoon - Crazy Balloon  <img src="pics/crazyballoon.png" /></td>
  <td>donkeykongjunior - Donkey Kong Jr.  <img src="pics/donkeykongjunior.png" /></td>
  <td>donkeykong3 - Donkey Kong 3 <img src="pics/donkeykong3.png" /></td>
+</tr>
+<tr>
+ <td>gaplus - Gaplus <img src="pics/gaplus.png" /></td>
+ <td>moonpatrol - Moon Patrol <img src="pics/moonpatrol.png" /></td>
+ <td>popeye - Popeye <img src="pics/popeye.png" /></td>
+</tr>
+<tr>
+ <td>rallyx - Rally-X <img src="pics/rallyx.png" /></td>
+ <td>traverseusa - Motorace USA <img src="pics/traverseusa.png" /></td>
  <td>zaxxon - Zaxxon <img src="pics/zaxxon.png" /></td>
 </tr>
 <tr><th colspan="3">Handheld Cores</th></tr>
