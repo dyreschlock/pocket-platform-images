@@ -83,12 +83,17 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr>
  <td>gaplus - Gaplus <img src="pics/gaplus.png" /></td>
+ <td>mariobros - Mario Bros <img src="pics/mariobros.png" /></td>
  <td>moonpatrol - Moon Patrol <img src="pics/moonpatrol.png" /></td>
- <td>popeye - Popeye <img src="pics/popeye.png" /></td>
 </tr>
 <tr>
+ <td>ninjakun - Ninja-Kun <img src="pics/ninjakun.png" /></td>
+ <td>popeye - Popeye <img src="pics/popeye.png" /></td>
  <td>rallyx - Rally-X <img src="pics/rallyx.png" /></td>
+</tr>
+<tr>
  <td>traverseusa - Motorace USA <img src="pics/traverseusa.png" /></td>
+ <td>tropicalangel - Tropical Angel <img src="pics/tropicalangel.png" /></td> 
  <td>zaxxon - Zaxxon <img src="pics/zaxxon.png" /></td>
 </tr>
 <tr><th colspan="3">Handheld Cores</th></tr>
