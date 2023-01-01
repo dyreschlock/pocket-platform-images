@@ -85,8 +85,10 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>spacerace - Space Race <img src="pics/arcade/spacerace.png" /></td>
  <td>superbreakbout - Super Breakout <img src="pics/arcade/superbreakout.png" /></td>
 </tr>
-<tr><th colspan="3"><a href="https://github.com/agg23">agg23</a> Single Game Arcade Cores</th></tr>
+<tr><th><a href="https://github.com/agg23">agg23</a> Single Game Arcade Cores</th></tr>
+<tr><th><a href="https://github.com/antongale">Anton Gale</a> Single Game Arcade Cores</th></tr>
 <tr>
  <td>pong - Atari Pong <img src="pics/arcade/pong.png" /></td>
+ <td>slapfight - Slap Fight <img src="pics/arcade/slapfight.png" /></td>
 </tr>
 </table>
