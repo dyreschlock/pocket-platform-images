@@ -77,22 +77,26 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>burgertime - Burger Time <img src="pics/burgertime.png" /></td>
 </tr>
 <tr>
+ <td>burningrubber - Burnin' Rubber <img src="pics/burningrubber.png" /></td> 
  <td>crazyballoon - Crazy Balloon  <img src="pics/crazyballoon.png" /></td>
+ <td>crazykong - Crazy Kong  <img src="pics/crazykong.png" /></td>
+</tr>
+<tr>
  <td>donkeykongjunior - Donkey Kong Jr.  <img src="pics/donkeykongjunior.png" /></td>
  <td>donkeykong3 - Donkey Kong 3 <img src="pics/donkeykong3.png" /></td>
+ <td>gaplus - Gaplus <img src="pics/gaplus.png" /></td>
 </tr>
 <tr>
- <td>gaplus - Gaplus <img src="pics/gaplus.png" /></td>
  <td>mariobros - Mario Bros <img src="pics/mariobros.png" /></td>
  <td>moonpatrol - Moon Patrol <img src="pics/moonpatrol.png" /></td>
+ <td>ninjakun - Ninja-Kun <img src="pics/ninjakun.png" /></td>
 </tr>
 <tr>
- <td>ninjakun - Ninja-Kun <img src="pics/ninjakun.png" /></td>
  <td>popeye - Popeye <img src="pics/popeye.png" /></td>
  <td>rallyx - Rally-X <img src="pics/rallyx.png" /></td>
+ <td>traverseusa - Motorace USA <img src="pics/traverseusa.png" /></td>
 </tr>
 <tr>
- <td>traverseusa - Motorace USA <img src="pics/traverseusa.png" /></td>
  <td>tropicalangel - Tropical Angel <img src="pics/tropicalangel.png" /></td> 
  <td>zaxxon - Zaxxon <img src="pics/zaxxon.png" /></td>
 </tr>
