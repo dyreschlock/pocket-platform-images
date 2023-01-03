@@ -44,15 +44,18 @@ There are three categories of "Home" cores: **Console**, **Handheld**, and **Com
 <tr>
  <td>supergb - Super GameBoy <img src="pics/home/sgb.png" /></td>
  <td>poke_mini - Pokemon Mini <img src="pics/home/poke_mini.png" /></td>
- <td>gg - Sega GameGear <img src="pics/home/gg.png" /></td>
 </tr>
 <tr>
+ <td>wsc - WonderSwan Color <img src="pics/home/wsc.png" /></td>
+ <td>gg - Sega GameGear <img src="pics/home/gg.png" /></td>
  <td>arduboy - Arduboy <img src="pics/home/arduboy.png" /></td>
+</tr>
+<tr>
  <td>game_king - GameKing <img src="pics/home/game_king.png" /></td>
  <td>supervision - Supervision <img src="pics/home/supervision.png" /></td>
+ <td>megaduck - Mega Duck <img src="pics/home/mega_duck.png" /></td>
 </tr>
 <tr>
- <td>megaduck - Mega Duck <img src="pics/home/mega_duck.png" /></td>
  <td>gamate - Gamate <img src="pics/home/gamate.png" /></td>
  <td>avision - Adventure Vision <img src="pics/home/avision.png" /></td>
 </tr>
