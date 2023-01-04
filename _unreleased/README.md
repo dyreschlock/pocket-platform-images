@@ -4,6 +4,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 
 - Advisory: As mentioned earlier, if you have too many JSON files in your Platforms folder, it can cause some problems. At one point, I had 300 files in there and things were breaking. 100 files is okay. Probably 200, too. But, the more you have, the slightly slower it can take for the menu to load in.
 
+## Unreleased Arcade Core Overrides
 
 <table>
 <tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Single Game Arcade Cores</th></tr>
@@ -100,7 +101,12 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>tropicalangel - Tropical Angel <img src="pics/tropicalangel.png" /></td> 
  <td>zaxxon - Zaxxon <img src="pics/zaxxon.png" /></td>
 </tr>
-<tr><th colspan="3">Home Cores (Consoles, Handhelds, Computers)</th></tr>
+</table>
+
+## Unreleased Home Core Overrides
+
+<table>
+<tr><th colspan="3">Handheld Cores</th></tr>
 <tr>
  <td>gnw - Game & Watch <img src="pics/gnw.png" /></td>
  <td>ngpc - NeoGeo Pocket Color <img src="pics/ngpc.png" /></td>
