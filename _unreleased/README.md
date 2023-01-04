@@ -100,10 +100,10 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>tropicalangel - Tropical Angel <img src="pics/tropicalangel.png" /></td> 
  <td>zaxxon - Zaxxon <img src="pics/zaxxon.png" /></td>
 </tr>
-<tr><th colspan="3">Handheld Cores</th></tr>
+<tr><th colspan="3">Home Cores (Consoles, Handhelds, Computers)</th></tr>
 <tr>
- <td>ngpc - NeoGeo Pocket Color</td>
- <td>ngp - NeoGeo Pocket</td>
+ <td>gnw - Game & Watch <img src="pics/gnw.png" /></td>
+ <td>ngpc - NeoGeo Pocket Color <img src="pics/ngpc.png" /></td>
  <td>lynx - Atari Lynx <img src="pics/lynx.png" /></td>
 </tr>
 </table>
