@@ -112,4 +112,7 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>ngpc - NeoGeo Pocket Color <img src="pics/ngpc.png" /></td>
  <td>lynx - Atari Lynx <img src="pics/lynx.png" /></td>
 </tr>
+<tr>
+ <td>sdvmu - Dreamcast VMU <img src="pics/sdvmu.png" /></td>
+</tr>
 </table>
