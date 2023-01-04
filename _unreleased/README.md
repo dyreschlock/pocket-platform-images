@@ -115,4 +115,8 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>sdvmu - Dreamcast VMU <img src="pics/sdvmu.png" /></td>
 </tr>
+<tr><th colspan="3">Console Cores</th></tr>
+<tr>
+ <td>vectrex - Vertrex <img src="pics/vectrex.png" /></td>
+</tr>
 </table>
