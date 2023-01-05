@@ -119,4 +119,8 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>vectrex - Vertrex <img src="pics/vectrex.png" /></td>
 </tr>
+<tr><th colspan="3">Computer Cores</th></tr>
+<tr>
+ <td>rx78 - Bandai RX-78 <img src="pics/rx78.png" /></td>
+</tr>
 </table>
