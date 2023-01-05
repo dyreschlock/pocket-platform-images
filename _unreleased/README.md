@@ -106,18 +106,18 @@ These are platform overrides for cores that haven't been released yet. These cor
 ## Unreleased Home Core Overrides
 
 <table>
-<tr><th colspan="3">Handheld Cores</th></tr>
+<tr>
+ <th colspan="2">Handheld Cores</th>
+ <th colspan="1">Console Cores</th>
+</tr>
 <tr>
  <td>gnw - Game & Watch <img src="pics/gnw.png" /></td>
  <td>ngpc - NeoGeo Pocket Color <img src="pics/ngpc.png" /></td>
- <td>lynx - Atari Lynx <img src="pics/lynx.png" /></td>
+ <td>vectrex - Vertrex <img src="pics/vectrex.png" /></td>
 </tr>
 <tr>
  <td>sdvmu - Dreamcast VMU <img src="pics/sdvmu.png" /></td>
-</tr>
-<tr><th colspan="3">Console Cores</th></tr>
-<tr>
- <td>vectrex - Vertrex <img src="pics/vectrex.png" /></td>
+ <td>lynx - Atari Lynx <img src="pics/lynx.png" /></td>
 </tr>
 <tr><th colspan="3">Computer Cores</th></tr>
 <tr>
