@@ -27,22 +27,25 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr>
  <td>jtgng - Ghosts 'n Goblins <img src="pics/arcade/jtgng.png" /></td>
+ <td>jtkarnov - Karnov <img src="pics/arcade/jtkarnov.png" /></td> 
  <td>jtkicker - Shao-Lin's Road <img src="pics/arcade/jtkicker.png" /></td>
- <td>jtkunio - Renegade Kunio-kun <img src="pics/arcade/jtkunio.png" /></td>
 </tr>
 <tr>
+ <td>jtkunio - Renegade Kunio-kun <img src="pics/arcade/jtkunio.png" /></td>
  <td>jtmikie - Mikie <img src="pics/arcade/jtmikie.png" /></td>
  <td>jtoutrun - Outrun <img src="pics/arcade/jtoutrun.png" /></td>
- <td>jtpinpon - Konami's Ping Pong <img src="pics/arcade/jtpinpon.png" /></td>
 </tr>
 <tr>
+ <td>jtpinpon - Konami's Ping Pong <img src="pics/arcade/jtpinpon.png" /></td>
  <td>jtroadf - Road Fighter <img src="pics/arcade/jtroadf.png" /></td>
  <td>jtroc - Roc'n Rope <img src="pics/arcade/jtroc.png" /></td>
- <td>jtsbaskt - Super Basketball <img src="pics/arcade/jtsbaskt.png" /></td>
 </tr>
 <tr>
+ <td>jtsbaskt - Super Basketball <img src="pics/arcade/jtsbaskt.png" /></td>
  <td>jttrack - Track & Field <img src="pics/arcade/jttrack.png" /></td>
  <td>jtvigil - Vigilante <img src="pics/arcade/jtvigil.png" /></td>
+</tr>
+<tr>
  <td>jtyiear - Yie Ar Kung-Fu <img src="pics/arcade/jtyiear.png" /></td>
 </tr>
 <tr><th colspan="3"><a href="https://github.com/psomashekar">Pram0d</a> Single Game Arcade Cores</th></tr>

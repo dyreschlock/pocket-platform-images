@@ -30,31 +30,30 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr>
  <td>jthige - Pirate Ship Higemaru  <img src="pics/jthige.png" /></td>
- <td>jtkarnov - Chelnov Atomic Runner <img src="pics/jtkarnov.png" /></td>
  <td>jtkchamp - Karate Champ <img src="pics/jtkchamp.png" /></td>
+ <td>jtktiger - Twin Cobra <img src="pics/jtktiger.png" /></td>
 </tr>
 <tr>
- <td>jtktiger - Twin Cobra <img src="pics/jtktiger.png" /></td>
  <td>jtlabrun - Labyrinth Runner <img src="pics/jtlabrun.png" /></td>
  <td>jtmidres - Midnight Resistance <img src="pics/jtmidres.png" /></td>
+ <td>jtmx5k - Flak Attack <img src="pics/jtmx5k.png" /></td>
 </tr>
 <tr>
- <td>jtmx5k - Flak Attack <img src="pics/jtmx5k.png" /></td>
  <td>jtninja - Bad Dudes <img src="pics/jtninja.png" /></td>
  <td>jtrastan - Rastan <img src="pics/jtrastan.png" /></td>
+ <td>jtrumble - Speed Rumbler  <img src="pics/jtrumble.png" /></td>
 </tr>
 <tr>
- <td>jtrumble - Speed Rumbler  <img src="pics/jtrumble.png" /></td>
  <td>jtsarms - Hyper Dyne Side Arms  <img src="pics/jtsarms.png" /></td>
  <td>jtsectnz - Section Z <img src="pics/jtsectnz.png" /></td>
+ <td>jtsf - Street Fighter <img src="pics/jtsf.png" /></td>
 </tr>
 <tr>
- <td>jtsf - Street Fighter <img src="pics/jtsf.png" /></td>
  <td>jtshanon - Super Hang-On <img src="pics/jtshanon.png" /></td>
  <td>jtslyspy - Sly Spy <img src="pics/jtslyspy.png" /></td>
+ <td>jttora - Tiger Road  <img src="pics/jttora.png" /></td>
 </tr>
 <tr>
- <td>jttora - Tiger Road  <img src="pics/jttora.png" /></td>
  <td>jttrojan - Trojan <img src="pics/jttrojan.png" /></td>
  <td>jtvulgus - Vulgus <img src="pics/jtvulgus.png" /></td>
 </tr>
@@ -121,6 +120,12 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr><th colspan="3">Computer Cores</th></tr>
 <tr>
+ <td>c64 - Commodore 64 <img src="pics/c64.png" /></td>
+ <td>msx - MSX <img src="pics/msx.png" /></td>
+ <td>x68000 - Sharp X68000 <img src="pics/x68000.png" /></td>
+</tr>
+<tr>
+ <td>pc8801 - NEC PC-8801 <img src="pics/pc8801.png" /></td>
  <td>rx78 - Bandai RX-78 <img src="pics/rx78.png" /></td>
 </tr>
 </table>
