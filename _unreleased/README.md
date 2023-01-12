@@ -72,6 +72,12 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr><th colspan="3"><a href="https://github.com/opengateware">OpenGateware</a> Single Game Arcade Cores</th></tr>
 <tr>
+ <td>mcr1 - Bally Midway MCR-1 <img src="pics/mcr1.png" /></td>
+ <td>mcr2 - Bally Midway MCR-2 <img src="pics/mcr2.png" /></td>
+ <td>mcr3 - Bally Midway MCR-3 <img src="pics/mcr3.png" /></td>
+</tr>
+<tr><th colspan="3"><a href="https://github.com/opengateware">OpenGateware</a> Single Game Arcade Cores</th></tr>
+<tr>
  <td>ataritetris - Atari Tetris  <img src="pics/ataritetris.png" /></td>
  <td>bombjack - Bomb Jack <img src="pics/bombjack.png" /></td>
  <td>burgertime - Burger Time <img src="pics/burgertime.png" /></td>
