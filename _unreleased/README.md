@@ -21,41 +21,33 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>jtcomsc - Combat School <img src="pics/jtcomsc.png" /></td>
  <td>jtcop - Robocop <img src="pics/jtcop.png" /></td>
- <td>jtexed - Exed Exes <img src="pics/jtexed.png" /></td>
+ <td>jtf1drm - F1 Dream <img src="pics/jtf1drm.png" /></td>
 </tr>
 <tr>
- <td>jtf1drm - F1 Dream <img src="pics/jtf1drm.png" /></td>
  <td>jtflane - Fast Lane <img src="pics/jtflane.png" /></td>
  <td>jtgunsmk - Gunsmoke <img src="pics/jtgunsmk.png" /></td>
+ <td>jthige - Pirate Ship Higemaru  <img src="pics/jthige.png" /></td>
 </tr>
 <tr>
- <td>jthige - Pirate Ship Higemaru  <img src="pics/jthige.png" /></td>
  <td>jtkchamp - Karate Champ <img src="pics/jtkchamp.png" /></td>
  <td>jtktiger - Twin Cobra <img src="pics/jtktiger.png" /></td>
+ <td>jtlabrun - Labyrinth Runner <img src="pics/jtlabrun.png" /></td>
 </tr>
 <tr>
- <td>jtlabrun - Labyrinth Runner <img src="pics/jtlabrun.png" /></td>
  <td>jtmidres - Midnight Resistance <img src="pics/jtmidres.png" /></td>
  <td>jtmx5k - Flak Attack <img src="pics/jtmx5k.png" /></td>
+ <td>jtninja - Bad Dudes <img src="pics/jtninja.png" /></td>
 </tr>
 <tr>
- <td>jtninja - Bad Dudes <img src="pics/jtninja.png" /></td>
  <td>jtrastan - Rastan <img src="pics/jtrastan.png" /></td>
  <td>jtrumble - Speed Rumbler  <img src="pics/jtrumble.png" /></td>
-</tr>
-<tr>
- <td>jtsarms - Hyper Dyne Side Arms  <img src="pics/jtsarms.png" /></td>
- <td>jtsectnz - Section Z <img src="pics/jtsectnz.png" /></td>
- <td>jtsf - Street Fighter <img src="pics/jtsf.png" /></td>
-</tr>
-<tr>
  <td>jtshanon - Super Hang-On <img src="pics/jtshanon.png" /></td>
+</tr>
+<tr>
  <td>jtslyspy - Sly Spy <img src="pics/jtslyspy.png" /></td>
  <td>jttora - Tiger Road  <img src="pics/jttora.png" /></td>
 </tr>
 <tr>
- <td>jttrojan - Trojan <img src="pics/jttrojan.png" /></td>
- <td>jtvulgus - Vulgus <img src="pics/jtvulgus.png" /></td>
 </tr>
 <tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</th></tr>
 <tr>
@@ -70,7 +62,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>cave - Cave 68000 <img src="pics/cave.png" /></td>
 </tr>
-<tr><th colspan="3"><a href="https://github.com/opengateware">OpenGateware</a> Single Game Arcade Cores</th></tr>
+<tr><th colspan="3"><a href="https://github.com/opengateware">OpenGateware</a> Multi Game Arcade Cores</th></tr>
 <tr>
  <td>mcr1 - Bally Midway MCR-1 <img src="pics/mcr1.png" /></td>
  <td>mcr2 - Bally Midway MCR-2 <img src="pics/mcr2.png" /></td>
