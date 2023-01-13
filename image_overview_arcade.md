@@ -28,7 +28,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>jtexed - Exed Exes <img src="pics/arcade/jtexed.png" /></td>
  <td>jtgng - Ghosts 'n Goblins <img src="pics/arcade/jtgng.png" /></td>
- <td>jtgunsmk - Gunsmoke <img src="pics/jtgunsmk.png" /></td>
+ <td>jtgunsmk - Gunsmoke <img src="pics/arcade/jtgunsmk.png" /></td>
 </tr>
 <tr>
  <td>jtkarnov - Karnov <img src="pics/arcade/jtkarnov.png" /></td> 
