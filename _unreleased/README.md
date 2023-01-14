@@ -86,7 +86,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>donkeykongjunior - Donkey Kong Jr.  <img src="pics/donkeykongjunior.png" /></td>
  <td>donkeykong3 - Donkey Kong 3 <img src="pics/donkeykong3.png" /></td>
- <td>galaxian - Galaxian <img src="/pics/galaxian.png" /></td> 
+ <td>galaxian - Galaxian <img src="pics/galaxian.png" /></td> 
 </tr>
 <tr>
  <td>gaplus - Gaplus <img src="pics/gaplus.png" /></td>
