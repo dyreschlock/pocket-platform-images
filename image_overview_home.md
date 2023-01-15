@@ -46,7 +46,7 @@ There are three categories of "Home" cores: **Console**, **Handheld**, and **Com
  <td>poke_mini - Pokemon Mini <img src="pics/home/poke_mini.png" /></td>
 </tr>
 <tr>
- <td>wonderswan_c - WonderSwan Color <img src="pics/home/wonderswan_c.png" /></td>
+ <td>wonderswan_c - WonderSwan Color <img src="pics/home/wonderswan.png" /></td>
  <td>gg - Sega GameGear <img src="pics/home/gg.png" /></td>
  <td>arduboy - Arduboy <img src="pics/home/arduboy.png" /></td>
 </tr>
