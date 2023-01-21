@@ -52,6 +52,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>jtcps15 - Capcom CPS-1.5 Sys <img src="pics/jtcps15.png" /></td>
  <td>jtcps2 - Capcom CPS-2 System <img src="pics/jtcps2.png" /></td>
+ <td>jtcps3 - Capcom CPS-3 System <img src="pics/jtcps3.png" /></td>
 </tr>
 <tr>
  <td>jts16 - Sega System 16A <img src="pics/jts16.png" /></td>
