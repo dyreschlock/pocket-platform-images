@@ -48,32 +48,6 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr>
 </tr>
-<tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</th></tr>
-<tr>
- <td>jtcps15 - Capcom CPS-1.5 Sys <img src="pics/jtcps15.png" /></td>
- <td>jtcps2 - Capcom CPS-2 System <img src="pics/jtcps2.png" /></td>
- <td>jtcps3 - Capcom CPS-3 System <img src="pics/jtcps3.png" /></td>
-</tr>
-<tr>
- <td>jts16 - Sega System 16A <img src="pics/jts16.png" /></td>
- <td>jts16b - Sega System 16B <img src="pics/jts16b.png" /></td>
- <td>jtkombat - Midway Y-Unit <img src="pics/jtkombat.png" /></td>
-</tr>
-<tr><th colspan="3"><a href="https://patreon.com/nullobject">nullobject</a> Multi Game Arcade Cores</th></tr>
-<tr>
- <td>cave - Cave 68000 <img src="pics/cave.png" /></td>
-</tr>
-<tr><th colspan="3"><a href="https://github.com/opengateware">OpenGateware</a> Multi Game Arcade Cores</th></tr>
-<tr>
- <td>mcr1 - Bally Midway MCR-1 <img src="pics/mcr1.png" /></td>
- <td>mcr2 - Bally Midway MCR-2 <img src="pics/mcr2.png" /></td>
- <td>mcr3 - Bally Midway MCR-3 <img src="pics/mcr3.png" /></td>
-</tr>
-<tr>
- <td>mcr3scroll - Bally Midway MCR-3 (Scroll) <img src="pics/mcr3scroll.png" /></td>
- <td>mcr3mono - Bally Midway MCR-3 (Mono) <img src="pics/mcr3mono.png" /></td>
- <td>pacman - Namco Pacman Board <img src="pics/pacman.png" /></td> 
-</tr>
 <tr><th colspan="3"><a href="https://github.com/opengateware">OpenGateware</a> Single Game Arcade Cores</th></tr>
 <tr>
  <td>ataritetris - Atari Tetris  <img src="pics/ataritetris.png" /></td>
@@ -104,6 +78,37 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>traverseusa - Motorace USA <img src="pics/traverseusa.png" /></td>
  <td>tropicalangel - Tropical Angel <img src="pics/tropicalangel.png" /></td> 
  <td>zaxxon - Zaxxon <img src="pics/zaxxon.png" /></td>
+</tr>
+<tr><th colspan="3"><a href="https://github.com/antongale">Anton Gale</a> Single Game Arcade Cores</th></tr>
+<tr>
+ <td>exerion - Exerion <img src="pics/exerion.png" /></td>
+ <td>performan - Performan <img src="pics/performan.png" /></td>
+</tr>
+<tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</th></tr>
+<tr>
+ <td>jtcps15 - Capcom CPS-1.5 Sys <img src="pics/jtcps15.png" /></td>
+ <td>jtcps2 - Capcom CPS-2 System <img src="pics/jtcps2.png" /></td>
+ <td>jtcps3 - Capcom CPS-3 System <img src="pics/jtcps3.png" /></td>
+</tr>
+<tr>
+ <td>jts16 - Sega System 16A <img src="pics/jts16.png" /></td>
+ <td>jts16b - Sega System 16B <img src="pics/jts16b.png" /></td>
+ <td>jtkombat - Midway Y-Unit <img src="pics/jtkombat.png" /></td>
+</tr>
+<tr><th colspan="3"><a href="https://patreon.com/nullobject">nullobject</a> Multi Game Arcade Cores</th></tr>
+<tr>
+ <td>cave - Cave 68000 <img src="pics/cave.png" /></td>
+</tr>
+<tr><th colspan="3"><a href="https://github.com/opengateware">OpenGateware</a> Multi Game Arcade Cores</th></tr>
+<tr>
+ <td>mcr1 - Bally Midway MCR-1 <img src="pics/mcr1.png" /></td>
+ <td>mcr2 - Bally Midway MCR-2 <img src="pics/mcr2.png" /></td>
+ <td>mcr3 - Bally Midway MCR-3 <img src="pics/mcr3.png" /></td>
+</tr>
+<tr>
+ <td>mcr3scroll - Bally Midway MCR-3 (Scroll) <img src="pics/mcr3scroll.png" /></td>
+ <td>mcr3mono - Bally Midway MCR-3 (Mono) <img src="pics/mcr3mono.png" /></td>
+ <td>pacman - Namco Pacman Board <img src="pics/pacman.png" /></td> 
 </tr>
 </table>
 
