@@ -82,7 +82,6 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr><th colspan="3"><a href="https://github.com/antongale">Anton Gale</a> Single Game Arcade Cores</th></tr>
 <tr>
  <td>exerion - Exerion <img src="pics/exerion.png" /></td>
- <td>performan - Performan <img src="pics/performan.png" /></td>
 </tr>
 <tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</th></tr>
 <tr>
