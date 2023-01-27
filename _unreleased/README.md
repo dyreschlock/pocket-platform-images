@@ -107,6 +107,9 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>mcr3scroll - Bally Midway MCR-3 (Scroll) <img src="pics/mcr3scroll.png" /></td>
  <td>mcr3mono - Bally Midway MCR-3 (Mono) <img src="pics/mcr3mono.png" /></td>
+ <td>robotron - Williams 6809 Rev. 1 <img src="pics/robotron.png" /></td>
+</tr>
+<tr>
  <td>pacman - Namco Pacman Board <img src="pics/pacman.png" /></td> 
 </tr>
 </table>
