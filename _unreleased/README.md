@@ -111,6 +111,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr>
  <td>pacman - Namco Pacman Board <img src="pics/pacman.png" /></td> 
+ <td>druaga - Namco Super Pacman Board <img src="pics/druaga.png" /></td>
 </tr>
 </table>
 
