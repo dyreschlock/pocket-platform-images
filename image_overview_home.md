@@ -18,8 +18,8 @@ There are three categories of "Home" cores: **Console**, **Handheld**, and **Com
 </tr>
 <tr>
  <td>pce - Turbo Grafx 16 <img src="pics/home/pce.png" /></td>
+ <td>paced - Turbo Grafx CD <img src="pics/home/pcecd.png" /></td>
  <td>coleco - Colecovision <img src="pics/home/coleco.png" /></td>
- <td>intv - Intellivision <img src="pics/home/intv.png" /></td>
 </tr>
 <tr>
  <td>7800 - Atari 7800 <img src="pics/home/7800.png" /></td>
@@ -27,11 +27,12 @@ There are three categories of "Home" cores: **Console**, **Handheld**, and **Com
  <td>2600 - Atari 2600 <img src="pics/home/2600.png" /></td>
 </tr>
 <tr>
+ <td>intv - Intellivision <img src="pics/home/intv.png" /></td>
  <td>odyssey2 - Odyssey 2 <img src="pics/home/odyssey2.png" /></td>
  <td>channel_f - Channel-F <img src="pics/home/channel_f.png" /></td>
- <td>arcadia - Arcadia 2001 <img src="pics/home/arcadia.png" /></td>
 </tr>
 <tr>
+ <td>arcadia - Arcadia 2001 <img src="pics/home/arcadia.png" /></td>
  <td>creativision - Creativsion <img src="pics/home/creativision.png" /></td>
  <td>studio2 - RCA Studio II <img src="pics/home/studio2.png" /></td>
 </tr>
