@@ -18,7 +18,7 @@ There are three categories of "Home" cores: **Console**, **Handheld**, and **Com
 </tr>
 <tr>
  <td>pce - Turbo Grafx 16 <img src="pics/home/pce.png" /></td>
- <td>paced - Turbo Grafx CD <img src="pics/home/pcecd.png" /></td>
+ <td>pcecd - Turbo Grafx CD <img src="pics/home/pcecd.png" /></td>
  <td>coleco - Colecovision <img src="pics/home/coleco.png" /></td>
 </tr>
 <tr>
