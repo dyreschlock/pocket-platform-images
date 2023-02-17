@@ -12,7 +12,10 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</th></tr>
 <tr>
  <td>jtcps1 - Capcom CPS-1 System <img src="pics/arcade/jtcps1.png" /></td>
+ <td>jtcps2 - Capcom CPS-2 System <img src="pics/arcade/jtcps2.png" /></td>
  <td>jtpang - Capcom Mitchell Board <img src="pics/arcade/jtpang.png" /></td>
+</tr>
+<tr>
  <td>jtkiwi - Taito NewZealand Board <img src="pics/arcade/jtkiwi.png" /></td>
 </tr>
 <tr><th colspan="3"><a href="https://patreon.com/nullobject">nullobject</a> Multi Game Arcade Cores</th></tr>
