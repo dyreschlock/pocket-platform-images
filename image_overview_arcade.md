@@ -110,6 +110,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>slapfight - Slap Fight <img src="pics/arcade/slapfight.png" /></td>
  <td>performan - Performan <img src="pics/arcade/performan.png" /></td>
+ <td>exerion - Exerion <img src="pics/arcade/exerion.png" /></td>
 </tr>
 <tr><th colspan="3"><a href="https://github.com/agg23">agg23</a> Single Game Arcade Cores</th></tr>
 <tr>
