@@ -19,31 +19,27 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>jtcommnd - Commando <img src="pics/jtcommnd.png" /></td>
 </tr>
 <tr>
- <td>jtcomsc - Combat School <img src="pics/jtcomsc.png" /></td>
  <td>jtf1drm - F1 Dream <img src="pics/jtf1drm.png" /></td>
  <td>jtflane - Fast Lane <img src="pics/jtflane.png" /></td>
-</tr>
-<tr>
- <td>jthcastle - Haunted Castle <img src="pics/jthcastle.png" /></td>
  <td>jthige - Pirate Ship Higemaru  <img src="pics/jthige.png" /></td>
- <td>jtkchamp - Karate Champ <img src="pics/jtkchamp.png" /></td>
 </tr>
 <tr>
+ <td>jtkchamp - Karate Champ <img src="pics/jtkchamp.png" /></td>
  <td>jtktiger - Twin Cobra <img src="pics/jtktiger.png" /></td>
  <td>jtlabrun - Labyrinth Runner <img src="pics/jtlabrun.png" /></td>
- <td>jtmidres - Midnight Resistance <img src="pics/jtmidres.png" /></td>
 </tr>
 <tr>
+ <td>jtmidres - Midnight Resistance <img src="pics/jtmidres.png" /></td>
  <td>jtmx5k - Flak Attack <img src="pics/jtmx5k.png" /></td>
  <td>jtninja - Bad Dudes <img src="pics/jtninja.png" /></td>
- <td>jtrastan - Rastan <img src="pics/jtrastan.png" /></td>
 </tr>
 <tr>
+ <td>jtrastan - Rastan <img src="pics/jtrastan.png" /></td>
  <td>jtrumble - Speed Rumbler  <img src="pics/jtrumble.png" /></td>
  <td>jtshanon - Super Hang-On <img src="pics/jtshanon.png" /></td>
- <td>jtslyspy - Sly Spy <img src="pics/jtslyspy.png" /></td>
 </tr>
 <tr>
+ <td>jtslyspy - Sly Spy <img src="pics/jtslyspy.png" /></td>
  <td>jttora - Tiger Road  <img src="pics/jttora.png" /></td>
 </tr>
 <tr><th colspan="3"><a href="https://github.com/opengateware">OpenGateware</a> Single Game Arcade Cores</th></tr>
