@@ -52,11 +52,12 @@ There are three categories of "Home" cores: **Console**, **Handheld**, and **Com
  <td>arduboy - Arduboy <img src="pics/home/arduboy.png" /></td>
 </tr>
 <tr>
+ <td>tamagotchi - Tamagotchi <img src="pics/home/tamagotchi.png" /></td>
  <td>game_king - GameKing <img src="pics/home/game_king.png" /></td>
  <td>supervision - Supervision <img src="pics/home/supervision.png" /></td>
- <td>megaduck - Mega Duck <img src="pics/home/mega_duck.png" /></td>
 </tr>
 <tr>
+ <td>megaduck - Mega Duck <img src="pics/home/mega_duck.png" /></td>
  <td>gamate - Gamate <img src="pics/home/gamate.png" /></td>
  <td>avision - Adventure Vision <img src="pics/home/avision.png" /></td>
 </tr>
