@@ -70,6 +70,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </td>
 <td>
  <td>jtblock - Block Block <img src="pics/arcade/jtblock.png" /></td>
+</td>
 </tr>
 <tr><th colspan="3"><a href="https://github.com/psomashekar">Pram0d</a> Single Game Arcade Cores</th></tr>
 <tr>
