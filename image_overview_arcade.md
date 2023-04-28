@@ -67,9 +67,10 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>jtvigil - Vigilante <img src="pics/arcade/jtvigil.png" /></td>
  <td>jtvulgus - Vulgus <img src="pics/arcade/jtvulgus.png" /></td>
  <td>jtyiear - Yie Ar Kung-Fu <img src="pics/arcade/jtyiear.png" /></td>
-</td>
-<td>
+</tr>
+<tr>
  <td>jtblock - Block Block <img src="pics/arcade/jtblock.png" /></td>
+</tr>
 </tr>
 <tr><th colspan="3"><a href="https://github.com/psomashekar">Pram0d</a> Single Game Arcade Cores</th></tr>
 <tr>
