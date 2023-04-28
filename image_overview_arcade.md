@@ -49,23 +49,26 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>jtpinpon - Konami's Ping Pong <img src="pics/arcade/jtpinpon.png" /></td>
 </tr>
 <tr>
+ <td>jtrastan - Rastan <img src="pics/arcade/jtrastan.png" /></td>
  <td>jtroadf - Road Fighter <img src="pics/arcade/jtroadf.png" /></td>
  <td>jtroc - Roc'n Rope <img src="pics/arcade/jtroc.png" /></td>
- <td>jtsarms - Hyper Dyne Side Arms  <img src="pics/arcade/jtsarms.png" /></td>
 </tr>
 <tr>
+ <td>jtsarms - Hyper Dyne Side Arms  <img src="pics/arcade/jtsarms.png" /></td>
  <td>jtsbaskt - Super Basketball <img src="pics/arcade/jtsbaskt.png" /></td>
  <td>jtsectnz - Section Z <img src="pics/arcade/jtsectnz.png" /></td>
- <td>jtsf - Street Fighter <img src="pics/arcade/jtsf.png" /></td>
 </tr>
 <tr>
+ <td>jtsf - Street Fighter <img src="pics/arcade/jtsf.png" /></td>
  <td>jttrojan - Trojan <img src="pics/arcade/jttrojan.png" /></td>
  <td>jttrack - Track & Field <img src="pics/arcade/jttrack.png" /></td>
- <td>jtvigil - Vigilante <img src="pics/arcade/jtvigil.png" /></td>
 </tr>
 <tr>
+ <td>jtvigil - Vigilante <img src="pics/arcade/jtvigil.png" /></td>
  <td>jtvulgus - Vulgus <img src="pics/arcade/jtvulgus.png" /></td>
  <td>jtyiear - Yie Ar Kung-Fu <img src="pics/arcade/jtyiear.png" /></td>
+</td>
+<td>
  <td>jtblock - Block Block <img src="pics/arcade/jtblock.png" /></td>
 </tr>
 <tr><th colspan="3"><a href="https://github.com/psomashekar">Pram0d</a> Single Game Arcade Cores</th></tr>
