@@ -73,6 +73,10 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>tropicalangel - Tropical Angel <img src="pics/tropicalangel.png" /></td> 
  <td>zaxxon - Zaxxon <img src="pics/zaxxon.png" /></td>
 </tr>
+<tr><th colspan="3">Other Possible Single Cores</th></tr>
+<tr>
+ <td>Simpsons - The Simpsons <img src="pics/simpsons.png" /></td>
+</tr>
 <tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</th></tr>
 <tr>
  <td>jtcps15 - Capcom CPS-1.5 Sys <img src="pics/jtcps15.png" /></td>
