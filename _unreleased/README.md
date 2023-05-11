@@ -101,12 +101,17 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>pacman - Namco Pacman Board <img src="pics/pacman.png" /></td> 
  <td>druaga - Namco Super Pacman Board <img src="pics/druaga.png" /></td>
- <td>iremm62 - Irem M62 Board <img src="pics/iremm62.png" /></td>
 </tr>
 <tr><th colspan="3">Other Possible Cores</th></tr>
 <tr>
- <td>simpsons - The Simpsons <img src="pics/simpsons.png" /></td>
+ <td>iremm62 - Irem M62 Board <img src="pics/iremm62.png" /></td>
  <td>iremm72 - Irem M72 Board <img src="pics/iremm72.png" /></td>
+ <td>iremm92 - Item M92 Board <img src="pics/iremm92.png" /></td>
+</tr>
+<tr>
+ <td></td>
+ <td></td>
+ <td>simpsons - The Simpsons <img src="pics/simpsons.png" /></td>
 </tr>
 </table>
 
