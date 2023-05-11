@@ -73,10 +73,6 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>tropicalangel - Tropical Angel <img src="pics/tropicalangel.png" /></td> 
  <td>zaxxon - Zaxxon <img src="pics/zaxxon.png" /></td>
 </tr>
-<tr><th colspan="3">Other Possible Single Cores</th></tr>
-<tr>
- <td>Simpsons - The Simpsons <img src="pics/simpsons.png" /></td>
-</tr>
 <tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</th></tr>
 <tr>
  <td>jtcps15 - Capcom CPS-1.5 Sys <img src="pics/jtcps15.png" /></td>
@@ -105,6 +101,12 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>pacman - Namco Pacman Board <img src="pics/pacman.png" /></td> 
  <td>druaga - Namco Super Pacman Board <img src="pics/druaga.png" /></td>
+ <td>iremm62 - Irem M62 Board <img src="pics/iremm62.png" /></td>
+</tr>
+<tr><th colspan="3">Other Possible Cores</th></tr>
+<tr>
+ <td>simpsons - The Simpsons <img src="pics/simpsons.png" /></td>
+ <td>iremm72 - Irem M72 Board <img src="pics/iremm72.png" /></td>
 </tr>
 </table>
 
