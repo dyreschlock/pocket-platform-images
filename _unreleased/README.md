@@ -103,10 +103,11 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>iremm72 - Irem M72 Board <img src="pics/iremm72.png" /></td>
  <td>iremm92 - Item M92 Board <img src="pics/iremm92.png" /></td>
 </tr>
+<tr><th colspan="3">Other Possible Arcade cores</th></tr>
 <tr>
  <td></td>
- <td></td>
  <td>simpsons - The Simpsons <img src="pics/simpsons.png" /></td>
+ <td></td>
 </tr>
 </table>
 
