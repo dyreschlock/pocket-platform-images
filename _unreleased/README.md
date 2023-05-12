@@ -73,21 +73,17 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>tropicalangel - Tropical Angel <img src="pics/tropicalangel.png" /></td> 
  <td>zaxxon - Zaxxon <img src="pics/zaxxon.png" /></td>
 </tr>
-<tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</th></tr>
+<tr><th colspan="3">Possbile Multi Game Arcade cores from <a href="https://patreon.com/jotego">Jotego</a>, <th colspan="3"><a href="https://patreon.com/nullobject">nullobject</a>, <a href="https://github.com/opengateware">OpenGateware</a>, and others</th></tr>
 <tr>
  <td>jtcps15 - Capcom CPS-1.5 Sys <img src="pics/jtcps15.png" /></td>
  <td>jtcps3 - Capcom CPS-3 System <img src="pics/jtcps3.png" /></td>
+ <td>cave - Cave 68000 <img src="pics/cave.png" /></td>
 </tr>
 <tr>
  <td>jts16 - Sega System 16A <img src="pics/jts16.png" /></td>
  <td>jts16b - Sega System 16B <img src="pics/jts16b.png" /></td>
  <td>jtkombat - Midway Y-Unit <img src="pics/jtkombat.png" /></td>
 </tr>
-<tr><th colspan="3"><a href="https://patreon.com/nullobject">nullobject</a> Multi Game Arcade Cores</th></tr>
-<tr>
- <td>cave - Cave 68000 <img src="pics/cave.png" /></td>
-</tr>
-<tr><th colspan="3"><a href="https://github.com/opengateware">OpenGateware</a> Multi Game Arcade Cores</th></tr>
 <tr>
  <td>mcr1 - Bally Midway MCR-1 <img src="pics/mcr1.png" /></td>
  <td>mcr2 - Bally Midway MCR-2 <img src="pics/mcr2.png" /></td>
@@ -102,7 +98,6 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>pacman - Namco Pacman Board <img src="pics/pacman.png" /></td> 
  <td>druaga - Namco Super Pacman Board <img src="pics/druaga.png" /></td>
 </tr>
-<tr><th colspan="3">Other Possible Cores</th></tr>
 <tr>
  <td>iremm62 - Irem M62 Board <img src="pics/iremm62.png" /></td>
  <td>iremm72 - Irem M72 Board <img src="pics/iremm72.png" /></td>
