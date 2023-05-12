@@ -73,7 +73,7 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>tropicalangel - Tropical Angel <img src="pics/tropicalangel.png" /></td> 
  <td>zaxxon - Zaxxon <img src="pics/zaxxon.png" /></td>
 </tr>
-<tr><th colspan="3">Possbile Multi Game Arcade cores from <a href="https://patreon.com/jotego">Jotego</a>, <th colspan="3"><a href="https://patreon.com/nullobject">nullobject</a>, <a href="https://github.com/opengateware">OpenGateware</a>, and others</th></tr>
+<tr><th colspan="3">Possbile Multi Game Arcade cores from <a href="https://patreon.com/jotego">Jotego</a>, <a href="https://patreon.com/nullobject">nullobject</a>, <a href="https://github.com/opengateware">OpenGateware</a>, and others</th></tr>
 <tr>
  <td>jtcps15 - Capcom CPS-1.5 Sys <img src="pics/jtcps15.png" /></td>
  <td>jtcps3 - Capcom CPS-3 System <img src="pics/jtcps3.png" /></td>
