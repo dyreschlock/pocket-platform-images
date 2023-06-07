@@ -120,6 +120,7 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>vectrex - Vertrex <img src="pics/vectrex.png" /></td>
 </tr>
 <tr>
+ <td>jtngp - NeoGeo Pocket <img src="pics/jtngp.png" /></td>
  <td>ngpc - NeoGeo Pocket Color <img src="pics/ngpc.png" /></td>
  <td>lynx - Atari Lynx <img src="pics/lynx.png" /></td>
 </tr>
