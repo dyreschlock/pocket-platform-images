@@ -16,7 +16,8 @@ These are overrides that were either used before or made as an alternative to wh
 <tr><th colspan="3">Alternate Artwork for Home cores</th></tr>
 <tr>
  <td>amiga - Amiga <img src="pics/amiga.png" /></td>
- <td>videobrain - Video Brain <img src="pics/videobrain.png" /></td> 
+ <td>rx78 - Bandai RX-78 <img src="pics/rx78.png" /></td>
+ <td>videobrain - Video Brain <img src="pics/videobrain.png" /></td>
 </tr>
 </table>
 
