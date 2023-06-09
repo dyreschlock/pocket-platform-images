@@ -127,10 +127,11 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr><th colspan="3">Computer Cores</th></tr>
 <tr>
  <td>c64 - Commodore 64 <img src="pics/c64.png" /></td>
+ <td>a2 - Apple II <img src="pics/a2.png" /></td>
  <td>msx - MSX <img src="pics/msx.png" /></td>
- <td>x68000 - Sharp X68000 <img src="pics/x68000.png" /></td>
 </tr>
 <tr>
+ <td>x68000 - Sharp X68000 <img src="pics/x68000.png" /></td>
  <td>pc8801 - NEC PC-8801 <img src="pics/pc8801.png" /></td>
  <td>rx78 - Bandai RX-78 <img src="pics/rx78.png" /></td>
 </tr>
