@@ -68,32 +68,25 @@ These were the images that I used to use, but I've recently changed. You can sti
  <td>wonderswan - WonderSwan Color <img src="pics/wonderswan.png" /></td>
 </tr>
 <tr>
- <td>gg - Sega GameGear <img src="pics/home/gg.png" /></td>
+ <td>gg - Sega GameGear <img src="pics/gg.png" /></td>
  <td>sdvmu - Sega Dreamcast VMU <img src="pics/sdvmu.png" /></td>
  <td>arduboy - Arduboy <img src="pics/arduboy.png" /></td>
 </tr>
 <tr>
  <td>lynx - Atari Lynx <img src="pics/lynx.png" /></td>
- <td>tamagotchi_p1 - Tamagotchi <img src="pics/tamagotchi_p1.png" /></td>
  <td>game_king - GameKing <img src="pics/game_king.png" /></td>
+ <td>supervision - Supervision <img src="pics/supervision.png" /></td>
 </tr>
 <tr>
- <td>supervision - Supervision <img src="pics/supervision.png" /></td>
  <td>megaduck - Mega Duck <img src="pics/mega_duck.png" /></td>
  <td>gamate - Gamate <img src="pics/gamate.png" /></td>
-</tr>
-<tr>
  <td>avision - Adventure Vision <img src="pics/avision.png" /></td>
 </tr>
 <tr><th colspan="3">Computer Cores</th></tr>
 <tr>
  <td>amiga - Amiga <img src="pics/amiga.png" /></td>
  <td>videobrain - VideoBrain <img src="pics/videobrain.png" /></td>
- <td>pdp1 - PDP-1 Spacewar <img src="pics/pdp1.png" /></td>
-</tr>
-<tr>
  <td>rx78 - Bandai RX-78 <img src="pics/rx78.png" /></td>
- <td>videobrain - Video Brain <img src="pics/videobrain.png" /></td>
 </tr>
 </table>
 
