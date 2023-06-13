@@ -45,11 +45,12 @@ There are three categories of "Home" cores: **Console**, **Handheld**, and **Com
 <tr>
  <td>supergb - Super GameBoy <img src="temp/sgb.png" /></td>
  <td>poke_mini - Pokemon Mini <img src="temp/poke_mini.png" /></td>
+ <td>arduboy - Arduboy <img src="temp/arduboy.png" /></td>
 </tr>
 <tr>
  <td>wonderswan - WonderSwan Color <img src="temp/wonderswan.png" /></td>
+ <td>jtngp - Neo Geo Pocket <img src="temp/jtngp.png" /></td>
  <td>gg - Sega GameGear <img src="temp/gg.png" /></td>
- <td>arduboy - Arduboy <img src="temp/arduboy.png" /></td>
 </tr>
 <tr>
  <td>tamagotchi_p1 - Tamagotchi <img src="temp/tamagotchi_p1.png" /></td>
