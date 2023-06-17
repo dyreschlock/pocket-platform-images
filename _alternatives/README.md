@@ -18,9 +18,11 @@ These are overrides that were either used before or made as an alternative to wh
 
 ## Previous Version of Home Core Images
 
-Starting with Release v3.0, I changed the style of my home imagery. These were all the images I used to use. You can still use them if you like. I've included some overrides for cores that haven't been released yet, either.
+Starting with Release v3.0, I changed the style of my home imagery. These were all the images I used to use. Also included are images in the same style for unreleased cores that I made in preparation.
 
-All of these images are collected in the zip file in this directory for easy download: <a href="pocket-platform-overrides-home-v2_archived.zip">pocket-platform-overrides-home-v2_archived.zip</a>
+You can still use them if you'd like. :)
+
+All of these images are collected in the following zip file for easy download: <a href="pocket-platform-overrides-home-v2_archived.zip">pocket-platform-overrides-home-v2_archived.zip</a>
 
 <table>
 <tr><th colspan="3">Console Cores</th></tr>
