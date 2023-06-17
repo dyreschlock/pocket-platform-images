@@ -18,7 +18,10 @@ These are overrides that were either used before or made as an alternative to wh
 
 ## Previous Version of Home Core Images
 
-These were the images that I used to use, but I've recently changed. You can still use these if you'd like, but for future Home cores, I'm going to stick with the glamour shot style imagery.
+Starting with Release v3.0, I changed the style of my home imagery. These were all the images I used to use. You can still use them if you like. I've included some overrides for cores that haven't been released yet, either.
+
+All of these images are collected in the zip file in this directory for easy download.
+<a href="pocket-platform-overrides-home-v2_archived.zip">pocket-platform-overrides-home-v2_archived.zip</a>
 
 <table>
 <tr><th colspan="3">Console Cores</th></tr>
@@ -51,6 +54,9 @@ These were the images that I used to use, but I've recently changed. You can sti
  <td>arcadia - Arcadia 2001 <img src="pics/arcadia.png" /></td>
  <td>creativision - Creativsion <img src="pics/creativision.png" /></td>
  <td>studio2 - RCA Studio II <img src="pics/studio2.png" /></td>
+</tr>
+<tr>
+ <td>vectrex - Vectrex <img src="pics/vectrex.png" /></td> 
 </tr>
 <tr><th colspan="3">Handheld Cores</th></tr>
 <tr>
