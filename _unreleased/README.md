@@ -93,7 +93,6 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>pacman - Namco Pacman Board <img src="pics/pacman.png" /></td> 
  <td>druaga - Namco Super Pacman Board <img src="pics/druaga.png" /></td>
- <td>taitosj - Taito System SJ <img src="pics/taitosj.png" /></td>
 </tr>
 <tr>
  <td>iremm62 - Irem M62 Board <img src="pics/iremm62.png" /></td>

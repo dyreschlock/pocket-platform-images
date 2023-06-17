@@ -19,8 +19,9 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>jtaliens - Konami Aliens <img src="/pics/arcade/jtaliens.png" /></td> 
  <td>jtkiwi - Taito NewZealand Board <img src="pics/arcade/jtkiwi.png" /></td>
 </tr>
-<tr><th colspan="3"><a href="https://patreon.com/nullobject">nullobject</a> Multi Game Arcade Cores</th></tr>
+<tr><th colspan="3"><a href="https://github.com/antongale">Anton Gale</a> and <a href="https://patreon.com/nullobject">nullobject</a> Multi Game Arcade Cores</th></tr>
 <tr>
+ <td>taitosj - Taito System SJ <img src="pics/arcade/taitosj.png" /></td>
  <td>tecmo - Tecmo Rygar Board <img src="pics/arcade/tecmo.png" /></td>
 </tr>
 <tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Single Game Arcade Cores</th></tr>
