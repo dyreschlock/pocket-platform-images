@@ -21,8 +21,8 @@ The `pics` directory includes the raw PNG files I used to make the images.  I ha
  <td>
    Examples
    <img src="pics/home/snes.png" />
-   <img src="pics/home/nes.png" />
-   <img src="pics/home/genesis.png" />
+   <img src="pics/home/gba.png" />
+   <img src="pics/home/amiga.png" />
  </td>
 </tr>
 </table>
