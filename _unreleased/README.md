@@ -77,7 +77,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr>
  <td>jts16 - Sega System 16A <img src="pics/jts16.png" /></td>
- <td>jts16b - Sega System 16B <img src="pics/jts16b.png" /></td>
+ <td></td>
  <td>jtkombat - Midway Y-Unit <img src="pics/jtkombat.png" /></td>
 </tr>
 <tr>

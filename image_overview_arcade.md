@@ -16,6 +16,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>jtpang - Capcom Mitchell Board <img src="pics/arcade/jtpang.png" /></td>
 </tr>
 <tr>
+ <td>jts16b - Sega System 16b <img src="/pics/arcade/jts16b.png" /></td>
  <td>jtaliens - Konami Aliens <img src="/pics/arcade/jtaliens.png" /></td> 
  <td>jtkiwi - Taito NewZealand Board <img src="pics/arcade/jtkiwi.png" /></td>
 </tr>
