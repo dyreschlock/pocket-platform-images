@@ -121,7 +121,6 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr>
  <td>sdvmu - Dreamcast VMU <img src="pics/sdvmu.png" /></td>
- <td>gnw - Game & Watch <img src="pics/gnw.png" /></td>
  <td>lynx - Atari Lynx <img src="pics/lynx.png" /></td>
 </tr>
 <tr><th colspan="3">Computer Cores</th></tr>
