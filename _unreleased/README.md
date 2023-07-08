@@ -112,7 +112,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 <table>
 <tr>
  <th colspan="2">Handheld Cores</th>
- <th>Console Core</th>
+ <th>Console Cores</th>
 </tr>
 <tr>
  <td>ngpc - NeoGeo Pocket Color <img src="pics/ngpc.png" /></td>
@@ -122,6 +122,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>sdvmu - Dreamcast VMU <img src="pics/sdvmu.png" /></td>
  <td>lynx - Atari Lynx <img src="pics/lynx.png" /></td>
+ <td>segapico - Sega Pico <img src="pics/segapico.png" /></td>
 </tr>
 <tr><th colspan="3">Computer Cores</th></tr>
 <tr>
