@@ -76,7 +76,7 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>cave - Cave 68000 <img src="pics/cave.png" /></td>
 </tr>
 <tr>
- <td>jts16 - Sega System 16A <img src="pics/jts16.png" /></td>
+ <td></td>
  <td></td>
  <td>jtkombat - Midway Y-Unit <img src="pics/jtkombat.png" /></td>
 </tr>
