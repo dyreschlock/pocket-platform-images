@@ -8,6 +8,8 @@ Arcade cores are currently split up into two categories: **Arcade** and **Arcade
 
 All artwork used is meant to be official artwork from the time of the game's release. I try to avoid using fanart.
 
+* For how to create combined cores, please refer to Espiox's repo: <a href="https://github.com/espiox/openfpga-multi-cores">/openfpga_multi_cores</a>.
+
 <table>
 <tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</th></tr>
 <tr>
@@ -16,13 +18,13 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>jtpang - Capcom Mitchell Board <img src="pics/arcade/jtpang.png" /></td>
 </tr>
 <tr>
- <td>jts16 - Sega System 16A <img src="/pics/arcade/jts16.png" /></td>
- <td>jts16b - Sega System 16B <img src="/pics/arcade/jts16b.png" /></td>
- <td>jts16_c - Sega System 16 (Combined) <img src="/pics/arcade/jts16_c.png"></td>
-</tr>
-<tr>
+ <td>jts16_c - Sega System 16 (Combined*) <img src="/pics/arcade/jts16_c.png"></td>
  <td>jtaliens - Konami Aliens <img src="/pics/arcade/jtaliens.png" /></td> 
  <td>jtkiwi - Taito NewZealand Board <img src="pics/arcade/jtkiwi.png" /></td>
+</tr>
+<tr>
+ <td>jts16 - Sega System 16A <img src="/pics/arcade/jts16.png" /></td>
+ <td>jts16b - Sega System 16B <img src="/pics/arcade/jts16b.png" /></td>
 </tr>
 <tr><th colspan="3"><a href="https://github.com/antongale">Anton Gale</a> and <a href="https://patreon.com/nullobject">nullobject</a> Multi Game Arcade Cores</th></tr>
 <tr>
