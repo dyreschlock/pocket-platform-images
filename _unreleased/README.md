@@ -76,9 +76,9 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>cave - Cave 68000 <img src="pics/cave.png" /></td>
 </tr>
 <tr>
- <td></td>
- <td></td>
- <td>jtkombat - Midway Y-Unit <img src="pics/jtkombat.png" /></td>
+ <td>mcr_c - Bally Midway MCR (Combined) <img src="pics/mcr_c.png" /></td>
+ <td>mcr3scroll - Bally Midway MCR-3 (Scroll) <img src="pics/mcr3scroll.png" /></td>
+ <td>mcr3mono - Bally Midway MCR-3 (Mono) <img src="pics/mcr3mono.png" /></td>
 </tr>
 <tr>
  <td>mcr1 - Bally Midway MCR-1 <img src="pics/mcr1.png" /></td>
@@ -86,11 +86,7 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>mcr3 - Bally Midway MCR-3 <img src="pics/mcr3.png" /></td>
 </tr>
 <tr>
- <td>mcr3scroll - Bally Midway MCR-3 (Scroll) <img src="pics/mcr3scroll.png" /></td>
- <td>mcr3mono - Bally Midway MCR-3 (Mono) <img src="pics/mcr3mono.png" /></td>
  <td>robotron - Williams 6809 Rev. 1 <img src="pics/robotron.png" /></td>
-</tr>
-<tr>
  <td>pacman - Namco Pacman Board <img src="pics/pacman.png" /></td> 
  <td>druaga - Namco Super Pacman Board <img src="pics/druaga.png" /></td>
 </tr>
@@ -103,7 +99,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td></td>
  <td>simpsons - The Simpsons <img src="pics/simpsons.png" /></td>
- <td></td>
+ <td>jtkombat - Midway Y-Unit <img src="pics/jtkombat.png" /></td>
 </tr>
 </table>
 
