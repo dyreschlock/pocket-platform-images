@@ -8,7 +8,7 @@ Arcade cores are currently split up into two categories: **Arcade** and **Arcade
 
 All artwork used is meant to be official artwork from the time of the game's release. I try to avoid using fanart.
 
-* For how to create combined cores, please refer to Espiox's repo: <a href="https://github.com/espiox/openfpga-multi-cores">/openfpga_multi_cores</a>.
+* *For how to create combined cores, please refer to Espiox's repo: <a href="https://github.com/espiox/openfpga-multi-cores">/openfpga_multi_cores</a>.
 
 <table>
 <tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</th></tr>
