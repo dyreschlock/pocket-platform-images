@@ -12,7 +12,8 @@ These are overrides that were either used before or made as an alternative to wh
 </tr>
 <tr>
  <td>jtpang - Pang <img src="pics/jtpang.png" /></td>
- <td>jtkiwi - Insector X <img src="pics/jtkiwi.png" /></td>
+ <td>jtkiwi1 - Insector X <img src="pics/jtkiwi1.png" /></td>
+ <td>jtkiwi - Taito New Zealand <img src="pics/jtkiwi.png" /></td>
 </tr>
 </table>
 
