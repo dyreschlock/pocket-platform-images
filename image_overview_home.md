@@ -19,11 +19,11 @@ There are three categories of "Home" cores: **Console**, **Handheld**, and **Com
 <tr>
  <td>pce - Turbo Grafx 16 <img src="pics/home/pce.png" /></td>
  <td>pcecd - Turbo Grafx CD <img src="pics/home/pcecd.png" /></td>
- <td>coleco - Colecovision <img src="pics/home/coleco.png" /></td>
+ <td>playstation - Playstation <img src="pics/home/playstation.png" /></td>
 </tr>
 <tr>
+ <td>coleco - Colecovision <img src="pics/home/coleco.png" /></td>
  <td>7800 - Atari 7800 <img src="pics/home/7800.png" /></td>
- <td>5200 - Atari 5200 <img src="pics/home/5200.png" /></td>
  <td>2600 - Atari 2600 <img src="pics/home/2600.png" /></td>
 </tr>
 <tr>
