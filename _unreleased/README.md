@@ -120,6 +120,10 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>lynx - Atari Lynx <img src="pics/lynx.png" /></td>
  <td>segapico - Sega Pico <img src="pics/segapico.png" /></td>
 </tr>
+<tr>
+ <td>gamecom - Tiger Game.Com <img src="pics/gamecom.png" /></td>
+ <td>ngage - Nokia N-Gage <img src="pics/ngage.png" /></td>  
+</tr>
 <tr><th colspan="3">Computer Cores</th></tr>
 <tr>
  <td>c64 - Commodore 64 <img src="pics/c64.png" /></td>
