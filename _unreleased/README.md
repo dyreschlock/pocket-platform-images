@@ -55,18 +55,21 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>galaxian - Galaxian <img src="pics/galaxian.png" /></td> 
 </tr>
 <tr>
+ <td>galivan - Cosmo Police Galivan <img src="pics/galivan.png" /></td>
  <td>gaplus - Gaplus <img src="pics/gaplus.png" /></td>
  <td>mariobros - Mario Bros <img src="pics/mariobros.png" /></td>
- <td>moonpatrol - Moon Patrol <img src="pics/moonpatrol.png" /></td>
 </tr>
 <tr>
+ <td>moonpatrol - Moon Patrol <img src="pics/moonpatrol.png" /></td>
  <td>ninjakun - Ninja-Kun <img src="pics/ninjakun.png" /></td>
  <td>popeye - Popeye <img src="pics/popeye.png" /></td>
- <td>rallyx - Rally-X <img src="pics/rallyx.png" /></td>
 </tr>
 <tr>
+ <td>rallyx - Rally-X <img src="pics/rallyx.png" /></td>
  <td>traverseusa - Motorace USA <img src="pics/traverseusa.png" /></td>
  <td>tropicalangel - Tropical Angel <img src="pics/tropicalangel.png" /></td> 
+</tr>
+<tr>
  <td>zaxxon - Zaxxon <img src="pics/zaxxon.png" /></td>
 </tr>
 <tr><th colspan="3">Possbile Multi Game Arcade cores from <a href="https://patreon.com/jotego">Jotego</a>, <a href="https://patreon.com/nullobject">nullobject</a>, <a href="https://github.com/opengateware">OpenGateware</a>, and others</th></tr>
