@@ -104,6 +104,9 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>jtkombat - Midway Y-Unit <img src="pics/jtkombat.png" /></td>
  <td>starwars - Star Wars 1983 <img src="pics/starwars.png" /></td>
 </tr>
+<tr>
+ <td>targ - Targ <img src="pics/targ.png" /></td>
+</tr>
 </table>
 
 ## Unreleased Home Core Overrides
