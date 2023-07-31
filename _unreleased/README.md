@@ -106,11 +106,11 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr><th colspan="3">Other Possible Arcade cores</th></tr>
 <tr>
  <td>simpsons - The Simpsons <img src="pics/simpsons.png" /></td>
- <td>jtkombat - Midway Y-Unit <img src="pics/jtkombat.png" /></td>
  <td>starwars - Star Wars 1983 <img src="pics/starwars.png" /></td>
+ <td>targ - Targ <img src="pics/targ.png" /></td>
 </tr>
 <tr>
- <td>targ - Targ <img src="pics/targ.png" /></td>
+ <td>jtkombat - Midway Y-Unit <img src="pics/jtkombat.png" /></td>
 </tr>
 </table>
 
