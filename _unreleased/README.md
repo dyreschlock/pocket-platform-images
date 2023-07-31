@@ -94,6 +94,9 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>druaga - Namco Super Pacman Board <img src="pics/druaga.png" /></td>
 </tr>
 <tr>
+ <td>segasys1 - Sega System 1 <img src="pics/segasys1.png" /></td>
+</tr>
+<tr>
  <td>iremm62 - Irem M62 Board <img src="pics/iremm62.png" /></td>
  <td>iremm72 - Irem M72 Board <img src="pics/iremm72.png" /></td>
  <td>iremm92 - Item M92 Board <img src="pics/iremm92.png" /></td>
