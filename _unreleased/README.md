@@ -80,15 +80,6 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr>
  <td>mcr_c - Bally Midway MCR (Combined) <img src="pics/mcr_c.png" /></td>
- <td>mcr3scroll - Bally Midway MCR-3 (Scroll) <img src="pics/mcr3scroll.png" /></td>
- <td>mcr3mono - Bally Midway MCR-3 (Mono) <img src="pics/mcr3mono.png" /></td>
-</tr>
-<tr>
- <td>mcr1 - Bally Midway MCR-1 <img src="pics/mcr1.png" /></td>
- <td>mcr2 - Bally Midway MCR-2 <img src="pics/mcr2.png" /></td>
- <td>mcr3 - Bally Midway MCR-3 <img src="pics/mcr3.png" /></td>
-</tr>
-<tr>
  <td>robotron - Williams 6809 Rev. 1 <img src="pics/robotron.png" /></td>
  <td>segasys1 - Sega System 1 <img src="pics/segasys1.png" /></td>
 </tr>
@@ -96,6 +87,16 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td></td>
  <td>pacman - Namco Pacman Board <img src="pics/pacman.png" /></td> 
  <td>druaga - Namco Super Pacman Board <img src="pics/druaga.png" /></td>
+</tr>
+<tr>
+ <td></td>
+ <td>mcr3scroll - Bally Midway MCR-3 (Scroll) <img src="pics/mcr3scroll.png" /></td>
+ <td>mcr3mono - Bally Midway MCR-3 (Mono) <img src="pics/mcr3mono.png" /></td>
+</tr>
+<tr>
+ <td>mcr1 - Bally Midway MCR-1 <img src="pics/mcr1.png" /></td>
+ <td>mcr2 - Bally Midway MCR-2 <img src="pics/mcr2.png" /></td>
+ <td>mcr3 - Bally Midway MCR-3 <img src="pics/mcr3.png" /></td>
 </tr>
 <tr>
  <td>iremm62 - Irem M62 Board <img src="pics/iremm62.png" /></td>
