@@ -19,11 +19,11 @@ There are three categories of "Home" cores: **Console**, **Handheld**, and **Com
 <tr>
  <td>pce - Turbo Grafx 16 <img src="pics/home/pce.png" /></td>
  <td>pcecd - Turbo Grafx CD <img src="pics/home/pcecd.png" /></td>
- <td>playstation - Playstation <img src="pics/home/playstation.png" /></td>
+ <td>coleco - Colecovision <img src="pics/home/coleco.png" /></td>
 </tr>
 <tr>
- <td>coleco - Colecovision <img src="pics/home/coleco.png" /></td>
  <td>7800 - Atari 7800 <img src="pics/home/7800.png" /></td>
+ <td>5200 - Atari 5200 <img src="pics/home/5200.png" /></td>
  <td>2600 - Atari 2600 <img src="pics/home/2600.png" /></td>
 </tr>
 <tr>
@@ -70,5 +70,11 @@ There are three categories of "Home" cores: **Console**, **Handheld**, and **Com
  <td>Amiga <img src="pics/home/amiga.png" /></td>
  <td>videobrain - VideoBrain <img src="pics/home/videobrain.png" /></td>
  <td>pdp1 - PDP-1 Spacewar <img src="pics/home/pdp1.png" /></td>
+</tr>
+<tr><th colspan="3">Others</th></tr>
+<tr>
+ <td>spc_player - SPC Player (alpha) <img src="pics/home/spc_player.png" /></td>
+ <td>playstation - Playstation (alpha) <img src="pics/home/playstation.png" /></td>
+ <td></td>
 </tr>
 </table>
