@@ -72,13 +72,16 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>jtsf - Street Fighter <img src="pics/arcade/jtsf.png" /></td>
 </tr>
 <tr>
+ <td>jtsimson - The Simpsons <img src="pics/arcade/jtsimson.png" /></td>
  <td>jttrojan - Trojan <img src="pics/arcade/jttrojan.png" /></td>
  <td>jttrack - Track & Field <img src="pics/arcade/jttrack.png" /></td>
- <td>jtvigil - Vigilante <img src="pics/arcade/jtvigil.png" /></td>
 </tr>
 <tr>
+ <td>jtvigil - Vigilante <img src="pics/arcade/jtvigil.png" /></td>
  <td>jtvulgus - Vulgus <img src="pics/arcade/jtvulgus.png" /></td>
  <td>jtyiear - Yie Ar Kung-Fu <img src="pics/arcade/jtyiear.png" /></td>
+</tr>
+<tr>
  <td>jtblock - Block Block <img src="pics/arcade/jtblock.png" /></td>
 </tr>
 <tr><th colspan="3"><a href="https://github.com/psomashekar">Pram0d</a> Single Game Arcade Cores</th></tr>
