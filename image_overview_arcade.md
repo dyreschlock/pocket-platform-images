@@ -20,7 +20,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>jts16_c - Sega System 16 (Combined*) <img src="/pics/arcade/jts16_c.png"></td>
  <td>jtaliens - Konami Aliens <img src="/pics/arcade/jtaliens.png" /></td> 
- <td>jttmnt_c - Konami Turtles (Combined*) <img src="/pics/arcade/jttmnt_c.png" /></td>
+ <td></td>
 </tr>
 <tr>
  <td>jts16 - Sega System 16A <img src="/pics/arcade/jts16.png" /></td>

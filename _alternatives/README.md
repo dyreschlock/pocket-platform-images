@@ -4,6 +4,10 @@ These are overrides that were either used before or made as an alternative to wh
 
 
 <table>
+<tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</th></tr>
+<tr>
+ <td>jttmnt_c - Konami Turtles (*Combined) <img src="pics/jttmnt_c.png" /></td>
+</tr>
 <tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Single Game Arcade Cores</th></tr>
 <tr>
  <td>jtaliens - Aliens <img src="pics/jtaliens.png" /></td> 
@@ -16,6 +20,9 @@ These are overrides that were either used before or made as an alternative to wh
  <td>jtkiwi - Taito New Zealand <img src="pics/jtkiwi.png" /></td>
 </tr>
 </table>
+
+* TMNT Combines both TMNT and Simpsons into a Single core, but the video resolutions don't match, so it's not perfect :(
+
 
 ## Previous Version of Home Core Images
 
