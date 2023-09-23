@@ -34,7 +34,6 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>jtrumble - Speed Rumbler  <img src="pics/jtrumble.png" /></td>
 </tr>
 <tr>
- <td>jtshanon - Super Hang-On <img src="pics/jtshanon.png" /></td>
  <td>jtslyspy - Sly Spy <img src="pics/jtslyspy.png" /></td>
 </tr>
 <tr><th colspan="3"><a href="https://github.com/opengateware">OpenGateware</a> Single Game Arcade Cores</th></tr>
