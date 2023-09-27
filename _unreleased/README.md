@@ -82,7 +82,7 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>segasys1 - Sega System 1 <img src="pics/segasys1.png" /></td>
 </tr>
 <tr>
- <td></td>
+ <td>jtshouse - Namco System I <img src="pics/jtshouse.png" /></td>
  <td>pacman - Namco Pacman Board <img src="pics/pacman.png" /></td> 
  <td>druaga - Namco Super Pacman Board <img src="pics/druaga.png" /></td>
 </tr>
