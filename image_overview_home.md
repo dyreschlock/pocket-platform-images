@@ -73,8 +73,8 @@ There are three categories of "Home" cores: **Console**, **Handheld**, and **Com
 </tr>
 <tr><th colspan="3">Others</th></tr>
 <tr>
+ <td>life - Conway's Game of Life <img src="pics/home/life.png" /></td>
  <td>spc_player - SPC Player (alpha) <img src="pics/home/spc_player.png" /></td>
  <td>playstation - Playstation (alpha) <img src="pics/home/playstation.png" /></td>
- <td></td>
 </tr>
 </table>
