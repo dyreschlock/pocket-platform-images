@@ -70,24 +70,35 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>zaxxon - Zaxxon <img src="pics/zaxxon.png" /></td>
 </tr>
-<tr><th colspan="3">Possbile Multi Game Arcade cores from <a href="https://patreon.com/jotego">Jotego</a>, <a href="https://patreon.com/nullobject">nullobject</a>, <a href="https://github.com/opengateware">OpenGateware</a>, and others</th></tr>
+<tr><th colspan="3">Possible Coin-Op Collective Single Game Arcade Cores</th></tr>
+<tr>
+ <td>armedf - Armed Formation F <img src="pics/armedf.png" /></td>
+ <td>demonwld - Demon's World <img src="pics/demonwld.png" /></td>
+ <td>nextspace - The Next Space <img src="pics/nextspace.png" /></td>
+</tr>
+<tr>
+ <td>pipibibs - Pipi & Bibs <img src="pics/pipibibs.png" /></td>
+ <td>prehisle - Prehistoric Isle <img src="pics/prehisle.png" /></td>
+ <td>rallybike - Rally Bike <img src="pics/rallybike.png" /></td>
+</tr>
+<tr>
+ <td>terracresta - Terra Cresta <img src="pics/terracresta.png" /></td> 
+ <td>truxton2 - Truxton II / Tatsujin Oh <img src="pics/truxton2.png" /></td>
+ <td>vimana - Vimana <img src="pics/vimana.png" /></td>
+</tr>
+<tr><th colspan="3">Possbile Multi Game Arcade cores from <a href="https://patreon.com/jotego">Jotego</a>, <a href="https://patreon.com/nullobject">nullobject</a>, <a href="https://github.com/opengateware">OpenGateware</a>, Coin-Op Collective, and others</th></tr>
 <tr>
  <td>jtcps15 - Capcom CPS-1.5 Sys <img src="pics/jtcps15.png" /></td>
- <td>jtcps3 - Capcom CPS-3 System <img src="pics/jtcps3.png" /></td>
- <td>cave - Cave 68000 <img src="pics/cave.png" /></td>
-</tr>
-<tr>
- <td>mcr_c - Bally Midway MCR (Combined) <img src="pics/mcr_c.png" /></td>
  <td>robotron - Williams 6809 Rev. 1 <img src="pics/robotron.png" /></td>
- <td>segasys1 - Sega System 1 <img src="pics/segasys1.png" /></td>
+ <td>pacman - Namco Pacman Board <img src="pics/pacman.png" /></td> 
 </tr>
 <tr>
- <td>jtshouse - Namco System I <img src="pics/jtshouse.png" /></td>
- <td>pacman - Namco Pacman Board <img src="pics/pacman.png" /></td> 
+ <td>jtcps3 - Capcom CPS-3 System <img src="pics/jtcps3.png" /></td>
+ <td>segasys1 - Sega System 1 <img src="pics/segasys1.png" /></td>
  <td>druaga - Namco Super Pacman Board <img src="pics/druaga.png" /></td>
 </tr>
 <tr>
- <td></td>
+ <td>mcr_c - Bally Midway MCR (Combined) <img src="pics/mcr_c.png" /></td>
  <td>mcr3scroll - Bally Midway MCR-3 (Scroll) <img src="pics/mcr3scroll.png" /></td>
  <td>mcr3mono - Bally Midway MCR-3 (Mono) <img src="pics/mcr3mono.png" /></td>
 </tr>
@@ -100,6 +111,16 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>iremm62 - Irem M62 Board <img src="pics/iremm62.png" /></td>
  <td>iremm72 - Irem M72 Board <img src="pics/iremm72.png" /></td>
  <td>iremm92 - Item M92 Board <img src="pics/iremm92.png" /></td>
+</tr>
+<tr>
+ <td>alpha68k - SNK Alpha 6800 <img src="pics/alpha68k.png" /></td>
+ <td>snk68 - SNK 68000 <img src="pics/snk68.png" /></td>
+ <td>megasys1_a - Jaleco Mega System 1 <img src="pics/megasys1_a.png" /></td>
+</tr>
+<tr>
+ <td>zerowing - Toaplan Version 1 Board <img src="pics/zerowing.png" /></td>
+ <td>cave - Cave 68000 <img src="pics/cave.png" /></td>
+ <td>jtshouse - Namco System I <img src="pics/jtshouse.png" /></td>
 </tr>
 <tr><th colspan="3">Other Possible Arcade cores</th></tr>
 <tr>
