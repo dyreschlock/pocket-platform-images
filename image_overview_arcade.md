@@ -55,39 +55,40 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>jtkunio - Renegade Kunio-kun <img src="pics/arcade/jtkunio.png" /></td>
  <td>jtmikie - Mikie <img src="pics/arcade/jtmikie.png" /></td>
- <td>jtoutrun - Outrun <img src="pics/arcade/jtoutrun.png" /></td>
+ <td>jtninja - Bad Dudes v. Dragon Ninja <img src="pics/arcade/jtninja.png" /></td>
 </tr>
 <tr>
+ <td>jtoutrun - Outrun <img src="pics/arcade/jtoutrun.png" /></td>
  <td>jtpang - Pang / Super Pang <img src="pics/arcade/jtpang.png" /></td>
  <td>jtpinpon - Konami's Ping Pong <img src="pics/arcade/jtpinpon.png" /></td>
- <td>jtrastan - Rastan <img src="pics/arcade/jtrastan.png" /></td>
 </tr>
 <tr>
+ <td>jtrastan - Rastan <img src="pics/arcade/jtrastan.png" /></td>
  <td>jtroadf - Road Fighter <img src="pics/arcade/jtroadf.png" /></td>
  <td>jtroc - Roc'n Rope <img src="pics/arcade/jtroc.png" /></td>
- <td>jtsarms - Hyper Dyne Side Arms  <img src="pics/arcade/jtsarms.png" /></td>
 </tr>
 <tr>
+ <td>jtsarms - Hyper Dyne Side Arms  <img src="pics/arcade/jtsarms.png" /></td>
  <td>jtsbaskt - Super Basketball <img src="pics/arcade/jtsbaskt.png" /></td>
  <td>jtsectnz - Section Z <img src="pics/arcade/jtsectnz.png" /></td>
- <td>jtsf - Street Fighter <img src="pics/arcade/jtsf.png" /></td>
 </tr>
 <tr>
+ <td>jtsf - Street Fighter <img src="pics/arcade/jtsf.png" /></td>
  <td>jtshanon - Super Hang-On <img src="pics/arcade/jtshanon.png" /></td>
  <td>jtsimson - The Simpsons <img src="pics/arcade/jtsimson.png" /></td>
- <td>jttora - Tiger Road <img src="pics/arcade/jttora.png" /></td>
 </tr>
 <tr>
+ <td>jttora - Tiger Road <img src="pics/arcade/jttora.png" /></td>
  <td>jttmnt - Teenage Mutant Ninja Turtles <img src="pics/arcade/jttmnt.png" /></td>
  <td>jttrojan - Trojan <img src="pics/arcade/jttrojan.png" /></td>
- <td>jttrack - Track & Field <img src="pics/arcade/jttrack.png" /></td>
 </tr>
 <tr>
+ <td>jttrack - Track & Field <img src="pics/arcade/jttrack.png" /></td>
  <td>jttwin16 - The Final Round <img src="pics/arcade/jttwin16.png" /></td>
  <td>jtvigil - Vigilante <img src="pics/arcade/jtvigil.png" /></td>
- <td>jtvulgus - Vulgus <img src="pics/arcade/jtvulgus.png" /></td>
 </tr>
 <tr>
+ <td>jtvulgus - Vulgus <img src="pics/arcade/jtvulgus.png" /></td>
  <td>jtyiear - Yie Ar Kung-Fu <img src="pics/arcade/jtyiear.png" /></td>
  <td>jtblock - Block Block <img src="pics/arcade/jtblock.png" /></td>
 </tr>
