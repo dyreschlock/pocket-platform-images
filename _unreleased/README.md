@@ -14,22 +14,21 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>jtbiocom - Bionic Commando <img src="pics/jtbiocom.png" /></td>
 </tr>
 <tr>
- <td>jtbubl - Bubble Bobble <img src="pics/jtbubl.png" /></td>
  <td>jtcommnd - Commando <img src="pics/jtcommnd.png" /></td>
  <td>jtf1drm - F1 Dream <img src="pics/jtf1drm.png" /></td>
+ <td>jtflane - Fast Lane <img src="pics/jtflane.png" /></td>
 </tr>
 <tr>
- <td>jtflane - Fast Lane <img src="pics/jtflane.png" /></td>
  <td>jthige - Pirate Ship Higemaru  <img src="pics/jthige.png" /></td>
  <td>jtkchamp - Karate Champ <img src="pics/jtkchamp.png" /></td>
+ <td>jtktiger - Twin Cobra <img src="pics/jtktiger.png" /></td>
 </tr>
 <tr>
- <td>jtktiger - Twin Cobra <img src="pics/jtktiger.png" /></td>
  <td>jtlabrun - Labyrinth Runner <img src="pics/jtlabrun.png" /></td>
  <td>jtmidres - Midnight Resistance <img src="pics/jtmidres.png" /></td>
+ <td>jtmx5k - Flak Attack <img src="pics/jtmx5k.png" /></td>
 </tr>
 <tr>
- <td>jtmx5k - Flak Attack <img src="pics/jtmx5k.png" /></td>
  <td>jtrumble - Speed Rumbler  <img src="pics/jtrumble.png" /></td>
  <td>jtslyspy - Sly Spy <img src="pics/jtslyspy.png" /></td>
 </tr>
@@ -85,14 +84,14 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr><th colspan="3">Possbile Multi Game Arcade cores from <a href="https://patreon.com/jotego">Jotego</a>, <a href="https://patreon.com/nullobject">nullobject</a>, <a href="https://github.com/opengateware">OpenGateware</a>, Coin-Op Collective, and others</th></tr>
 <tr>
- <td>jtcps15 - Capcom CPS-1.5 Sys <img src="pics/jtcps15.png" /></td>
  <td>robotron - Williams 6809 Rev. 1 <img src="pics/robotron.png" /></td>
  <td>pacman - Namco Pacman Board <img src="pics/pacman.png" /></td> 
+ <td>druaga - Namco Super Pacman Board <img src="pics/druaga.png" /></td>
 </tr>
 <tr>
  <td>jtcps3 - Capcom CPS-3 System <img src="pics/jtcps3.png" /></td>
  <td>segasys1 - Sega System 1 <img src="pics/segasys1.png" /></td>
- <td>druaga - Namco Super Pacman Board <img src="pics/druaga.png" /></td>
+ <td></td>
 </tr>
 <tr>
  <td>mcr_c - Bally Midway MCR (Combined) <img src="pics/mcr_c.png" /></td>
