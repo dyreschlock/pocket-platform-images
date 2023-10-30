@@ -20,12 +20,12 @@ These are overrides that were either used before or made as an alternative to wh
  <td>jtkiwi - Taito New Zealand <img src="pics/jtkiwi.png" /></td>
 </tr>
 <tr>
- <td>jtblock - Block Block** <img src="pics/jtblock.png" /></td>
+ <td>jtblock - Block Block* <img src="pics/jtblock.png" /></td>
 </tr>
 </table>
 
-** TMNT Combines both TMNT and Simpsons into a Single core, but the video resolutions don't match, so it's not perfect :(
-** Block Block is a custom core that copies JTpang to play Block Block. BB works on the normal JTpang core now, so it's not necessary.
+* TMNT Combines both TMNT and Simpsons into a Single core, but the video resolutions don't match, so it's not perfect :(
+* Block Block is a custom core that copies JTpang to play Block Block. BB works on the normal JTpang core now, so it's not necessary.
 
 ## Previous Version of Home Core Images
 
