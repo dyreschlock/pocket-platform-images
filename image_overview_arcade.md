@@ -92,9 +92,6 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>jtvulgus - Vulgus <img src="pics/arcade/jtvulgus.png" /></td>
  <td>jtyiear - Yie Ar Kung-Fu <img src="pics/arcade/jtyiear.png" /></td>
 </tr>
-<tr>
- <td>jtblock - Block Block <img src="pics/arcade/jtblock.png" /></td>
-</tr>
 <tr><th colspan="3"><a href="https://github.com/psomashekar">Pram0d</a> Single Game Arcade Cores</th></tr>
 <tr>
  <td>bakraid - Battle Bakraid <img src="pics/arcade/bakraid.png" /></td>
