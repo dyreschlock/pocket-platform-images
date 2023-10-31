@@ -116,7 +116,6 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>zerowing - Toaplan Version 1 Board <img src="pics/zerowing.png" /></td>
  <td>cave - Cave 68000 <img src="pics/cave.png" /></td>
- <td>jtshouse - Namco System I <img src="pics/jtshouse.png" /></td>
 </tr>
 <tr><th colspan="3">Other Possible Arcade cores</th></tr>
 <tr>
