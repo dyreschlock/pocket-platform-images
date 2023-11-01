@@ -79,7 +79,6 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr>
  <td>terracresta - Terra Cresta <img src="pics/terracresta.png" /></td> 
- <td>truxton2 - Truxton II / Tatsujin Oh <img src="pics/truxton2.png" /></td>
  <td>vimana - Vimana <img src="pics/vimana.png" /></td>
 </tr>
 <tr><th colspan="3">Possbile Multi Game Arcade cores from <a href="https://patreon.com/jotego">Jotego</a>, <a href="https://patreon.com/nullobject">nullobject</a>, <a href="https://github.com/opengateware">OpenGateware</a>, Coin-Op Collective, and others</th></tr>
