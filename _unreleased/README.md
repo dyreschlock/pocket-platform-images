@@ -82,7 +82,10 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>truxton - Truxton <img src="pics/truxton.png" /></td>
  <td>vimana - Vimana <img src="pics/vimana.png" /></td>
 </tr>
-<tr><th colspan="3">Possbile Multi Game Arcade cores from <a href="https://patreon.com/jotego">Jotego</a>, <a href="https://patreon.com/nullobject">nullobject</a>, <a href="https://github.com/opengateware">OpenGateware</a>, Coin-Op Collective, and others</th></tr>
+<tr>
+ <td>samesame - Same! Same! Same! <img src="pics/samesame.png" /></td>
+</tr>
+<tr><th colspan="3">Possbile Multi Game Arcade cores from <a href="https://patreon.com/jotego">Jotego</a>, <a href="https://patreon.com/nullobject">nullobject</a>, <a href="https://github.com/opengateware">OpenGateware</a>, and others</th></tr>
 <tr>
  <td>robotron - Williams 6809 Rev. 1 <img src="pics/robotron.png" /></td>
  <td>pacman - Namco Pacman Board <img src="pics/pacman.png" /></td> 
