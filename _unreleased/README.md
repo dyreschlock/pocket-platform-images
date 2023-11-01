@@ -69,16 +69,16 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr><th colspan="3"><a href="https://patreon.com/atrac17">Atrac17</a> Single Game Arcade Cores</th></tr>
 <tr>
  <td>armedf - Armed Formation F <img src="pics/armedf.png" /></td>
- <td>demonwld - Demon's World <img src="pics/demonwld.png" /></td>
+ <td>terracresta - Terra Cresta <img src="pics/terracresta.png" /></td> 
  <td>nextspace - The Next Space <img src="pics/nextspace.png" /></td>
 </tr>
 <tr>
- <td>pipibibs - Pipi & Bibs <img src="pics/pipibibs.png" /></td>
  <td>prehisle - Prehistoric Isle <img src="pics/prehisle.png" /></td>
- <td>rallybike - Rally Bike <img src="pics/rallybike.png" /></td>
+ <td>demonwld - Demon's World <img src="pics/demonwld.png" /></td>
+ <td>pipibibs - Pipi & Bibs <img src="pics/pipibibs.png" /></td>
 </tr>
 <tr>
- <td>terracresta - Terra Cresta <img src="pics/terracresta.png" /></td> 
+ <td>rallybike - Rally Bike <img src="pics/rallybike.png" /></td>
  <td>vimana - Vimana <img src="pics/vimana.png" /></td>
 </tr>
 <tr><th colspan="3">Possbile Multi Game Arcade cores from <a href="https://patreon.com/jotego">Jotego</a>, <a href="https://patreon.com/nullobject">nullobject</a>, <a href="https://github.com/opengateware">OpenGateware</a>, Coin-Op Collective, and others</th></tr>
