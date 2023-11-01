@@ -66,7 +66,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>zaxxon - Zaxxon <img src="pics/zaxxon.png" /></td>
 </tr>
-<tr><th colspan="3">Possible Coin-Op Collective Single Game Arcade Cores</th></tr>
+<tr><th colspan="3"><a href="https://patreon.com/atrac17">Atrac17</a> Single Game Arcade Cores</th></tr>
 <tr>
  <td>armedf - Armed Formation F <img src="pics/armedf.png" /></td>
  <td>demonwld - Demon's World <img src="pics/demonwld.png" /></td>
@@ -90,7 +90,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>jtcps3 - Capcom CPS-3 System <img src="pics/jtcps3.png" /></td>
  <td>segasys1 - Sega System 1 <img src="pics/segasys1.png" /></td>
- <td></td>
+ <td>cave - Cave 68000 <img src="pics/cave.png" /></td>
 </tr>
 <tr>
  <td>mcr_c - Bally Midway MCR (Combined) <img src="pics/mcr_c.png" /></td>
@@ -106,15 +106,6 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>iremm62 - Irem M62 Board <img src="pics/iremm62.png" /></td>
  <td>iremm72 - Irem M72 Board <img src="pics/iremm72.png" /></td>
  <td>iremm92 - Item M92 Board <img src="pics/iremm92.png" /></td>
-</tr>
-<tr>
- <td>alpha68k - SNK Alpha 6800 <img src="pics/alpha68k.png" /></td>
- <td>snk68 - SNK 68000 <img src="pics/snk68.png" /></td>
- <td>megasys1_a - Jaleco Mega System 1 <img src="pics/megasys1_a.png" /></td>
-</tr>
-<tr>
- <td>zerowing - Toaplan Version 1 Board <img src="pics/zerowing.png" /></td>
- <td>cave - Cave 68000 <img src="pics/cave.png" /></td>
 </tr>
 <tr><th colspan="3">Other Possible Arcade cores</th></tr>
 <tr>
