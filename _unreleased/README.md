@@ -74,14 +74,15 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>prehisle - Prehistoric Isle <img src="pics/prehisle.png" /></td>
  <td>demonwld - Demon's World <img src="pics/demonwld.png" /></td>
- <td>pipibibs - Pipi & Bibs <img src="pics/pipibibs.png" /></td>
+ <td>hellfire - Hellfire <img src="pics/hellfire.png" /></td>
 </tr>
 <tr>
+ <td>pipibibs - Pipi & Bibs <img src="pics/pipibibs.png" /></td>
  <td>rallybike - Rally Bike <img src="pics/rallybike.png" /></td>
  <td>samesame - Same! Same! Same! <img src="pics/samesame.png" /></td>
- <td>truxton - Truxton <img src="pics/truxton.png" /></td>
 </tr>
 <tr>
+ <td>truxton - Truxton <img src="pics/truxton.png" /></td>
  <td>twincobr - Twin Cobra <img src="pics/twincobr.png" /></td>
  <td>vimana - Vimana <img src="pics/vimana.png" /></td>
 </tr>
