@@ -77,13 +77,16 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>hellfire - Hellfire <img src="pics/hellfire.png" /></td>
 </tr>
 <tr>
+ <td>outzone - Out Zone <img src="pics/outzone.png" /></td>
  <td>pipibibs - Pipi & Bibs <img src="pics/pipibibs.png" /></td>
  <td>rallybike - Rally Bike <img src="pics/rallybike.png" /></td>
- <td>samesame - Same! Same! Same! <img src="pics/samesame.png" /></td>
 </tr>
 <tr>
+ <td>samesame - Same! Same! Same! <img src="pics/samesame.png" /></td>
  <td>truxton - Truxton <img src="pics/truxton.png" /></td>
  <td>twincobr - Twin Cobra <img src="pics/twincobr.png" /></td>
+</tr>
+<tr>
  <td>vimana - Vimana <img src="pics/vimana.png" /></td>
 </tr>
 <tr><th colspan="3">Possbile Multi Game Arcade cores from <a href="https://patreon.com/jotego">Jotego</a>, <a href="https://patreon.com/nullobject">nullobject</a>, <a href="https://github.com/opengateware">OpenGateware</a>, and others</th></tr>
