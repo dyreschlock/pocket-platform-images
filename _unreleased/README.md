@@ -83,10 +83,11 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr>
  <td>samesame - Same! Same! Same! <img src="pics/samesame.png" /></td>
+ <td>snowbros - Snow Bros. <img src="pics/snowbros.png" /></td>
  <td>truxton - Truxton <img src="pics/truxton.png" /></td>
- <td>twincobr - Twin Cobra <img src="pics/twincobr.png" /></td>
 </tr>
 <tr>
+ <td>twincobr - Twin Cobra <img src="pics/twincobr.png" /></td>
  <td>vimana - Vimana <img src="pics/vimana.png" /></td>
  <td>zerowing - Zero Wing <img src="pics/zerowing.png" /></td>
 </tr>
