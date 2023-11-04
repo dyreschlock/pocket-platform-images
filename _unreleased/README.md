@@ -67,32 +67,33 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr><th colspan="3"><a href="https://patreon.com/atrac17">Atrac17</a> Single Game Arcade Cores</th></tr>
 <tr>
- <td>armedf - Armed Formation F <img src="pics/armedf.png" /></td>
- <td>terracresta - Terra Cresta <img src="pics/terracresta.png" /></td> 
- <td>nextspace - The Next Space <img src="pics/nextspace.png" /></td>
-</tr>
-<tr>
- <td>prehisle - Prehistoric Isle <img src="pics/prehisle.png" /></td>
  <td>demonwld - Demon's World <img src="pics/demonwld.png" /></td>
  <td>fshark - Flying Shark <img src="pics/fshark.png" /></td>
+ <td>hellfire - Hellfire <img src="pics/hellfire.png" /></td>
 </tr>
 <tr>
- <td>hellfire - Hellfire <img src="pics/hellfire.png" /></td>
  <td>outzone - Out Zone <img src="pics/outzone.png" /></td>
  <td>pipibibs - Pipi & Bibs <img src="pics/pipibibs.png" /></td>
+ <td>rallybike - Rally Bike <img src="pics/rallybike.png" /></td>
 </tr>
 <tr>
- <td>rallybike - Rally Bike <img src="pics/rallybike.png" /></td>
  <td>samesame - Same! Same! Same! <img src="pics/samesame.png" /></td>
  <td>snowbros - Snow Bros. <img src="pics/snowbros.png" /></td>
+ <td>truxton - Truxton <img src="pics/truxton.png" /></td>
 </tr>
 <tr>
- <td>truxton - Truxton <img src="pics/truxton.png" /></td>
  <td>twincobr - Twin Cobra <img src="pics/twincobr.png" /></td>
  <td>vimana - Vimana <img src="pics/vimana.png" /></td>
+ <td>wardner - Wardner <img src="pics/wardner.png" /></td> 
 </tr>
 <tr>
  <td>zerowing - Zero Wing <img src="pics/zerowing.png" /></td>
+ <td>armedf - Armed Formation F <img src="pics/armedf.png" /></td>
+ <td>terracresta - Terra Cresta <img src="pics/terracresta.png" /></td> 
+</tr>
+<tr>
+ <td>nextspace - The Next Space <img src="pics/nextspace.png" /></td>
+ <td>prehisle - Prehistoric Isle <img src="pics/prehisle.png" /></td>
 </tr>
 <tr><th colspan="3">Possbile Multi Game Arcade cores from <a href="https://patreon.com/jotego">Jotego</a>, <a href="https://patreon.com/nullobject">nullobject</a>, <a href="https://github.com/opengateware">OpenGateware</a>, and others</th></tr>
 <tr>
