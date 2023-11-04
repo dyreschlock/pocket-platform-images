@@ -88,6 +88,8 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr>
  <td>zerowing - Zero Wing <img src="pics/zerowing.png" /></td>
+</tr>
+<tr>
  <td>armedf - Armed Formation F <img src="pics/armedf.png" /></td>
  <td>terracresta - Terra Cresta <img src="pics/terracresta.png" /></td> 
 </tr>
