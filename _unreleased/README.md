@@ -88,7 +88,10 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr>
  <td>zerowing - Zero Wing <img src="pics/zerowing.png" /></td>
+</tr>
+<tr>
  <td>nextspace - The Next Space <img src="pics/nextspace.png" /></td>
+ <td>paddlema - Paddle Mania <img src="pics/paddlema.png" /></td>
  <td>prehisle - Prehistoric Isle <img src="pics/prehisle.png" /></td>
 </tr>
 <tr>
