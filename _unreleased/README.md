@@ -21,14 +21,14 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>jthige - Pirate Ship Higemaru  <img src="pics/jthige.png" /></td>
  <td>jtkchamp - Karate Champ <img src="pics/jtkchamp.png" /></td>
+ <td>jtlabrun - Labyrinth Runner <img src="pics/jtlabrun.png" /></td>
 </tr>
 <tr>
- <td>jtlabrun - Labyrinth Runner <img src="pics/jtlabrun.png" /></td>
  <td>jtmidres - Midnight Resistance <img src="pics/jtmidres.png" /></td>
  <td>jtmx5k - Flak Attack <img src="pics/jtmx5k.png" /></td>
+ <td>jtrumble - Speed Rumbler  <img src="pics/jtrumble.png" /></td>
 </tr>
 <tr>
- <td>jtrumble - Speed Rumbler  <img src="pics/jtrumble.png" /></td>
  <td>jtslyspy - Sly Spy <img src="pics/jtslyspy.png" /></td>
 </tr>
 <tr><th colspan="3"><a href="https://github.com/opengateware">OpenGateware</a> Single Game Arcade Cores</th></tr>
@@ -95,6 +95,7 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>cclimbr2 - Crazy Climber 2 <img src="pics/cclimbr2.png" /></td>
 </tr>
 <tr>
+ <td>horekid - Kid no Hore Hore Daisakusen <img src="pics/horekid.png" /></td>
  <td>terracresta - Terra Cresta <img src="pics/terracresta.png" /></td> 
  <td>terrafj - Terra Force <img src="pics/terrafj.png" /></td> 
 </tr>
