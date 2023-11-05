@@ -88,6 +88,8 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr>
  <td>zerowing - Zero Wing <img src="pics/zerowing.png" /></td>
+ <td>nextspace - The Next Space <img src="pics/nextspace.png" /></td>
+ <td>prehisle - Prehistoric Isle <img src="pics/prehisle.png" /></td>
 </tr>
 <tr>
  <td>armedf - Armed Formation F <img src="pics/armedf.png" /></td>
@@ -96,12 +98,11 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr>
  <td>horekid - Kid no Hore Hore Daisakusen <img src="pics/horekid.png" /></td>
+ <td>kozure - Lone Wolf & Club <img src="pics/kozure.png" /></td>
  <td>terracresta - Terra Cresta <img src="pics/terracresta.png" /></td> 
- <td>terrafj - Terra Force <img src="pics/terrafj.png" /></td> 
 </tr>
 <tr>
- <td>nextspace - The Next Space <img src="pics/nextspace.png" /></td>
- <td>prehisle - Prehistoric Isle <img src="pics/prehisle.png" /></td>
+ <td>terrafj - Terra Force <img src="pics/terrafj.png" /></td> 
 </tr>
 <tr><th colspan="3">Possbile Multi Game Arcade cores from <a href="https://patreon.com/jotego">Jotego</a>, <a href="https://patreon.com/nullobject">nullobject</a>, <a href="https://github.com/opengateware">OpenGateware</a>, and others</th></tr>
 <tr>
