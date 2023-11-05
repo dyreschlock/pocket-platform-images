@@ -91,7 +91,10 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr>
  <td>armedf - Armed Formation F <img src="pics/armedf.png" /></td>
+ <td>bigfightr - Tatekae! Big Fighter <img src="pics/bigfightr.png" /></td>
  <td>terracresta - Terra Cresta <img src="pics/terracresta.png" /></td> 
+</tr>
+<tr>
  <td>terrafj - Terra Force <img src="pics/terrafj.png" /></td> 
 </tr>
 <tr>
