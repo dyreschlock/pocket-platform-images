@@ -65,7 +65,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>zaxxon - Zaxxon <img src="pics/zaxxon.png" /></td>
 </tr>
-<tr><th colspan="3"><a href="https://patreon.com/atrac17">Atrac17</a> Single Game Arcade Cores</th></tr>
+<tr><th colspan="3"><a href="https://patreon.com/atrac17">CoinOpCollection</a> Single Game Arcade Cores</th></tr>
 <tr>
  <td>demonwld - Demon's World <img src="pics/demonwld.png" /></td>
  <td>fshark - Flying Shark <img src="pics/fshark.png" /></td>
