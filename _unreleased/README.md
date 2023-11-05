@@ -95,6 +95,9 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>prehisle - Prehistoric Isle <img src="pics/prehisle.png" /></td>
 </tr>
 <tr>
+ <td>sbaseball - Super Champion Baseball <img src="pics/sbaseball.png" /></td>
+</tr>
+<tr>
  <td>armedf - Armed Formation F <img src="pics/armedf.png" /></td>
  <td>bigfghtr - Tatekae! Big Fighter <img src="pics/bigfghtr.png" /></td>
  <td>cclimbr2 - Crazy Climber 2 <img src="pics/cclimbr2.png" /></td>
