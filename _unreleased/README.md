@@ -99,9 +99,10 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>horekid - Kid no Hore Hore Daisakusen <img src="pics/horekid.png" /></td>
  <td>kozure - Lone Wolf & Club <img src="pics/kozure.png" /></td>
- <td>terracresta - Terra Cresta <img src="pics/terracresta.png" /></td> 
+ <td>legionj - Chouji Meikyuu Legion <img src="pics/legionj.png" /></td>
 </tr>
 <tr>
+ <td>terracresta - Terra Cresta <img src="pics/terracresta.png" /></td> 
  <td>terrafj - Terra Force <img src="pics/terrafj.png" /></td> 
 </tr>
 <tr><th colspan="3">Possbile Multi Game Arcade cores from <a href="https://patreon.com/jotego">Jotego</a>, <a href="https://patreon.com/nullobject">nullobject</a>, <a href="https://github.com/opengateware">OpenGateware</a>, and others</th></tr>
