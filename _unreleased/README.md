@@ -96,6 +96,8 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr>
  <td>sbaseball - Super Champion Baseball <img src="pics/sbaseball.png" /></td>
+ <td>skyadvnt - Sky Adventures <img src="pics/skyadvnt.png" /></td>
+ <td>timesold - Time Soldiers / Battle Field <img src="pics/timesold.png" /></td>
 </tr>
 <tr>
  <td>armedf - Armed Formation F <img src="pics/armedf.png" /></td>
