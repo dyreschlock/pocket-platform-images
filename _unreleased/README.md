@@ -90,13 +90,16 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>zerowing - Zero Wing <img src="pics/zerowing.png" /></td>
 </tr>
 <tr>
+ <td>ikari3 - Ikari 3 The Rescue <img src="pics/ikari3.png" /></td>
  <td>nextspace - The Next Space <img src="pics/nextspace.png" /></td>
  <td>paddlema - Paddle Mania <img src="pics/paddlema.png" /></td>
- <td>prehisle - Prehistoric Isle <img src="pics/prehisle.png" /></td>
 </tr>
 <tr>
+ <td>prehisle - Prehistoric Isle <img src="pics/prehisle.png" /></td>
  <td>sbaseball - Super Champion Baseball <img src="pics/sbaseball.png" /></td>
  <td>skyadvnt - Sky Adventures <img src="pics/skyadvnt.png" /></td>
+</tr>
+<tr>
  <td>timesold - Time Soldiers / Battle Field <img src="pics/timesold.png" /></td>
 </tr>
 <tr>
@@ -121,7 +124,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr>
  <td>jtcps3 - Capcom CPS-3 System <img src="pics/jtcps3.png" /></td>
- <td>segasys1 - Sega System 1 <img src="pics/segasys1.png" /></td>
+ <td>segasys12 - Sega System 1 & 2 <img src="pics/segasys12.png" /></td>
  <td>cave - Cave 68000 <img src="pics/cave.png" /></td>
 </tr>
 <tr>
