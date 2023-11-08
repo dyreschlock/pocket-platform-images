@@ -90,16 +90,17 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>zerowing - Zero Wing <img src="pics/zerowing.png" /></td>
 </tr>
 <tr>
+ <td>gangways - Gang Wars <img src="pics/gangwars.png" /></td>
  <td>ikari3 - Ikari 3 The Rescue <img src="pics/ikari3.png" /></td>
  <td>nextspace - The Next Space <img src="pics/nextspace.png" /></td>
- <td>paddlema - Paddle Mania <img src="pics/paddlema.png" /></td>
 </tr>
 <tr>
+ <td>paddlema - Paddle Mania <img src="pics/paddlema.png" /></td>
  <td>prehisle - Prehistoric Isle <img src="pics/prehisle.png" /></td>
  <td>sbaseball - Super Champion Baseball <img src="pics/sbaseball.png" /></td>
- <td>skyadvnt - Sky Adventures <img src="pics/skyadvnt.png" /></td>
 </tr>
 <tr>
+ <td>skyadvnt - Sky Adventures <img src="pics/skyadvnt.png" /></td>
  <td>timesold - Time Soldiers / Battle Field <img src="pics/timesold.png" /></td>
 </tr>
 <tr>
