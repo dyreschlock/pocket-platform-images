@@ -118,6 +118,7 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>terrafj - Terra Force <img src="pics/terrafj.png" /></td>
 </tr>
 <tr>
+ <td>astyanax - Astyanax / The Lord of King <img src="pics/astyanax.png" /></td>
  <td>p47 - P47 The Freedom Fighter <img src="pics/p47.png" /></td>
  <td>phantasm - Phantasm Avenging Spirit <img src="pics/phantasm.png" /></td>
 </tr>
