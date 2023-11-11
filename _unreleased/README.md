@@ -96,10 +96,11 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr>
  <td>paddlema - Paddle Mania <img src="pics/paddlema.png" /></td>
+ <td>pow - Prisoners of War <img src="pics/pow.png" /></td>
  <td>prehisle - Prehistoric Isle <img src="pics/prehisle.png" /></td>
- <td>sbaseball - Super Champion Baseball <img src="pics/sbaseball.png" /></td>
 </tr>
 <tr>
+ <td>sbaseball - Super Champion Baseball <img src="pics/sbaseball.png" /></td>
  <td>skyadvnt - Sky Adventures <img src="pics/skyadvnt.png" /></td>
  <td>timesold - Time Soldiers / Battle Field <img src="pics/timesold.png" /></td>
 </tr>
