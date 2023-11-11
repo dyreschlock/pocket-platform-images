@@ -104,16 +104,17 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>timesold - Time Soldiers / Battle Field <img src="pics/timesold.png" /></td>
 </tr>
 <tr>
+ <td>amatelas - Amatelas <img src="pics/amatelas.png" /></td>
  <td>armedf - Armed Formation F <img src="pics/armedf.png" /></td>
  <td>bigfghtr - Tatekae! Big Fighter <img src="pics/bigfghtr.png" /></td>
- <td>cclimbr2 - Crazy Climber 2 <img src="pics/cclimbr2.png" /></td>
 </tr>
 <tr>
+ <td>cclimbr2 - Crazy Climber 2 <img src="pics/cclimbr2.png" /></td>
  <td>horekid - Kid no Hore Hore Daisakusen <img src="pics/horekid.png" /></td>
  <td>kozure - Lone Wolf & Club <img src="pics/kozure.png" /></td>
- <td>legionj - Chouji Meikyuu Legion <img src="pics/legionj.png" /></td>
 </tr>
 <tr>
+ <td>legionj - Chouji Meikyuu Legion <img src="pics/legionj.png" /></td>
  <td>terracresta - Terra Cresta <img src="pics/terracresta.png" /></td> 
  <td>terrafj - Terra Force <img src="pics/terrafj.png" /></td>
 </tr>
