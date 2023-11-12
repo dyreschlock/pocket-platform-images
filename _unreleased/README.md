@@ -135,17 +135,12 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>wardner - Wardner <img src="pics/wardner.png" /></td> 
  <td>zerowing - Zero Wing <img src="pics/zerowing.png" /></td>
 </tr>
-<tr><th colspan="3">Possbile Multi Game Arcade cores from <a href="https://patreon.com/jotego">Jotego</a>, <a href="https://patreon.com/nullobject">nullobject</a>, <a href="https://github.com/opengateware">OpenGateware</a>, and others</th></tr>
+<tr><th colspan="3">Other Possible Single Game Arcade cores</th></tr>
 <tr>
- <td>robotron - Williams 6809 Rev. 1 <img src="pics/robotron.png" /></td>
- <td>pacman - Namco Pacman Board <img src="pics/pacman.png" /></td> 
- <td>druaga - Namco Super Pacman Board <img src="pics/druaga.png" /></td>
+ <td>starwars - Star Wars 1983 <img src="pics/starwars.png" /></td>
+ <td>targ - Targ <img src="pics/targ.png" /></td>
 </tr>
-<tr>
- <td>jtcps3 - Capcom CPS-3 System <img src="pics/jtcps3.png" /></td>
- <td>segasys12 - Sega System 1 & 2 <img src="pics/segasys12.png" /></td>
- <td>cave - Cave 68000 <img src="pics/cave.png" /></td>
-</tr>
+<tr><th colspan="3">Possbile Multi Game Arcade cores from <a href="https://github.com/opengateware">OpenGateware</a></th></tr>
 <tr>
  <td>mcr_c - Bally Midway MCR (Combined) <img src="pics/mcr_c.png" /></td>
  <td>mcr3scroll - Bally Midway MCR-3 (Scroll) <img src="pics/mcr3scroll.png" /></td>
@@ -157,15 +152,23 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>mcr3 - Bally Midway MCR-3 <img src="pics/mcr3.png" /></td>
 </tr>
 <tr>
+ <td>robotron - Williams 6809 Rev. 1 <img src="pics/robotron.png" /></td>
+ <td>pacman - Namco Pacman Board <img src="pics/pacman.png" /></td> 
+ <td>druaga - Namco Super Pacman Board <img src="pics/druaga.png" /></td>
+</tr>
+<tr>
  <td>iremm62 - Irem M62 Board <img src="pics/iremm62.png" /></td>
  <td>iremm72 - Irem M72 Board <img src="pics/iremm72.png" /></td>
  <td>iremm92 - Item M92 Board <img src="pics/iremm92.png" /></td>
 </tr>
-<tr><th colspan="3">Other Possible Arcade cores</th></tr>
 <tr>
- <td>starwars - Star Wars 1983 <img src="pics/starwars.png" /></td>
- <td>targ - Targ <img src="pics/targ.png" /></td>
+ <td>segasys12 - Sega System 1 & 2 <img src="pics/segasys12.png" /></td>
+</tr>
+<tr><th colspan="3">Unlikely or Impossible Arcade cores</th></tr>
+<tr>
+ <td>jtcps3 - Capcom CPS-3 System <img src="pics/jtcps3.png" /></td>
  <td>jtkombat - Midway Y-Unit <img src="pics/jtkombat.png" /></td>
+ <td>cave - Cave 68000 <img src="pics/cave.png" /></td>
 </tr>
 </table>
 
