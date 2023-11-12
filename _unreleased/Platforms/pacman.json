@@ -1,7 +1,7 @@
 {
   "platform": {
-    "name": "Namco (Pacman)",
-    "category": "Arcade Multi",
+    "name": "Pac-Man / Ms. Pac-Man",
+    "category": "Arcade",
     "manufacturer": "Namco",
     "year": 1980
   }
