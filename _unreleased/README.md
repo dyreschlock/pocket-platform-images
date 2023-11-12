@@ -55,14 +55,15 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>moonpatrol - Moon Patrol <img src="pics/moonpatrol.png" /></td>
  <td>ninjakun - Ninja-Kun <img src="pics/ninjakun.png" /></td>
- <td>popeye - Popeye <img src="pics/popeye.png" /></td>
+ <td>pacman - Pac-Man / Ms. Pac-Man <img src="pics/pacman.png" /></td> 
 </tr>
 <tr>
+ <td>popeye - Popeye <img src="pics/popeye.png" /></td>
  <td>rallyx - Rally-X <img src="pics/rallyx.png" /></td>
  <td>traverseusa - Motorace USA <img src="pics/traverseusa.png" /></td>
- <td>tropicalangel - Tropical Angel <img src="pics/tropicalangel.png" /></td> 
 </tr>
 <tr>
+ <td>tropicalangel - Tropical Angel <img src="pics/tropicalangel.png" /></td> 
  <td>zaxxon - Zaxxon <img src="pics/zaxxon.png" /></td>
 </tr>
 <tr><th colspan="3"><a href="https://patreon.com/atrac17">CoinOpCollection</a> Single Game Arcade Cores</th></tr>
@@ -152,17 +153,14 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>mcr3 - Bally Midway MCR-3 <img src="pics/mcr3.png" /></td>
 </tr>
 <tr>
+ <td>segasys12 - Sega System 1 & 2 <img src="pics/segasys12.png" /></td>
  <td>robotron - Williams 6809 Rev. 1 <img src="pics/robotron.png" /></td>
- <td>pacman - Namco Pacman Board <img src="pics/pacman.png" /></td> 
  <td>druaga - Namco Super Pacman Board <img src="pics/druaga.png" /></td>
 </tr>
 <tr>
  <td>iremm62 - Irem M62 Board <img src="pics/iremm62.png" /></td>
  <td>iremm72 - Irem M72 Board <img src="pics/iremm72.png" /></td>
  <td>iremm92 - Item M92 Board <img src="pics/iremm92.png" /></td>
-</tr>
-<tr>
- <td>segasys12 - Sega System 1 & 2 <img src="pics/segasys12.png" /></td>
 </tr>
 <tr><th colspan="3">Unlikely or Impossible Arcade cores</th></tr>
 <tr>
