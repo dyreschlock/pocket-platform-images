@@ -143,8 +143,9 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>performan - Performan <img src="pics/arcade/performan.png" /></td>
  <td>exerion - Exerion <img src="pics/arcade/exerion.png" /></td>
 </tr>
-<tr><th colspan="3">Single Core Games from <a href="https://github.com/agg23">agg23</a> and <a href="https://github.com/somhi">somhi</a></th></tr>
+<tr><th colspan="3">Single Core Games from <a href="https://github.com/agg23">agg23</a>, <a href="https://github.com/RndMnkIII">RndMnkIII</a>, and <a href="https://github.com/somhi">somhi</a></th></tr>
 <tr>
+ <td>alphamission - Armored-Scrum-Object <img src="pics/arcade/alphamission.png" /></td>
  <td>pong - Atari Pong <img src="pics/arcade/pong.png" /></td>
  <td>flappybird - Flappy Bird <img src="pics/arcade/flappybird.png" /></td>
 </tr>
