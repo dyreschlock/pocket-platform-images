@@ -71,7 +71,11 @@ There are three categories of "Home" cores: **Console**, **Handheld**, and **Com
  <td>videobrain - VideoBrain <img src="pics/home/videobrain.png" /></td>
  <td>pdp1 - PDP-1 Spacewar <img src="pics/home/pdp1.png" /></td>
 </tr>
-<tr><th colspan="3">Others</th></tr>
+<tr><th colspan="3">Single Game Cores</th></tr>
+<tr>
+ <td>flappybird - Flappy Bird <img src="pics/home/flappybird.png" /></td>
+</tr>
+<tr><th colspan="3">Others / Experimental Cores</th></tr>
 <tr>
  <td>life - Conway's Game of Life <img src="pics/home/life.png" /></td>
  <td>spc_player - SPC Player (alpha) <img src="pics/home/spc_player.png" /></td>
