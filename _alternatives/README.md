@@ -26,7 +26,7 @@ These are overrides that were either used before or made as an alternative to wh
 </tr>
 <tr>
  <td>jtf1drm - F1 Dream <img src="pics/jtf1drm.png" /></td>
- <td>jthige - Pirate Ship Higemaru <img src="jthige.png" /></td>
+ <td>jthige - Pirate Ship Higemaru <img src="pics/jthige.png" /></td>
 </tr>
 </table>
 
