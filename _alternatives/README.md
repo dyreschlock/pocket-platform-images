@@ -24,6 +24,10 @@ These are overrides that were either used before or made as an alternative to wh
  <td>jtfround - The Final Round <img src="pics/jtfround.png" /></td>
  <td>jtvulgus - Vulgus <img src="pics/jtvulgus.png" /></td>
 </tr>
+<tr>
+ <td>jtf1drm - F1 Dream <img src="pics/jtf1drm.png" /></td>
+ <td>jthige - Pirate Ship Higemaru <img src="jthige.png" /></td>
+</tr>
 </table>
 
 * TMNT Combines both TMNT and Simpsons into a Single core, but the video resolutions don't match, so it's not perfect :(
