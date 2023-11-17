@@ -90,7 +90,6 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr>
  <td>jtvigil - Vigilante <img src="pics/arcade/jtvigil.png" /></td>
- <td>jtvulgus - Vulgus <img src="pics/arcade/jtvulgus.png" /></td>
  <td>jtyiear - Yie Ar Kung-Fu <img src="pics/arcade/jtyiear.png" /></td>
 </tr>
 <tr><th colspan="3">CoinOpCollection Single Game Arcade Cores (from <a href="https://github.com/psomashekar">Pram0d</a>)</th></tr>

@@ -22,6 +22,7 @@ These are overrides that were either used before or made as an alternative to wh
 <tr>
  <td>jtblock - Block Block* <img src="pics/jtblock.png" /></td>
  <td>jtfround - The Final Round <img src="pics/jtfround.png" /></td>
+ <td>jtvulgus - Vulgus <img src="pics/jtvulgus.png" /></td>
 </tr>
 </table>
 
