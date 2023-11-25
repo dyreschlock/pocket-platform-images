@@ -105,6 +105,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr><th colspan="3"><a href="https://patreon.com/atrac17">CoinOpCollection</a> Single Game Arcade Cores</th></tr>
 <tr>
+ <td>pipibibs - Whoopee! <img src="pics/arcade/pipibibs.png" /></td>
  <td>truxton2 - Truxton II / Tatsujin Oh <img src="pics/arcade/truxton2.png" /></td>
 </tr>
 <tr><th colspan="3"><a href="https://github.com/opengateware">OpenGateware</a> Single Game Arcade Cores</th></tr>
