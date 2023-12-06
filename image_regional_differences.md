@@ -16,6 +16,8 @@ I grew up in the US, so my base set of images are from my own territory. I creat
 </tr>
 <tr>
  <td>nes - Nintendo <img src="pics/home/nes.png" /></td>
+ <td>new - Famicom</td>
+ <td>(same as NA)</td>
 </tr>
 <tr>
  <td>genesis - Sega Genesis <img src="pics/home/genesis.png" /></td>
@@ -24,11 +26,17 @@ I grew up in the US, so my base set of images are from my own territory. I creat
 </tr>
 <tr>
  <td>sms - MasterSystem <img src="pics/home/sms.png" /></td>
+ <td>sms - Sega Mark III</td>
+ <td>(same as NA)</td>
 </tr>
 <tr>
  <td>pce - Turbo Grafx 16 <img src="pics/home/pce.png" /></td>
+ <td>pce - PC Engine</td>
+ <td>pce - PC Engine</td>
 </tr>
 <tr>
  <td>pcecd - Turbo Grafx CD <img src="pics/home/pcecd.png" /></td>
+ <td>pcecd - PC Engine CD</td>
+ <td>pcecd - PC Engine CD</td> 
 </tr>
 </table>
