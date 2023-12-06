@@ -1,6 +1,6 @@
 ## Platform Overrides for Home Cores
 
-There are three categories of "Home" cores: **Console**, **Handheld**, and **Computer**.
+There are four categories of "Home" cores: **Console**, **Handheld**, **Computer**, and **Others**
 
 - Note: I grew up in the US, so many of these images (and names) have an American bias. Sorry.
 
@@ -71,13 +71,14 @@ There are three categories of "Home" cores: **Console**, **Handheld**, and **Com
  <td>videobrain - VideoBrain <img src="pics/home/videobrain.png" /></td>
  <td>pdp1 - PDP-1 Spacewar <img src="pics/home/pdp1.png" /></td>
 </tr>
-<tr><th colspan="3">Single Game Cores</th></tr>
+<tr><th colspan="3">Single Game / Application Cores</th></tr>
 <tr>
  <td>flappybird - Flappy Bird <img src="pics/home/flappybird.png" /></td>
+ <td>life - Conway's Game of Life <img src="pics/home/life.png" /></td>
 </tr>
 <tr><th colspan="3">Others / Experimental Cores</th></tr>
 <tr>
- <td>life - Conway's Game of Life <img src="pics/home/life.png" /></td>
+ <td>riscv - Risc-V (dev) <img src="pics/home/riscv.png" /></td>
  <td>spc_player - SPC Player (alpha) <img src="pics/home/spc_player.png" /></td>
  <td>playstation - Playstation (alpha) <img src="pics/home/playstation.png" /></td>
 </tr>
