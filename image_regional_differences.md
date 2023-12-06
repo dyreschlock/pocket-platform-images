@@ -19,6 +19,7 @@ I grew up in the US, so my base set of images are from my own territory. I creat
 </tr>
 <tr>
  <td>genesis - Sega Genesis <img src="pics/home/genesis.png" /></td>
+ <td>genesis - Mega Drive <img src="pics/home-jp/genesis.png" /></td>
 </tr>
 <tr>
  <td>sms - MasterSystem <img src="pics/home/sms.png" /></td>
