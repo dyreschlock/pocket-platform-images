@@ -16,7 +16,7 @@ I grew up in the US, so my base set of images are from my own territory. I creat
 </tr>
 <tr>
  <td>nes - Nintendo <img src="pics/home/nes.png" /></td>
- <td>new - Famicom</td>
+ <td>nes - Famicom</td>
  <td>(same as NA)</td>
 </tr>
 <tr>
@@ -26,7 +26,7 @@ I grew up in the US, so my base set of images are from my own territory. I creat
 </tr>
 <tr>
  <td>sms - MasterSystem <img src="pics/home/sms.png" /></td>
- <td>sms - Sega Mark III</td>
+ <td>sms - Sega Mark III <img src="pics/home-jp/sms.png" /></td>
  <td>(same as NA)</td>
 </tr>
 <tr>
