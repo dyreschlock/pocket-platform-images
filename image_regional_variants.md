@@ -26,7 +26,7 @@ To use these, download the corresponding zip from the latest release. The Zip fi
 </tr>
 <tr>
  <td>nes - Nintendo <img src="pics/home/nes.png" /></td>
- <td>nes - Famicom</td>
+ <td>nes - Famicom <img src="pics/home-jp/nes.png" /></td>
  <td>(same as NA)</td>
 </tr>
 <tr>
