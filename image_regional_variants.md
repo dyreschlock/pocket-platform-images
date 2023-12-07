@@ -5,16 +5,19 @@ I grew up in the US, so my base set of images are from my own territory. I creat
 To use these, download the corresponding zip from the latest release. The Zip file for these regional variants only includes these extra files and nothing else.
 
 <table>
-<tr><th colspan="3">Console Cores</th></tr>
 <tr>
- <td>North America</td>
- <td>Japan</td>
- <td>European / PAL</td>
-</tr>
-<tr>
- <td>home.zip (all home images)</td>
- <td>home-jp-alt.zip (only these alts)</td>
- <td>home-pal-alt.zip (only these alts)</td>
+ <th>
+   North America<br/>
+   home.zip (all home images)
+ </th>
+ <th>
+   Japan<br/>
+   home-jp-alt.zip (only these alts)
+ </th>
+ <th>
+   European / PAL<br/>
+   home-pal-alt.zip (only these alts)
+ </th>
 </tr>
 <tr>
  <td>snes - Super Nintendo <img src="pics/home/snes.png" /></td>
