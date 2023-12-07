@@ -4,7 +4,7 @@ This is the main set of home images. There are four categories of "Home" cores: 
 
 Because I grew up in the US, they all have an American bias. But, I have created extra sets of images for regional variants.
 
-You can view those differences here: <a href="image_regional_differences.md">Regional Variants</a>
+You can view those differences here: <b><a href="image_regional_variants.md">Regional Variants</a></b>
 
 <table>
 <tr><th colspan="3">Console Cores</th></tr>
