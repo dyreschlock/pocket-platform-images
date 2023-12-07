@@ -1,8 +1,10 @@
 ## Platform Overrides for Home Cores
 
-There are four categories of "Home" cores: **Console**, **Handheld**, **Computer**, and **Others**
+This is the main set of home images. There are four categories of "Home" cores: **Console**, **Handheld**, **Computer**, and **Others**
 
-- Note: I grew up in the US, so many of these images (and names) have an American bias. Sorry.
+Because I grew up in the US, they all have an American bias. But, I have created extra sets of images for regional variants.
+
+You can view those differences here: <a href="image_regional_differences.md">Regional Variants</a>
 
 <table>
 <tr><th colspan="3">Console Cores</th></tr>
