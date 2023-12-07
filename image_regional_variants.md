@@ -42,11 +42,11 @@ To use these, download the corresponding zip from the latest release. The Zip fi
 <tr>
  <td>pce - Turbo Grafx 16 <img src="pics/home/pce.png" /></td>
  <td>pce - PC Engine <img src="pics/home-jp/pce.png" /></td>
- <td>pce - PC Engine</td>
+ <td>pce - PC Engine <img src="pics/home-pal/pce.png" /></td>
 </tr>
 <tr>
  <td>pcecd - Turbo Grafx CD <img src="pics/home/pcecd.png" /></td>
  <td>pcecd - PC Engine CD <img src="pics/home-jp/pcecd.png" /></td>
- <td>pcecd - PC Engine CD</td> 
+ <td>(I don't think this was released in Europe)</td> 
 </tr>
 </table>
