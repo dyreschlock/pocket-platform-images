@@ -46,7 +46,7 @@ To use these, download the corresponding zip from the latest release. The Zip fi
 </tr>
 <tr>
  <td>pcecd - Turbo Grafx CD <img src="pics/home/pcecd.png" /></td>
- <td>pcecd - PC Engine CD</td>
+ <td>pcecd - PC Engine CD <img src="pics/home-jp/pcecd.png" /></td>
  <td>pcecd - PC Engine CD</td> 
 </tr>
 </table>
