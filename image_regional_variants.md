@@ -41,7 +41,7 @@ To use these, download the corresponding zip from the latest release. The Zip fi
 </tr>
 <tr>
  <td>pce - Turbo Grafx 16 <img src="pics/home/pce.png" /></td>
- <td>pce - PC Engine</td>
+ <td>pce - PC Engine <img src="pics/home-jp/pce.png" /></td>
  <td>pce - PC Engine</td>
 </tr>
 <tr>
