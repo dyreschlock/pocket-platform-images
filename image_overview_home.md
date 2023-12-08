@@ -76,7 +76,7 @@ You can view those differences here: <b><a href="image_regional_variants.md">Reg
 <tr><th colspan="3">Single Game / Application Cores</th></tr>
 <tr>
  <td>mcc_minibreak - Minibreak <img src="pics/home/mcc_minibreak.png" /></td>
- <td>mcc_fungus - Fungus <img src=pics/home/mcc_fungus.png" /></td>
+ <td>mcc_fungus - Fungus <img src="pics/home/mcc_fungus.png" /></td>
  <td>mcc_ot3 - OT3 <img src="pics/home/mcc_ot3.png" /></td>
 <tr/>
 <tr>
