@@ -14,7 +14,7 @@ The `pics` directory includes the raw PNG files I used to make the images.  I ha
 <tr>
  <td>
    Examples
-   <img src="pics/arcade/garrega.png" />
+   <img src="pics/arcade/garegga.png" />
    <img src="pics/arcade/jtcastle.png" />
    <img src="pics/arcade/xevious.png" />
  </td>
