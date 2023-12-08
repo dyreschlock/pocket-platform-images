@@ -1,4 +1,4 @@
-# Platform Overrides for the Analogue Pocket
+ Platform Overrides for the Analogue Pocket
 
 This repository contains image and JSON overrides I've used for various cores on the Analogue Pocket. You can use them, too, if you'd like. 
 
@@ -12,11 +12,13 @@ The `pics` directory includes the raw PNG files I used to make the images.  I ha
  <th><a href="image_overview_home.md">View all Home Images</a></th>
 </tr>
 <tr>
- <td>
+ <td rowspan="3">
    Examples
    <img src="pics/arcade/garegga.png" />
+   <img src="pics/arcade/jtcastle.png" />
    <img src="pics/arcade/xevious.png" />
-   <img src="pics/arcade/jtcps1.png" />
+   <img src="pics/arcade/jtcps2.png" />
+   <img src="pics/arcade/s16_c.png" />
  </td>
  <td>
    Examples
@@ -26,8 +28,14 @@ The `pics` directory includes the raw PNG files I used to make the images.  I ha
  </td>
 </tr>
 <tr>
- <th></th>
  <th><a href="image_regional_variants.md">Home Regional Variants</a></th>
+</tr>
+<tr>
+ <td>
+   Examples
+   <img src="pics/home-pal/snes.png" />
+   <img src="pics/home-jp/pcecd.png" />
+ </td>
 </tr>
 </table>
 
