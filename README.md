@@ -14,9 +14,9 @@ The `pics` directory includes the raw PNG files I used to make the images.  I ha
 <tr>
  <td>
    Examples
+   <img src="pics/arcade/garrega.png" />
    <img src="pics/arcade/jtcastle.png" />
    <img src="pics/arcade/xevious.png" />
-   <img src="pics/arcade/jtcps2.png" />
  </td>
  <td>
    Examples
@@ -27,10 +27,14 @@ The `pics` directory includes the raw PNG files I used to make the images.  I ha
 </tr>
 <tr>
  <th></th>
- <th><a href="image_regional_variants.md">Home Regional Variants</a></th>
+ <th><a href="image_regional_variants.md">Regional Variants</a></th>
 </tr>
 <tr>
- <td></td>
+ <td>
+   More Arcade Examples
+   <img src="pics/arcade/jtcps2.png" />
+   <img src="pics/arcade/jts16_c.png" />
+ </td>
  <td>
    Examples
    <img src="pics/home-pal/snes.png" />
