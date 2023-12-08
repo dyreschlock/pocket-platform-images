@@ -75,6 +75,9 @@ You can view those differences here: <b><a href="image_regional_variants.md">Reg
 </tr>
 <tr><th colspan="3">Single Game / Application Cores</th></tr>
 <tr>
+ <td>mcc_minibreak - Minibreak <img src="pics/home/mcc_minibreak.png" /></td>
+<tr/>
+<tr>
  <td>flappybird - Flappy Bird <img src="pics/home/flappybird.png" /></td>
  <td>life - Conway's Game of Life <img src="pics/home/life.png" /></td>
 </tr>
