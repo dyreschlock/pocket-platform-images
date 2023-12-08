@@ -1,8 +1,8 @@
- Platform Overrides for the Analogue Pocket
+# Platform Overrides for the Analogue Pocket
 
 This repository contains image and JSON overrides I've used for various cores on the Analogue Pocket. You can use them, too, if you'd like. 
 
-I've separated my overrides into two categories: one for `arcade` cores, and a `home` category that contains overrides for consoles, handhelds, and computers. To use these images and overrides simply download a release, or download the entire repository and copy the contents of the Platforms folder into your own Platform folder. Or, pick and choose what you'd like to use. :)
+I've separated my overrides into two categories: one for `arcade` cores, and a `home` category that contains overrides for consoles, handhelds, and computers. There are two additional home directories, `home-jp` and `home-pal` that contain different images for regional variants. To use these images and overrides simply download a release, or download the entire repository and copy the contents of the Platforms folder into your own Platform folder. Or, pick and choose what you'd like to use. :)
 
 The `pics` directory includes the raw PNG files I used to make the images.  I have them all laid out below so you can take a quick glance at them and determine whether or not your want to use them.
 
