@@ -16,10 +16,10 @@ jobs:
         run: cd home; zip -r pocket-platform-overrides-home.zip Platforms
 
       - name: Zip Folder
-        run: cd home-jp; zip -r pocket-platform-overrides-home-jp-alts.zip Platforms
+        run: cd home-jp; zip -r pocket-platform-overrides-home_jp_alts.zip Platforms
 
       - name: Zip Folder
-        run: cd home-pal; zip -r pocket-platform-overrides-home-pal-alts.zip Platforms
+        run: cd home-pal; zip -r pocket-platform-overrides-home_pal_alts.zip Platforms
 
       - name: Zip Folder
         run: cd arcade; zip -r pocket-platform-overrides-arcade.zip Platforms
@@ -30,8 +30,8 @@ jobs:
         with:
           files: |
             ./home/pocket-platform-overrides-home.zip
-            ./home/pocket-platform-overrides-home-jp-alts.zip
-            ./home/pocket-platform-overrides-home-pal-alts.zip
+            ./home/pocket-platform-overrides-home_jp_alts.zip
+            ./home/pocket-platform-overrides-home_pal_alts.zip
             ./arcade/pocket-platform-overrides-arcade.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

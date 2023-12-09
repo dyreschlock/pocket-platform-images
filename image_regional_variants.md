@@ -12,11 +12,11 @@ To use these, download the corresponding zip from the latest release. The Zip fi
  </th>
  <th>
    Japan<br/>
-   home-jp-alt.zip (only these alts)
+   home_jp_alt.zip (only these alts)
  </th>
  <th>
    European / PAL<br/>
-   home-pal-alt.zip (only these alts)
+   home_pal_alt.zip (only these alts)
  </th>
 </tr>
 <tr>
