@@ -30,8 +30,8 @@ jobs:
         with:
           files: |
             ./home/pocket-platform-overrides-home.zip
-            ./home/pocket-platform-overrides-home_jp_alts.zip
-            ./home/pocket-platform-overrides-home_pal_alts.zip
+            ./home-jp/pocket-platform-overrides-home_jp_alts.zip
+            ./home-pal/pocket-platform-overrides-home_pal_alts.zip
             ./arcade/pocket-platform-overrides-arcade.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
