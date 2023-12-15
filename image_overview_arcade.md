@@ -29,11 +29,11 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>jtkiwi - Taito NewZealand Board <img src="pics/arcade/jtkiwi.png" /></td>
  <td>jtshouse - Namco System I <img src="pics/arcade/jtshouse.png" /></td>
 </tr>
-<tr><th colspan="3">Other Multi Game Arcade Cores</th></tr>
+<tr><th colspan="3">Other Multi Game Arcade Cores (from <a href="https://github.com/antongale">Anton Gale</a>, <a href="https://patreon.com/nullobject">nullobject</a>, <a href="https://github.com/Coin-OpCollection">Coin-Op Collection</a>)</th></tr>
 <tr>
- <td>taitosj - Taito System SJ <img src="pics/arcade/taitosj.png" /> by <b><a href="https://github.com/antongale">Anton Gale</a></b></td>
- <td>tecmo - Tecmo Rygar Board <img src="pics/arcade/tecmo.png" /> by <b><a href="https://patreon.com/nullobject">nullobject</a></b></td>
- <td>toaplan2_c - Toaplan Version 2 (Combined*) <img src="pics/arcade/toaplan2_c.png" /> by <b><a href="https://github.com/Coin-OpCollection</a>Coin-Op Collection</a></b></td>
+ <td>taitosj - Taito System SJ <img src="pics/arcade/taitosj.png" /></b></td>
+ <td>tecmo - Tecmo Rygar Board <img src="pics/arcade/tecmo.png" /></b></td>
+ <td>toaplan2_c - Toaplan Version 2 (Combo*) <img src="pics/arcade/toaplan2_c.png" /></td>
 </tr>
 <tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Single Game Arcade Cores</th></tr>
 <tr>
