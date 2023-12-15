@@ -8,7 +8,9 @@ Arcade cores are currently split up into two categories: **Arcade** and **Arcade
 
 All artwork used is meant to be official artwork from the time of the game's release. I try to avoid using fanart.
 
-* *For the Sega System 16 Combined core, please refer to Espiox's repo: <a href="https://github.com/espiox/jts16_complete">/jts16_complete</a>.
+* For the <b>Sega System 16</b> Combined core, please refer to Espiox's repo: <a href="https://github.com/espiox/jts16_complete">/jts16_complete</a>.
+
+* For the <b>Toaplan Version 2</b> Combine core, prefer refer to pocket-extras: <a href="https://github.com/dyreschlock/pocket-extras/tree/main/toaplan2_complete">/pocket-extras/toaplan2</a>
 
 <table>
 <tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</th></tr>
@@ -27,10 +29,11 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>jtkiwi - Taito NewZealand Board <img src="pics/arcade/jtkiwi.png" /></td>
  <td>jtshouse - Namco System I <img src="pics/arcade/jtshouse.png" /></td>
 </tr>
-<tr><th colspan="3"><a href="https://github.com/antongale">Anton Gale</a> and <a href="https://patreon.com/nullobject">nullobject</a> Multi Game Arcade Cores</th></tr>
+<tr><th colspan="3">Other Multi Game Arcade Cores</th></tr>
 <tr>
- <td>taitosj - Taito System SJ <img src="pics/arcade/taitosj.png" /></td>
- <td>tecmo - Tecmo Rygar Board <img src="pics/arcade/tecmo.png" /></td>
+ <td>taitosj - Taito System SJ <img src="pics/arcade/taitosj.png" /> by <b><a href="https://github.com/antongale">Anton Gale</a></b></td>
+ <td>tecmo - Tecmo Rygar Board <img src="pics/arcade/tecmo.png" /> by <b><a href="https://patreon.com/nullobject">nullobject</a></b></td>
+ <td>toaplan2_c - Toaplan Version 2 (Combined*) <img src="pics/arcade/toaplan2_c.png" /> by <b><a href="https://github.com/Coin-OpCollection</a>Coin-Op Collection</a></b></td>
 </tr>
 <tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Single Game Arcade Cores</th></tr>
 <tr>
