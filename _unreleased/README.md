@@ -131,10 +131,11 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>zerowing - Zero Wing <img src="pics/zerowing.png" /></td>
 </tr>
-<tr><th colspan="3">Other Possible Single Game Arcade cores</th></tr>
+<tr><th colspan="3">Other Possible Game Arcade cores</th></tr>
 <tr>
  <td>starwars - Star Wars 1983 <img src="pics/starwars.png" /></td>
  <td>targ - Targ <img src="pics/targ.png" /></td>
+ <td>exidyugb2 - Exidy UGB 2 <img src="pics/exidyugb2.png" /></td>
 </tr>
 <tr><th colspan="3">Possbile Multi Game Arcade cores from <a href="https://github.com/opengateware">OpenGateware</a></th></tr>
 <tr>
