@@ -100,36 +100,39 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>astyanax - Astyanax / The Lord of King <img src="pics/astyanax.png" /></td>
  <td>edf - Earth Defense Force <img src="pics/edf.png" /></td>
- <td>inyourface - In Your Face <img src="pics/inyourface.png" /></td>
+ <td>hachoo - Hachoo <img src="pics/hachoo.png" /></td> 
 </tr>
 <tr>
+ <td>inyourface - In Your Face <img src="pics/inyourface.png" /></td>
  <td>kazan - Ninja Kazan / Iga Ninjyutsuden <img src="pics/kazan.png" /></td>
  <td>p47 - P47 The Freedom Fighter <img src="pics/p47.png" /></td>
- <td>phantasm - Phantasm Avenging Spirit <img src="pics/phantasm.png" /></td>
 </tr>
 <tr>
+ <td>phantasm - Phantasm Avenging Spirit <img src="pics/phantasm.png" /></td>
  <td>rodland - Rodland <img src="pics/rodland.png" /></td> 
  <td>soldam - Soldam <img src="pics/soldam.png" /></td>
- <td>stdragon - Saint Dragon <img src="pics/stdragon.png" /></td>
 </tr>
 <tr>
+ <td>stdragon - Saint Dragon <img src="pics/stdragon.png" /></td>
  <td>demonwld - Demon's World <img src="pics/demonwld.png" /></td>
  <td>fshark - Flying Shark <img src="pics/fshark.png" /></td>
- <td>hellfire - Hellfire <img src="pics/hellfire.png" /></td>
 </tr>
 <tr>
+ <td>hellfire - Hellfire <img src="pics/hellfire.png" /></td>
  <td>outzone - Out Zone <img src="pics/outzone.png" /></td>
  <td>rallybike - Rally Bike <img src="pics/rallybike.png" /></td>
- <td>samesame - Same! Same! Same! <img src="pics/samesame.png" /></td>
 </tr>
 <tr>
+ <td>samesame - Same! Same! Same! <img src="pics/samesame.png" /></td>
  <td>snowbros - Snow Bros. <img src="pics/snowbros.png" /></td>
  <td>truxton - Truxton <img src="pics/truxton.png" /></td>
- <td>twincobr - Twin Cobra <img src="pics/twincobr.png" /></td>
 </tr>
 <tr>
+ <td>twincobr - Twin Cobra <img src="pics/twincobr.png" /></td>
  <td>vimana - Vimana <img src="pics/vimana.png" /></td>
  <td>wardner - Wardner <img src="pics/wardner.png" /></td> 
+</tr>
+<tr>
  <td>zerowing - Zero Wing <img src="pics/zerowing.png" /></td>
 </tr>
 <tr><th colspan="3">Other Possible Game Arcade cores</th></tr>
