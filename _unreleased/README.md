@@ -138,8 +138,8 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr><th colspan="3"><a href="https://github.com/Ace9921">Ace</a> Single Game Arcade Cores</th></tr>
 <tr>
  <td>arkanoid - Arkanoid <img src="pics/arkanoid.png" /></td>
- <td></td>
- <td></td>
+ <td>timepilot - Time Pilot <img src="pics/timepilot.png" /></td>
+ <td>timepilot84 - Time Pilot '84 <img src="pics/timepilot84.png" /></td>
 </tr>
 <tr><th colspan="3">Other Possible Game Arcade cores</th></tr>
 <tr>
