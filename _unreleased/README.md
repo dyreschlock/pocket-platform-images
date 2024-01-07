@@ -144,6 +144,7 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>timepilot84 - Time Pilot '84 <img src="pics/timepilot84.png" /></td>
 </tr>
 <tr>
+ <td>finalizer - Finalizer <img src="pics/finalizer.png" /></td>
  <td>gyruss - Gyruss <img src="pics/gyruss.png" /></td> 
 </tr>
 <tr><th colspan="3">Other Possible Game Arcade cores</th></tr>
