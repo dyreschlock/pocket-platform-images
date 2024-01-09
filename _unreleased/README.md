@@ -146,6 +146,10 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>finalizer - Finalizer <img src="pics/finalizer.png" /></td>
  <td>gyruss - Gyruss <img src="pics/gyruss.png" /></td> 
+ <td>ironhorse - Iron Horse <img src="pics/ironhorse.png" /></td>
+</tr>
+<tr>
+ <td>jackal - Jackal <img src="pics/jackal.png" /></td>
 </tr>
 <tr><th colspan="3">Other Possible Game Arcade cores</th></tr>
 <tr>
