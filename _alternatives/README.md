@@ -11,20 +11,21 @@ These are overrides that were either used before or made as an alternative to wh
 <tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Single Game Arcade Cores</th></tr>
 <tr>
  <td>jtaliens - Aliens <img src="pics/jtaliens.png" /></td> 
+ <td>jtdd - Double Double <img src="pics/jtdd.png" /></td> 
  <td>jtkarnov - Chelnov Atomic Runner <img src="pics/jtkarnov.png" /></td>
- <td>jtkunio - Renegade <img src="pics/jtkunio.png" /></td>
 </tr>
 <tr>
+ <td>jtkunio - Renegade <img src="pics/jtkunio.png" /></td>
  <td>jtpang - Pang <img src="pics/jtpang.png" /></td>
  <td>jtkiwi1 - Insector X <img src="pics/jtkiwi1.png" /></td>
- <td>jtkiwi - Taito New Zealand <img src="pics/jtkiwi.png" /></td>
 </tr>
 <tr>
+ <td>jtkiwi - Taito New Zealand <img src="pics/jtkiwi.png" /></td>
  <td>jtblock - Block Block* <img src="pics/jtblock.png" /></td>
  <td>jtfround - The Final Round <img src="pics/jtfround.png" /></td>
- <td>jtvulgus - Vulgus <img src="pics/jtvulgus.png" /></td>
 </tr>
 <tr>
+ <td>jtvulgus - Vulgus <img src="pics/jtvulgus.png" /></td>
  <td>jtf1drm - F1 Dream <img src="pics/jtf1drm.png" /></td>
  <td>jthige - Pirate Ship Higemaru <img src="pics/jthige.png" /></td>
 </tr>
