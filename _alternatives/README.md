@@ -29,6 +29,9 @@ These are overrides that were either used before or made as an alternative to wh
  <td>jtf1drm - F1 Dream <img src="pics/jtf1drm.png" /></td>
  <td>jthige - Pirate Ship Higemaru <img src="pics/jthige.png" /></td>
 </tr>
+<tr>
+ <td>jtsf - Street Fighter <img src="pics/jtsf.png" /></td>
+</tr>
 </table>
 
 * TMNT Combines both TMNT and Simpsons into a Single core, but the video resolutions don't match, so it's not perfect :(
