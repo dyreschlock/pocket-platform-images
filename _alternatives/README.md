@@ -7,6 +7,8 @@ These are overrides that were either used before or made as an alternative to wh
 <tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</th></tr>
 <tr>
  <td>jttmnt_c - Konami Turtles (*Combined) <img src="pics/jttmnt_c.png" /></td>
+ <td></td>
+ <td></td>
 </tr>
 <tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Single Game Arcade Cores</th></tr>
 <tr>
@@ -33,6 +35,9 @@ These are overrides that were either used before or made as an alternative to wh
  <td>jtsf - Street Fighter <img src="pics/jtsf.png" /></td>
  <td>jtsectnz - Section Z <img src="pics/jtsectnz.png" /></td>
  <td>bankpanic - Bank Panic <img src="pics/bankpanic.png" /></td>
+</tr>
+<tr>
+ <td>jtvigil - Vigilante <img src="pics/jtvigil.png" /></td>
 </tr>
 </table>
 
