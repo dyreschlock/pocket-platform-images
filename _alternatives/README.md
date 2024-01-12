@@ -32,6 +32,7 @@ These are overrides that were either used before or made as an alternative to wh
 <tr>
  <td>jtsf - Street Fighter <img src="pics/jtsf.png" /></td>
  <td>jtsectnz - Section Z <img src="pics/jtsectnz.png" /></td>
+ <td>bankpanic - Bank Panic <img src="pics/bankpanic.png" /></td>
 </tr>
 </table>
 
