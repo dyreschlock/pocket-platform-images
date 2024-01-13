@@ -66,6 +66,8 @@ You can view those differences here: <b><a href="image_regional_variants.md">Reg
 </tr>
 <tr>
  <td>tamagotchi_p1 - Tamagotchi <img src="pics/home/tamagotchi_p1.png" /></td>
+ <td></td>
+ <td></td>
 </tr>
 <tr><th colspan="3">Computer Cores</th></tr>
 <tr>
@@ -87,7 +89,12 @@ You can view those differences here: <b><a href="image_regional_variants.md">Reg
 <tr><th colspan="3">Others / Experimental Cores</th></tr>
 <tr>
  <td>riscv - Risc-V (dev) <img src="pics/home/riscv.png" /></td>
+ <td>uxn - UXN Platform <img src="pics/home/uxn.png" /></td> 
  <td>spc_player - SPC Player (alpha) <img src="pics/home/spc_player.png" /></td>
+</tr>
+<tr>
  <td>playstation - Playstation (alpha) <img src="pics/home/playstation.png" /></td>
+ <td></td>
+ <td></td>
 </tr>
 </table>
