@@ -39,6 +39,7 @@ These are overrides that were either used before or made as an alternative to wh
 <tr>
  <td>jtvigil - Vigilante <img src="pics/jtvigil.png" /></td>
  <td>jtdd2 - Double Dragon 2 <img src="pics/jtdd2.png" /></td>
+ <td>exerion - Exerion <img src="pics/exerion.png" /></td> 
 </tr>
 </table>
 
