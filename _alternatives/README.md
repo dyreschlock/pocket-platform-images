@@ -41,6 +41,11 @@ These are overrides that were either used before or made as an alternative to wh
  <td>jtdd2 - Double Dragon 2 <img src="pics/jtdd2.png" /></td>
  <td>exerion - Exerion <img src="pics/exerion.png" /></td> 
 </tr>
+<tr>
+ <td>digdug - Dig Dug <img src="pics/digdug.png" /></td>
+ <td></td>
+ <td></td>
+</tr>
 </table>
 
 * TMNT Combines both TMNT and Simpsons into a Single core, but the video resolutions don't match, so it's not perfect :(
