@@ -44,7 +44,7 @@ These are overrides that were either used before or made as an alternative to wh
 <tr>
  <td>digdug - Dig Dug <img src="pics/digdug.png" /></td>
  <td>jtbubl - Bubble Bobble <img src="pics/jtbubl.png" /></td>
- <td></td>
+ <td>jtrastan - Rastan <img src="pics/jtrastan.png" /></td>
 </tr>
 </table>
 
