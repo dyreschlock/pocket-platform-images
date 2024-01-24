@@ -216,4 +216,7 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>pc8801 - NEC PC-8801 <img src="pics/pc8801.png" /></td>
  <td>rx78 - Bandai RX-78 <img src="pics/rx78.png" /></td>
 </tr>
+<tr>
+ <td>zx - ZX Spectrum <img src="pics/zx.png" /></td>
+</tr>
 </table>
