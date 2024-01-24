@@ -174,7 +174,7 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>iremm62 - Irem M62 Board <img src="pics/iremm62.png" /></td>
 </tr>
 <tr>
- <td>iremm52 - Irem M52x Board <img src="pics/iremm52.png" /></td>
+ <td>iremm5x - Irem M50 Series <img src="pics/iremm5x.png" /></td>
 </tr>
 <tr><th colspan="3">Unlikely or Impossible Arcade cores</th></tr>
 <tr>
