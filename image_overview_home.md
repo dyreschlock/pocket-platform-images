@@ -72,7 +72,10 @@ You can view those differences here: <b><a href="image_regional_variants.md">Reg
 <tr><th colspan="3">Computer Cores</th></tr>
 <tr>
  <td>Amiga <img src="pics/home/amiga.png" /></td>
+ <td>Commodore 64 <img src="pics/home/c64.png" /></td>
  <td>videobrain - VideoBrain <img src="pics/home/videobrain.png" /></td>
+</tr>
+<tr>
  <td>pdp1 - PDP-1 Spacewar <img src="pics/home/pdp1.png" /></td>
 </tr>
 <tr><th colspan="3">Single Game / Application Cores</th></tr>
