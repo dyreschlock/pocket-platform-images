@@ -46,6 +46,9 @@ These are overrides that were either used before or made as an alternative to wh
  <td>jtbubl - Bubble Bobble <img src="pics/jtbubl.png" /></td>
  <td>jtrastan - Rastan <img src="pics/jtrastan.png" /></td>
 </tr>
+<tr>
+ <td>jtgunsmk - Gun.Smoke <img src="pics/jtgunsmk.png" /></td>
+</tr>
 </table>
 
 * TMNT Combines both TMNT and Simpsons into a Single core, but the video resolutions don't match, so it's not perfect :(
