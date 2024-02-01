@@ -48,6 +48,7 @@ These are overrides that were either used before or made as an alternative to wh
 </tr>
 <tr>
  <td>jtgunsmk - Gun.Smoke <img src="pics/jtgunsmk.png" /></td>
+ <td>jt1942 - 1942 <img src="pics/jt1942.png" /></td>
 </tr>
 </table>
 
