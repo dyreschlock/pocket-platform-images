@@ -187,23 +187,21 @@ These are platform overrides for cores that haven't been released yet. These cor
 ## Unreleased Home Core Overrides
 
 <table>
-<tr>
- <th colspan="2">Handheld Cores</th>
- <th>Console Cores</th>
-</tr>
+<tr><th colspan="3">Handheld Cores</th></tr>
 <tr>
  <td>ngpc - NeoGeo Pocket Color <img src="pics/ngpc.png" /></td>
- <td>vb - Virtual Boy <img src="pics/vb.png" /></td>
- <td>vectrex - Vertrex <img src="pics/vectrex.png" /></td>
-</tr>
-<tr>
- <td>sdvmu - Dreamcast VMU <img src="pics/sdvmu.png" /></td>
  <td>lynx - Atari Lynx <img src="pics/lynx.png" /></td>
- <td>segapico - Sega Pico <img src="pics/segapico.png" /></td>
+ <td>sdvmu - Dreamcast VMU <img src="pics/sdvmu.png" /></td>
 </tr>
 <tr>
+ <td>vb - Virtual Boy <img src="pics/vb.png" /></td>
  <td>gamecom - Tiger Game.Com <img src="pics/gamecom.png" /></td>
  <td>ngage - Nokia N-Gage <img src="pics/ngage.png" /></td>  
+</tr>
+<tr><th colspan="3">Consoles Cores</th></tr>
+<tr>
+ <td>vectrex - Vertrex <img src="pics/vectrex.png" /></td>
+ <td>segapico - Sega Pico <img src="pics/segapico.png" /></td>
 </tr>
 <tr><th colspan="3">Computer Cores</th></tr>
 <tr>
@@ -215,5 +213,9 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>x68000 - Sharp X68000 <img src="pics/x68000.png" /></td>
  <td>pc8801 - NEC PC-8801 <img src="pics/pc8801.png" /></td>
  <td>rx78 - Bandai RX-78 <img src="pics/rx78.png" /></td>
+</tr>
+<tr><th colspan="3">Other Cores</th></tr>
+<tr>
+ <td>MP3 Player <img src="pics/mp3.png" /></td>
 </tr>
 </table>
