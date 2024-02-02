@@ -2,62 +2,67 @@
 
 These are overrides that were either used before or made as an alternative to what I have in my main release.  These overrides will not be included in the release and must be downloaded manually.
 
+* The following images were used for single games, but those cores either became multi-game cores, or became part of another core.
 
 <table>
-<tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Multi Game Arcade Cores</th></tr>
-<tr>
- <td>jttmnt_c - Konami Turtles (*Combined) <img src="pics/jttmnt_c.png" /></td>
- <td></td>
- <td></td>
-</tr>
-<tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Single Game Arcade Cores</th></tr>
-<tr>
- <td>jtaliens - Aliens <img src="pics/jtaliens.png" /></td> 
- <td>jtdd - Double Double <img src="pics/jtdd.png" /></td> 
- <td>jtkarnov - Chelnov Atomic Runner <img src="pics/jtkarnov.png" /></td>
-</tr>
-<tr>
- <td>jtkunio - Renegade <img src="pics/jtkunio.png" /></td>
- <td>jtpang - Pang <img src="pics/jtpang.png" /></td>
- <td>jtkiwi1 - Insector X <img src="pics/jtkiwi1.png" /></td>
-</tr>
-<tr>
- <td>jtkiwi - Taito New Zealand <img src="pics/jtkiwi.png" /></td>
- <td>jtblock - Block Block* <img src="pics/jtblock.png" /></td>
- <td>jtfround - The Final Round <img src="pics/jtfround.png" /></td>
-</tr>
 <tr>
  <td>jtvulgus - Vulgus <img src="pics/jtvulgus.png" /></td>
  <td>jtf1drm - F1 Dream <img src="pics/jtf1drm.png" /></td>
  <td>jthige - Pirate Ship Higemaru <img src="pics/jthige.png" /></td>
 </tr>
 <tr>
- <td>jtsf - Street Fighter <img src="pics/jtsf.png" /></td>
- <td>jtsectnz - Section Z <img src="pics/jtsectnz.png" /></td>
- <td>bankpanic - Bank Panic <img src="pics/bankpanic.png" /></td>
-</tr>
-<tr>
- <td>jtvigil - Vigilante <img src="pics/jtvigil.png" /></td>
- <td>jtdd2 - Double Dragon 2 <img src="pics/jtdd2.png" /></td>
- <td>exerion - Exerion <img src="pics/exerion.png" /></td> 
-</tr>
-<tr>
- <td>digdug - Dig Dug <img src="pics/digdug.png" /></td>
- <td>jtbubl - Bubble Bobble <img src="pics/jtbubl.png" /></td>
- <td>jtrastan - Rastan <img src="pics/jtrastan.png" /></td>
-</tr>
-<tr>
- <td>jtgunsmk - Gun.Smoke <img src="pics/jtgunsmk.png" /></td>
- <td>jt1942 - 1942 <img src="pics/jt1942.png" /></td>
- <td>jttora - Tiger Road <img src="pics/jttora.png" /></td>
-</tr>
-<tr>
- <td>jtbtiger - Black Tiger <img src="pics/jtbtiger.png" /></td>
+ <td>jtkiwi1 - Insector X <img src="pics/jtkiwi1.png" /></td>
+ <td>jtaliens - Aliens <img src="pics/jtaliens.png" /></td> 
+ <td>jtkarnov - Chelnov Atomic Runner <img src="pics/jtkarnov.png" /></td>
 </tr>
 </table>
 
+* The following images are old images that I've replaced with images I thought better represented the cores.
+
+<table>
+<tr>
+ <td>jt1942 - 1942 <img src="pics/jt1942.png" /></td>
+ <td>jtbtiger - Black Tiger <img src="pics/jtbtiger.png" /></td>
+ <td>jtbubl - Bubble Bobble <img src="pics/jtbubl.png" /></td>
+</tr>
+<tr>
+ <td>jtdd - Double Double <img src="pics/jtdd.png" /></td> 
+ <td>jtdd2 - Double Dragon 2 <img src="pics/jtdd2.png" /></td>
+ <td>jtfround - The Final Round <img src="pics/jtfround.png" /></td>
+</tr>
+<tr>
+ <td>jtgunsmk - Gun.Smoke <img src="pics/jtgunsmk.png" /></td>
+ <td>jtkunio - Renegade <img src="pics/jtkunio.png" /></td>
+ <td>jtpang - Pang <img src="pics/jtpang.png" /></td>
+</tr>
+<tr>
+ <td>jtrastan - Rastan <img src="pics/jtrastan.png" /></td>
+ <td>jtsf - Street Fighter <img src="pics/jtsf.png" /></td>
+ <td>jtsectnz - Section Z <img src="pics/jtsectnz.png" /></td>
+</tr>
+<tr>
+ <td>jttora - Tiger Road <img src="pics/jttora.png" /></td>
+ <td>jtvigil - Vigilante <img src="pics/jtvigil.png" /></td>
+ <td>jtkiwi - Taito New Zealand <img src="pics/jtkiwi.png" /></td>
+</tr>
+<tr>
+ <td>bankpanic - Bank Panic <img src="pics/bankpanic.png" /></td>
+ <td>exerion - Exerion <img src="pics/exerion.png" /></td> 
+ <td>digdug - Dig Dug <img src="pics/digdug.png" /></td>
+</tr>
+</table>
+
+* The following are custom cores that are not necessary
 * TMNT Combines both TMNT and Simpsons into a Single core, but the video resolutions don't match, so it's not perfect :(
 * Block Block is a custom core that copies JTpang to play Block Block. BB works on the normal JTpang core now, so it's not necessary.
+
+<table>
+<tr>
+ <td>jttmnt_c - Konami Turtles (*Combined) <img src="pics/jttmnt_c.png" /></td>
+ <td>jtblock - Block Block* <img src="pics/jtblock.png" /></td>
+</tr>
+</table>
+
 
 ## Previous Version of Home Core Images
 
