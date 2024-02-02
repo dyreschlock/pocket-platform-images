@@ -7,8 +7,8 @@ These are overrides that were either used before or made as an alternative to wh
 <table>
 <tr>
  <td>jtvulgus - Vulgus <img src="pics/jtvulgus.png" /></td>
- <td>jtf1drm - F1 Dream <img src="pics/jtf1drm.png" /></td>
  <td>jthige - Pirate Ship Higemaru <img src="pics/jthige.png" /></td>
+ <td>jtf1drm - F1 Dream <img src="pics/jtf1drm.png" /></td>
 </tr>
 <tr>
  <td>jtkiwi1 - Insector X <img src="pics/jtkiwi1.png" /></td>
@@ -60,6 +60,7 @@ These are overrides that were either used before or made as an alternative to wh
 <tr>
  <td>jttmnt_c - Konami Turtles (*Combined) <img src="pics/jttmnt_c.png" /></td>
  <td>jtblock - Block Block* <img src="pics/jtblock.png" /></td>
+ <td></td>
 </tr>
 </table>
 
