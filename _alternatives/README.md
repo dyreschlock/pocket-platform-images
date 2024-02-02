@@ -2,9 +2,14 @@
 
 These are overrides that were either used before or made as an alternative to what I have in my main release.  These overrides will not be included in the release and must be downloaded manually.
 
+<table>
+<tr>
+ <td colspan="3">
+
 * The following images were used for single games, but those cores either became multi-game cores, or became part of another core.
 
-<table>
+ </td>
+</tr>
 <tr>
  <td>jtvulgus - Vulgus <img src="pics/jtvulgus.png" /></td>
  <td>jthige - Pirate Ship Higemaru <img src="pics/jthige.png" /></td>
@@ -15,11 +20,13 @@ These are overrides that were either used before or made as an alternative to wh
  <td>jtaliens - Aliens <img src="pics/jtaliens.png" /></td> 
  <td>jtkarnov - Chelnov Atomic Runner <img src="pics/jtkarnov.png" /></td>
 </tr>
-</table>
+<tr>
+ <td colspan="3">
 
 * The following images are old images that I've replaced with images I thought better represented the cores.
 
-<table>
+ </td>
+</tr>
 <tr>
  <td>jt1942 - 1942 <img src="pics/jt1942.png" /></td>
  <td>jtbtiger - Black Tiger <img src="pics/jtbtiger.png" /></td>
@@ -50,13 +57,15 @@ These are overrides that were either used before or made as an alternative to wh
  <td>exerion - Exerion <img src="pics/exerion.png" /></td> 
  <td>digdug - Dig Dug <img src="pics/digdug.png" /></td>
 </tr>
-</table>
+<tr>
+ <td colspan="3">
 
 * The following are custom cores that are not necessary
 * TMNT Combines both TMNT and Simpsons into a Single core, but the video resolutions don't match, so it's not perfect :(
 * Block Block is a custom core that copies JTpang to play Block Block. BB works on the normal JTpang core now, so it's not necessary.
 
-<table>
+ </td>
+</tr>
 <tr>
  <td>jttmnt_c - Konami Turtles (*Combined) <img src="pics/jttmnt_c.png" /></td>
  <td>jtblock - Block Block* <img src="pics/jtblock.png" /></td>
