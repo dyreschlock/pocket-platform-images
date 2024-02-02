@@ -49,6 +49,7 @@ These are overrides that were either used before or made as an alternative to wh
 <tr>
  <td>jtgunsmk - Gun.Smoke <img src="pics/jtgunsmk.png" /></td>
  <td>jt1942 - 1942 <img src="pics/jt1942.png" /></td>
+ <td>jttora - Tiger Road <img src="pics/jttora.png" /></td>
 </tr>
 </table>
 
