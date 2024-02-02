@@ -51,6 +51,9 @@ These are overrides that were either used before or made as an alternative to wh
  <td>jt1942 - 1942 <img src="pics/jt1942.png" /></td>
  <td>jttora - Tiger Road <img src="pics/jttora.png" /></td>
 </tr>
+<tr>
+ <td>jtbtiger - Black Tiger <img src="pics/jtbtiger.png" /></td>
+</tr>
 </table>
 
 * TMNT Combines both TMNT and Simpsons into a Single core, but the video resolutions don't match, so it's not perfect :(
