@@ -48,8 +48,11 @@ These are overrides that were either used before or made as an alternative to wh
  <td>jtsectnz - Section Z <img src="pics/jtsectnz.png" /></td>
 </tr>
 <tr>
+ <td>jttrojan - Trojan <img src="pics/jttrojan.png" /></td>
  <td>jttora - Tiger Road <img src="pics/jttora.png" /></td>
  <td>jtvigil - Vigilante <img src="pics/jtvigil.png" /></td>
+</tr>
+<tr>
  <td>jtkiwi - Taito New Zealand <img src="pics/jtkiwi.png" /></td>
 </tr>
 <tr>
