@@ -6,7 +6,7 @@ Starting with Release v5.0, all of my images have been redone in this newer styl
 
 Feel free to use them. :)
 
-All of these images are collected in the following zip file for easy download: <a href="pocket-platform-overrides-arcade-v4_archived.zip">pocket-platform-overrides-arcade-v4_archived.zip</a>
+All of these images are collected in the following zip file for easy download: <a href="/_alternatives/pocket-platform-overrides-arcade-v4_archived.zip">pocket-platform-overrides-arcade-v4_archived.zip</a>
 
 <table>
 <tr>
