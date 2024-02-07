@@ -37,17 +37,33 @@ All of these images are collected in the following zip file for easy download: <
  <td>jtkunio - Renegade <img src="pics/jtkunio.png" /></td>
 </tr>
 <tr>
- <td>jtrastan - Rastan <img src="pics/jtrastan.png" /></td>
- <td>jtsf - Street Fighter <img src="pics/jtsf.png" /></td>
- <td>jtsectnz - Section Z <img src="pics/jtsectnz.png" /></td>
+ <td>jtmidres - Midnight Resistance <img src="pics/jtmidres.png" /></td>
+ <td>jtmikie - Mikie <img src="pics/jtmikie.png" /></td>
+ <td>jtninja - Bad Dudes <img src="pics/jtninja.png" /></td>
 </tr>
 <tr>
- <td>jttrojan - Trojan <img src="pics/jttrojan.png" /></td>
+ <td>jtrastan - Rastan <img src="pics/jtrastan.png" /></td>
+ <td>jtroc - Roc 'n Rope <img src="pics/jtroc.png" /></td>
+ <td>jtrumble - Speed Rumbler <img src="pics/jtrumble.png" /></td>
+</tr>
+<tr>
+ <td>jtsbaskt - Super Basketball <img src="pics/jtsbaskt.png" /></td>
+ <td>jtsectnz - Section Z <img src="pics/jtsectnz.png" /></td>
+ <td>jtsf - Street Fighter <img src="pics/jtsf.png" /></td>
+</tr>
+<tr>
+ <td>jtslyspy - Sly Spy <img src="pics/jtslyspy.png" /></td>
+ <td>jttmnt - Teenage Mutant Ninja Turtles <img src="pics/jttmnt.png" /></td>
  <td>jttora - Tiger Road <img src="pics/jttora.png" /></td>
+</tr>
+<tr>
+ <td>jttrack - Track and Field <img src="pics/jttrack.png" /></td>
+ <td>jttrojan - Trojan <img src="pics/jttrojan.png" /></td>
  <td>jtvigil - Vigilante <img src="pics/jtvigil.png" /></td>
 </tr>
 <tr>
  <td>jtvulgus - Vulgus <img src="pics/jtvulgus.png" /></td>
+ <td>jtyiear - Yie Ar Kung-Fu <img src="pics/jtyiear.png" /></td> 
 </tr>
 <tr>
  <td>jtkiwi - Taito New Zealand <img src="pics/jtkiwi.png" /></td>
@@ -70,6 +86,12 @@ All of these images are collected in the following zip file for easy download: <
 </tr>
 <tr>
  <td>gaplus - Gaplus <img src="pics/gaplus.png" /></td>
+ <td>moonpatrol - Moon Patrol <img src="pics/moonpatrol.png" /></td>
+ <td>rallyx - Rally X <img src="pics/rallyx.png" /></td>
+</tr>
+<tr>
+ <td>starwars - Star Wars <img src="pics/starwars.png" /></td>
+ <tr>traverseusa - MotoRace USA <img src="pics/traverseusa.png" /></td>
 </tr>
 </table>
 
