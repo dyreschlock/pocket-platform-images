@@ -32,8 +32,8 @@ All of these images are collected in the following zip file for easy download: <
  <td>jthige - Pirate Ship Higemaru <img src="pics/jthige.png" /></td>
 </tr>
 <tr>
- <td>jtkarnov - Karnov <img src="pics/karnov.png" /></td>
- <td>jtkchamp - Karate Champ <img src="pics/ktchamp.png" /></td> 
+ <td>jtkarnov - Karnov <img src="pics/jtkarnov.png" /></td>
+ <td>jtkchamp - Karate Champ <img src="pics/jtkchamp.png" /></td> 
  <td>jtkunio - Renegade <img src="pics/jtkunio.png" /></td>
 </tr>
 <tr>
