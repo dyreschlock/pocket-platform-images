@@ -2,34 +2,25 @@
 
 These are overrides that were either used before or made as an alternative to what I have in my main release.  These overrides will not be included in the release and must be downloaded manually.
 
+- Some of these are for cores that started as single games, but became a multi-game core.
+- Others are images for custom cores
+
 <table>
 <tr>
- <td colspan="3">
-
-* The following images were used for single games, but those cores either became multi-game cores, or became part of another core.
-
- </td>
+ <td>jtkiwi1 - Insector X <img src="others/pics/jtkiwi1.png" /></td>
+ <td>jtaliens - Aliens <img src="others/pics/jtaliens.png" /></td> 
+ <td>jtkarnov - Chelnov Atomic Runner <img src="others/pics/jtkarnov.png" /></td>
 </tr>
 <tr>
- <td>jtkiwi1 - Insector X <img src="pics/jtkiwi1.png" /></td>
- <td>jtaliens - Aliens <img src="pics/jtaliens.png" /></td> 
- <td>jtkarnov - Chelnov Atomic Runner <img src="pics/jtkarnov.png" /></td>
-</tr>
-<tr>
- <td colspan="3">
-
-* The following are custom cores that are not necessary
-* TMNT Combines both TMNT and Simpsons into a Single core, but the video resolutions don't match, so it's not perfect :(
-* Block Block is a custom core that copies JTpang to play Block Block. BB works on the normal JTpang core now, so it's not necessary.
-
- </td>
-</tr>
-<tr>
- <td>jttmnt_c - Konami Turtles (*Combined) <img src="pics/jttmnt_c.png" /></td>
- <td>jtblock - Block Block* <img src="pics/jtblock.png" /></td>
+ <td>jttmnt_c - Konami Turtles (*Combined) <img src="others/pics/jttmnt_c.png" /></td>
+ <td>jtblock - Block Block* <img src="others/pics/jtblock.png" /></td>
  <td></td>
 </tr>
 </table>
+
+* TMNT Combines both TMNT and Simpsons into a Single core, but the video resolutions don't match, so it's not perfect :(
+* Block Block is a custom core that copies JTpang to play Block Block. BB works on the normal JTpang core now, so it's not necessary.
+
 
 ## Previous Version of Arcade Core Images
 
