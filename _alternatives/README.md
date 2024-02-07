@@ -88,74 +88,74 @@ All of these images are collected in the following zip file for easy download: <
 <table>
 <tr><th colspan="3">Console Cores</th></tr>
 <tr>
- <td>snes - Super Nintendo <img src="pics/snes.png" /></td>
- <td>nes - Nintendo NES <img src="pics/nes.png" /></td>
- <td>ng - SNK Neo Geo <img src="pics/ng.png" /></td>
+ <td>snes - Super Nintendo <img src="home-v2/pics/snes.png" /></td>
+ <td>nes - Nintendo NES <img src="home-v2/pics/nes.png" /></td>
+ <td>ng - SNK Neo Geo <img src="home-v2/pics/ng.png" /></td>
 </tr>
 <tr>
- <td>genesis - Sega Genesis <img src="pics/genesis.png" /></td>
- <td>sms - Master System <img src="pics/sms.png" /></td>
- <td>sg1000 - Sega SG-1000 <img src="pics/sg1000.png" /></td>
+ <td>genesis - Sega Genesis <img src="home-v2/pics/genesis.png" /></td>
+ <td>sms - Master System <img src="home-v2/pics/sms.png" /></td>
+ <td>sg1000 - Sega SG-1000 <img src="home-v2/pics/sg1000.png" /></td>
 </tr>
 <tr>
- <td>pce - Turbo Grafx 16 <img src="pics/pce.png" /></td>
- <td>pcecd - Turbo Grafx CD <img src="pics/pcecd.png" /></td>
- <td>coleco - Colecovision <img src="pics/coleco.png" /></td>
+ <td>pce - Turbo Grafx 16 <img src="home-v2/pics/pce.png" /></td>
+ <td>pcecd - Turbo Grafx CD <img src="home-v2/pics/pcecd.png" /></td>
+ <td>coleco - Colecovision <img src="home-v2/pics/coleco.png" /></td>
 </tr>
 <tr>
- <td>7800 - Atari 7800 <img src="pics/7800.png" /></td>
- <td>5200 - Atari 5200 <img src="pics/5200.png" /></td>
- <td>2600 - Atari 2600 <img src="pics/2600.png" /></td>
+ <td>7800 - Atari 7800 <img src="home-v2/pics/7800.png" /></td>
+ <td>5200 - Atari 5200 <img src="home-v2/pics/5200.png" /></td>
+ <td>2600 - Atari 2600 <img src="home-v2/pics/2600.png" /></td>
 </tr>
 <tr>
- <td>intv - Intellivision <img src="pics/intv.png" /></td>
- <td>odyssey2 - Odyssey 2 <img src="pics/odyssey2.png" /></td>
- <td>channel_f - Channel-F <img src="pics/channel_f.png" /></td>
+ <td>intv - Intellivision <img src="home-v2/pics/intv.png" /></td>
+ <td>odyssey2 - Odyssey 2 <img src="home-v2/pics/odyssey2.png" /></td>
+ <td>channel_f - Channel-F <img src="home-v2/pics/channel_f.png" /></td>
 </tr>
 <tr>
- <td>arcadia - Arcadia 2001 <img src="pics/arcadia.png" /></td>
- <td>creativision - Creativsion <img src="pics/creativision.png" /></td>
- <td>studio2 - RCA Studio II <img src="pics/studio2.png" /></td>
+ <td>arcadia - Arcadia 2001 <img src="home-v2/pics/arcadia.png" /></td>
+ <td>creativision - Creativsion <img src="home-v2/pics/creativision.png" /></td>
+ <td>studio2 - RCA Studio II <img src="home-v2/pics/studio2.png" /></td>
 </tr>
 <tr>
- <td>vectrex - Vectrex <img src="pics/vectrex.png" /></td> 
+ <td>vectrex - Vectrex <img src="home-v2/pics/vectrex.png" /></td> 
 </tr>
 <tr><th colspan="3">Handheld Cores</th></tr>
 <tr>
- <td>gba - GameBoy Advance <img src="pics/gba.png" /></td>
- <td>gbc - GameBoy Color <img src="pics/gbc.png" /></td>
- <td>gb - GameBoy <img src="pics/gb.png" /></td>
+ <td>gba - GameBoy Advance <img src="home-v2/pics/gba.png" /></td>
+ <td>gbc - GameBoy Color <img src="home-v2/pics/gbc.png" /></td>
+ <td>gb - GameBoy <img src="home-v2/pics/gb.png" /></td>
 </tr>
 <tr>
- <td>supergb - Super GameBoy <img src="pics/sgb.png" /></td>
- <td>poke_mini - Pokemon Mini <img src="pics/poke_mini.png" /></td>
- <td>gnw - Game & Watch <img src="pics/gnw.png" /></td>
+ <td>supergb - Super GameBoy <img src="home-v2/pics/sgb.png" /></td>
+ <td>poke_mini - Pokemon Mini <img src="home-v2/pics/poke_mini.png" /></td>
+ <td>gnw - Game & Watch <img src="home-v2/pics/gnw.png" /></td>
 </tr>
 <tr>
- <td>jtngp - Neo Geo Pocket <img src="pics/jtngp.png" /></td>
- <td>ngpc - Neo Geo Pocket Color <img src="pics/ngpc.png" /></td>
- <td>wonderswan - WonderSwan Color <img src="pics/wonderswan.png" /></td>
+ <td>jtngp - Neo Geo Pocket <img src="home-v2/pics/jtngp.png" /></td>
+ <td>ngpc - Neo Geo Pocket Color <img src="home-v2/pics/ngpc.png" /></td>
+ <td>wonderswan - WonderSwan Color <img src="home-v2/pics/wonderswan.png" /></td>
 </tr>
 <tr>
- <td>gg - Sega GameGear <img src="pics/gg.png" /></td>
- <td>sdvmu - Sega Dreamcast VMU <img src="pics/sdvmu.png" /></td>
- <td>arduboy - Arduboy <img src="pics/arduboy.png" /></td>
+ <td>gg - Sega GameGear <img src="home-v2/pics/gg.png" /></td>
+ <td>sdvmu - Sega Dreamcast VMU <img src="home-v2/pics/sdvmu.png" /></td>
+ <td>arduboy - Arduboy <img src="home-v2/pics/arduboy.png" /></td>
 </tr>
 <tr>
- <td>lynx - Atari Lynx <img src="pics/lynx.png" /></td>
- <td>game_king - GameKing <img src="pics/game_king.png" /></td>
- <td>supervision - Supervision <img src="pics/supervision.png" /></td>
+ <td>lynx - Atari Lynx <img src="home-v2/pics/lynx.png" /></td>
+ <td>game_king - GameKing <img src="home-v2/pics/game_king.png" /></td>
+ <td>supervision - Supervision <img src="home-v2/pics/supervision.png" /></td>
 </tr>
 <tr>
- <td>megaduck - Mega Duck <img src="pics/mega_duck.png" /></td>
- <td>gamate - Gamate <img src="pics/gamate.png" /></td>
- <td>avision - Adventure Vision <img src="pics/avision.png" /></td>
+ <td>megaduck - Mega Duck <img src="home-v2/pics/mega_duck.png" /></td>
+ <td>gamate - Gamate <img src="home-v2/pics/gamate.png" /></td>
+ <td>avision - Adventure Vision <img src="home-v2/pics/avision.png" /></td>
 </tr>
 <tr><th colspan="3">Computer Cores</th></tr>
 <tr>
- <td>amiga - Amiga <img src="pics/amiga.png" /></td>
- <td>videobrain - VideoBrain <img src="pics/videobrain.png" /></td>
- <td>rx78 - Bandai RX-78 <img src="pics/rx78.png" /></td>
+ <td>amiga - Amiga <img src="home-v2/pics/amiga.png" /></td>
+ <td>videobrain - VideoBrain <img src="home-v2/pics/videobrain.png" /></td>
+ <td>rx78 - Bandai RX-78 <img src="home-v2/pics/rx78.png" /></td>
 </tr>
 </table>
 
