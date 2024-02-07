@@ -45,6 +45,8 @@ All of these images are collected in the following zip file for easy download: <
  <td>jttrojan - Trojan <img src="pics/jttrojan.png" /></td>
  <td>jttora - Tiger Road <img src="pics/jttora.png" /></td>
  <td>jtvigil - Vigilante <img src="pics/jtvigil.png" /></td>
+</tr>
+<tr>
  <td>jtvulgus - Vulgus <img src="pics/jtvulgus.png" /></td>
 </tr>
 <tr>
