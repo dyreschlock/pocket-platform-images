@@ -10,8 +10,6 @@ All of these images are collected in the following zip file for easy download: <
 
 <table>
 <tr>
-</tr>
-<tr>
  <td>jt1942 - 1942 <img src="pics/jt1942.png" /></td>
  <td>jt1943 - 1943 <img src="pics/jt1943.png" /></td>
  <td>jtbiocom - Bionic Commando <img src="pics/jtbiocom.png" /></td>
@@ -91,7 +89,7 @@ All of these images are collected in the following zip file for easy download: <
 </tr>
 <tr>
  <td>starwars - Star Wars <img src="pics/starwars.png" /></td>
- <tr>traverseusa - MotoRace USA <img src="pics/traverseusa.png" /></td>
+ <td>traverseusa - MotoRace USA <img src="pics/traverseusa.png" /></td>
 </tr>
 </table>
 
