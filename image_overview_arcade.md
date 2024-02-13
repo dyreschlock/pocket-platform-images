@@ -29,11 +29,14 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>jtkiwi - Taito NewZealand Board <img src="pics/arcade/jtkiwi.png" /></td>
  <td>jtshouse - Namco System I <img src="pics/arcade/jtshouse.png" /></td>
 </tr>
-<tr><th colspan="3">Other Multi Game Arcade Cores (from <a href="https://github.com/antongale">Anton Gale</a>, <a href="https://patreon.com/nullobject">nullobject</a>, <a href="https://github.com/Coin-OpCollection">Coin-Op Collection</a>)</th></tr>
+<tr><th colspan="3">Other Multi Game Arcade Cores (from <a href="https://github.com/antongale">Anton Gale</a>, <a href="https://patreon.com/nullobject">nullobject</a>, <a href="https://github.com/Coin-OpCollection">Coin-Op Collection</a>, <a href="https://github.com/obsidian-dot-dev">Obsidian</a>)</th></tr>
 <tr>
  <td>taitosj - Taito System SJ <img src="pics/arcade/taitosj.png" /></b></td>
  <td>tecmo - Tecmo Rygar Board <img src="pics/arcade/tecmo.png" /></b></td>
  <td>toaplan2_c - Toaplan Version 2 (Combo*) <img src="pics/arcade/toaplan2_c.png" /></td>
+</tr>
+<tr>
+ <td>druaga - Namco Druaga Board <img src="pics/arcade/druaga.png" /></td>
 </tr>
 <tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Single Game Arcade Cores</th></tr>
 <tr>
@@ -147,7 +150,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>performan - Performan <img src="pics/arcade/performan.png" /></td>
  <td>exerion - Exerion <img src="pics/arcade/exerion.png" /></td>
 </tr>
-<tr><th colspan="3"><a href="https://github.com/obsidian-dot-dev">Obsidian</a> Arcade Cores</th></tr>
+<tr><th colspan="3"><a href="https://github.com/obsidian-dot-dev">Obsidian</a> Single Game Arcade Cores</th></tr>
 <tr>
  <td>dkongjr - Donkey Kong Jr. <img src="pics/arcade/dkongjr.png" /></td>
  <td>dkong3 - Donkey Kong 3 <img src="pics/arcade/dkong3.png" /></td>
