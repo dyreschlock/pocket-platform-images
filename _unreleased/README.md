@@ -38,14 +38,9 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>crazykong - Crazy Kong  <img src="pics/crazykong.png" /></td>
 </tr>
 <tr>
- <td>donkeykongjunior - Donkey Kong Jr.  <img src="pics/donkeykongjunior.png" /></td>
- <td>donkeykong3 - Donkey Kong 3 <img src="pics/donkeykong3.png" /></td>
  <td>galaxian - Galaxian <img src="pics/galaxian.png" /></td> 
-</tr>
-<tr>
  <td>galivan - Cosmo Police Galivan <img src="pics/galivan.png" /></td>
  <td>gaplus - Gaplus <img src="pics/gaplus.png" /></td>
- <td>mariobros - Mario Bros <img src="pics/mariobros.png" /></td>
 </tr>
 <tr>
  <td>ninjakun - Ninja-Kun <img src="pics/ninjakun.png" /></td>
