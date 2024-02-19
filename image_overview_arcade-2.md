@@ -99,6 +99,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Space Race (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="pics/arcade/spacerace.png" /></td>
 </tr>
 <tr>
+ <td>Star Wars (by <a href="https://github.com/Mazamars312">Mazamars</a>) <img src="pics/arcade/ataristarwars.png" /></td>
  <td>Super Breakout (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="pics/arcade/superbreakout.png" /></td>
 </tr>
 <tr><th colspan="3"> Raizing Single Arcade Games</th></tr>

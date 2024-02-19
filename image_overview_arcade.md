@@ -159,10 +159,13 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>astdelux - Asteroids Deluxe <img src="pics/arcade/astdelux.png" /></td>
 </tr>
-<tr><th colspan="3">Single Core Games from <a href="https://github.com/agg23">agg23</a>, <a href="https://github.com/RndMnkIII">RndMnkIII</a>, <a href="https://github.com/AwesomeDolphin">AwesomeDolphin</a></th></tr>
+<tr><th colspan="3">Single Core Games from <a href="https://github.com/agg23">agg23</a>, <a href="https://github.com/RndMnkIII">RndMnkIII</a>, <a href="https://github.com/AwesomeDolphin">AwesomeDolphin</a>, <a href="https://github.com/Mazamars312">Mazamars</a></th></tr>
 <tr>
  <td>alphamission - Armored-Scrum-Object <img src="pics/arcade/alphamission.png" /></td>
  <td>spaceinvaders - Space Invaders <img src="pics/arcade/spaceinvaders.png" /></td>
  <td>pong - Atari Pong <img src="pics/arcade/pong.png" /></td>
+</tr>
+<tr>
+ <td>ataristarwars - Star Wars <img src="pics/arcade/ataristarwars.png" /></td>
 </tr>
 </table>
