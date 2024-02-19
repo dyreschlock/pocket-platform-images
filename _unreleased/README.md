@@ -159,7 +159,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>segasys12 - Sega System 1 & 2 <img src="pics/segasys12.png" /></td>
  <td>robotron - Williams 6809 Rev. 1 <img src="pics/robotron.png" /></td>
- <td>druaga - Namco Super Pacman Board <img src="pics/druaga.png" /></td>
+ <td>superpac - Namco Super Pacman Board <img src="pics/superpac.png" /></td>
 </tr>
 <tr>
  <td>iremm92 - Item M92 Board <img src="pics/iremm92.png" /></td>
