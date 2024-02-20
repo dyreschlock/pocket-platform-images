@@ -26,6 +26,10 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr>
  <td>jtaliens - Konami Aliens <img src="/pics/arcade/jtaliens.png" /></td> 
+ <td>jtsimson - Konami Simpsons <img src="/pics/arcade/jtsimson.png" /></td>
+ <td>jttmnt - Konami TMNT <img src="/pics/arcade/jttmnt.png" /></td>
+</tr>
+<tr>
  <td>jtkiwi - Taito NewZealand Board <img src="pics/arcade/jtkiwi.png" /></td>
  <td>jtshouse - Namco System I <img src="pics/arcade/jtshouse.png" /></td>
 </tr>
@@ -77,14 +81,10 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>Roc'n Rope (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/arcade/jtroc.png" /></td>
  <td>Shao-Lin's Road (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/arcade/jtkicker.png" /></td>
- <td>The Simpsons (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/arcade/jtsimson.png" /></td>
-</tr>
-<tr>
  <td>Super Basketball (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/arcade/jtsbaskt.png" /></td>
- <td>Teenage Mutant Ninja Turtles (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/arcade/jttmnt.png" /></td>
- <td>Track & Field (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/arcade/jttrack.png" /></td>
 </tr>
 <tr>
+ <td>Track & Field (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/arcade/jttrack.png" /></td>
  <td>Yie Ar Kung-Fu (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/arcade/jtyiear.png" /></td>
 </tr>
 <tr><th colspan="3"> Atari Single Arcade Games</th></tr>

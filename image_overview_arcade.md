@@ -26,6 +26,10 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr>
  <td>jtaliens - Konami Aliens <img src="/pics/arcade/jtaliens.png" /></td> 
+ <td>jtsimson - Konami Simpsons <img src="/pics/arcade/jtsimson.png" /></td>
+ <td>jttmnt - Konami TMNT <img src="/pics/arcade/jttmnt.png" /></td>
+</tr>
+<tr>
  <td>jtkiwi - Taito NewZealand Board <img src="pics/arcade/jtkiwi.png" /></td>
  <td>jtshouse - Namco System I <img src="pics/arcade/jtshouse.png" /></td>
 </tr>
@@ -87,16 +91,14 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>jtsf - Street Fighter <img src="pics/arcade/jtsf.png" /></td>
  <td>jtshanon - Super Hang-On <img src="pics/arcade/jtshanon.png" /></td>
- <td>jtsimson - The Simpsons <img src="pics/arcade/jtsimson.png" /></td>
-</tr>
-<tr>
  <td>jttora - Tiger Road <img src="pics/arcade/jttora.png" /></td>
- <td>jttmnt - Teenage Mutant Ninja Turtles <img src="pics/arcade/jttmnt.png" /></td>
- <td>jttrojan - Trojan <img src="pics/arcade/jttrojan.png" /></td>
 </tr>
 <tr>
+ <td>jttrojan - Trojan <img src="pics/arcade/jttrojan.png" /></td>
  <td>jttrack - Track & Field <img src="pics/arcade/jttrack.png" /></td>
  <td>jtvigil - Vigilante <img src="pics/arcade/jtvigil.png" /></td>
+</tr>
+<tr>
  <td>jtyiear - Yie Ar Kung-Fu <img src="pics/arcade/jtyiear.png" /></td>
 </tr>
 <tr><th colspan="3">CoinOpCollection Single Game Arcade Cores (from <a href="https://github.com/psomashekar">Pram0d</a>)</th></tr>
