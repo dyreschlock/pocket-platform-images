@@ -193,7 +193,6 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr><th colspan="3">Consoles Cores</th></tr>
 <tr>
- <td>vectrex - Vertrex <img src="pics/vectrex.png" /></td>
  <td>segapico - Sega Pico <img src="pics/segapico.png" /></td>
 </tr>
 <tr><th colspan="3">Computer Cores</th></tr>

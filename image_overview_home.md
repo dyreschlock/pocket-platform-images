@@ -30,12 +30,15 @@ You can view those differences here: <b><a href="image_regional_variants.md">Reg
 </tr>
 <tr>
  <td>intv - Intellivision <img src="pics/home/intv.png" /></td>
+ <td>vectrex - Vectrex <img src="pics/home/vectrex.png" /></td>
  <td>odyssey2 - Odyssey 2 <img src="pics/home/odyssey2.png" /></td>
- <td>channel_f - Channel-F <img src="pics/home/channel_f.png" /></td>
 </tr>
 <tr>
+ <td>channel_f - Channel-F <img src="pics/home/channel_f.png" /></td>
  <td>arcadia - Arcadia 2001 <img src="pics/home/arcadia.png" /></td>
  <td>creativision - Creativsion <img src="pics/home/creativision.png" /></td>
+</tr>
+<tr>
  <td>studio2 - RCA Studio II <img src="pics/home/studio2.png" /></td>
 </tr>
 <tr><th colspan="3">Handheld Cores</th></tr>
