@@ -45,7 +45,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr><th colspan="3"> Capcom Single Arcade Games</th></tr>
 <tr>
  <td>1942 (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jt1942.png" /></td>
- <td>1942 (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jt1943.png" /></td>
+ <td>1943 (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jt1943.png" /></td>
  <td>Black Tiger (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtbtiger.png" /></td>
 </tr>
 <tr>
