@@ -45,20 +45,21 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr><th colspan="3"> Capcom Single Arcade Games</th></tr>
 <tr>
  <td>1942 (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jt1942.png" /></td>
+ <td>1942 (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jt1943.png" /></td>
  <td>Black Tiger (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtbtiger.png" /></td>
- <td>Exed Exes (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/arcade/jtexed.png" /></td>
 </tr>
 <tr>
+ <td>Exed Exes (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/arcade/jtexed.png" /></td>
  <td>Ghosts 'n Goblins (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/arcade/jtgng.png" /></td>
  <td>Gun.Smoke (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/arcade/jtgunsmk.png" /></td>
- <td>Hyper Dyne Side Arms (by <a href="https://patreon.com/jotego">Jotego</a>)  <img src="pics/arcade/jtsarms.png" /></td>
 </tr>
 <tr>
+ <td>Hyper Dyne Side Arms (by <a href="https://patreon.com/jotego">Jotego</a>)  <img src="pics/arcade/jtsarms.png" /></td>
  <td>Pang / Super Pang (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/arcade/jtpang.png" /></td>
  <td>Section Z (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/arcade/jtsectnz.png" /></td>
- <td>Street Fighter (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/arcade/jtsf.png" /></td>
 </tr>
 <tr>
+ <td>Street Fighter (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/arcade/jtsf.png" /></td>
  <td>Tiger Road (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/arcade/jttora.png" /></td>
  <td>Trojan (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/arcade/jttrojan.png" /></td>
 </tr>

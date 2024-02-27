@@ -9,21 +9,18 @@ These are platform overrides for cores that haven't been released yet. These cor
 <table>
 <tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Single Game Arcade Cores</th></tr>
 <tr>
- <td>jt1943 - 1943 <img src="pics/jt1943.png" /></td>
  <td>jtbiocom - Bionic Commando <img src="pics/jtbiocom.png" /></td>
  <td>jtcommnd - Commando <img src="pics/jtcommnd.png" /></td>
+ <td>jtflane - Fast Lane <img src="pics/jtflane.png" /></td>
 </tr>
 <tr>
- <td>jtflane - Fast Lane <img src="pics/jtflane.png" /></td>
  <td>jtkchamp - Karate Champ <img src="pics/jtkchamp.png" /></td>
  <td>jtlabrun - Labyrinth Runner <img src="pics/jtlabrun.png" /></td>
+ <td>jtmidres - Midnight Resistance <img src="pics/jtmidres.png" /></td>
 </tr>
 <tr>
- <td>jtmidres - Midnight Resistance <img src="pics/jtmidres.png" /></td>
  <td>jtmx5k - Flak Attack <img src="pics/jtmx5k.png" /></td>
  <td>jtrumble - Speed Rumbler  <img src="pics/jtrumble.png" /></td>
-</tr>
-<tr>
  <td>jtslyspy - Sly Spy <img src="pics/jtslyspy.png" /></td>
 </tr>
 <tr><th colspan="3"><a href="https://github.com/opengateware">OpenGateware</a> Single Game Arcade Cores</th></tr>
