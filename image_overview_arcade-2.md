@@ -72,7 +72,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr><th colspan="3"> Sega Arcade Games</th></tr>
 <tr>
- <td>Sega System 16 (Combined*) <img src="/pics/arcade/jts16_c.png"></td>
+ <td>Sega System 16 (Combo*) (<a href="https://github.com/espiox/jts16_complete">details</a>) <img src="/pics/arcade/jts16_c.png"></td>
  <td>Sega System 16A (by <a href="https://patreon.com/jotego">Jotego</a>)  <img src="/pics/arcade/jts16.png" /></td>
  <td>Sega System 16B (by <a href="https://patreon.com/jotego">Jotego</a>)  <img src="/pics/arcade/jts16b.png" /></td>
 </tr>
@@ -130,16 +130,16 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Mario Bros. (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="pics/arcade/mario.png" /></td>
  <td>Radar Scope (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="pics/arcade/radarscope.png" /></td>
 </tr>
-<tr><th colspan="3"> Raizing Single Arcade Games</th></tr>
+<tr><th colspan="3"> Raizing Arcade Games</th></tr>
 <tr>
+ <td>Toaplan Version 2 (Combo*) (<a href="https://github.com/dyreschlock/pocket-extras/tree/main/toaplan2_complete">details</a>) <img src="pics/arcade/toaplan2_c.png" /></td>
  <td>Armed Police Batrider (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="pics/arcade/batrider.png" /></td> 
  <td>Battle Garegga (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="pics/arcade/garegga.png" /></td>
- <td>Battle Bakraid (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="pics/arcade/bakraid.png" /></td>
 </tr>
 <tr>
+ <td>Battle Bakraid (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="pics/arcade/bakraid.png" /></td>
  <td>Kingdom Gran Prix (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="pics/arcade/kingdmgp.png" /></td>
  <td>Sorcerer Striker (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="pics/arcade/sstriker.png" /></td>
- <td>Toaplan Version 2 (<a href="https://github.com/dyreschlock/pocket-extras/tree/main/toaplan2_complete">details</a>) <img src="pics/arcade/toaplan2_c.png" /></td>
 </tr>
 <tr><th colspan="3"> Toplan Arcade Games</th></tr>
 <tr>
