@@ -137,6 +137,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr>
  <td>jackal - Jackal <img src="pics/jackal.png" /></td>
+ <td>scramble - Scramble <img src="pics/scramble.png" /></td>
 </tr>
 <tr><th colspan="3">Other Upcoming Arcade cores</th></tr>
 <tr>
