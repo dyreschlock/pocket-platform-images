@@ -130,7 +130,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Mario Bros. (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="pics/arcade/mario.png" /></td>
  <td>Radar Scope (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="pics/arcade/radarscope.png" /></td>
 </tr>
-<tr><th colspan="3"> Raizing Arcade Games</th></tr>
+<tr><th colspan="3"> Toaplan & Raizing Arcade Games</th></tr>
 <tr>
  <td>Toaplan Version 2 (Combo*) (<a href="https://github.com/dyreschlock/pocket-extras/tree/main/toaplan2_complete">details</a>) <img src="pics/arcade/toaplan2_c.png" /></td>
  <td>Armed Police Batrider (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="pics/arcade/batrider.png" /></td> 
@@ -141,7 +141,6 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Kingdom Gran Prix (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="pics/arcade/kingdmgp.png" /></td>
  <td>Sorcerer Striker (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="pics/arcade/sstriker.png" /></td>
 </tr>
-<tr><th colspan="3"> Toplan Arcade Games</th></tr>
 <tr>
  <td>Snow Bros 2 (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="pics/arcade/snowbros2.png" /></td>
  <td>Truxton II / Tatsujin Oh (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/arcade/truxton2.png" /></td>
