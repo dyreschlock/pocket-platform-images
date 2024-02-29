@@ -145,6 +145,16 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr><th colspan="3">Possbile Multi Game Arcade cores from <a href="https://github.com/opengateware">OpenGateware</a></th></tr>
 <tr>
+ <td>iremm92 - Item M92 Board <img src="pics/iremm92.png" /></td>
+ <td>iremm72 - Irem M72 Board <img src="pics/iremm72.png" /></td>
+ <td>iremm62 - Irem M62 Board <img src="pics/iremm62.png" /></td>
+</tr>
+<tr>
+ <td>iremm5x - Irem M50 Series <img src="pics/iremm5x.png" /></td>
+ <td>segasys12 - Sega System 1 & 2 <img src="pics/segasys12.png" /></td>
+ <td>superpac - Namco Super Pacman Board <img src="pics/superpac.png" /></td>
+</tr>
+<tr>
  <td>mcr_c - Bally Midway MCR (Combined) <img src="pics/mcr_c.png" /></td>
  <td>mcr3scroll - Bally Midway MCR-3 (Scroll) <img src="pics/mcr3scroll.png" /></td>
  <td>mcr3mono - Bally Midway MCR-3 (Mono) <img src="pics/mcr3mono.png" /></td>
@@ -155,17 +165,7 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>mcr3 - Bally Midway MCR-3 <img src="pics/mcr3.png" /></td>
 </tr>
 <tr>
- <td>segasys12 - Sega System 1 & 2 <img src="pics/segasys12.png" /></td>
  <td>robotron - Williams 6809 Rev. 1 <img src="pics/robotron.png" /></td>
- <td>superpac - Namco Super Pacman Board <img src="pics/superpac.png" /></td>
-</tr>
-<tr>
- <td>iremm92 - Item M92 Board <img src="pics/iremm92.png" /></td>
- <td>iremm72 - Irem M72 Board <img src="pics/iremm72.png" /></td>
- <td>iremm62 - Irem M62 Board <img src="pics/iremm62.png" /></td>
-</tr>
-<tr>
- <td>iremm5x - Irem M50 Series <img src="pics/iremm5x.png" /></td>
 </tr>
 <tr><th colspan="3">Unlikely or Impossible Arcade cores</th></tr>
 <tr>
