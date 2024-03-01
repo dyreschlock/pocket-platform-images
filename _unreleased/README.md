@@ -169,6 +169,9 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>robotron - Williams Robotron <img src="pics/robotron.png" /></td>
  <td>joust2 - Williams Joust 2 <img src="pics/joust2.png" /></td>
 </tr>
+<tr>
+ <td>willams_c - William 6809 (Combined) <img src="pics/williams_c.png" /></td>
+</tr>
 <tr><th colspan="3">Unlikely or Impossible Arcade cores</th></tr>
 <tr>
  <td>jtcps3 - Capcom CPS-3 System <img src="pics/jtcps3.png" /></td>
