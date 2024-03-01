@@ -165,7 +165,9 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>mcr3 - Bally Midway MCR-3 <img src="pics/mcr3.png" /></td>
 </tr>
 <tr>
- <td>robotron - Williams 6809 Rev. 1 <img src="pics/robotron.png" /></td>
+ <td>defender - Williams Defender <img src="pics/defender.png" /></td>
+ <td>robotron - Williams Robotron <img src="pics/robotron.png" /></td>
+ <td>joust2 - Williams Joust 2 <img src="pics/joust2.png" /></td>
 </tr>
 <tr><th colspan="3">Unlikely or Impossible Arcade cores</th></tr>
 <tr>
