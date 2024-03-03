@@ -142,6 +142,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr><th colspan="3">Other Upcoming Arcade cores</th></tr>
 <tr>
  <td>exidyugb2 - Exidy UGB 2 <img src="pics/exidyugb2.png" /></td>
+ <td>athena - Athena <img src="pics/athena.png" /></td> 
 </tr>
 <tr><th colspan="3">Possbile Multi Game Arcade cores from <a href="https://github.com/opengateware">OpenGateware</a></th></tr>
 <tr>
