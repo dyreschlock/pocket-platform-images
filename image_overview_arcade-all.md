@@ -22,12 +22,12 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Capcom CPS-2 System (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtcps2.png" /></td>
 </tr>
 <tr>
- <td>1942 (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="//pics/arcade/jt1942.png" /></td>
- <td>1943 (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="//pics/arcade/jt1943.png" /></td>
+ <td>1942 (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jt1942.png" /></td>
+ <td>1943 (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jt1943.png" /></td>
  <td>Bionic Commando (unreleased) <img src="/_unreleased/pics/jtbiocom.png" /></td>
 </tr>
 <tr>
- <td>Black Tiger (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="//pics/arcade/jtbtiger.png" /></td>
+ <td>Black Tiger (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtbtiger.png" /></td>
  <td>Exed Exes (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtexed.png" /></td>
  <td>Ghosts 'n Goblins (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtgng.png" /></td>
 </tr>
@@ -47,9 +47,9 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr><th colspan="3"> Konami Arcade Games</th></tr>
 <tr>
- <td>Konami Aliens (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="//pics/arcade/jtaliens.png" /></td> 
- <td>Konami Simpsons (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="//pics/arcade/jtsimson.png" /></td>
- <td>Konami TMNT (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="//pics/arcade/jttmnt.png" /></td>
+ <td>Konami Aliens (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtaliens.png" /></td> 
+ <td>Konami Simpsons (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsimson.png" /></td>
+ <td>Konami TMNT (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttmnt.png" /></td>
 </tr>
 <tr>
  <td>Combat School (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtcomsc.png" /></td>
@@ -68,8 +68,8 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr>
  <td>Iron Horse (unreleased) <img src="/_unreleased/pics/ironhorse.png" /></td>
- <td>Haunted Castle (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="//pics/arcade/jtcastle.png" /></td>
- <td>Jail Break (by <a href="https://github.com/rolandking">Rols</a>) <img src="//pics/arcade/jailbreak.png" /></td>
+ <td>Haunted Castle (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtcastle.png" /></td>
+ <td>Jail Break (by <a href="https://github.com/rolandking">Rols</a>) <img src="/pics/arcade/jailbreak.png" /></td>
 </tr>
 <tr>
  <td>Jackal (unreleased) <img src="/_unreleased/pics/jackal.png" /></td>
@@ -97,9 +97,9 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr><th colspan="3"> Sega Arcade Games</th></tr>
 <tr>
- <td>Sega System 16 (Combo*) (<a href="https://github.com/espiox/jts16_complete">details</a>) <img src="//pics/arcade/jts16_c.png"></td>
- <td>Sega System 16A (by <a href="https://patreon.com/jotego">Jotego</a>)  <img src="//pics/arcade/jts16.png" /></td>
- <td>Sega System 16B (by <a href="https://patreon.com/jotego">Jotego</a>)  <img src="//pics/arcade/jts16b.png" /></td>
+ <td>Sega System 16 (Combo*) (<a href="https://github.com/espiox/jts16_complete">details</a>) <img src="/pics/arcade/jts16_c.png"></td>
+ <td>Sega System 16A (by <a href="https://patreon.com/jotego">Jotego</a>)  <img src="/pics/arcade/jts16.png" /></td>
+ <td>Sega System 16B (by <a href="https://patreon.com/jotego">Jotego</a>)  <img src="/pics/arcade/jts16b.png" /></td>
 </tr>
 <tr>
  <td>Sega System 1 & 2 (unreleased) <img src="/_unreleased/pics/segasys12.png" /></td>
@@ -118,7 +118,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Arkanoid (unreleased) <img src="/_unreleased/pics/arkanoid.png" /></td>
 </tr>
 <tr>
- <td>Bubble Bobble (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="//pics/arcade/jtbubl.png" /></td>
+ <td>Bubble Bobble (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtbubl.png" /></td>
  <td>Crazy Balloon  (unreleased) <img src="/_unreleased/pics/crazyballoon.png" /></td>
  <td>Rastan (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtrastan.png" /></td>
 </tr>
@@ -235,24 +235,24 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>Armored-Scrum-Object (by <a href="https://github.com/RndMnkIII">RndMnkIII</a>) <img src="/pics/arcade/alphamission.png" /></td>
  <td>Athena (unreleased) <img src="/_unreleased/pics/athena.png" /></td> 
+ <td>Gang Wars (unreleased) <img src="/_unreleased/pics/gangwars.png" /></td>
 </tr>
 <tr>
- <td>Gang Wars (unreleased) <img src="/_unreleased/pics/gangwars.png" /></td>
  <td>Ikari 3 The Rescue (unreleased) <img src="/_unreleased/pics/ikari3.png" /></td>
  <td>The Next Space (unreleased) <img src="/_unreleased/pics/nextspace.png" /></td>
+ <td>Paddle Mania (unreleased) <img src="/_unreleased/pics/paddlema.png" /></td>
 </tr>
 <tr>
- <td>Paddle Mania (unreleased) <img src="/_unreleased/pics/paddlema.png" /></td>
  <td>Prisoners of War (unreleased) <img src="/_unreleased/pics/pow.png" /></td>
  <td>Prehistoric Isle (unreleased) <img src="/_unreleased/pics/prehisle.png" /></td>
+ <td>Super Champion Baseball (unreleased) <img src="/_unreleased/pics/sbaseball.png" /></td>
 </tr>
 <tr>
- <td>Super Champion Baseball (unreleased) <img src="/_unreleased/pics/sbaseball.png" /></td>
  <td>Search and Rescue (unreleased) <img src="/_unreleased/pics/searchar.png" /></td>
  <td>Sky Adventures (unreleased) <img src="/_unreleased/pics/skyadvnt.png" /></td>
-</tr>
-<tr> 
  <td>Sky Soldiers (unreleased) <img src="/_unreleased/pics/skysoldr.png" /></td>
+</tr>
+<tr>
  <td>Street Smart (unreleased) <img src="/_unreleased/pics/streetsm.png" /></td>
  <td>Time Soldiers / Battle Field (unreleased) <img src="/_unreleased/pics/timesold.png" /></td>
 </tr>
