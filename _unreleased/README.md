@@ -12,6 +12,9 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>Bionic Commando (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/jtbiocom.png" /></td>
  <td>Commando (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/jtcommnd.png" /></td>
+ <td>Son Son <img src="pics/sonson.png" /></td>
+</tr>
+<tr>
  <td>Speed Rumbler (by <a href="https://patreon.com/jotego">Jotego</a>)  <img src="pics/jtrumble.png" /></td>
 </tr>
 <tr><th colspan="3"> Konami Arcade Cores</th></tr>
@@ -151,7 +154,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr><th colspan="3">Bally Midway Arcade cores</th></tr>
 <tr>
- <td>Bally Midway MCR (Combo) (by <a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/mcr_c.png" /></td>
+ <td>Bally Midway MCR (Combo) (<a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/mcr_c.png" /></td>
  <td>Bally Midway MCR-3 (by <a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/mcr3scroll.png" /></td>
  <td>Bally Midway MCR-3 (by <a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/mcr3mono.png" /></td>
 </tr>
