@@ -7,177 +7,193 @@ These are platform overrides for cores that haven't been released yet. These cor
 ## Unreleased Arcade Core Overrides
 
 <table>
-<tr><th colspan="3"><a href="https://patreon.com/jotego">Jotego</a> Single Game Arcade Cores</th></tr>
+<tr><th colspan="3"> Capcom Arcade Cores</th></tr>
 <tr>
- <td>jtbiocom - Bionic Commando <img src="pics/jtbiocom.png" /></td>
- <td>jtcommnd - Commando <img src="pics/jtcommnd.png" /></td>
- <td>jtflane - Fast Lane <img src="pics/jtflane.png" /></td>
+ <td>Bionic Commando (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/jtbiocom.png" /></td>
+ <td>Commando (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/jtcommnd.png" /></td>
+ <td>Speed Rumbler (by <a href="https://patreon.com/jotego">Jotego</a>)  <img src="pics/jtrumble.png" /></td>
+</tr>
+<tr><th colspan="3"> Konami Arcade Cores</th></tr>
+<tr>
+ <td>Fast Lane (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/jtflane.png" /></td>
+ <td>Flak Attack (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/jtmx5k.png" /></td>
+ <td>Finalizer <img src="pics/finalizer.png" /></td>
 </tr>
 <tr>
- <td>jtkchamp - Karate Champ <img src="pics/jtkchamp.png" /></td>
- <td>jtlabrun - Labyrinth Runner <img src="pics/jtlabrun.png" /></td>
- <td>jtmidres - Midnight Resistance <img src="pics/jtmidres.png" /></td>
+ <td>Gyruss <img src="pics/gyruss.png" /></td> 
+ <td>Iron Horse <img src="pics/ironhorse.png" /></td>
+ <td>Jackal <img src="pics/jackal.png" /></td>
 </tr>
 <tr>
- <td>jtmx5k - Flak Attack <img src="pics/jtmx5k.png" /></td>
- <td>jtrumble - Speed Rumbler  <img src="pics/jtrumble.png" /></td>
- <td>jtslyspy - Sly Spy <img src="pics/jtslyspy.png" /></td>
-</tr>
-<tr><th colspan="3"><a href="https://github.com/opengateware">OpenGateware</a> Single Game Arcade Cores</th></tr>
-<tr>
- <td>ataritetris - Atari Tetris  <img src="pics/ataritetris.png" /></td>
- <td>bombjack - Bomb Jack <img src="pics/bombjack.png" /></td>
- <td>burgertime - Burger Time <img src="pics/burgertime.png" /></td>
+ <td>Labyrinth Runner (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/jtlabrun.png" /></td>
+ <td>Scramble <img src="pics/scramble.png" /></td>
+ <td>Time Pilot <img src="pics/timepilot.png" /></td>
 </tr>
 <tr>
- <td>burningrubber - Burnin' Rubber <img src="pics/burningrubber.png" /></td> 
- <td>crazyballoon - Crazy Balloon  <img src="pics/crazyballoon.png" /></td>
- <td>crazykong - Crazy Kong  <img src="pics/crazykong.png" /></td>
+ <td>Time Pilot '84 <img src="pics/timepilot84.png" /></td>
+</tr>
+<tr><th colspan="3"> Sega Arcade Cores</th></tr>
+<tr>
+ <td>Sega System 1 & 2 (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/segasys12.png" /></td>
+ <td>Zaxxon (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/zaxxon.png" /></td>
+</tr>
+<tr><th colspan="3"> Namco Arcade Cores</th></tr>
+<tr>
+ <td>Namco Super Pacman (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/superpac.png" /></td>
+ <td>Galaxian (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/galaxian.png" /></td> 
+ <td>Gaplus (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/gaplus.png" /></td>
 </tr>
 <tr>
- <td>galaxian - Galaxian <img src="pics/galaxian.png" /></td> 
- <td>galivan - Cosmo Police Galivan <img src="pics/galivan.png" /></td>
- <td>gaplus - Gaplus <img src="pics/gaplus.png" /></td>
+ <td>Pac-Man / Ms. Pac-Man (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/pacman.png" /></td> 
+ <td>Rally-X (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/rallyx.png" /></td>
+ <td>Bosconian <img src="pics/bosconian.png" /></td>
+</tr>
+<tr><th colspan="3"> Data East Arcade Cores</th></tr>
+<tr>
+ <td>Burger Time (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/burgertime.png" /></td>
+ <td>Midnight Resistance (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/jtmidres.png" /></td>
+ <td>Sly Spy (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/jtslyspy.png" /></td>
+</tr>
+<tr><th colspan="3"> Technos Japan Arcade Cores</th></tr>
+<tr>
+ <td>Karate Champ (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/jtkchamp.png" /></td>
+</tr>
+<tr><th colspan="3"> Nintendo Arcade Cores</th></tr>
+
+<tr>
+ <td>Popeye (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/popeye.png" /></td>
+</tr>
+<tr><th colspan="3"> Atari Arcade Cores</th></tr>
+<tr>
+ <td>Atari Tetris (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/ataritetris.png" /></td>
+</tr>
+<tr><th colspan="3"> Taito Arcade Cores</th></tr>
+<tr>
+ <td>Arkanoid <img src="pics/arkanoid.png" /></td>
+ <td>Crazy Balloon (by <a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/crazyballoon.png" /></td>
+</tr>
+<tr><th colspan="3"> Nichibutsu Arcade Cores</th></tr>
+<tr>
+ <td>Amatelas (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/amatelas.png" /></td>
+ <td>Armed Formation F (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/armedf.png" /></td>
+ <td>Tatekae! Big Fighter (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/bigfghtr.png" /></td>
 </tr>
 <tr>
- <td>ninjakun - Ninja-Kun <img src="pics/ninjakun.png" /></td>
- <td>pacman - Pac-Man / Ms. Pac-Man <img src="pics/pacman.png" /></td> 
- <td>popeye - Popeye <img src="pics/popeye.png" /></td>
+ <td>Cosmo Police Galivan (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/galivan.png" /></td>
+ <td>Crazy Climber 2 (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/cclimbr2.png" /></td>
+ <td>Kid no Hore Hore Daisakusen (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/horekid.png" /></td>
 </tr>
 <tr>
- <td>rallyx - Rally-X <img src="pics/rallyx.png" /></td>
- <td>zaxxon - Zaxxon <img src="pics/zaxxon.png" /></td>
-</tr>
-<tr><th colspan="3"><a href="https://patreon.com/atrac17">CoinOpCollection</a> Single Game Arcade Cores</th></tr>
-<tr>
- <td>gangways - Gang Wars <img src="pics/gangwars.png" /></td>
- <td>ikari3 - Ikari 3 The Rescue <img src="pics/ikari3.png" /></td>
- <td>nextspace - The Next Space <img src="pics/nextspace.png" /></td>
+ <td>Lone Wolf & Club (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/kozure.png" /></td>
+ <td>Chouji Meikyuu Legion (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/legionj.png" /></td>
+ <td>Terra Cresta (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/terracresta.png" /></td> 
 </tr>
 <tr>
- <td>paddlema - Paddle Mania <img src="pics/paddlema.png" /></td>
- <td>pow - Prisoners of War <img src="pics/pow.png" /></td>
- <td>prehisle - Prehistoric Isle <img src="pics/prehisle.png" /></td>
+ <td>Terra Force (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/terrafj.png" /></td>
+</tr>
+<tr><th colspan="3"> SNK Arcade Cores</th></tr>
+<tr>
+ <td>Athena <img src="pics/athena.png" /></td> 
+ <td>Gang Wars (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/gangwars.png" /></td>
+ <td>Ikari 3 The Rescue (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/ikari3.png" /></td>
 </tr>
 <tr>
- <td>sbaseball - Super Champion Baseball <img src="pics/sbaseball.png" /></td>
- <td>searchar - Search and Rescue <img src="pics/searchar.png" /></td>
- <td>skyadvnt - Sky Adventures <img src="pics/skyadvnt.png" /></td>
-</tr>
-<tr> 
- <td>skysoldr - Sky Soldiers <img src="pics/skysoldr.png" /></td>
- <td>streetsm - Street Smart <img src="pics/streetsm.png" /></td>
- <td>timesold - Time Soldiers / Battle Field <img src="pics/timesold.png" /></td>
+ <td>The Next Space (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/nextspace.png" /></td>
+ <td>Paddle Mania (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/paddlema.png" /></td>
+ <td>Prisoners of War (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/pow.png" /></td>
 </tr>
 <tr>
- <td>amatelas - Amatelas <img src="pics/amatelas.png" /></td>
- <td>armedf - Armed Formation F <img src="pics/armedf.png" /></td>
- <td>bigfghtr - Tatekae! Big Fighter <img src="pics/bigfghtr.png" /></td>
+ <td>Prehistoric Isle (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/prehisle.png" /></td>
+ <td>Super Champion Baseball (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/sbaseball.png" /></td>
+ <td>Search and Rescue (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/searchar.png" /></td>
 </tr>
 <tr>
- <td>cclimbr2 - Crazy Climber 2 <img src="pics/cclimbr2.png" /></td>
- <td>horekid - Kid no Hore Hore Daisakusen <img src="pics/horekid.png" /></td>
- <td>kozure - Lone Wolf & Club <img src="pics/kozure.png" /></td>
+ <td>Sky Adventures (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/skyadvnt.png" /></td>
+ <td>Sky Soldiers (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/skysoldr.png" /></td>
+ <td>Street Smart (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/streetsm.png" /></td>
 </tr>
 <tr>
- <td>legionj - Chouji Meikyuu Legion <img src="pics/legionj.png" /></td>
- <td>terracresta - Terra Cresta <img src="pics/terracresta.png" /></td> 
- <td>terrafj - Terra Force <img src="pics/terrafj.png" /></td>
+ <td>Time Soldiers / Battle Field (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/timesold.png" /></td>
+</tr>
+<tr><th colspan="3"> Jaleco Arcade Cores</th></tr>
+<tr>
+ <td>Astyanax / The Lord of King (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/astyanax.png" /></td>
+ <td>Earth Defense Force (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/edf.png" /></td>
+ <td>Hachoo (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/hachoo.png" /></td> 
 </tr>
 <tr>
- <td>astyanax - Astyanax / The Lord of King <img src="pics/astyanax.png" /></td>
- <td>edf - Earth Defense Force <img src="pics/edf.png" /></td>
- <td>hachoo - Hachoo <img src="pics/hachoo.png" /></td> 
+ <td>In Your Face (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/inyourface.png" /></td>
+ <td>Jitsuryoku! Pro Baseball (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/jitsupro.png "/></td>
+ <td>Ninja Kazan / Iga Ninjyutsuden (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/kazan.png" /></td>
 </tr>
 <tr>
- <td>inyourface - In Your Face <img src="pics/inyourface.png" /></td>
- <td>jitsupro - Jitsuryoku! Pro Baseball <img src="pics/jitsupro.png "/></td>
- <td>kazan - Ninja Kazan / Iga Ninjyutsuden <img src="pics/kazan.png" /></td>
+ <td>P47 The Freedom Fighter (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/p47.png" /></td>
+ <td>Phantasm Avenging Spirit (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/phantasm.png" /></td>
+ <td>Plus Alpha (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/plusalpha.png" /></td>
 </tr>
 <tr>
- <td>p47 - P47 The Freedom Fighter <img src="pics/p47.png" /></td>
- <td>phantasm - Phantasm Avenging Spirit <img src="pics/phantasm.png" /></td>
- <td>plusalpha - Plus Alpha <img src="pics/plusalpha.png" /></td>
+ <td>Rodland (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/rodland.png" /></td> 
+ <td>Soldam (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/soldam.png" /></td>
+ <td>Saint Dragon (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/stdragon.png" /></td>
+</tr>
+<tr><th colspan="3"> Toaplan Arcade Cores</th></tr>
+<tr>
+ <td>Demon's World (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/demonwld.png" /></td>
+ <td>Flying Shark (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/fshark.png" /></td>
+ <td>Hellfire (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/hellfire.png" /></td>
 </tr>
 <tr>
- <td>rodland - Rodland <img src="pics/rodland.png" /></td> 
- <td>soldam - Soldam <img src="pics/soldam.png" /></td>
- <td>stdragon - Saint Dragon <img src="pics/stdragon.png" /></td>
+ <td>Out Zone (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/outzone.png" /></td>
+ <td>Rally Bike (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/rallybike.png" /></td>
+ <td>Same! Same! Same! (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/samesame.png" /></td>
 </tr>
 <tr>
- <td>demonwld - Demon's World <img src="pics/demonwld.png" /></td>
- <td>fshark - Flying Shark <img src="pics/fshark.png" /></td>
- <td>hellfire - Hellfire <img src="pics/hellfire.png" /></td>
+ <td>Snow Bros. (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/snowbros.png" /></td>
+ <td>Truxton (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/truxton.png" /></td>
+ <td>Twin Cobra (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/twincobr.png" /></td>
 </tr>
 <tr>
- <td>outzone - Out Zone <img src="pics/outzone.png" /></td>
- <td>rallybike - Rally Bike <img src="pics/rallybike.png" /></td>
- <td>samesame - Same! Same! Same! <img src="pics/samesame.png" /></td>
+ <td>Vimana (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/vimana.png" /></td>
+ <td>Wardner (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/wardner.png" /></td> 
+ <td>Zero Wing (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/zerowing.png" /></td>
+</tr>
+<tr><th colspan="3">Irem Arcade cores</th></tr>
+<tr>
+ <td>Item M92 Board (by <a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/iremm92.png" /></td>
+ <td>Irem M72 Board (by <a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/iremm72.png" /></td>
+ <td>Irem M62 Board (by <a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/iremm62.png" /></td>
 </tr>
 <tr>
- <td>snowbros - Snow Bros. <img src="pics/snowbros.png" /></td>
- <td>truxton - Truxton <img src="pics/truxton.png" /></td>
- <td>twincobr - Twin Cobra <img src="pics/twincobr.png" /></td>
+ <td>Irem M50 Series (by <a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/iremm5x.png" /></td>
+</tr>
+<tr><th colspan="3">Bally Midway Arcade cores</th></tr>
+<tr>
+ <td>Bally Midway MCR (Combined) (by <a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/mcr_c.png" /></td>
+ <td>Bally Midway MCR-3 (Scroll) (by <a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/mcr3scroll.png" /></td>
+ <td>Bally Midway MCR-3 (Mono) (by <a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/mcr3mono.png" /></td>
 </tr>
 <tr>
- <td>vimana - Vimana <img src="pics/vimana.png" /></td>
- <td>wardner - Wardner <img src="pics/wardner.png" /></td> 
- <td>zerowing - Zero Wing <img src="pics/zerowing.png" /></td>
+ <td>Bally Midway MCR-1 (by <a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/mcr1.png" /></td>
+ <td>Bally Midway MCR-2 (by <a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/mcr2.png" /></td>
+ <td>Bally Midway MCR-3  (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/mcr3.png" /></td>
 </tr>
-<tr><th colspan="3"><a href="https://github.com/Ace9921">Ace</a> Single Game Arcade Cores</th></tr>
+<tr><th colspan="3">Williams Arcade cores</th></tr>
 <tr>
- <td>arkanoid - Arkanoid <img src="pics/arkanoid.png" /></td>
- <td>timepilot - Time Pilot <img src="pics/timepilot.png" /></td>
- <td>timepilot84 - Time Pilot '84 <img src="pics/timepilot84.png" /></td>
-</tr>
-<tr>
- <td>finalizer - Finalizer <img src="pics/finalizer.png" /></td>
- <td>gyruss - Gyruss <img src="pics/gyruss.png" /></td> 
- <td>ironhorse - Iron Horse <img src="pics/ironhorse.png" /></td>
+ <td>Williams Defender <img src="pics/defender.png" /></td>
+ <td>Williams Robotron <img src="pics/robotron.png" /></td>
+ <td>Williams Joust 2 <img src="pics/joust2.png" /></td>
 </tr>
 <tr>
- <td>jackal - Jackal <img src="pics/jackal.png" /></td>
- <td>scramble - Scramble <img src="pics/scramble.png" /></td>
+ <td>William 6809 (Combined) <img src="pics/williams_c.png" /></td>
 </tr>
-<tr><th colspan="3">Other Upcoming Arcade cores</th></tr>
+<tr><th colspan="3"> Other Arcade Cores</th></tr>
 <tr>
- <td>exidyugb2 - Exidy UGB 2 <img src="pics/exidyugb2.png" /></td>
- <td>athena - Athena <img src="pics/athena.png" /></td> 
-</tr>
-<tr><th colspan="3">Possbile Multi Game Arcade cores from <a href="https://github.com/opengateware">OpenGateware</a></th></tr>
-<tr>
- <td>iremm92 - Item M92 Board <img src="pics/iremm92.png" /></td>
- <td>iremm72 - Irem M72 Board <img src="pics/iremm72.png" /></td>
- <td>iremm62 - Irem M62 Board <img src="pics/iremm62.png" /></td>
+ <td>Exidy UGB 2 (by <a href="https://github.com/antongale">Anton Gale</a>) <img src="pics/exidyugb2.png" /></td>
+ <td>Cave 68000 <img src="pics/cave.png" /></td>
 </tr>
 <tr>
- <td>iremm5x - Irem M50 Series <img src="pics/iremm5x.png" /></td>
- <td>segasys12 - Sega System 1 & 2 <img src="pics/segasys12.png" /></td>
- <td>superpac - Namco Super Pacman Board <img src="pics/superpac.png" /></td>
-</tr>
-<tr>
- <td>mcr_c - Bally Midway MCR (Combined) <img src="pics/mcr_c.png" /></td>
- <td>mcr3scroll - Bally Midway MCR-3 (Scroll) <img src="pics/mcr3scroll.png" /></td>
- <td>mcr3mono - Bally Midway MCR-3 (Mono) <img src="pics/mcr3mono.png" /></td>
-</tr>
-<tr>
- <td>mcr1 - Bally Midway MCR-1 <img src="pics/mcr1.png" /></td>
- <td>mcr2 - Bally Midway MCR-2 <img src="pics/mcr2.png" /></td>
- <td>mcr3 - Bally Midway MCR-3 <img src="pics/mcr3.png" /></td>
-</tr>
-<tr>
- <td>defender - Williams Defender <img src="pics/defender.png" /></td>
- <td>robotron - Williams Robotron <img src="pics/robotron.png" /></td>
- <td>joust2 - Williams Joust 2 <img src="pics/joust2.png" /></td>
-</tr>
-<tr>
- <td>willams_c - William 6809 (Combined) <img src="pics/williams_c.png" /></td>
-</tr>
-<tr><th colspan="3">Unlikely or Impossible Arcade cores</th></tr>
-<tr>
- <td>jtcps3 - Capcom CPS-3 System <img src="pics/jtcps3.png" /></td>
- <td>jtkombat - Midway Y-Unit <img src="pics/jtkombat.png" /></td>
- <td>cave - Cave 68000 <img src="pics/cave.png" /></td>
+ <td>Bomb Jack (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/bombjack.png" /></td>
+ <td>Crazy Kong (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/crazykong.png" /></td>
 </tr>
 </table>
 
