@@ -44,7 +44,7 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>Gaplus (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/gaplus.png" /></td>
 </tr>
 <tr>
- <td>Pac-Man / Ms. Pac-Man (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/pacman.png" /></td> 
+ <td>Pac-Man / Ms. Pac-Man (<a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/pacman.png" /></td> 
  <td>Rally-X (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/rallyx.png" /></td>
  <td>Bosconian <img src="pics/bosconian.png" /></td>
 </tr>
@@ -53,24 +53,6 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>Burger Time (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/burgertime.png" /></td>
  <td>Midnight Resistance (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/jtmidres.png" /></td>
  <td>Sly Spy (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/jtslyspy.png" /></td>
-</tr>
-<tr><th colspan="3"> Technos Japan Arcade Cores</th></tr>
-<tr>
- <td>Karate Champ (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/jtkchamp.png" /></td>
-</tr>
-<tr><th colspan="3"> Nintendo Arcade Cores</th></tr>
-
-<tr>
- <td>Popeye (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/popeye.png" /></td>
-</tr>
-<tr><th colspan="3"> Atari Arcade Cores</th></tr>
-<tr>
- <td>Atari Tetris (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/ataritetris.png" /></td>
-</tr>
-<tr><th colspan="3"> Taito Arcade Cores</th></tr>
-<tr>
- <td>Arkanoid <img src="pics/arkanoid.png" /></td>
- <td>Crazy Balloon (by <a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/crazyballoon.png" /></td>
 </tr>
 <tr><th colspan="3"> Nichibutsu Arcade Cores</th></tr>
 <tr>
@@ -81,7 +63,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>Cosmo Police Galivan (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/galivan.png" /></td>
  <td>Crazy Climber 2 (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/cclimbr2.png" /></td>
- <td>Kid no Hore Hore Daisakusen (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/horekid.png" /></td>
+ <td>Kid no Hore Hore Daisakusen (<a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/horekid.png" /></td>
 </tr>
 <tr>
  <td>Lone Wolf & Club (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/kozure.png" /></td>
@@ -124,7 +106,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>In Your Face (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/inyourface.png" /></td>
  <td>Jitsuryoku! Pro Baseball (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/jitsupro.png "/></td>
- <td>Ninja Kazan / Iga Ninjyutsuden (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/kazan.png" /></td>
+ <td>Ninja Kazan / Iga Ninjyutsuden (<a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/kazan.png" /></td>
 </tr>
 <tr>
  <td>P47 The Freedom Fighter (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/p47.png" /></td>
@@ -168,9 +150,9 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr><th colspan="3">Bally Midway Arcade cores</th></tr>
 <tr>
- <td>Bally Midway MCR (Combined) (by <a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/mcr_c.png" /></td>
- <td>Bally Midway MCR-3 (Scroll) (by <a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/mcr3scroll.png" /></td>
- <td>Bally Midway MCR-3 (Mono) (by <a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/mcr3mono.png" /></td>
+ <td>Bally Midway MCR (Combo) (by <a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/mcr_c.png" /></td>
+ <td>Bally Midway MCR-3 (by <a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/mcr3scroll.png" /></td>
+ <td>Bally Midway MCR-3 (by <a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/mcr3mono.png" /></td>
 </tr>
 <tr>
  <td>Bally Midway MCR-1 (by <a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/mcr1.png" /></td>
@@ -185,6 +167,24 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr>
  <td>William 6809 (Combined) <img src="pics/williams_c.png" /></td>
+</tr>
+<tr><th colspan="3"> Technos Japan Arcade Cores</th></tr>
+<tr>
+ <td>Karate Champ (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/jtkchamp.png" /></td>
+</tr>
+<tr><th colspan="3"> Nintendo Arcade Cores</th></tr>
+
+<tr>
+ <td>Popeye (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/popeye.png" /></td>
+</tr>
+<tr><th colspan="3"> Atari Arcade Cores</th></tr>
+<tr>
+ <td>Atari Tetris (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/ataritetris.png" /></td>
+</tr>
+<tr><th colspan="3"> Taito Arcade Cores</th></tr>
+<tr>
+ <td>Arkanoid <img src="pics/arkanoid.png" /></td>
+ <td>Crazy Balloon (by <a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/crazyballoon.png" /></td>
 </tr>
 <tr><th colspan="3"> Other Arcade Cores</th></tr>
 <tr>
