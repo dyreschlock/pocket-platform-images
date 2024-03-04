@@ -1,12 +1,8 @@
 ## Platform Overrides for Arcade Cores
 
-Arcade cores are currently split up into two categories: **Arcade** and **Arcade Multi**. 
+Arcade cores are currently split up into two categories: **Arcade** and **Arcade Multi**. If an arcade board supports multiple noteworthy games, then I put into into the **Arcade Multi** category.　If an arcade board only supports a single game or a single noteworthy game, then it's in the **Arcade** category.
 
-- If an arcade board supports multiple noteworthy games, then I put into into the **Arcade Multi** category.  All of the Arcade Multi images are follow a particular image format. 
-
-- If an arcade board only supports a single game or a single noteworthy game, then it's in the **Arcade** category, and the image is either the original marquee used in arcades, or an image created from key artwork. 
-
-All artwork used is meant to be official artwork from the time of the game's release. I try to avoid using fanart.
+All artwork used is meant to resemble the game's official key artwork from the time of the game's release. I try to avoid using fanart. Also, for Japanese games, I try to use the original Japanese artwork if its available.
 
 * For the <b>Sega System 16</b> Combined core, please refer to Espiox's repo: <a href="https://github.com/espiox/jts16_complete">/jts16_complete</a>.
 
