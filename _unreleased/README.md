@@ -119,10 +119,11 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr>
  <td>Plus Alpha (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/plusalpha.png" /></td>
+ <td>Psychic 5 <img src="pics/psychic5.png" /></td>
  <td>Rodland (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/rodland.png" /></td> 
- <td>Soldam (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/soldam.png" /></td>
 </tr>
 <tr>
+ <td>Soldam (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/soldam.png" /></td>
  <td>Saint Dragon (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/stdragon.png" /></td>
 </tr>
 <tr><th colspan="3"> Toaplan Arcade Cores</th></tr>
