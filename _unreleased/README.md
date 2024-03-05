@@ -210,29 +210,34 @@ These are platform overrides for cores that haven't been released yet. These cor
 <table>
 <tr><th colspan="3">Handheld Cores</th></tr>
 <tr>
- <td>ngpc - NeoGeo Pocket Color <img src="pics/ngpc.png" /></td>
- <td>lynx - Atari Lynx <img src="pics/lynx.png" /></td>
- <td>sdvmu - Dreamcast VMU <img src="pics/sdvmu.png" /></td>
+ <td>NeoGeo Pocket Color <img src="pics/ngpc.png" /></td>
+ <td>Atari Lynx <img src="pics/lynx.png" /></td>
+ <td>Dreamcast VMU <img src="pics/sdvmu.png" /></td>
 </tr>
 <tr>
- <td>vb - Virtual Boy <img src="pics/vb.png" /></td>
- <td>gamecom - Tiger Game.Com <img src="pics/gamecom.png" /></td>
- <td>ngage - Nokia N-Gage <img src="pics/ngage.png" /></td>  
+ <td>Virtual Boy <img src="pics/vb.png" /></td>
+ <td>Tiger Game.Com <img src="pics/gamecom.png" /></td>
+ <td>Nokia N-Gage <img src="pics/ngage.png" /></td>  
 </tr>
 <tr><th colspan="3">Consoles Cores</th></tr>
+<tr>
+ <td>Sega 32x <img src="pics/32x.png" /></td>
+ <td>Super 32x (JP) <img src="pics/32x_jp.png" /></td>
+ <td>Mega Drive 32x (PAL) <img src="pics/32x_pal.png" /></td>
+</tr>
 <tr>
  <td>segapico - Sega Pico <img src="pics/segapico.png" /></td>
 </tr>
 <tr><th colspan="3">Computer Cores</th></tr>
 <tr>
- <td>zx - ZX Spectrum <img src="pics/zx.png" /></td>
- <td>a2 - Apple II <img src="pics/a2.png" /></td>
- <td>msx - MSX <img src="pics/msx.png" /></td>
+ <td>ZX Spectrum <img src="pics/zx.png" /></td>
+ <td>Apple II <img src="pics/a2.png" /></td>
+ <td>MSX <img src="pics/msx.png" /></td>
 </tr>
 <tr>
- <td>x68000 - Sharp X68000 <img src="pics/x68000.png" /></td>
- <td>pc8801 - NEC PC-8801 <img src="pics/pc8801.png" /></td>
- <td>rx78 - Bandai RX-78 <img src="pics/rx78.png" /></td>
+ <td>Sharp X68000 <img src="pics/x68000.png" /></td>
+ <td>NEC PC-8801 <img src="pics/pc8801.png" /></td>
+ <td>Bandai RX-78 <img src="pics/rx78.png" /></td>
 </tr>
 <tr><th colspan="3">Other Cores</th></tr>
 <tr>
