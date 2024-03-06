@@ -169,12 +169,9 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr><th colspan="3">Williams Arcade cores</th></tr>
 <tr>
- <td>Williams Defender <img src="pics/defender.png" /></td>
+ <td>William 6809 (Combined) <img src="pics/williams_c.png" /></td>
  <td>Williams Robotron <img src="pics/robotron.png" /></td>
  <td>Williams Joust 2 <img src="pics/joust2.png" /></td>
-</tr>
-<tr>
- <td>William 6809 (Combined) <img src="pics/williams_c.png" /></td>
 </tr>
 <tr><th colspan="3"> Technos Japan Arcade Cores</th></tr>
 <tr>

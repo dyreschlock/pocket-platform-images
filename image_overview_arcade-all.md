@@ -311,7 +311,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr><th colspan="3">Williams Arcade Games</th></tr>
 <tr>
- <td>Williams Defender (unreleased) <img src="/_unreleased/pics/defender.png" /></td>
+ <td>Williams Defender (unreleased) <img src="/pics/arcade/defender.png" /></td>
  <td>Williams Robotron (unreleased) <img src="/_unreleased/pics/robotron.png" /></td>
  <td>Williams Joust 2 (unreleased) <img src="/_unreleased/pics/joust2.png" /></td>
 </tr>

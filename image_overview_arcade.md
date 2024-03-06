@@ -157,9 +157,13 @@ All artwork used is meant to resemble the game's official key artwork from the t
 <tr>
  <td>Robocop (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/arcade/jtcop.png" /></td>
 </tr>
+<tr><th colspan="3">Williams Arcade Games</th></tr>
+<tr>
+ <td>Williams Defender (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="pics/arcade/defender.png" /></td>
+</tr>
 <tr><th colspan="3">Tecmo, SNK, Jaleco, Gottleib, Irem Games</th></tr>
 <tr>
- <td>tecmo - Tecmo Rygar (by <a href="https://patreon.com/nullobject">nullobject</a>) <img src="pics/arcade/tecmo.png" /></b></td>
+ <td>Tecmo Rygar (by <a href="https://patreon.com/nullobject">nullobject</a>) <img src="pics/arcade/tecmo.png" /></b></td>
  <td>Armored-Scrum-Object (by <a href="https://github.com/RndMnkIII">RndMnkIII</a>) <img src="pics/arcade/alphamission.png" /></td>
  <td>Exerion (by <a href="https://github.com/antongale">Anton Gale</a>) <img src="pics/arcade/exerion.png" /></td>
 </tr>
