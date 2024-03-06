@@ -219,8 +219,8 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr><th colspan="3"> Data East Arcade Games</th></tr>
 <tr>
+ <td>Lock 'n Chase (Unreleased) <img src="/_unreleased/pics/locknchase.png" /></td>
  <td>Bad Dudes v. Dragon Ninja (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtninja.png" /></td>
- <td>Burger Time (unreleased) <img src="/_unreleased/pics/burgertime.png" /></td>
  <td>Midnight Resistance (unreleased) <img src="/_unreleased/pics/jtmidres.png" /></td>
 </tr>
 <tr>
