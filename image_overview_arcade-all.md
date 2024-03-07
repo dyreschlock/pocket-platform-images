@@ -332,10 +332,12 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr><th colspan="3">Tecmo, Gottleib, and Other Games</th></tr>
 <tr>
  <td>Tecmo Rygar (by <a href="https://patreon.com/nullobject">nullobject</a>) <img src="/pics/arcade/tecmo.png" /></b></td>
- <td>Crazy Kong  (unreleased) <img src="/_unreleased/pics/crazykong.png" /></td>
- <td>Bomb Jack (unreleased) <img src="/_unreleased/pics/bombjack.png" /></td>
+ <td>Exidy UGB 2 (unreleased) <img src="/_unreleased/pics/exidyugb2.png" /></td>
+ <td>Cave 68000 (unreleased) <img src="/_unreleased/pics/cave.png" /></td>
 </tr>
 <tr>
+ <td>Crazy Kong  (unreleased) <img src="/_unreleased/pics/crazykong.png" /></td>
+ <td>Bomb Jack (unreleased) <img src="/_unreleased/pics/bombjack.png" /></td>
  <td>Q*Bert (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/qbert.png" /></td>
 </tr>
 </table>
