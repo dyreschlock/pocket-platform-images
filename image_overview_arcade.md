@@ -159,7 +159,9 @@ All artwork used is meant to resemble the game's official key artwork from the t
 </tr>
 <tr><th colspan="3">Williams Arcade Games</th></tr>
 <tr>
+ <td>Williams 6809 Hardware <img src="pics/arcade/williams_c.png" /></td>
  <td>Williams Defender (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="pics/arcade/defender.png" /></td>
+ <td>Williams Robotron (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="pics/arcade/robotron.png" /></td>
 </tr>
 <tr><th colspan="3">Tecmo, SNK, Jaleco, Gottleib, Irem Games</th></tr>
 <tr>
