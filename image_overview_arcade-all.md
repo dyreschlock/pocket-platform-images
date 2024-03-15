@@ -301,12 +301,12 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr><th colspan="3">Irem Arcade Games</th></tr>
 <tr>
- <td>Irem M92 Board (unreleased) <img src="/_unreleased/pics/iremm92.png" /></td>
- <td>Irem M72 Board (unreleased) <img src="/_unreleased/pics/iremm72.png" /></td>
- <td>Irem M62 Board (unreleased) <img src="/_unreleased/pics/iremm62.png" /></td>
+ <td>Irem M92 Board (unreleased) <img src="/_unreleased/pics/irem_m92.png" /></td>
+ <td>Irem M72 Board (unreleased) <img src="/_unreleased/pics/irem_m72.png" /></td>
+ <td>Irem M62 Board (unreleased) <img src="/_unreleased/pics/irem_m62.png" /></td>
 </tr>
 <tr>
- <td>Irem M50 Series (unreleased) <img src="/_unreleased/pics/iremm5x.png" /></td>
+ <td>Irem M50 Series (unreleased) <img src="/_unreleased/pics/irem_m5x.png" /></td>
  <td>Vigilante (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtvigil.png" /></td>
 </tr>
 <tr><th colspan="3">Williams Arcade Games</th></tr>
