@@ -60,7 +60,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>The Final Round (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtfround.png" /></td>
  <td>Finalizer (unreleased) <img src="/_unreleased/pics/finalizer.png" /></td>
- <td>Flak Attack (unreleased) <img src="/_unreleased/pics/jtmx5k.png" /></td>
+ <td>Flak Attack (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtmx5k.png" /></td>
 </tr>
 <tr>
  <td>Green Beret (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/gberet.png" /></td>
