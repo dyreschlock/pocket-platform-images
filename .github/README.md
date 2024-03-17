@@ -8,8 +8,8 @@ The `pics` directory includes the raw PNG files I used to make the images.  I ha
 
 <table>
 <tr>
- <th><a href="/docs/image_overview_arcade.md">View all Arcade Images</a></th>
- <th><a href="/docs/image_overview_home.md">View all Home Images</a></th>
+ <th><a href="/image_overview_arcade.md">View all Arcade Images</a></th>
+ <th><a href="/image_overview_home.md">View all Home Images</a></th>
 </tr>
 <tr>
  <td>
