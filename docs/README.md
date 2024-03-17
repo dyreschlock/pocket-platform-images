@@ -8,37 +8,37 @@ The `pics` directory includes the raw PNG files I used to make the images.  I ha
 
 <table>
 <tr>
- <th><a href="image_overview_arcade.md">View all Arcade Images</a></th>
- <th><a href="image_overview_home.md">View all Home Images</a></th>
+ <th><a href="/docs/image_overview_arcade.md">View all Arcade Images</a></th>
+ <th><a href="/docs/image_overview_home.md">View all Home Images</a></th>
 </tr>
 <tr>
  <td>
    Examples
-   <img src="pics/arcade/garegga.png" />
-   <img src="pics/arcade/jtcastle.png" />
-   <img src="pics/arcade/xevious.png" />
+   <img src="/pics/arcade/garegga.png" />
+   <img src="/pics/arcade/jtcastle.png" />
+   <img src="/pics/arcade/xevious.png" />
  </td>
  <td>
    Examples
-   <img src="pics/home/snes.png" />
-   <img src="pics/home/gba.png" />
-   <img src="pics/home/amiga.png" />
+   <img src="/pics/home/snes.png" />
+   <img src="/pics/home/gba.png" />
+   <img src="/pics/home/amiga.png" />
  </td>
 </tr>
 <tr>
  <th></th>
- <th><a href="image_regional_variants.md">Regional Variants</a></th>
+ <th><a href="/docs/image_regional_variants.md">Regional Variants</a></th>
 </tr>
 <tr>
  <td>
    More Arcade Examples
-   <img src="pics/arcade/jtcps2.png" />
-   <img src="pics/arcade/jts16_c.png" />
+   <img src="/pics/arcade/jtcps2.png" />
+   <img src="/pics/arcade/jts16_c.png" />
  </td>
  <td>
    Examples
-   <img src="pics/home-pal/snes.png" />
-   <img src="pics/home-jp/pcecd.png" />
+   <img src="/pics/home-pal/snes.png" />
+   <img src="/pics/home-jp/pcecd.png" />
  </td>
 </tr>
 </table>
