@@ -151,6 +151,9 @@ All artwork used is meant to resemble the game's official key artwork from the t
  <td>Double Dragon II (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtdd2.png" /></td>
  <td>Renegade Kunio-kun (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkunio.png" /></td>
 </tr>
+<tr>
+ <td>Karate Champ (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkchamp.png" /></td>
+</tr>
 <tr><th colspan="3"> Data East Arcade Games</th></tr>
 <tr>
  <td>Bad Dudes v. Dragon Ninja (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtninja.png" /></td>

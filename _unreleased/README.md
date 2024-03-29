@@ -168,12 +168,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>Williams Joust 2 <img src="pics/joust2.png" /></td>
 </tr>
-<tr><th colspan="3"> Technos Japan Arcade Cores</th></tr>
-<tr>
- <td>Karate Champ (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/jtkchamp.png" /></td>
-</tr>
 <tr><th colspan="3"> Nintendo Arcade Cores</th></tr>
-
 <tr>
  <td>Popeye (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/popeye.png" /></td>
 </tr>
