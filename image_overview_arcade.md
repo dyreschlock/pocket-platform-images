@@ -102,6 +102,9 @@ All artwork used is meant to resemble the game's official key artwork from the t
 <tr>
  <td>Dig Dug (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/digdug.png" /></td>
  <td>Galaga (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/galaga.png" /></td>
+ <td>Gaplus (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/gaplus.png" /></td>
+</tr>
+<tr>
  <td>Xevious (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/xevious.png" /></td>
 </tr>
 <tr><th colspan="3"> Atari Arcade Games</th></tr>

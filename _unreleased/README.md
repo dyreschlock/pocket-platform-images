@@ -42,10 +42,9 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>Namco Super Pacman (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/superpac.png" /></td>
  <td>Galaxian (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/galaxian.png" /></td> 
- <td>Gaplus (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/gaplus.png" /></td>
+ <td>Pac-Man / Ms. Pac-Man (<a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/pacman.png" /></td> 
 </tr>
 <tr>
- <td>Pac-Man / Ms. Pac-Man (<a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/pacman.png" /></td> 
  <td>Rally-X (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/rallyx.png" /></td>
  <td>Bosconian <img src="pics/bosconian.png" /></td>
 </tr>

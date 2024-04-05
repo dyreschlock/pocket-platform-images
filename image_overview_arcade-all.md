@@ -138,7 +138,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Galaga (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/galaga.png" /></td>
 </tr>
 <tr>
- <td>Gaplus (unreleased) <img src="/_unreleased/pics/gaplus.png" /></td>
+ <td>Gaplus (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/gaplus.png" /></td>
  <td>Pac-Man / Ms. Pac-Man (unreleased) <img src="/_unreleased/pics/pacman.png" /></td> 
  <td>Rally-X (unreleased) <img src="/_unreleased/pics/rallyx.png" /></td>
 </tr>
