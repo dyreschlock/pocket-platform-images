@@ -28,7 +28,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr>
  <td>Black Tiger (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtbtiger.png" /></td>
- <td>Commando (unreleased) <img src="/_unreleased/pics/jtcommnd.png" /></td>
+ <td>Commando (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtcommnd.png" /></td>
  <td>Exed Exes (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtexed.png" /></td>
 </tr>
 <tr>
