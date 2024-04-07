@@ -14,12 +14,13 @@ These are overrides that were either used before or made as an alternative to wh
 <tr>
  <td>jttmnt_c - Konami Turtles (*Combined) <img src="others/pics/jttmnt_c.png" /></td>
  <td>jtblock - Block Block* <img src="others/pics/jtblock.png" /></td>
- <td></td>
+ <td>uxn - UXN Platform <img src="others/pics/uxn.png" /></td>
 </tr>
 </table>
 
 * TMNT Combines both TMNT and Simpsons into a Single core, but the video resolutions don't match, so it's not perfect :(
 * Block Block is a custom core that copies JTpang to play Block Block. BB works on the normal JTpang core now, so it's not necessary.
+* The UXN core was renamed and became the Varvara core
 
 
 ## Previous Version of Arcade Core Images
