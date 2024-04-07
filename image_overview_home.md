@@ -76,9 +76,10 @@ You can view those differences here: <b><a href="/image_regional_variants.md">Re
 <tr>
  <td>Amiga <img src="/pics/home/amiga.png" /></td>
  <td>Commodore 64 <img src="/pics/home/c64.png" /></td>
- <td>videobrain - VideoBrain <img src="/pics/home/videobrain.png" /></td>
+ <td>Varvara / UXN <img src="/pics/home/varvara.png" /></td>
 </tr>
 <tr>
+ <td>videobrain - VideoBrain <img src="/pics/home/videobrain.png" /></td>
  <td>pdp1 - PDP-1 Spacewar <img src="/pics/home/pdp1.png" /></td>
 </tr>
 <tr><th colspan="3">Single Game / Application Cores</th></tr>
