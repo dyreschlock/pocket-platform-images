@@ -216,6 +216,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr>
  <td>Karate Champ (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkchamp.png" /></td>
+ <td>WWF Wrestlefest (unreleased) <img src="/_unreleased/pics/wrestlefest.png" /></td>
 </tr>
 <tr><th colspan="3"> Data East Arcade Games</th></tr>
 <tr>
