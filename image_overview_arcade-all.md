@@ -212,7 +212,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>Double Dragon (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtdd.png" /></td>
  <td>Double Dragon II (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtdd2.png" /></td>
- <td>Double Dragon 3 (unreleased) <img src="/pics/arcade/ddragon3.png" /></td>
+ <td>Double Dragon 3 (unreleased) <img src="/_unreleased/pics/ddragon3.png" /></td>
 </tr>
 <tr>
  <td>Renegade Kunio-kun (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkunio.png" /></td>
