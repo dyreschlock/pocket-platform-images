@@ -212,11 +212,12 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>Double Dragon (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtdd.png" /></td>
  <td>Double Dragon II (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtdd2.png" /></td>
- <td>Renegade Kunio-kun (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkunio.png" /></td>
+ <td>Double Dragon 3 (unreleased) <img src="/pics/arcade/ddragon3.png" /></td>
 </tr>
 <tr>
+ <td>Renegade Kunio-kun (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkunio.png" /></td>
  <td>Karate Champ (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkchamp.png" /></td>
- <td>WWF Wrestlefest (unreleased) <img src="/_unreleased/pics/wrestlefest.png" /></td>
+ <td>WWF Wrestlefest (unreleased) <img src="/_unreleased/pics/wwfwfest.png" /></td>
 </tr>
 <tr><th colspan="3"> Data East Arcade Games</th></tr>
 <tr>
