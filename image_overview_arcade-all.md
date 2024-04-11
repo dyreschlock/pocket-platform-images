@@ -342,4 +342,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Bomb Jack (unreleased) <img src="/_unreleased/pics/bombjack.png" /></td>
  <td>Q*Bert (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/qbert.png" /></td>
 </tr>
+<tr>
+</tr>
+ <td>Toki (unreleased) <img src="/_unreleased/pics/toki.png" /></td>
 </table>

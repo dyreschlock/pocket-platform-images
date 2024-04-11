@@ -188,6 +188,7 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>Cave 68000 (by <a href="https://www.patreon.com/nullobject/posts">nullobject</a>) <img src="pics/cave.png" /></td>
 </tr>
 <tr>
+ <td>Toki <img src="pics/toki.png" /></td>
  <td>Bomb Jack (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/bombjack.png" /></td>
  <td>Crazy Kong (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/crazykong.png" /></td>
 </tr>
