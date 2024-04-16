@@ -219,6 +219,9 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Karate Champ (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkchamp.png" /></td>
  <td>WWF Wrestlefest (by <a href="https://github.com/psomashekar">Coin-Op</a>) <img src="/pics/arcade/wrestlefest.png" /></td>
 </tr>
+<tr>
+ <td>Combatribes (unreleased) <img src="/_unreleased/pics/combatribes.png" /></td>
+</tr>
 <tr><th colspan="3"> Data East Arcade Games</th></tr>
 <tr>
  <td>Lock 'n Chase (Unreleased) <img src="/_unreleased/pics/locknchase.png" /></td>
