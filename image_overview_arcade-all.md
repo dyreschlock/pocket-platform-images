@@ -316,9 +316,9 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr><th colspan="3">Williams Arcade Games</th></tr>
 <tr>
- <td>Williams Defender (unreleased) <img src="/pics/arcade/defender.png" /></td>
- <td>Williams Robotron (unreleased) <img src="/pics/arcade/robotron.png" /></td>
- <td>Williams Joust 2 (unreleased) <img src="/_unreleased/pics/joust2.png" /></td>
+ <td>Williams Defender (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/defender.png" /></td>
+ <td>Williams Robotron (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/robotron.png" /></td>
+ <td>Williams Joust 2 (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/_unreleased/pics/joust2.png" /></td>
 </tr>
 <tr>
  <td>William 6809 (Combined) (unreleased) <img src="/pics/arcade/williams_c.png" /></td>

@@ -160,10 +160,6 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>Bally Midway MCR-2 (by <a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/mcr2.png" /></td>
  <td>Bally Midway MCR-3  (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/mcr3.png" /></td>
 </tr>
-<tr><th colspan="3">Williams Arcade cores</th></tr>
-<tr>
- <td>Williams Joust 2 <img src="pics/joust2.png" /></td>
-</tr>
 <tr><th colspan="3"> Nintendo Arcade Cores</th></tr>
 <tr>
  <td>Popeye (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/popeye.png" /></td>
