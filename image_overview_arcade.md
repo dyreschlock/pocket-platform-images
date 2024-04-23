@@ -170,6 +170,10 @@ All artwork used is meant to resemble the game's official key artwork from the t
 <tr>
  <td>Robocop (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtcop.png" /></td>
 </tr>
+<tr><th colspan="3">Irem Arcade Cores</th></tr>
+<tr>
+ <td>Irem M92 Board (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/irem_m92.png" /></td>
+</tr>
 <tr><th colspan="3">Williams Arcade Games</th></tr>
 <tr>
  <td>Williams Defender (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/defender.png" /></td>
