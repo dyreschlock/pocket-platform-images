@@ -196,16 +196,19 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>Snow Bros. (unreleased) <img src="/_unreleased/pics/snowbros.png" /></td>
  <td>Snow Bros 2 (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/snowbros2.png" /></td>
- <td>Truxton (unreleased) <img src="/_unreleased/pics/truxton.png" /></td>
+ <td>Teki Paki (unreleased) <img src="/_unreleased/pics/tekipaki.png" /></td>
 </tr>
 <tr>
+ <td>Truxton (unreleased) <img src="/_unreleased/pics/truxton.png" /></td>
  <td>Truxton II / Tatsujin Oh (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="/pics/arcade/truxton2.png" /></td>
  <td>Twin Cobra (unreleased) <img src="/_unreleased/pics/twincobr.png" /></td>
- <td>Vimana (unreleased) <img src="/_unreleased/pics/vimana.png" /></td>
 </tr>
 <tr>
+ <td>Vimana (unreleased) <img src="/_unreleased/pics/vimana.png" /></td>
  <td>Wardner (unreleased) <img src="/_unreleased/pics/wardner.png" /></td> 
  <td>Whoopee! (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="/pics/arcade/pipibibs.png" /></td>
+</tr>
+<tr>
  <td>Zero Wing (unreleased) <img src="/_unreleased/pics/zerowing.png" /></td>
 </tr>
 <tr><th colspan="3"> Technos Japan Arcade Games</th></tr>
