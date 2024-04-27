@@ -242,7 +242,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr><th colspan="3">SNK Arcade Games</th></tr>
 <tr>
  <td>Armored-Scrum-Object (by <a href="https://github.com/RndMnkIII">RndMnkIII</a>) <img src="/pics/arcade/alphamission.png" /></td>
- <td>Athena (unreleased) <img src="/_unreleased/pics/athena.png" /></td> 
+ <td>Athena (by <a href="https://github.com/rolandking">Rolandking</a>) <img src="/pics/arcade/athena.png" /></td> 
  <td>Gang Wars (unreleased) <img src="/_unreleased/pics/gangwars.png" /></td>
 </tr>
 <tr>

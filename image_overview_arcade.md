@@ -170,6 +170,11 @@ All artwork used is meant to resemble the game's official key artwork from the t
 <tr>
  <td>Robocop (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtcop.png" /></td>
 </tr>
+<tr><th colspan="3">SNK Arcade Games</th></tr>
+<tr>
+ <td>Armored-Scrum-Object (by <a href="https://github.com/RndMnkIII">RndMnkIII</a>) <img src="/pics/arcade/alphamission.png" /></td>
+ <td>Athena (by <a href="https://github.com/rolandking">Rolandking</a>) <img src="/pics/arcade/athena.png" /></td> 
+</tr>
 <tr><th colspan="3">Irem Arcade Cores</th></tr>
 <tr>
  <td>Irem M92 Board (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/irem_m92.png" /></td>
@@ -184,13 +189,10 @@ All artwork used is meant to resemble the game's official key artwork from the t
 <tr>
  <td>Williams 6809 Hardware (unreleased) <img src="/pics/arcade/williams_c.png" /></td>
 </tr>
-<tr><th colspan="3">Tecmo, SNK, Jaleco, Gottleib Games</th></tr>
+<tr><th colspan="3">Tecmo, Jaleco, Gottleib Games</th></tr>
 <tr>
  <td>Tecmo Rygar (by <a href="https://patreon.com/nullobject">nullobject</a>) <img src="/pics/arcade/tecmo.png" /></b></td>
- <td>Armored-Scrum-Object (by <a href="https://github.com/RndMnkIII">RndMnkIII</a>) <img src="/pics/arcade/alphamission.png" /></td>
  <td>Exerion (by <a href="https://github.com/antongale">Anton Gale</a>) <img src="/pics/arcade/exerion.png" /></td>
-</tr>
-<tr>
  <td>Q*Bert (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/qbert.png" /></td>
 </tr>
 </table>

@@ -72,26 +72,23 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr><th colspan="3"> SNK Arcade Cores</th></tr>
 <tr>
- <td>Athena <img src="pics/athena.png" /></td> 
  <td>Gang Wars (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/gangwars.png" /></td>
  <td>Ikari 3 The Rescue (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/ikari3.png" /></td>
+ <td>The Next Space (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/nextspace.png" /></td>
 </tr>
 <tr>
- <td>The Next Space (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/nextspace.png" /></td>
  <td>Paddle Mania (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/paddlema.png" /></td>
  <td>Prisoners of War (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/pow.png" /></td>
+ <td>Prehistoric Isle (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/prehisle.png" /></td>
 </tr>
 <tr>
- <td>Prehistoric Isle (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/prehisle.png" /></td>
  <td>Super Champion Baseball (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/sbaseball.png" /></td>
  <td>Search and Rescue (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/searchar.png" /></td>
+ <td>Sky Adventures (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/skyadvnt.png" /></td>
 </tr>
 <tr>
- <td>Sky Adventures (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/skyadvnt.png" /></td>
  <td>Sky Soldiers (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/skysoldr.png" /></td>
  <td>Street Smart (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/streetsm.png" /></td>
-</tr>
-<tr>
  <td>Time Soldiers / Battle Field (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/timesold.png" /></td>
 </tr>
 <tr><th colspan="3"> Jaleco Arcade Cores</th></tr>
