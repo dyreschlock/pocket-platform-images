@@ -33,6 +33,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr><th colspan="3"> Sega Arcade Cores</th></tr>
 <tr>
  <td>Sega System 1 & 2 (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/segasys12.png" /></td>
+ <td>Sega System 18 (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/jts18.png" /></td>
  <td>Zaxxon (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/zaxxon.png" /></td>
 </tr>
 <tr><th colspan="3"> Namco Arcade Cores</th></tr>
