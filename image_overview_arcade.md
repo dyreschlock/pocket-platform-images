@@ -196,6 +196,6 @@ All artwork used is meant to resemble the game's official key artwork from the t
  <td>Q*Bert (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/qbert.png" /></td>
 </tr>
 <tr>
- <td>Toki (by <a href="https://github.com/vertrex">Vertex</a> & <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/toki.png" /></td>
+ <td>Toki (by <a href="https://github.com/vertrex">Vertex</a> & <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttoki.png" /></td>
 </tr>
 </table>
