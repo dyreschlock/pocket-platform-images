@@ -353,5 +353,5 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr>
 </tr>
- <td>Toki (unreleased) <img src="/_unreleased/pics/toki.png" /></td>
+ <td>Toki (by <a href="https://github.com/vertrex">Vertex</a> & <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/toki.png" /></td>
 </table>
