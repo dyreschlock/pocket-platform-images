@@ -343,9 +343,13 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Bally Midway MCR-2 (unreleased) <img src="/_unreleased/pics/mcr2.png" /></td>
  <td>Bally Midway MCR-3 (unreleased) <img src="/_unreleased/pics/mcr3.png" /></td>
 </tr>
-<tr><th colspan="3">Tecmo, Gottleib, and Other Games</th></tr>
+<tr><th colspan="3">Tecmo Arcade Games</th></tr>
 <tr>
  <td>Tecmo Rygar (by <a href="https://patreon.com/nullobject">nullobject</a>) <img src="/pics/arcade/tecmo.png" /></b></td>
+ <td>Solomon's Key (unreleased) <img src="/_unreleased/pics/solomon.png" /></td>
+</tr>
+<tr><th colspan="3">Other Games</th></tr>
+<tr>
  <td>Exidy UGB 2 (unreleased) <img src="/_unreleased/pics/exidyugb2.png" /></td>
  <td>Cave 68000 (unreleased) <img src="/_unreleased/pics/cave.png" /></td>
 </tr>

@@ -185,6 +185,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>Bomb Jack (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/bombjack.png" /></td>
  <td>Crazy Kong (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/crazykong.png" /></td>
+ <td>Solomon's Key <img src="pics/solomon.png" /></td>
 </tr>
 </table>
 
