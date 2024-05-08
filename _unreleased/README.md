@@ -94,6 +94,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr>
  <td>Time Soldiers / Battle Field (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/timesold.png" /></td>
+ <td>TNK III <img src="pics/tnkiii.png" /></td>
 </tr>
 <tr><th colspan="3"> Jaleco Arcade Cores</th></tr>
 <tr>
