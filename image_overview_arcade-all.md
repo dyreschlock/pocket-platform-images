@@ -252,21 +252,22 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Gang Wars (unreleased) <img src="/_unreleased/pics/gangwars.png" /></td>
 </tr>
 <tr>
+ <td>Ikari Warriors <img src="/_unreleased/pics/ikari.png" /></td>
  <td>Ikari 3 The Rescue (unreleased) <img src="/_unreleased/pics/ikari3.png" /></td>
  <td>The Next Space (unreleased) <img src="/_unreleased/pics/nextspace.png" /></td>
- <td>Paddle Mania (unreleased) <img src="/_unreleased/pics/paddlema.png" /></td>
 </tr>
 <tr>
+ <td>Paddle Mania (unreleased) <img src="/_unreleased/pics/paddlema.png" /></td>
  <td>Prisoners of War (unreleased) <img src="/_unreleased/pics/pow.png" /></td>
  <td>Prehistoric Isle (unreleased) <img src="/_unreleased/pics/prehisle.png" /></td>
- <td>Super Champion Baseball (unreleased) <img src="/_unreleased/pics/sbaseball.png" /></td>
 </tr>
 <tr>
+ <td>Super Champion Baseball (unreleased) <img src="/_unreleased/pics/sbaseball.png" /></td>
  <td>Search and Rescue (unreleased) <img src="/_unreleased/pics/searchar.png" /></td>
  <td>Sky Adventures (unreleased) <img src="/_unreleased/pics/skyadvnt.png" /></td>
- <td>Sky Soldiers (unreleased) <img src="/_unreleased/pics/skysoldr.png" /></td>
 </tr>
 <tr>
+ <td>Sky Soldiers (unreleased) <img src="/_unreleased/pics/skysoldr.png" /></td>
  <td>Street Smart (unreleased) <img src="/_unreleased/pics/streetsm.png" /></td>
  <td>Time Soldiers / Battle Field (unreleased) <img src="/_unreleased/pics/timesold.png" /></td>
 </tr>
