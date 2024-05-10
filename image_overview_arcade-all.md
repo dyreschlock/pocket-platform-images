@@ -107,6 +107,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Outrun (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtoutrun.png" /></td>
 </tr>
 <tr>
+ <td>Pengo (unreleased) <a href="/_unreleased/pics/pengo.png" /></td>
  <td>Super Hang-On (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtshanon.png" /></td>
  <td>Zaxxon (unreleased) <img src="/_unreleased/pics/zaxxon.png" /></td>
 </tr>
