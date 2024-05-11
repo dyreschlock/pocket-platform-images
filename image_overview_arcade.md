@@ -149,7 +149,10 @@ All artwork used is meant to resemble the game's official key artwork from the t
 </tr>
 <tr>
  <td>Snow Bros 2 (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/snowbros2.png" /></td>
+ <td>Teki Paki (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="/pics/arcade/tekipaki.png" /></td>
  <td>Truxton II / Tatsujin Oh (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="/pics/arcade/truxton2.png" /></td>
+</tr>
+<tr>
  <td>Whoopee! (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="/pics/arcade/pipibibs.png" /></td>
 </tr>
 <tr><th colspan="3"> Technos Japan Arcade Games</th></tr>

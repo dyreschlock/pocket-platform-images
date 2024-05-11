@@ -203,7 +203,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>Snow Bros. (unreleased) <img src="/_unreleased/pics/snowbros.png" /></td>
  <td>Snow Bros 2 (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/snowbros2.png" /></td>
- <td>Teki Paki (unreleased) <img src="/_unreleased/pics/tekipaki.png" /></td>
+ <td>Teki Paki (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="/pics/arcade/tekipaki.png" /></td>
 </tr>
 <tr>
  <td>Truxton (unreleased) <img src="/_unreleased/pics/truxton.png" /></td>
