@@ -98,7 +98,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr><th colspan="3"> Sega Arcade Games</th></tr>
 <tr>
  <td>Sega System 16 (Combo*) (<a href="https://github.com/espiox/jts16_complete">details</a>) <img src="/pics/arcade/jts16_c.png"></td>
- <td>Sega System 18 (unreleased) <img src="/_unreleased/pics/jts18.png" /></td>
+ <td>Sega System 18 (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jts18.png" /></td>
  <td>Sega System 1 & 2 (unreleased) <img src="/_unreleased/pics/segasys12.png" /></td>
 </tr>
 <tr>
