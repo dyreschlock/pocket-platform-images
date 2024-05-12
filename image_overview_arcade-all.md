@@ -193,29 +193,30 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>Demon's World (unreleased) <img src="/_unreleased/pics/demonwld.png" /></td>
  <td>Flying Shark (unreleased) <img src="/_unreleased/pics/fshark.png" /></td>
- <td>Hellfire (unreleased) <img src="/_unreleased/pics/hellfire.png" /></td>
+ <td>Ghox (unreleased) <img src="/_unreleased/pics/ghox.png" /></td> 
 </tr>
 <tr>
+ <td>Hellfire (unreleased) <img src="/_unreleased/pics/hellfire.png" /></td>
  <td>Out Zone (unreleased) <img src="/_unreleased/pics/outzone.png" /></td>
  <td>Rally Bike (unreleased) <img src="/_unreleased/pics/rallybike.png" /></td>
- <td>Same! Same! Same! (unreleased) <img src="/_unreleased/pics/samesame.png" /></td>
 </tr>
 <tr>
+ <td>Same! Same! Same! (unreleased) <img src="/_unreleased/pics/samesame.png" /></td>
  <td>Snow Bros. (unreleased) <img src="/_unreleased/pics/snowbros.png" /></td>
  <td>Snow Bros 2 (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/snowbros2.png" /></td>
- <td>Teki Paki (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="/pics/arcade/tekipaki.png" /></td>
 </tr>
 <tr>
+ <td>Teki Paki (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="/pics/arcade/tekipaki.png" /></td>
  <td>Truxton (unreleased) <img src="/_unreleased/pics/truxton.png" /></td>
  <td>Truxton II / Tatsujin Oh (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="/pics/arcade/truxton2.png" /></td>
- <td>Twin Cobra (unreleased) <img src="/_unreleased/pics/twincobr.png" /></td>
 </tr>
 <tr>
+ <td>Twin Cobra (unreleased) <img src="/_unreleased/pics/twincobr.png" /></td>
  <td>Vimana (unreleased) <img src="/_unreleased/pics/vimana.png" /></td>
  <td>Wardner (unreleased) <img src="/_unreleased/pics/wardner.png" /></td> 
- <td>Whoopee! (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="/pics/arcade/pipibibs.png" /></td>
 </tr>
 <tr>
+ <td>Whoopee! (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="/pics/arcade/pipibibs.png" /></td>
  <td>Zero Wing (unreleased) <img src="/_unreleased/pics/zerowing.png" /></td>
 </tr>
 <tr><th colspan="3"> Technos Japan Arcade Games</th></tr>
