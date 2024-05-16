@@ -254,7 +254,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Gang Wars (unreleased) <img src="/_unreleased/pics/gangwars.png" /></td>
 </tr>
 <tr>
- <td>Ikari Warriors <img src="/_unreleased/pics/ikari.png" /></td>
+ <td>Ikari Warriors (unreleased) <img src="/_unreleased/pics/ikari.png" /></td>
  <td>Ikari 3 The Rescue (unreleased) <img src="/_unreleased/pics/ikari3.png" /></td>
  <td>The Next Space (unreleased) <img src="/_unreleased/pics/nextspace.png" /></td>
 </tr>
