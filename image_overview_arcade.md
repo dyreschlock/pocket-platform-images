@@ -6,7 +6,7 @@ All artwork used is meant to resemble the game's official key artwork from the t
 
 * For the <b>Sega System 16</b> Combined core, please refer to Espiox's repo: <a href="https://github.com/espiox/jts16_complete">/jts16_complete</a>.
 
-* For the <b>Toaplan Version 2</b> Combine core, prefer refer to pocket-extras: <a href="https://github.com/dyreschlock/pocket-extras/tree/main/toaplan2_complete">/pocket-extras/toaplan2</a>
+* For the <b>Toaplan Version 2</b> Combination core and the <b>1942 / 1943</b> Combination Core, please refer to pocket-extras: <a href="https://github.com/dyreschlock/pocket-extras">/pocket-extras/toaplan2</a>
 
 <table>
 <tr><th colspan="3"> Capcom Arcade Games </th></tr>
@@ -18,24 +18,25 @@ All artwork used is meant to resemble the game's official key artwork from the t
 <tr>
  <td>1942 (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jt1942.png" /></td>
  <td>1943 (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jt1943.png" /></td>
- <td>Black Tiger (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtbtiger.png" /></td>
+ <td>1942 / 1943 (*Combo) (<a href="https://github.com/dyreschlock/pocket-extras/tree/main/jt1942_combo">details</a>) <img src="/pics/arcade/jt1942_c.png" /></td>
 </tr>
 <tr>
+ <td>Black Tiger (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtbtiger.png" /></td>
  <td>Commando (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtcommnd.png" /></td>
  <td>Exed Exes (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtexed.png" /></td>
- <td>Ghosts 'n Goblins (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtgng.png" /></td>
 </tr>
 <tr>
+ <td>Ghosts 'n Goblins (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtgng.png" /></td>
  <td>Gun.Smoke (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtgunsmk.png" /></td>
  <td>Hyper Dyne Side Arms (by <a href="https://patreon.com/jotego">Jotego</a>)  <img src="/pics/arcade/jtsarms.png" /></td>
- <td>Pang / Super Pang (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtpang.png" /></td>
 </tr>
 <tr>
+ <td>Pang / Super Pang (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtpang.png" /></td>
  <td>Section Z (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsectnz.png" /></td>
  <td>Street Fighter (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsf.png" /></td>
- <td>Tiger Road (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttora.png" /></td>
 </tr>
 <tr>
+ <td>Tiger Road (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttora.png" /></td>
  <td>Trojan (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttrojan.png" /></td>
 </tr>
 <tr><th colspan="3"> Konami Arcade Games</th></tr>
