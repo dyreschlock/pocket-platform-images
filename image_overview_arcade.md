@@ -16,9 +16,9 @@ All artwork used is meant to resemble the game's official key artwork from the t
  <td>Capcom CPS-2 System (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtcps2.png" /></td>
 </tr>
 <tr>
+ <td>Capcom Z80 Hardware (*Combo) (<a href="https://github.com/dyreschlock/pocket-extras/tree/main/jtcz80_combo">details</a>) <img src="/pics/arcade/jtcz80_c.png" /></td>
  <td>1942 (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jt1942.png" /></td>
  <td>1943 (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jt1943.png" /></td>
- <td>1942 / 1943 (*Combo) (<a href="https://github.com/dyreschlock/pocket-extras/tree/main/jt1942_combo">details</a>) <img src="/pics/arcade/jt1942_c.png" /></td>
 </tr>
 <tr>
  <td>Black Tiger (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtbtiger.png" /></td>

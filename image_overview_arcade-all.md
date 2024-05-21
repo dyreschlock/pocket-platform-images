@@ -22,9 +22,9 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Capcom CPS-2 System (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtcps2.png" /></td>
 </tr>
 <tr>
+ <td>Capcom Z80 Hardware (*Combo) (<a href="https://github.com/dyreschlock/pocket-extras/tree/main/jtcz80_combo">details</a>) <img src="/pics/arcade/jtcz80_c.png" /></td>
  <td>1942 (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jt1942.png" /></td>
  <td>1943 (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jt1943.png" /></td>
- <td>1942 / 1943 (*Combo) (<a href="https://github.com/dyreschlock/pocket-extras/tree/main/jt1942_combo">details</a>) <img src="/pics/arcade/jt1942_c.png" /></td>
 </tr>
 <tr>
  <td>Bionic Commando (unreleased) <img src="/_unreleased/pics/jtbiocom.png" /></td>
