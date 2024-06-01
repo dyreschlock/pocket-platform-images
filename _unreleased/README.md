@@ -10,7 +10,6 @@ These are platform overrides for cores that haven't been released yet. These cor
 <table>
 <tr><th colspan="3"> Capcom Arcade Cores</th></tr>
 <tr>
- <td>Bionic Commando (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/jtbiocom.png" /></td>
  <td>Son Son <img src="pics/sonson.png" /></td>
  <td>Speed Rumbler (by <a href="https://patreon.com/jotego">Jotego</a>)  <img src="pics/jtrumble.png" /></td>
 </tr>

@@ -27,7 +27,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>1943 (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jt1943.png" /></td>
 </tr>
 <tr>
- <td>Bionic Commando (unreleased) <img src="/_unreleased/pics/jtbiocom.png" /></td>
+ <td>Bionic Commando (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtbiocom.png" /></td>
  <td>Black Tiger (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtbtiger.png" /></td>
  <td>Commando (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtcommnd.png" /></td>
 </tr>
