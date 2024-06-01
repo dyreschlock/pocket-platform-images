@@ -179,7 +179,6 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr><th colspan="3">Technos Japan Cores</th></tr>
 <tr>
  <td>Combatribes <img src="pics/combatribes.png" /></td>
- <td>Double Dragon 3 <img src="pics/ddragon3.png" /></td>
 </tr>
 <tr><th colspan="3"> Other Arcade Cores</th></tr>
 <tr>
