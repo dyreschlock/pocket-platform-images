@@ -159,7 +159,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Dominos (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/dominos.png" /></td>
 </tr>
 <tr>
- <td>Gauntlet (unreleased) <img src="/_unreleased/pics/gauntlet.png" /></td>
+ <td>Gauntlet (by <a href="https://github.com/obsidian-dot-dev/openFPGA-Gauntlet">Obsidian</a>) <img src="/pics/arcade/gauntlet.png" /></td>
  <td>Lunar Lander (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/lunarlander.png" /></td>
  <td>Pong (by <a href="https://github.com/agg23">agg23</a>)  <img src="/pics/arcade/pong.png" /></td>
 </tr>

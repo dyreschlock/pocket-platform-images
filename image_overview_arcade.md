@@ -120,11 +120,12 @@ All artwork used is meant to resemble the game's official key artwork from the t
  <td>Dominos (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/dominos.png" /></td>
 </tr>
 <tr>
+ <td>Gauntlet (by <a href="https://github.com/obsidian-dot-dev/openFPGA-Gauntlet">Obsidian</a>) <img src="/pics/arcade/gauntlet.png" /></td>
  <td>Lunar Lander (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/lunarlander.png" /></td>
  <td>Pong (by <a href="https://github.com/agg23">agg23</a>)  <img src="/pics/arcade/pong.png" /></td>
- <td>Space Race (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/spacerace.png" /></td>
 </tr>
 <tr>
+ <td>Space Race (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/spacerace.png" /></td>
  <td>Star Wars (by <a href="https://github.com/Mazamars312">Mazamars</a>) <img src="/pics/arcade/ataristarwars.png" /></td>
  <td>Super Breakout (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/superbreakout.png" /></td>
 </tr>
