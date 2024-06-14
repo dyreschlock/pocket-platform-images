@@ -49,7 +49,6 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>Lock 'n Chase (Unreleased) <img src="pics/locknchase.png" /></td>
  <td>Midnight Resistance (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/jtmidres.png" /></td>
- <td>Sly Spy (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/jtslyspy.png" /></td>
 </tr>
 <tr><th colspan="3"> Nichibutsu Arcade Cores</th></tr>
 <tr>

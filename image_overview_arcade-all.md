@@ -245,7 +245,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>Karnov (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkarnov.png" /></td> 
  <td>Performan (by <a href="https://github.com/antongale">Anton Gale</a>) <img src="/pics/arcade/performan.png" /></td>
- <td>Sly Spy (unreleased) <img src="/_unreleased/pics/jtslyspy.png" /></td>
+ <td>Sly Spy (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtslyspy.png" /></td>
 </tr>
 <tr>
  <td>Robocop (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtcop.png" /></td>

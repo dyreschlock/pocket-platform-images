@@ -177,6 +177,7 @@ All artwork used is meant to resemble the game's official key artwork from the t
 </tr>
 <tr>
  <td>Robocop (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtcop.png" /></td>
+ <td>Sly Spy (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtslyspy.png" /></td>
 </tr>
 <tr><th colspan="3">SNK Arcade Games</th></tr>
 <tr>
