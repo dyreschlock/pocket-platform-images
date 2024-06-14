@@ -6,7 +6,7 @@ All artwork used is meant to resemble the game's official key artwork from the t
 
 * For the <b>Sega System 16</b> Combined core, please refer to Espiox's repo: <a href="https://github.com/espiox/jts16_complete">/jts16_complete</a>.
 
-* For the <b>Toaplan Version 2</b> Combination core and the <b>1942 / 1943</b> Combination Core, please refer to pocket-extras: <a href="https://github.com/dyreschlock/pocket-extras">/pocket-extras/toaplan2</a>
+* For the <b>Toaplan Version 2</b> and the <b>Capcom Z80</b> combination cores, please refer to pocket-extras: <a href="https://github.com/dyreschlock/pocket-extras">/pocket-extras</a>
 
 <table>
 <tr><th colspan="3"> Capcom Arcade Games </th></tr>
