@@ -115,18 +115,21 @@ All artwork used is meant to resemble the game's official key artwork from the t
 </tr>
 <tr><th colspan="3"> Atari Arcade Games</th></tr>
 <tr>
+ <td>Atari System 1 (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/system1.png" /></td>
  <td>Asteroids (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/asteroids.png" /></td>
  <td>Asteroids Deluxe (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/astdelux.png" /></td>
- <td>Dominos (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/dominos.png" /></td>
 </tr>
 <tr>
+ <td>Dominos (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/dominos.png" /></td>
  <td>Gauntlet (by <a href="https://github.com/obsidian-dot-dev/openFPGA-Gauntlet">Obsidian</a>) <img src="/pics/arcade/gauntlet.png" /></td>
  <td>Lunar Lander (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/lunarlander.png" /></td>
- <td>Pong (by <a href="https://github.com/agg23">agg23</a>)  <img src="/pics/arcade/pong.png" /></td>
 </tr>
 <tr>
+ <td>Pong (by <a href="https://github.com/agg23">agg23</a>)  <img src="/pics/arcade/pong.png" /></td>
  <td>Space Race (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/spacerace.png" /></td>
  <td>Star Wars (by <a href="https://github.com/Mazamars312">Mazamars</a>) <img src="/pics/arcade/ataristarwars.png" /></td>
+</tr>
+<tr>
  <td>Super Breakout (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/superbreakout.png" /></td>
 </tr>
 <tr><th colspan="3"> Nintendo Arcade Games</th></tr>
