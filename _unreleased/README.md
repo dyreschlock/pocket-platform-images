@@ -121,26 +121,27 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr><th colspan="3"> Toaplan Arcade Cores</th></tr>
 <tr>
+ <td>Toaplan Version 1 (Combo*) <img src="pics/toaplan1_c.png" /></td>
  <td>Demon's World (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/demonwld.png" /></td>
  <td>Flying Shark (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/fshark.png" /></td>
- <td>Ghox <img src="pics/ghox.png" /></td>
 </tr>
 <tr>
+ <td>Ghox <img src="pics/ghox.png" /></td>
  <td>Hellfire (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/hellfire.png" /></td>
  <td>Out Zone (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/outzone.png" /></td>
- <td>Rally Bike (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/rallybike.png" /></td>
 </tr>
 <tr>
+ <td>Rally Bike (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/rallybike.png" /></td>
  <td>Same! Same! Same! (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/samesame.png" /></td>
  <td>Snow Bros. (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/snowbros.png" /></td>
- <td>Truxton (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/truxton.png" /></td>
 </tr>
 <tr>
+ <td>Truxton (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/truxton.png" /></td>
  <td>Twin Cobra (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/twincobr.png" /></td>
  <td>Vimana (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/vimana.png" /></td>
- <td>Wardner (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/wardner.png" /></td> 
 </tr>
 <tr>
+ <td>Wardner (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/wardner.png" /></td> 
  <td>Zero Wing (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/zerowing.png" /></td>
 </tr>
 <tr><th colspan="3">Irem Arcade cores</th></tr>

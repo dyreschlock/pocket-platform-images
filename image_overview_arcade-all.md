@@ -185,41 +185,42 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr><th colspan="3"> Toaplan & Raizing Arcade Games</th></tr>
 <tr>
+ <td>Toaplan Version 1 (Combo*) (unreleased) <img src="/_unreleased/pics/toaplan1_c.png" /></td>
  <td>Toaplan Version 2 (Combo*) (<a href="https://github.com/dyreschlock/pocket-extras/tree/main/toaplan2_complete">details</a>) <img src="/pics/arcade/toaplan2_c.png" /></td>
  <td>Armed Police Batrider (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/batrider.png" /></td> 
- <td>Battle Garegga (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/garegga.png" /></td>
 </tr>
 <tr>
+ <td>Battle Garegga (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/garegga.png" /></td>
  <td>Battle Bakraid (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/bakraid.png" /></td>
  <td>Kingdom Gran Prix (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/kingdmgp.png" /></td>
- <td>Sorcerer Striker (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/sstriker.png" /></td>
 </tr>
 <tr>
+ <td>Sorcerer Striker (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/sstriker.png" /></td>
  <td>Demon's World (unreleased) <img src="/_unreleased/pics/demonwld.png" /></td>
  <td>Flying Shark (unreleased) <img src="/_unreleased/pics/fshark.png" /></td>
- <td>Ghox (unreleased) <img src="/_unreleased/pics/ghox.png" /></td> 
 </tr>
 <tr>
+ <td>Ghox (unreleased) <img src="/_unreleased/pics/ghox.png" /></td> 
  <td>Hellfire (unreleased) <img src="/_unreleased/pics/hellfire.png" /></td>
  <td>Out Zone (unreleased) <img src="/_unreleased/pics/outzone.png" /></td>
- <td>Rally Bike (unreleased) <img src="/_unreleased/pics/rallybike.png" /></td>
 </tr>
 <tr>
+ <td>Rally Bike (unreleased) <img src="/_unreleased/pics/rallybike.png" /></td>
  <td>Same! Same! Same! (unreleased) <img src="/_unreleased/pics/samesame.png" /></td>
  <td>Snow Bros. (unreleased) <img src="/_unreleased/pics/snowbros.png" /></td>
- <td>Snow Bros 2 (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/snowbros2.png" /></td>
 </tr>
 <tr>
+ <td>Snow Bros 2 (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/snowbros2.png" /></td>
  <td>Teki Paki (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="/pics/arcade/tekipaki.png" /></td>
  <td>Truxton (unreleased) <img src="/_unreleased/pics/truxton.png" /></td>
- <td>Truxton II / Tatsujin Oh (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="/pics/arcade/truxton2.png" /></td>
 </tr>
 <tr>
+ <td>Truxton II / Tatsujin Oh (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="/pics/arcade/truxton2.png" /></td>
  <td>Twin Cobra (unreleased) <img src="/_unreleased/pics/twincobr.png" /></td>
  <td>Vimana (unreleased) <img src="/_unreleased/pics/vimana.png" /></td>
- <td>Wardner (unreleased) <img src="/_unreleased/pics/wardner.png" /></td> 
 </tr>
 <tr>
+ <td>Wardner (unreleased) <img src="/_unreleased/pics/wardner.png" /></td> 
  <td>Whoopee! (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="/pics/arcade/pipibibs.png" /></td>
  <td>Zero Wing (unreleased) <img src="/_unreleased/pics/zerowing.png" /></td>
 </tr>
