@@ -283,26 +283,27 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr><th colspan="3">Jaleco Arcade Games</th></tr>
 <tr>
+ <td>Mega System 1 (Combo*) (unreleased) <img src="/_unreleased/pics/megasys1_c.png" /></td>
  <td>Astyanax / The Lord of King (unreleased) <img src="/_unreleased/pics/astyanax.png" /></td>
  <td>Earth Defense Force (unreleased) <img src="/_unreleased/pics/edf.png" /></td>
- <td>Exerion (by <a href="https://github.com/antongale">Anton Gale</a>) <img src="/pics/arcade/exerion.png" /></td>
 </tr>
 <tr>
+ <td>Exerion (by <a href="https://github.com/antongale">Anton Gale</a>) <img src="/pics/arcade/exerion.png" /></td>
  <td>Hachoo (unreleased) <img src="/_unreleased/pics/hachoo.png" /></td> 
  <td>In Your Face (unreleased) <img src="/_unreleased/pics/inyourface.png" /></td>
- <td>Jitsuryoku! Pro Baseball (unreleased) <img src="/_unreleased/pics/jitsupro.png "/></td>
 </tr>
 <tr>
+ <td>Jitsuryoku! Pro Baseball (unreleased) <img src="/_unreleased/pics/jitsupro.png "/></td>
  <td>Ninja Kazan / Iga Ninjyutsuden (unreleased) <img src="/_unreleased/pics/kazan.png" /></td>
  <td>P47 The Freedom Fighter (unreleased) <img src="/_unreleased/pics/p47.png" /></td>
- <td>Phantasm Avenging Spirit (unreleased) <img src="/_unreleased/pics/phantasm.png" /></td>
 </tr>
 <tr>
+ <td>Phantasm Avenging Spirit (unreleased) <img src="/_unreleased/pics/phantasm.png" /></td>
  <td>Plus Alpha (unreleased) <img src="/_unreleased/pics/plusalpha.png" /></td>
  <td>Rodland (unreleased) <img src="/_unreleased/pics/rodland.png" /></td> 
- <td>Soldam (unreleased) <img src="/_unreleased/pics/soldam.png" /></td>
 </tr>
 <tr>
+ <td>Soldam (unreleased) <img src="/_unreleased/pics/soldam.png" /></td>
  <td>Saint Dragon (unreleased) <img src="/_unreleased/pics/stdragon.png" /></td>
 </tr>
 <tr><th colspan="3">Nichibutsu Arcade Games</th></tr>

@@ -96,26 +96,27 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr><th colspan="3"> Jaleco Arcade Cores</th></tr>
 <tr>
+ <td>Mega System 1 (Combo*) (unreleased) <img src="/_unreleased/pics/megasys1_c.png" /></td>
  <td>Astyanax / The Lord of King (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/astyanax.png" /></td>
  <td>Chameleon <img src="pics/chameleon.png" /></td>
- <td>Earth Defense Force (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/edf.png" /></td>
 </tr>
 <tr>
+ <td>Earth Defense Force (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/edf.png" /></td>
  <td>Hachoo (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/hachoo.png" /></td> 
  <td>In Your Face (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/inyourface.png" /></td>
- <td>Jitsuryoku! Pro Baseball (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/jitsupro.png "/></td>
 </tr>
 <tr>
+ <td>Jitsuryoku! Pro Baseball (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/jitsupro.png "/></td>
  <td>Ninja Kazan / Iga Ninjyutsuden (<a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/kazan.png" /></td>
  <td>P47 The Freedom Fighter (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/p47.png" /></td>
- <td>Phantasm Avenging Spirit (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/phantasm.png" /></td>
 </tr>
 <tr>
+ <td>Phantasm Avenging Spirit (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/phantasm.png" /></td>
  <td>Plus Alpha (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/plusalpha.png" /></td>
  <td>Psychic 5 <img src="pics/psychic5.png" /></td>
- <td>Rodland (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/rodland.png" /></td> 
 </tr>
 <tr>
+ <td>Rodland (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/rodland.png" /></td> 
  <td>Soldam (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/soldam.png" /></td>
  <td>Saint Dragon (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/stdragon.png" /></td>
 </tr>
