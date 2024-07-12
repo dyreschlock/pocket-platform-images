@@ -58,7 +58,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>Combat School (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtcomsc.png" /></td>
  <td>Contra (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtcontra.png" /></td>
- <td>Fast Lane (unreleased) <img src="/_unreleased/pics/jtflane.png" /></td>
+ <td>Fast Lane (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtflane.png" /></td>
 </tr>
 <tr>
  <td>The Final Round (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtfround.png" /></td>

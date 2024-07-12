@@ -15,17 +15,16 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr><th colspan="3"> Konami Arcade Cores</th></tr>
 <tr>
- <td>Fast Lane (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/jtflane.png" /></td>
  <td>Finalizer <img src="pics/finalizer.png" /></td>
  <td>Gyruss <img src="pics/gyruss.png" /></td> 
+ <td>Iron Horse <img src="pics/ironhorse.png" /></td>
 </tr>
 <tr>
- <td>Iron Horse <img src="pics/ironhorse.png" /></td>
  <td>Jackal <img src="pics/jackal.png" /></td>
  <td>Labyrinth Runner (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/jtlabrun.png" /></td>
+ <td>Scramble <img src="pics/scramble.png" /></td>
 </tr>
 <tr>
- <td>Scramble <img src="pics/scramble.png" /></td>
  <td>Time Pilot <img src="pics/timepilot.png" /></td>
  <td>Time Pilot '84 <img src="pics/timepilot84.png" /></td>
 </tr>
