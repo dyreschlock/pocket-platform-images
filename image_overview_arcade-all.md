@@ -88,14 +88,15 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>Scramble (unreleased) <img src="/_unreleased/pics/scramble.png" /></td>
  <td>Shao-Lin's Road (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkicker.png" /></td>
- <td>Super Basketball (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsbaskt.png" /></td>
+ <td>Sunset Riders (unreleased) <img src="/_unreleased/pics/jtsunset.png" /></td>
 </tr>
 <tr>
+ <td>Super Basketball (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsbaskt.png" /></td>
  <td>Time Pilot (unreleased) <img src="/_unreleased/pics/timepilot.png" /></td>
  <td>Time Pilot '84 (unreleased) <img src="/_unreleased/pics/timepilot84.png" /></td>
- <td>Track & Field (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttrack.png" /></td>
 </tr>
 <tr>
+ <td>Track & Field (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttrack.png" /></td>
  <td>Yie Ar Kung-Fu (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtyiear.png" /></td>
 </tr>
 <tr><th colspan="3"> Sega Arcade Games</th></tr>
