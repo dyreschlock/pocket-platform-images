@@ -25,7 +25,6 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>Scramble <img src="pics/scramble.png" /></td>
 </tr>
 <tr>
- <td>Sunset Riders <img src="pics/jtsunset.png" /></td>
  <td>Time Pilot <img src="pics/timepilot.png" /></td>
  <td>Time Pilot '84 <img src="pics/timepilot84.png" /></td>
 </tr>

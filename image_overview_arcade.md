@@ -69,9 +69,10 @@ All artwork used is meant to resemble the game's official key artwork from the t
 <tr>
  <td>Roc'n Rope (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtroc.png" /></td>
  <td>Shao-Lin's Road (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkicker.png" /></td>
- <td>Super Basketball (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsbaskt.png" /></td>
+ <td>Sunset Riders (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtriders.png" /></td>
 </tr>
 <tr>
+ <td>Super Basketball (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsbaskt.png" /></td>
  <td>Track & Field (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttrack.png" /></td>
  <td>Yie Ar Kung-Fu (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtyiear.png" /></td>
 </tr>

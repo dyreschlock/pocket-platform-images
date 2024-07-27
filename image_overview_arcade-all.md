@@ -88,7 +88,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>Scramble (unreleased) <img src="/_unreleased/pics/scramble.png" /></td>
  <td>Shao-Lin's Road (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkicker.png" /></td>
- <td>Sunset Riders (unreleased) <img src="/_unreleased/pics/jtsunset.png" /></td>
+ <td>Sunset Riders (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtriders.png" /></td>
 </tr>
 <tr>
  <td>Super Basketball (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsbaskt.png" /></td>
