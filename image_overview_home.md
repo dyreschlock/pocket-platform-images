@@ -93,6 +93,10 @@ You can view those differences here: <b><a href="/image_regional_variants.md">Re
  <td>flappybird - Flappy Bird <img src="/pics/home/flappybird.png" /></td>
  <td>life - Conway's Game of Life <img src="/pics/home/life.png" /></td>
 </tr>
+<tr><th colspan="3">Utility Cores</th></tr>
+<tr>
+ <td>Camera <img src="/pics/home/camera.json" /></td>
+</tr>
 <tr><th colspan="3">Others / Experimental Cores</th></tr>
 <tr>
  <td>riscv - Risc-V (dev) <img src="/pics/home/riscv.png" /></td>
