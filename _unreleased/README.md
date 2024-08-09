@@ -21,11 +21,10 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr>
  <td>Jackal <img src="pics/jackal.png" /></td>
- <td>Labyrinth Runner (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="pics/jtlabrun.png" /></td>
  <td>Scramble <img src="pics/scramble.png" /></td>
+ <td>Time Pilot <img src="pics/timepilot.png" /></td>
 </tr>
 <tr>
- <td>Time Pilot <img src="pics/timepilot.png" /></td>
  <td>Time Pilot '84 <img src="pics/timepilot84.png" /></td>
 </tr>
 <tr><th colspan="3"> Sega Arcade Cores</th></tr>
@@ -227,5 +226,6 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr><th colspan="3">Other Cores</th></tr>
 <tr>
  <td>MP3 Player <img src="pics/mp3.png" /></td>
+ <td>Rom Dumper <img src="pics/rom_dumper.png" /></td>
 </tr>
 </table>

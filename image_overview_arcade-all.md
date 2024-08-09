@@ -76,7 +76,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Jackal (unreleased) <img src="/_unreleased/pics/jackal.png" /></td>
 </tr>
 <tr>
- <td>Labyrinth Runner (unreleased) <img src="/_unreleased/pics/jtlabrun.png" /></td>
+ <td>Labyrinth Runner (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtlabrun.png" /></td>
  <td>Mikie (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtmikie.png" /></td>
  <td>Ping Pong (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtpinpon.png" /></td>
 </tr>
