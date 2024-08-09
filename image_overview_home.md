@@ -95,7 +95,7 @@ You can view those differences here: <b><a href="/image_regional_variants.md">Re
 </tr>
 <tr><th colspan="3">Utility Cores</th></tr>
 <tr>
- <td>Camera <img src="/pics/home/camera.json" /></td>
+ <td>Camera <img src="/pics/home/camera.png" /></td>
 </tr>
 <tr><th colspan="3">Others / Experimental Cores</th></tr>
 <tr>
