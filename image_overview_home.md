@@ -55,22 +55,22 @@ You can view those differences here: <b><a href="/image_regional_variants.md">Re
 <tr>
  <td>wonderswan - WonderSwan Color <img src="/pics/home/wonderswan.png" /></td>
  <td>jtngp - Neo Geo Pocket <img src="/pics/home/jtngp.png" /></td>
- <td>gg - Sega GameGear <img src="/pics/home/gg.png" /></td>
+ <td>jtngpc - Neo Geo Pocket Color <img src="/pics/home/jtngpc.png" /></td>
 </tr>
 <tr>
+ <td>gg - Sega GameGear <img src="/pics/home/gg.png" /></td>
+ <td>lynx - Atari Lynx <img src="/pics/home/lynx.png" /></td>
  <td>arduboy - Arduboy <img src="/pics/home/arduboy.png" /></td>
+</tr>
+<tr>
  <td>supervision - Supervision <img src="/pics/home/supervision.png" /></td>
  <td>megaduck - Mega Duck <img src="/pics/home/mega_duck.png" /></td>
+ <td>game_king - GameKing <img src="/pics/home/game_king.png" /></td>
 </tr>
 <tr>
- <td>game_king - GameKing <img src="/pics/home/game_king.png" /></td>
  <td>gamate - Gamate <img src="/pics/home/gamate.png" /></td>
  <td>avision - Adventure Vision <img src="/pics/home/avision.png" /></td>
-</tr>
-<tr>
  <td>tamagotchi_p1 - Tamagotchi <img src="/pics/home/tamagotchi_p1.png" /></td>
- <td></td>
- <td></td>
 </tr>
 <tr><th colspan="3">Computer Cores</th></tr>
 <tr>

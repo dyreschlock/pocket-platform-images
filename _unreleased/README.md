@@ -194,13 +194,11 @@ These are platform overrides for cores that haven't been released yet. These cor
 <table>
 <tr><th colspan="3">Handheld Cores</th></tr>
 <tr>
- <td>NeoGeo Pocket Color <img src="pics/ngpc.png" /></td>
- <td>Atari Lynx <img src="pics/lynx.png" /></td>
  <td>Dreamcast VMU <img src="pics/sdvmu.png" /></td>
-</tr>
-<tr>
  <td>Virtual Boy <img src="pics/vb.png" /></td>
  <td>Tiger Game.Com <img src="pics/gamecom.png" /></td>
+</tr>
+<tr>
  <td>Nokia N-Gage <img src="pics/ngage.png" /></td>  
 </tr>
 <tr><th colspan="3">Consoles Cores</th></tr>
