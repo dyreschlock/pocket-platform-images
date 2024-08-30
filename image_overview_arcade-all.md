@@ -52,7 +52,6 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr><th colspan="3"> Konami Arcade Games</th></tr>
 <tr>
  <td>Konami Aliens (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtaliens.png" /></td> 
- <td>Konami Simpsons (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsimson.png" /></td>
  <td>Konami TMNT (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttmnt.png" /></td>
 </tr>
 <tr>
@@ -91,13 +90,16 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Shao-Lin's Road (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkicker.png" /></td>
 </tr>
 <tr>
+ <td>The Simpsons (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsimson.png" /></td>
  <td>Sunset Riders (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtriders.png" /></td>
  <td>Super Basketball (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsbaskt.png" /></td>
- <td>Time Pilot (unreleased) <img src="/_unreleased/pics/timepilot.png" /></td>
 </tr>
 <tr>
+ <td>Time Pilot (unreleased) <img src="/_unreleased/pics/timepilot.png" /></td>
  <td>Time Pilot '84 (unreleased) <img src="/_unreleased/pics/timepilot84.png" /></td>
  <td>Track & Field (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttrack.png" /></td>
+</tr>
+<tr>
  <td>Yie Ar Kung-Fu (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtyiear.png" /></td>
 </tr>
 <tr><th colspan="3"> Sega Arcade Games</th></tr>

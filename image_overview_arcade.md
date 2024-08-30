@@ -43,7 +43,6 @@ All artwork used is meant to resemble the game's official key artwork from the t
 <tr><th colspan="3"> Konami Arcade Games</th></tr>
 <tr>
  <td>Konami Aliens (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtaliens.png" /></td> 
- <td>Konami Simpsons (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsimson.png" /></td>
  <td>Konami TMNT (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttmnt.png" /></td>
 </tr>
 <tr>
@@ -73,10 +72,11 @@ All artwork used is meant to resemble the game's official key artwork from the t
 </tr>
 <tr>
  <td>Shao-Lin's Road (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkicker.png" /></td>
+ <td>The Simpsons (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsimson.png" /></td>
  <td>Sunset Riders (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtriders.png" /></td>
- <td>Super Basketball (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsbaskt.png" /></td>
 </tr>
 <tr>
+ <td>Super Basketball (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsbaskt.png" /></td>
  <td>Track & Field (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttrack.png" /></td>
  <td>Yie Ar Kung-Fu (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtyiear.png" /></td>
 </tr>
