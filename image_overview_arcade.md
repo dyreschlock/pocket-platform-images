@@ -63,21 +63,24 @@ All artwork used is meant to resemble the game's official key artwork from the t
 <tr>
  <td>Labyrinth Runner (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtlabrun.png" /></td>
  <td>Mikie (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtmikie.png" /></td>
- <td>Ping Pong (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtpinpon.png" /></td>
+ <td>Parodius Da! (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtparoda.png" /></td>
 </tr>
 <tr>
+ <td>Ping Pong (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtpinpon.png" /></td>
  <td>Pooyan (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/pooyan.png" /></td>
  <td>Road Fighter (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtroadf.png" /></td>
- <td>Roc'n Rope (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtroc.png" /></td>
 </tr>
 <tr>
+ <td>Roc'n Rope (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtroc.png" /></td>
  <td>Shao-Lin's Road (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkicker.png" /></td>
  <td>The Simpsons (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsimson.png" /></td>
- <td>Sunset Riders (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtriders.png" /></td>
 </tr>
 <tr>
+ <td>Sunset Riders (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtriders.png" /></td>
  <td>Super Basketball (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsbaskt.png" /></td>
  <td>Track & Field (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttrack.png" /></td>
+</tr>
+<tr>
  <td>Yie Ar Kung-Fu (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtyiear.png" /></td>
 </tr>
 <tr><th colspan="3"> Sega Arcade Games</th></tr>

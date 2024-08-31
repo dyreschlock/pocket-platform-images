@@ -80,26 +80,27 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Mikie (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtmikie.png" /></td>
 </tr>
 <tr>
+ <td>Parodius Da! (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtparoda.png" /></td>
  <td>Ping Pong (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtpinpon.png" /></td>
  <td>Pooyan (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/pooyan.png" /></td>
- <td>Road Fighter (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtroadf.png" /></td>
 </tr>
 <tr>
+ <td>Road Fighter (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtroadf.png" /></td>
  <td>Roc'n Rope (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtroc.png" /></td>
  <td>Scramble (unreleased) <img src="/_unreleased/pics/scramble.png" /></td>
- <td>Shao-Lin's Road (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkicker.png" /></td>
 </tr>
 <tr>
+ <td>Shao-Lin's Road (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkicker.png" /></td>
  <td>The Simpsons (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsimson.png" /></td>
  <td>Sunset Riders (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtriders.png" /></td>
- <td>Super Basketball (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsbaskt.png" /></td>
 </tr>
 <tr>
+ <td>Super Basketball (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsbaskt.png" /></td>
  <td>Time Pilot (unreleased) <img src="/_unreleased/pics/timepilot.png" /></td>
  <td>Time Pilot '84 (unreleased) <img src="/_unreleased/pics/timepilot84.png" /></td>
- <td>Track & Field (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttrack.png" /></td>
 </tr>
 <tr>
+ <td>Track & Field (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttrack.png" /></td>
  <td>Yie Ar Kung-Fu (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtyiear.png" /></td>
 </tr>
 <tr><th colspan="3"> Sega Arcade Games</th></tr>
