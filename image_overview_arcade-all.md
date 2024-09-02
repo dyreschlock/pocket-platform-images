@@ -348,21 +348,21 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr>
  <td>William 6809 (Combined) (unreleased) <img src="/pics/arcade/williams_c.png" /></td>
- <td>Bally Midway MCR (Combined) (unreleased) <img src="/_unreleased/pics/mcr_c.png" /></td>
+ <td>Bally Midway MCR (Combo) (unreleased) <img src="/_unreleased/pics/mcr_c.png" /></td>
 </tr>
 <tr>
  <td>Williams Defender (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/defender.png" /></td>
- <td>Williams Robotron (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/robotron.png" /></td>
- <td>Williams Joust 2 (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/joust2.png" /></td>
-</tr>
-<tr>
- <td>Bally Midway MCR-1 (unreleased) <img src="/_unreleased/pics/mcr1.png" /></td>
- <td>Bally Midway MCR-2 (unreleased) <img src="/_unreleased/pics/mcr2.png" /></td>
- <td>Bally Midway MCR-3 (unreleased) <img src="/_unreleased/pics/mcr3.png" /></td>
-</tr>
-<tr>
  <td>Bally Midway MCR-3 (Scroll) (unreleased) <img src="/_unreleased/pics/mcr3scroll.png" /></td>
  <td>Bally Midway MCR-3 (Mono) (unreleased) <img src="/_unreleased/pics/mcr3mono.png" /></td>
+</tr>
+<tr>
+ <td>Williams Robotron (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/robotron.png" /></td>
+ <td>Bally Midway MCR-3 (unreleased) <img src="/_unreleased/pics/mcr3.png" /></td>
+ <td>Bally Midway MCR-2 (unreleased) <img src="/_unreleased/pics/mcr2.png" /></td>
+</tr>
+<tr>
+ <td>Williams Joust 2 (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/joust2.png" /></td>
+ <td>Bally Midway MCR-1 (unreleased) <img src="/_unreleased/pics/mcr1.png" /></td>
 </tr>
 <tr><th colspan="3">Tecmo Arcade Games</th></tr>
 <tr>
