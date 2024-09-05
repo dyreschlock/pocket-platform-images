@@ -11,7 +11,6 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr><th colspan="3"> Capcom Arcade Cores</th></tr>
 <tr>
  <td>Son Son <img src="pics/sonson.png" /></td>
- <td>Speed Rumbler (by <a href="https://patreon.com/jotego">Jotego</a>)  <img src="pics/jtrumble.png" /></td>
 </tr>
 <tr><th colspan="3"> Konami Arcade Cores</th></tr>
 <tr>

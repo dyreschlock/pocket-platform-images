@@ -36,8 +36,11 @@ All artwork used is meant to resemble the game's official key artwork from the t
  <td>Section Z (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsectnz.png" /></td>
 </tr>
 <tr>
+ <td>Speed Rumbler  (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtrumble.png" /></td>
  <td>Street Fighter (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsf.png" /></td>
  <td>Tiger Road (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttora.png" /></td>
+</tr>
+<tr>
  <td>Trojan (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttrojan.png" /></td>
 </tr>
 <tr><th colspan="3"> Konami Arcade Games</th></tr>
