@@ -207,7 +207,10 @@ All artwork used is meant to resemble the game's official key artwork from the t
  <td>Irem M92 Board (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/irem_m92.png" /></td>
  <td>Vigilante (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtvigil.png" /></td>
 </tr>
-<tr><th colspan="3">Williams Arcade Games</th></tr>
+<tr><th colspan="3">Williams / Midway Arcade Games</th></tr>
+<tr>
+ <td>Narc (by <a href="https://github.com/psomashekar">Coin-Op</a>) <img src="/pics/arcade/narc.png" /></td>
+</tr>
 <tr>
  <td>Williams Defender (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/defender.png" /></td>
  <td>Williams Robotron (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/robotron.png" /></td>
