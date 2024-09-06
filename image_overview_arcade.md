@@ -180,9 +180,12 @@ All artwork used is meant to resemble the game's official key artwork from the t
  <td>Double Dragon III (by <a href="https://github.com/psomashekar">Coin-Op</a>) <img src="/pics/arcade/doubledragoniii.png" /></td>
 </tr>
 <tr>
- <td>Renegade Kunio-kun (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkunio.png" /></td>
- <td>Karate Champ (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkchamp.png" /></td>
+ <td>WWF Superstars (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtwwfss.png" /></td>
  <td>WWF Wrestlefest (by <a href="https://github.com/psomashekar">Coin-Op</a>) <img src="/pics/arcade/wrestlefest.png" /></td>
+ <td>Karate Champ (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkchamp.png" /></td>
+</tr>
+<tr>
+ <td>Renegade Kunio-kun (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkunio.png" /></td>
 </tr>
 <tr><th colspan="3"> Data East Arcade Games</th></tr>
 <tr>
