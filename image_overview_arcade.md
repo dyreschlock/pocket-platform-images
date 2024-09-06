@@ -217,7 +217,7 @@ All artwork used is meant to resemble the game's official key artwork from the t
  <td>Williams Joust 2 (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/joust2.png" /></td>
 </tr>
 <tr>
- <td>Williams 6809 Hardware (unreleased) <img src="/pics/arcade/williams_c.png" /></td>
+ <td>Williams 6809 (Combo*) (<a href="https://github.com/dyreschlock/pocket-extras/tree/main/williams_complete">details</a>) <img src="/pics/arcade/williams_c.png" /></td>
 </tr>
 <tr><th colspan="3">Tecmo, Jaleco, Gottleib Games</th></tr>
 <tr>

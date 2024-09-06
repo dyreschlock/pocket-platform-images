@@ -348,7 +348,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td></td>
 </tr>
 <tr>
- <td>William 6809 (Combined) (unreleased) <img src="/pics/arcade/williams_c.png" /></td>
+ <td>William 6809 (Combo) (<a href="https://github.com/dyreschlock/pocket-extras/tree/main/williams_complete">details</a>) <img src="/pics/arcade/williams_c.png" /></td>
  <td>Bally Midway MCR (Combo) (unreleased) <img src="/_unreleased/pics/mcr_c.png" /></td>
 </tr>
 <tr>
