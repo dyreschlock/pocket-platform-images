@@ -25,6 +25,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr>
  <td>Time Pilot '84 <img src="pics/timepilot84.png" /></td>
+ <td>X-Men <img src="pics/jtxmen.png" /></td>
 </tr>
 <tr><th colspan="3"> Sega Arcade Cores</th></tr>
 <tr>
