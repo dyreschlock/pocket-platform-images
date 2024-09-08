@@ -349,6 +349,9 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Mortal Kombat (unreleased) <img src="/_unreleased/pics/mortalkombat.png" /></td>
 </tr>
 <tr>
+ <td>Terminator 2 (unreleased) <img src="/_unreleased/pics/terminator2.png" /></td>
+</tr>
+<tr>
  <td>William 6809 (Combo) (<a href="https://github.com/dyreschlock/pocket-extras/tree/main/williams_complete">details</a>) <img src="/pics/arcade/williams_c.png" /></td>
  <td>Bally Midway MCR (Combo) (unreleased) <img src="/_unreleased/pics/mcr_c.png" /></td>
 </tr>
