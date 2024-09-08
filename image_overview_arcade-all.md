@@ -345,8 +345,8 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr><th colspan="3">Williams / Midway Arcade Games</th></tr>
 <tr>
  <td>Narc (by <a href="https://github.com/psomashekar">Coin-Op</a>) <img src="/pics/arcade/narc.png" /></td>
+ <td>Smash TV (unreleased) <img src="/_unreleased/pics/smashtv.png" /></td>
  <td>Mortal Kombat (unreleased) <img src="/_unreleased/pics/mortalkombat.png" /></td>
- <td></td>
 </tr>
 <tr>
  <td>William 6809 (Combo) (<a href="https://github.com/dyreschlock/pocket-extras/tree/main/williams_complete">details</a>) <img src="/pics/arcade/williams_c.png" /></td>
