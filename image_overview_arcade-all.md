@@ -346,9 +346,10 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>Narc (by <a href="https://github.com/psomashekar">Coin-Op</a>) <img src="/pics/arcade/narc.png" /></td>
  <td>Smash TV (unreleased) <img src="/_unreleased/pics/smashtv.png" /></td>
- <td>Mortal Kombat (unreleased) <img src="/_unreleased/pics/mortalkombat.png" /></td>
+ <td>Total Carnage (unreleased) <img src="/_unreleased/pics/totalcarnage.png" /></td>
 </tr>
 <tr>
+ <td>Mortal Kombat (unreleased) <img src="/_unreleased/pics/mortalkombat.png" /></td>
  <td>Terminator 2 (unreleased) <img src="/_unreleased/pics/terminator2.png" /></td>
 </tr>
 <tr>
