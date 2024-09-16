@@ -249,7 +249,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>Lock 'n Chase (Unreleased) <img src="/_unreleased/pics/locknchase.png" /></td>
  <td>Bad Dudes v. Dragon Ninja (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtninja.png" /></td>
- <td>Midnight Resistance (unreleased) <img src="/_unreleased/pics/jtmidres.png" /></td>
+ <td>Midnight Resistance (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtmidres.png" /></td>
 </tr>
 <tr>
  <td>Karnov (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkarnov.png" /></td> 

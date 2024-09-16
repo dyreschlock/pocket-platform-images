@@ -190,10 +190,11 @@ All artwork used is meant to resemble the game's official key artwork from the t
 <tr><th colspan="3"> Data East Arcade Games</th></tr>
 <tr>
  <td>Bad Dudes v. Dragon Ninja (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtninja.png" /></td>
+ <td>Midnight Resistance (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtmidres.png" /></td>
  <td>Karnov (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkarnov.png" /></td> 
- <td>Performan (by <a href="https://github.com/antongale">Anton Gale</a>) <img src="/pics/arcade/performan.png" /></td>
 </tr>
 <tr>
+ <td>Performan (by <a href="https://github.com/antongale">Anton Gale</a>) <img src="/pics/arcade/performan.png" /></td>
  <td>Robocop (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtcop.png" /></td>
  <td>Sly Spy (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtslyspy.png" /></td>
 </tr>
