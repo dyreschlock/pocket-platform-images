@@ -150,11 +150,8 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr><th colspan="3">Williams / Midway Arcade cores</th></tr>
 <tr>
- <td>Smash TV <img src="pics/smashtv.png" /></td>
  <td>Total Carnage <img src="pics/totalcarnage.png" /></td>
  <td>Mortal Kombat <img src="pics/mortalkombat.png" /></td> 
-</tr>
-<tr>
  <td>Terminator 2 <img src="pics/terminator2.png" /></td>
 </tr>
 <tr><th colspan="3">Bally Midway Arcade cores</th></tr>
