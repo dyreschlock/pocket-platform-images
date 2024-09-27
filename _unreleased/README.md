@@ -178,10 +178,6 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>Arkanoid <img src="pics/arkanoid.png" /></td>
  <td>Crazy Balloon (by <a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/crazyballoon.png" /></td>
 </tr>
-<tr><th colspan="3">Technos Japan Cores</th></tr>
-<tr>
- <td>Combatribes <img src="pics/combatribes.png" /></td>
-</tr>
 <tr><th colspan="3"> Other Arcade Cores</th></tr>
 <tr>
  <td>Exidy UGB 2 (by <a href="https://github.com/antongale">Anton Gale</a>) <img src="pics/exidyugb2.png" /></td>
