@@ -355,7 +355,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr>
  <td>Super High Impact (unreleased) <img src="/_unreleased/pics/shimpact.png" /></td>
- <td>Strike Force <img src="/_unreleased/pics/strikeforce.png" /></td>
+ <td>Strike Force (unreleased) <img src="/_unreleased/pics/strikeforce.png" /></td>
 </tr>
 <tr>
  <td>William 6809 (Combo) (<a href="https://github.com/dyreschlock/pocket-extras/tree/main/williams_complete">details</a>) <img src="/pics/arcade/williams_c.png" /></td>
