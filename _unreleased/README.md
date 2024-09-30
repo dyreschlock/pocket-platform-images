@@ -157,6 +157,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>Super High Impact <img src="pics/shimpact.png" /></td>
  <td>Trog <img src="pics/trog.png" /></td>
+ <td>Strike Force <img src="pics/strikeforce.png" /></td>
 </tr>
 <tr><th colspan="3">Bally Midway Arcade cores</th></tr>
 <tr>
