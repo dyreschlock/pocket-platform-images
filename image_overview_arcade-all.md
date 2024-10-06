@@ -49,7 +49,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>Trojan (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttrojan.png" /></td>
 </tr>
-<tr><th colspan="3"> Konami Arcade Games</th></tr>
+<tr><th colspan="3">Konami Arcade Games</th></tr>
 <tr>
  <td>Konami Aliens (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtaliens.png" /></td> 
  <td>Konami TMNT (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttmnt.png" /></td>
@@ -101,7 +101,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr>
  <td>Track & Field (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttrack.png" /></td>
- <td>X-Men (unreleased) <img src="/_unreleased/pics/jtxmen.png" /></td>
+ <td>X-Men (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtxmen.png" /></td>
  <td>Yie Ar Kung-Fu (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtyiear.png" /></td>
 </tr>
 <tr><th colspan="3"> Sega Arcade Games</th></tr>
@@ -344,12 +344,12 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr><th colspan="3">Williams / Midway Arcade Games</th></tr>
 <tr>
- <td>Narc (by <a href="https://github.com/psomashekar">Coin-Op</a>) <img src="/pics/arcade/narc.png" /></td>
- <td>Smash TV (by <a href="https://github.com/psomashekar">Coin-Op</a>) <img src="/pics/arcade/smashtv.png" /></td>
+ <td>Narc (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/narc.png" /></td>
+ <td>Smash TV (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/smashtv.png" /></td>
  <td>Total Carnage (unreleased) <img src="/_unreleased/pics/totalcarnage.png" /></td>
 </tr>
 <tr>
- <td>Mortal Kombat (unreleased) <img src="/_unreleased/pics/mortalkombat.png" /></td>
+ <td>Mortal Kombat (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/mortalkombat.png" /></td>
  <td>Terminator 2 (unreleased) <img src="/_unreleased/pics/terminator2.png" /></td>
  <td>Trog (unreleased) <img src="/_unreleased/pics/trog.png" /></td>
 </tr>
