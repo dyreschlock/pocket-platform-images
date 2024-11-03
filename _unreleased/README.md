@@ -149,12 +149,11 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr><th colspan="3">Williams / Midway Arcade cores</th></tr>
 <tr>
- <td>Total Carnage <img src="pics/totalcarnage.png" /></td>
  <td>Terminator 2 <img src="pics/terminator2.png" /></td>
  <td>Trog <img src="pics/trog.png" /></td>
+ <td>Super High Impact <img src="pics/shimpact.png" /></td>
 </tr>
 <tr>
- <td>Super High Impact <img src="pics/shimpact.png" /></td>
  <td>Strike Force <img src="pics/strikeforce.png" /></td>
 </tr>
 <tr><th colspan="3">Bally Midway Arcade cores</th></tr>
