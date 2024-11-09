@@ -235,5 +235,6 @@ All artwork used is meant to resemble the game's official key artwork from the t
 </tr>
 <tr>
  <td>Toki (by <a href="https://github.com/vertrex">Vertex</a> & <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttoki.png" /></td>
+ <td>Tehkan World Cup (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtwc.png" /></td>
 </tr>
 </table>

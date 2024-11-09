@@ -386,9 +386,12 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Cave 68000 (unreleased) <img src="/_unreleased/pics/cave.png" /></td>
 </tr>
 <tr>
- <td>Crazy Kong  (unreleased) <img src="/_unreleased/pics/crazykong.png" /></td>
- <td>Bomb Jack (unreleased) <img src="/_unreleased/pics/bombjack.png" /></td>
  <td>Q*Bert (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/qbert.png" /></td>
+ <td>Tehkan World Cup (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtwc.png" /></td>
+ <td>Bomb Jack (unreleased) <img src="/_unreleased/pics/bombjack.png" /></td>
+</tr>
+<tr>
+ <td>Crazy Kong  (unreleased) <img src="/_unreleased/pics/crazykong.png" /></td>
 </tr>
 <tr>
 </tr>
