@@ -217,10 +217,9 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>ZX Spectrum <img src="pics/zx.png" /></td>
  <td>Apple II <img src="pics/a2.png" /></td>
- <td>MSX <img src="pics/msx.png" /></td>
+ <td>Sharp X68000 <img src="pics/x68000.png" /></td>
 </tr>
 <tr>
- <td>Sharp X68000 <img src="pics/x68000.png" /></td>
  <td>NEC PC-8801 <img src="pics/pc8801.png" /></td>
  <td>Bandai RX-78 <img src="pics/rx78.png" /></td>
 </tr>

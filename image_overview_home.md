@@ -79,6 +79,7 @@ You can view those differences here: <b><a href="/image_regional_variants.md">Re
  <td>Varvara / UXN <img src="/pics/home/varvara.png" /></td>
 </tr>
 <tr>
+ <td>msx - MSX <img src="/pics/home/msx.png" /></td>
  <td>videobrain - VideoBrain <img src="/pics/home/videobrain.png" /></td>
  <td>pdp1 - PDP-1 Spacewar <img src="/pics/home/pdp1.png" /></td>
 </tr>
