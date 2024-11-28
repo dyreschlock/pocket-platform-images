@@ -218,6 +218,11 @@ All artwork used is meant to resemble the game's official key artwork from the t
 </tr>
 <tr>
  <td>Total Carnage (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/totalcarnage.png" /></td>
+ <td>High Impact (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/hiimpact.png" /></td>
+ <td>Super High Impact (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/superhiimpact.png" /></td>
+</tr>
+<tr>
+ <td>Trog (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/trog.png" /></td>
 </tr>
 <tr>
  <td>Williams Defender (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/defender.png" /></td>

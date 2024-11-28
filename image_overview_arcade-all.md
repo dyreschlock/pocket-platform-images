@@ -351,10 +351,11 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>Mortal Kombat (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/mortalkombat.png" /></td>
  <td>Terminator 2 (unreleased) <img src="/_unreleased/pics/terminator2.png" /></td>
- <td>Trog (unreleased) <img src="/_unreleased/pics/trog.png" /></td>
+ <td>Trog (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/trog.png" /></td>
 </tr>
 <tr>
- <td>Super High Impact (unreleased) <img src="/_unreleased/pics/shimpact.png" /></td>
+ <td>High Impact (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/hiimpact.png" /></td>
+ <td>Super High Impact (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/superhiimpact.png" /></td>
  <td>Strike Force (unreleased) <img src="/_unreleased/pics/strikeforce.png" /></td>
 </tr>
 <tr>
