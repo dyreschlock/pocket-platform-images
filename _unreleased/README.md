@@ -211,12 +211,11 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr><th colspan="3">Computer Cores</th></tr>
 <tr>
- <td>ZX Spectrum <img src="pics/zx.png" /></td>
  <td>Apple II <img src="pics/a2.png" /></td>
  <td>Sharp X68000 <img src="pics/x68000.png" /></td>
+ <td>NEC PC-8801 <img src="pics/pc8801.png" /></td>
 </tr>
 <tr>
- <td>NEC PC-8801 <img src="pics/pc8801.png" /></td>
  <td>Bandai RX-78 <img src="pics/rx78.png" /></td>
 </tr>
 <tr><th colspan="3">Other Cores</th></tr>
