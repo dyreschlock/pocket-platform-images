@@ -128,11 +128,12 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>Taito New Zealand Board (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkiwi.png" /></td>
  <td>Taito System SJ (by <a href="https://github.com/antongale">Anton Gale</a>) <img src="/pics/arcade/taitosj.png" /></b></td>
+ <td>Arkanoid (unreleased) <img src="/_unreleased/pics/arkanoid.png" /></td>
 </tr>
 <tr>
- <td>Arkanoid (unreleased) <img src="/_unreleased/pics/arkanoid.png" /></td>
  <td>Bubble Bobble (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtbubl.png" /></td>
  <td>Crazy Balloon  (unreleased) <img src="/_unreleased/pics/crazyballoon.png" /></td>
+ <td>The Fairland Story (unreleased) <img src="/_unreleased/pics/jtflstory.png" /></td>
 </tr>
 <tr>
  <td>Rastan (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtrastan.png" /></td>
