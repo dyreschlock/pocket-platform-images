@@ -53,6 +53,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>Konami Aliens (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtaliens.png" /></td> 
  <td>Konami TMNT (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttmnt.png" /></td>
+ <td>Konami Twin 16 (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttwin16.png" /></td>
 </tr>
 <tr>
  <td>Circus Charlie (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtcircus.png" /></td>
@@ -345,19 +346,19 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr><th colspan="3">Williams / Midway Arcade Games</th></tr>
 <tr>
- <td>Narc (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/narc.png" /></td>
  <td>Smash TV (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/smashtv.png" /></td>
  <td>Total Carnage (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/totalcarnage.png" /></td>
+ <td>Narc (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/narc.png" /></td>
 </tr>
 <tr>
  <td>Mortal Kombat (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/mortalkombat.png" /></td>
- <td>Terminator 2 (unreleased) <img src="/_unreleased/pics/terminator2.png" /></td>
+ <td>Terminator 2 (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/terminator2.png" /></td>
  <td>Trog (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/trog.png" /></td>
 </tr>
 <tr>
  <td>High Impact (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/hiimpact.png" /></td>
  <td>Super High Impact (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/superhiimpact.png" /></td>
- <td>Strike Force (unreleased) <img src="/_unreleased/pics/strikeforce.png" /></td>
+ <td>Strike Force (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/strikeforce.png" /></td>
 </tr>
 <tr>
  <td>William 6809 (Combo) (<a href="https://github.com/dyreschlock/pocket-extras/tree/main/williams_complete">details</a>) <img src="/pics/arcade/williams_c.png" /></td>

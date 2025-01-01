@@ -47,6 +47,7 @@ All artwork used is meant to resemble the game's official key artwork from the t
 <tr>
  <td>Konami Aliens (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtaliens.png" /></td> 
  <td>Konami TMNT (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttmnt.png" /></td>
+ <td>Konami Twin 16 (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttwin16.png" /></td>
 </tr>
 <tr>
  <td>Circus Charlie (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtcircus.png" /></td>
@@ -215,17 +216,19 @@ All artwork used is meant to resemble the game's official key artwork from the t
 </tr>
 <tr><th colspan="3">Williams / Midway Arcade Games</th></tr>
 <tr>
- <td>Narc (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/narc.png" /></td>
  <td>Smash TV (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/smashtv.png" /></td>
- <td>Mortal Kombat (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/mortalkombat.png" /></td>
+ <td>Total Carnage (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/totalcarnage.png" /></td>
+ <td>Narc (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/narc.png" /></td>
 </tr>
 <tr>
- <td>Total Carnage (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/totalcarnage.png" /></td>
+ <td>Mortal Kombat (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/mortalkombat.png" /></td>
+ <td>Terminator 2 (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/terminator2.png" /></td>
+ <td>Trog (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/trog.png" /></td>
+<tr>
+</tr>
  <td>High Impact (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/hiimpact.png" /></td>
  <td>Super High Impact (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/superhiimpact.png" /></td>
-</tr>
-<tr>
- <td>Trog (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/trog.png" /></td>
+ <td>Strike Force (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/strikeforce.png" /></td>
 </tr>
 <tr>
  <td>Williams Defender (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/defender.png" /></td>
