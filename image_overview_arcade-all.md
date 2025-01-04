@@ -134,7 +134,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>Bubble Bobble (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtbubl.png" /></td>
  <td>Crazy Balloon  (unreleased) <img src="/_unreleased/pics/crazyballoon.png" /></td>
- <td>The Fairyland Story (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/_unreleased/pics/jtflstory.png" /></td>
+ <td>The Fairyland Story (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtflstory.png" /></td>
 </tr>
 <tr>
  <td>Rastan (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtrastan.png" /></td>
