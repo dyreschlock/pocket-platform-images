@@ -214,6 +214,12 @@ All artwork used is meant to resemble the game's official key artwork from the t
  <td>Irem M92 Board (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/irem_m92.png" /></td>
  <td>Vigilante (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtvigil.png" /></td>
 </tr>
+<tr><th colspan="3">Tecmo / Tehkan Arcade Cores</th></tr>
+<tr>
+ <td>Tecmo Rygar (by <a href="https://patreon.com/nullobject">nullobject</a>) <img src="/pics/arcade/tecmo.png" /></td>
+ <td>Ninja Gaiden (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtgaiden.png" /></td>
+ <td>Tehkan World Cup (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtwc.png" /></td>
+</tr>
 <tr><th colspan="3">Williams / Midway Arcade Games</th></tr>
 <tr>
  <td>Smash TV (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/smashtv.png" /></td>
@@ -238,14 +244,10 @@ All artwork used is meant to resemble the game's official key artwork from the t
 <tr>
  <td>Williams 6809 (Combo*) (<a href="https://github.com/dyreschlock/pocket-extras/tree/main/williams_complete">details</a>) <img src="/pics/arcade/williams_c.png" /></td>
 </tr>
-<tr><th colspan="3">Tecmo, Jaleco, Gottleib Games</th></tr>
-<tr>
- <td>Tecmo Rygar (by <a href="https://patreon.com/nullobject">nullobject</a>) <img src="/pics/arcade/tecmo.png" /></b></td>
- <td>Exerion (by <a href="https://github.com/antongale">Anton Gale</a>) <img src="/pics/arcade/exerion.png" /></td>
- <td>Q*Bert (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/qbert.png" /></td>
-</tr>
+<tr><th colspan="3">TAD, Jaleco, Gottleib Games</th></tr>
 <tr>
  <td>Toki (by <a href="https://github.com/vertrex">Vertex</a> & <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttoki.png" /></td>
- <td>Tehkan World Cup (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtwc.png" /></td>
+ <td>Exerion (by <a href="https://github.com/antongale">Anton Gale</a>) <img src="/pics/arcade/exerion.png" /></td>
+ <td>Q*Bert (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/qbert.png" /></td>
 </tr>
 </table>
