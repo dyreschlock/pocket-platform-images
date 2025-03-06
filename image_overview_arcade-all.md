@@ -394,6 +394,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr>
  <td>Toki (by <a href="https://github.com/vertrex">Vertex</a> & <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttoki.png" /></td>
+ <td>Bagman (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/bagman.png" /></td>
 </tr>
 <tr>
  <td>Q*Bert (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/qbert.png" /></td>

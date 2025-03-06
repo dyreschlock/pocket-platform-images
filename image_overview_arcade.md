@@ -251,4 +251,7 @@ All artwork used is meant to resemble the game's official key artwork from the t
  <td>Exerion (by <a href="https://github.com/antongale">Anton Gale</a>) <img src="/pics/arcade/exerion.png" /></td>
  <td>Q*Bert (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/qbert.png" /></td>
 </tr>
+<tr>
+ <td>Bagman (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/bagman.png" /></td>
+</tr>
 </table>
