@@ -68,7 +68,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>Flak Attack (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtmx5k.png" /></td>
  <td>Green Beret (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/gberet.png" /></td>
- <td>Gyruss (unreleased) <img src="/_unreleased/pics/gyruss.png" /></td> 
+ <td>Gyruss (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/gyruss.png" /></td>
 </tr>
 <tr>
  <td>Iron Horse (unreleased) <img src="/_unreleased/pics/ironhorse.png" /></td>

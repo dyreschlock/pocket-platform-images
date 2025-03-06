@@ -15,11 +15,10 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr><th colspan="3"> Konami Arcade Cores</th></tr>
 <tr>
  <td>Finalizer <img src="pics/finalizer.png" /></td>
- <td>Gyruss <img src="pics/gyruss.png" /></td> 
  <td>Iron Horse <img src="pics/ironhorse.png" /></td>
+ <td>Jackal <img src="pics/jackal.png" /></td>
 </tr>
 <tr>
- <td>Jackal <img src="pics/jackal.png" /></td>
  <td>Scramble <img src="pics/scramble.png" /></td>
  <td>Time Pilot <img src="pics/timepilot.png" /></td>
 </tr>
