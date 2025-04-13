@@ -337,7 +337,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr><th colspan="3">Irem Arcade Games</th></tr>
 <tr>
  <td>Irem M92 Board (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/irem_m92.png" /></td>
- <td>Irem M72 Board (unreleased) <img src="/_unreleased/pics/irem_m72.png" /></td>
+ <td>Irem M72 Board (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/irem_m72.png" /></td>
  <td>Irem M62 Board (unreleased) <img src="/_unreleased/pics/irem_m62.png" /></td>
 </tr>
 <tr>

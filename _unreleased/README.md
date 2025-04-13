@@ -142,7 +142,6 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr><th colspan="3">Irem Arcade cores</th></tr>
 <tr>
- <td>Irem M72 Board (by <a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/irem_m72.png" /></td>
  <td>Irem M62 Board (by <a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/irem_m62.png" /></td>
  <td>Irem M50 Series (by <a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/irem_m5x.png" /></td>
 </tr>

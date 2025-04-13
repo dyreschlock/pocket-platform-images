@@ -213,6 +213,7 @@ All artwork used is meant to resemble the game's official key artwork from the t
 <tr><th colspan="3">Irem Arcade Cores</th></tr>
 <tr>
  <td>Irem M92 Board (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/irem_m92.png" /></td>
+ <td>Irem M72 Board (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/irem_m72.png" /></td>
  <td>Vigilante (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtvigil.png" /></td>
 </tr>
 <tr><th colspan="3">Tecmo / Tehkan Arcade Cores</th></tr>
