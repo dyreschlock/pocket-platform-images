@@ -121,6 +121,7 @@ All artwork used is meant to resemble the game's official key artwork from the t
 <tr><th colspan="3"> Namco Arcade Games</th></tr>
 <tr>
  <td>Namco System I (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtshouse.png" /></td>
+ <td>Namco System 86 (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtthundr.png" /></td>
  <td>Namco Druaga (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/druaga.png" /></td>
 </tr>
 <tr>

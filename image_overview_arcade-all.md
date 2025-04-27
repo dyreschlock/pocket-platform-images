@@ -144,20 +144,21 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr><th colspan="3"> Namco Arcade Games</th></tr>
 <tr>
  <td>Namco System I (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtshouse.png" /></td>
+ <td>Namco System 86 (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtthundr.png" /></td>
  <td>Namco Druaga (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/druaga.png" /></td>
- <td>Namco Super Pacman Board (unreleased) <img src="/_unreleased/pics/superpac.png" /></td>
 </tr>
 <tr>
+ <td>Namco Super Pacman Board (unreleased) <img src="/_unreleased/pics/superpac.png" /></td>
  <td>Dig Dug (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/digdug.png" /></td>
  <td>Galaxian (unreleased) <img src="/_unreleased/pics/galaxian.png" /></td> 
- <td>Galaga (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/galaga.png" /></td>
 </tr>
 <tr>
+ <td>Galaga (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/galaga.png" /></td>
  <td>Gaplus (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/gaplus.png" /></td>
  <td>Pac-Man / Ms. Pac-Man (unreleased) <img src="/_unreleased/pics/pacman.png" /></td> 
- <td>Rally-X (unreleased) <img src="/_unreleased/pics/rallyx.png" /></td>
 </tr>
 <tr>
+ <td>Rally-X (unreleased) <img src="/_unreleased/pics/rallyx.png" /></td>
  <td>Xevious (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/xevious.png" /></td>
 </tr>
 <tr><th colspan="3"> Atari Arcade Games</th></tr>
