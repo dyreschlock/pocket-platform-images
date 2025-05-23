@@ -158,6 +158,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Pac-Man / Ms. Pac-Man (unreleased) <img src="/_unreleased/pics/pacman.png" /></td> 
 </tr>
 <tr>
+ <td>Pac-Land (by <a href="https://patreon.com/jotego">Jotego</a>)<img src="/pics/arcade/jtpaclan.png" /></td>
  <td>Rally-X (unreleased) <img src="/_unreleased/pics/rallyx.png" /></td>
  <td>Xevious (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/xevious.png" /></td>
 </tr>

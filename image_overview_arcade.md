@@ -130,6 +130,7 @@ All artwork used is meant to resemble the game's official key artwork from the t
  <td>Gaplus (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/gaplus.png" /></td>
 </tr>
 <tr>
+ <td>Pac-Land (by <a href="https://patreon.com/jotego">Jotego</a>)<img src="/pics/arcade/jtpaclan.png" /></td>
  <td>Xevious (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/xevious.png" /></td>
 </tr>
 <tr><th colspan="3"> Atari Arcade Games</th></tr>
