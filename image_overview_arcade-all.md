@@ -248,6 +248,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>Renegade Kunio-kun (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkunio.png" /></td>
  <td>Combatribes (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/combatribes.png" /></td>
+ <td>Xain'd Sleena (by <a href="https://github.com/RndMnkIII">RndMnkIII</a>) <img src="/pics/arcade/xaindsleena.png" /></td>
 </tr>
 <tr><th colspan="3"> Data East Arcade Games</th></tr>
 <tr>
