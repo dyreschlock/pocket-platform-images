@@ -85,7 +85,7 @@ You can view those differences here: <b><a href="/image_regional_variants.md">Re
 </tr>
 <tr>
  <td>Varvara / UXN <img src="/pics/home/varvara.png" /></td>
- <td>linux - RV32 Linux 6.0 <img src="/pics/home/linux.png" /></td>
+ <td>linux - RV32 Linux 6.8 <img src="/pics/home/linux.png" /></td>
 </tr>
 <tr><th colspan="3">Single Game / Application Cores</th></tr>
 <tr>
