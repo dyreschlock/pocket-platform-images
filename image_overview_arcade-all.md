@@ -350,14 +350,16 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Irem M50 Series (unreleased) <img src="/_unreleased/pics/irem_m5x.png" /></td>
  <td>Vigilante (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtvigil.png" /></td>
 </tr>
-<tr><th colspan="3">Tecmo Arcade Games</th></tr>
+<tr><th colspan="3">Tecmo / Tehkan Arcade Games</th></tr>
 <tr>
  <td>Tecmo Rygar (by <a href="https://patreon.com/nullobject">nullobject</a>) <img src="/pics/arcade/tecmo.png" /></b></td>
  <td>Ninja Gaiden (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtgaiden.png" /></td>
  <td>Tehkan World Cup (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtwc.png" /></td>
 </tr>
 <tr>
+ <td>Star Force (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/starforce.png" /></td>
  <td>Solomon's Key (unreleased) <img src="/_unreleased/pics/solomon.png" /></td>
+ <td>Bomb Jack (unreleased) <img src="/_unreleased/pics/bombjack.png" /></td>
 </tr>
 <tr><th colspan="3">Williams / Midway Arcade Games</th></tr>
 <tr>
@@ -401,10 +403,9 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>Toki (by <a href="https://github.com/vertrex">Vertex</a> & <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttoki.png" /></td>
  <td>Bagman (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/bagman.png" /></td>
+ <td>Q*Bert (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/qbert.png" /></td>
 </tr>
 <tr>
- <td>Q*Bert (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/qbert.png" /></td>
- <td>Bomb Jack (unreleased) <img src="/_unreleased/pics/bombjack.png" /></td>
  <td>Crazy Kong  (unreleased) <img src="/_unreleased/pics/crazykong.png" /></td>
 </tr>
 </table>

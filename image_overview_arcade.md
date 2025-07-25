@@ -228,6 +228,9 @@ All artwork used is meant to resemble the game's official key artwork from the t
  <td>Ninja Gaiden (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtgaiden.png" /></td>
  <td>Tehkan World Cup (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtwc.png" /></td>
 </tr>
+<tr>
+ <td>Star Force (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/starforce.png" /></td>
+</tr>
 <tr><th colspan="3">Williams / Midway Arcade Games</th></tr>
 <tr>
  <td>Smash TV (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/smashtv.png" /></td>
