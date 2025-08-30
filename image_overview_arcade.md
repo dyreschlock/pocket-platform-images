@@ -86,10 +86,11 @@ All artwork used is meant to resemble the game's official key artwork from the t
 </tr>
 <tr>
  <td>Super Basketball (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsbaskt.png" /></td>
+ <td>Surprise Attack (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsuratk.png" /></td>
  <td>Track & Field (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttrack.png" /></td>
- <td>X-Men (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtxmen.png" /></td>
 </tr>
 <tr>
+ <td>X-Men (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtxmen.png" /></td>
  <td>Yie Ar Kung-Fu (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtyiear.png" /></td>
 </tr>
 <tr><th colspan="3"> Sega Arcade Games</th></tr>
