@@ -10,6 +10,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 <table>
 <tr><th colspan="3"> Capcom Arcade Cores</th></tr>
 <tr>
+ <td>Capcom CPS-3 System <img src="pics/jtcps3.png" /></td>
  <td>Son Son <img src="pics/sonson.png" /></td>
 </tr>
 <tr><th colspan="3"> Konami Arcade Cores</th></tr>

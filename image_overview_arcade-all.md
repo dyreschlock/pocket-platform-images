@@ -22,31 +22,32 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Capcom CPS-2 System (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtcps2.png" /></td>
 </tr>
 <tr>
+ <td>Capcom CPS-3 System (unreleased) <img src="/_unreleased/pics/jtcps3.png" /></td>
  <td>Capcom Z80 Hardware (*Combo) (<a href="https://github.com/dyreschlock/pocket-extras/tree/main/jtcz80_combo">details</a>) <img src="/pics/arcade/jtcz80_c.png" /></td>
  <td>1942 (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jt1942.png" /></td>
- <td>1943 (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jt1943.png" /></td>
 </tr>
 <tr>
+ <td>1943 (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jt1943.png" /></td>
  <td>Bionic Commando (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtbiocom.png" /></td>
  <td>Black Tiger (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtbtiger.png" /></td>
- <td>Commando (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtcommnd.png" /></td>
 </tr>
 <tr>
+ <td>Commando (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtcommnd.png" /></td>
  <td>Exed Exes (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtexed.png" /></td>
  <td>Ghosts 'n Goblins (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtgng.png" /></td>
- <td>Gun.Smoke (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtgunsmk.png" /></td>
 </tr>
 <tr>
+ <td>Gun.Smoke (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtgunsmk.png" /></td>
  <td>Hyper Dyne Side Arms (by <a href="https://patreon.com/jotego">Jotego</a>)  <img src="/pics/arcade/jtsarms.png" /></td>
  <td>Pang / Super Pang (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtpang.png" /></td>
- <td>Section Z (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsectnz.png" /></td>
 </tr>
 <tr>
+ <td>Section Z (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsectnz.png" /></td>
  <td>Speed Rumbler  (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtrumble.png" /></td>
  <td>Street Fighter (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsf.png" /></td>
- <td>Tiger Road (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttora.png" /></td>
 </tr>
 <tr>
+ <td>Tiger Road (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttora.png" /></td>
  <td>Trojan (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttrojan.png" /></td>
 </tr>
 <tr><th colspan="3">Konami Arcade Games</th></tr>
