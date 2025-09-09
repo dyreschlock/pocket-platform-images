@@ -91,21 +91,22 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Roc'n Rope (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtroc.png" /></td>
 </tr>
 <tr>
+ <td>Run and Gun (unreleased) <img src="/_unreleased/pics/jtrungun.png" /></td>
  <td>Scramble (unreleased) <img src="/_unreleased/pics/scramble.png" /></td>
  <td>Shao-Lin's Road (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkicker.png" /></td>
- <td>The Simpsons (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsimson.png" /></td>
 </tr>
 <tr>
+ <td>The Simpsons (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsimson.png" /></td>
  <td>Sunset Riders (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtriders.png" /></td>
  <td>Super Basketball (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsbaskt.png" /></td>
- <td>Surprise Attack (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsuratk.png" /></td>
 </tr>
 <tr>
+ <td>Surprise Attack (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsuratk.png" /></td>
  <td>Time Pilot (unreleased) <img src="/_unreleased/pics/timepilot.png" /></td>
  <td>Time Pilot '84 (unreleased) <img src="/_unreleased/pics/timepilot84.png" /></td>
- <td>Track & Field (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttrack.png" /></td>
 </tr>
 <tr>
+ <td>Track & Field (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttrack.png" /></td>
  <td>X-Men (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtxmen.png" /></td>
  <td>Yie Ar Kung-Fu (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtyiear.png" /></td>
 </tr>
