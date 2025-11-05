@@ -215,7 +215,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr>
  <td>Sorcerer Striker (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/sstriker.png" /></td>
- <td>Demon's World (unreleased) <img src="/_unreleased/pics/demonwld.png" /></td>
+ <td>Demon's World (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/demonwld.png" /></td>
  <td>Flying Shark (unreleased) <img src="/_unreleased/pics/fshark.png" /></td>
 </tr>
 <tr>
