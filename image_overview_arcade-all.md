@@ -102,16 +102,13 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Super Basketball (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsbaskt.png" /></td>
 </tr>
 <tr>
- <td>Surprise Attack (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsuratk.png" /></td>
  <td>TMNT2: Turtles in Time (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/tmnt2.png" /></td>
  <td>Time Pilot (unreleased) <img src="/_unreleased/pics/timepilot.png" /></td>
+ <td>Time Pilot '84 (unreleased) <img src="/_unreleased/pics/timepilot84.png" /></td>
 </tr>
 <tr>
- <td>Time Pilot '84 (unreleased) <img src="/_unreleased/pics/timepilot84.png" /></td>
  <td>Track & Field (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttrack.png" /></td>
  <td>X-Men (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtxmen.png" /></td>
-</tr>
-<tr>
  <td>Yie Ar Kung-Fu (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtyiear.png" /></td>
 </tr>
 <tr><th colspan="3"> Sega Arcade Games</th></tr>

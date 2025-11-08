@@ -12,6 +12,9 @@ These are overrides that were either used before or made as an alternative to wh
  <td>jtkarnov - Chelnov Atomic Runner <img src="others/pics/jtkarnov.png" /></td>
 </tr>
 <tr>
+ <td>jtsuratk - Surprise Attack <img src="others/pics/jtsuratk.png" /></td>
+</tr>
+<tr>
  <td>jttmnt_c - Konami Turtles (*Combined) <img src="others/pics/jttmnt_c.png" /></td>
  <td>jtblock - Block Block* <img src="others/pics/jtblock.png" /></td>
  <td>uxn - UXN Platform <img src="others/pics/uxn.png" /></td>
