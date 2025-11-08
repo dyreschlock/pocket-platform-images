@@ -20,7 +20,6 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>Jackal <img src="pics/jackal.png" /></td>
 </tr>
 <tr>
- <td>Run and Gun <img src="pics/jtrungun.png" /></td>
  <td>Scramble <img src="pics/scramble.png" /></td>
  <td>Time Pilot <img src="pics/timepilot.png" /></td>
 </tr>

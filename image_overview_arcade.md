@@ -81,17 +81,20 @@ All artwork used is meant to resemble the game's official key artwork from the t
 </tr>
 <tr>
  <td>Roc'n Rope (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtroc.png" /></td>
+ <td>Run and Gun (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtrungun.png" /></td>
  <td>Shao-Lin's Road (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkicker.png" /></td>
- <td>The Simpsons (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsimson.png" /></td>
 </tr>
 <tr>
+ <td>The Simpsons (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsimson.png" /></td>
  <td>Super Basketball (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsbaskt.png" /></td>
  <td>Surprise Attack (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsuratk.png" /></td>
- <td>TMNT2: Turtles in Time (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/tmnt2.png" /></td>
 </tr>
 <tr>
+ <td>TMNT2: Turtles in Time (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/tmnt2.png" /></td>
  <td>Track & Field (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttrack.png" /></td>
  <td>X-Men (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtxmen.png" /></td>
+</tr>
+<tr>
  <td>Yie Ar Kung-Fu (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtyiear.png" /></td>
 </tr>
 <tr><th colspan="3"> Sega Arcade Games</th></tr>

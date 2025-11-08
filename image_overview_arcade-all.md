@@ -93,7 +93,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr>
  <td>Roc'n Rope (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtroc.png" /></td>
- <td>Run and Gun (unreleased) <img src="/_unreleased/pics/jtrungun.png" /></td>
+ <td>Run and Gun (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtrungun.png" /></td>
  <td>Scramble (unreleased) <img src="/_unreleased/pics/scramble.png" /></td>
 </tr>
 <tr>
