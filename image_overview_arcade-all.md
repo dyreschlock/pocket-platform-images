@@ -201,7 +201,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr><th colspan="3"> Toaplan & Raizing Arcade Games</th></tr>
 <tr>
- <td>Toaplan Version 1 (Combo*) (unreleased) <img src="/_unreleased/pics/toaplan1_c.png" /></td>
+ <td>Toaplan Version 1 (Combo*) (<a href="https://github.com/dyreschlock/pocket-extras/tree/main/toaplan1_complete">details</a>) <img src="/pics/arcade/toaplan1_c.png" /></td>
  <td>Toaplan Version 2 (Combo*) (<a href="https://github.com/dyreschlock/pocket-extras/tree/main/toaplan2_complete">details</a>) <img src="/pics/arcade/toaplan2_c.png" /></td>
  <td>Armed Police Batrider (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/batrider.png" /></td> 
 </tr>

@@ -169,23 +169,27 @@ All artwork used is meant to resemble the game's official key artwork from the t
 </tr>
 <tr><th colspan="3"> Toaplan & Raizing Arcade Games</th></tr>
 <tr>
+ <td>Toaplan Version 1 (Combo*) (<a href="https://github.com/dyreschlock/pocket-extras/tree/main/toaplan1_complete">details</a>) <img src="/pics/arcade/toaplan1_c.png" /></td>
  <td>Toaplan Version 2 (Combo*) (<a href="https://github.com/dyreschlock/pocket-extras/tree/main/toaplan2_complete">details</a>) <img src="/pics/arcade/toaplan2_c.png" /></td>
  <td>Armed Police Batrider (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/batrider.png" /></td> 
- <td>Battle Garegga (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/garegga.png" /></td>
 </tr>
 <tr>
+ <td>Battle Garegga (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/garegga.png" /></td>
  <td>Battle Bakraid (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/bakraid.png" /></td>
  <td>Demon's World (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/demonwld.png" /></td>
- <td>Kingdom Gran Prix (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/kingdmgp.png" /></td>
 </tr>
 <tr>
+ <td>Kingdom Gran Prix (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/kingdmgp.png" /></td>
  <td>Sorcerer Striker (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/sstriker.png" /></td>
  <td>Snow Bros 2 (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/snowbros2.png" /></td>
- <td>Teki Paki (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="/pics/arcade/tekipaki.png" /></td>
 </tr>
 <tr>
+ <td>Teki Paki (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="/pics/arcade/tekipaki.png" /></td>
  <td>Truxton II / Tatsujin Oh (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="/pics/arcade/truxton2.png" /></td>
  <td>Whoopee! (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="/pics/arcade/pipibibs.png" /></td>
+</tr>
+<tr>
+ <td>Zero Wing (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/zerowing.png" /></td>
 </tr>
 <tr><th colspan="3"> Technos Japan Arcade Games</th></tr>
 <tr>
