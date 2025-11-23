@@ -138,7 +138,7 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>Wardner (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/wardner.png" /></td> 
 </tr>
 <tr>
- <td>Zero Wing (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/zerowing.png" /></td>
+ <td>Zero Wing (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/zerowing.png" /></td>
 </tr>
 <tr><th colspan="3">Irem Arcade cores</th></tr>
 <tr>

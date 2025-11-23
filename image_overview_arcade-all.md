@@ -238,7 +238,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>Wardner (unreleased) <img src="/_unreleased/pics/wardner.png" /></td> 
  <td>Whoopee! (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="/pics/arcade/pipibibs.png" /></td>
- <td>Zero Wing (unreleased) <img src="/_unreleased/pics/zerowing.png" /></td>
+ <td>Zero Wing (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/zerowing.png" /></td>
 </tr>
 <tr><th colspan="3"> Technos Japan Arcade Games</th></tr>
 <tr>
