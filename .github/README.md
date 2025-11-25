@@ -53,7 +53,7 @@ Thanks to **<a href="https://github.com/mattpannella">mattpannella</a>** for rel
 
 - Advisory: Putting too many* JSON files in the Platforms folder will caused some problems displaying cores in the openFPGA menu on the Pocket. It's recommended to only use JSON files for cores you have installed.
 
-
-  - *too many = I don't know the real limit. At one point, I had 310 json in the directory and that was too many. I've also had 100 json in the directory, and that was okay. The limit is probably above 200.
+  - *too many = As per Analogue, there is a limit of 255 unique platforms. However, <b>terminator2k2</b> hit this limit with 239 platforms. This limit might vary depending on the length of platform titles. If you want to have all cores installed, it is recommended to use combination cores rather than individual cores.
+  - To avoid this error, you could either install only the cores you are interested in. Or, you could use Combination cores which combine multiple platforms into. Look for more details with Espiox <a href="https://github.com/espiox/jts16_complete">here</a> and pocket-extras <a href="https://github.com/dyreschlock/pocket-extras/">here</a>.
 
 - Also! If you happen to think my images are too graphical and gaudy, then **terminator2k2** has a repo with only logos: <a href="https://github.com/terminator2k2/Analogue-Pocket-Core-Art">here</a>.
