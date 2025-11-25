@@ -25,20 +25,17 @@ You can view those differences here: <b><a href="/image_regional_variants.md">Re
 </tr>
 <tr>
  <td>7800 - Atari 7800 <img src="/pics/home/7800.png" /></td>
- <td>5200 - Atari 5200 <img src="/pics/home/5200.png" /></td>
  <td>2600 - Atari 2600 <img src="/pics/home/2600.png" /></td>
+ <td>intv - Intellivision <img src="/pics/home/intv.png" /></td>
 </tr>
 <tr>
- <td>intv - Intellivision <img src="/pics/home/intv.png" /></td>
  <td>vectrex - Vectrex <img src="/pics/home/vectrex.png" /></td>
  <td>odyssey2 - Odyssey 2 <img src="/pics/home/odyssey2.png" /></td>
+ <td>channel_f - Channel-F <img src="/pics/home/channel_f.png" /></td>
 </tr>
 <tr>
- <td>channel_f - Channel-F <img src="/pics/home/channel_f.png" /></td>
  <td>arcadia - Arcadia 2001 <img src="/pics/home/arcadia.png" /></td>
  <td>creativision - Creativsion <img src="/pics/home/creativision.png" /></td>
-</tr>
-<tr>
  <td>studio2 - RCA Studio II <img src="/pics/home/studio2.png" /></td>
 </tr>
 <tr><th colspan="3">Handheld Cores</th></tr>
