@@ -67,7 +67,7 @@ Analogue recommends to organize cores using categories to prevent this, but you 
 
 1. <b>You can only install cores you actually use.</b> Do you really need the Arcadia and Adventure Vision cores installed at all times? How often do you play Arcade Pong?
 
-2. <b>You can use combination cores.</b> Several Arcade cores have been released that only load a single game, even though the architecture of the hardware is the same or near the same. As long as the video options are the same, you can make some alterations to the core's JSON setup and have the core run different RBF builds depending on the games you choose.
+2. <b>You can use combination cores.</b> Several Arcade cores have been released that only load a single game, even though the architecture of the hardware is the same or near the same as another single Arcade core. As long as the video options are the same, you can make some alterations to the core's JSON setup and have the core run different RBF builds depending on the games you choose.
 
 There are already a few combination cores that Espiox and myself have put together.
 - <b>Sega System 16 Combo</b> combines System 16A and System 16B together. Details are <a href="https://github.com/espiox/jts16_complete">here</a>.
@@ -78,7 +78,7 @@ There are already a few combination cores that Espiox and myself have put togeth
 
 Using all 5 of these Combo cores will save you 21 platforms. All of these combination cores are available through <a href="https://github.com/mattpannella/pupdate">Pupdate</a>, so you don't need to worry about any complicated instructions.
 
-There are two drawbacks for doing this that I can think of. 1. It can sometimes make finding specific games more difficult if you don't know where to look. 2. Automatic Pupdates are now dependent on the authors of these Combo cores updating their repos after the main repos are updated.
+There are two drawbacks for doing this that I can think of. 1. It can sometimes make finding specific games more difficult if you don't know where to look. 2. Automatic Pupdates are now dependent on the authors of these Combo cores updating their repos after the main repos are updated. I am not good at this.
 
 There's still time to figure things out, so there's no rush yet. 
 
