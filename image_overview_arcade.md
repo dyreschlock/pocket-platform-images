@@ -87,7 +87,7 @@ All artwork used is meant to resemble the game's official key artwork from the t
 <tr>
  <td>The Simpsons (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsimson.png" /></td>
  <td>Super Basketball (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsbaskt.png" /></td>
- <td>TMNT2: Turtles in Time (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/tmnt2.png" /></td>
+ <td>TMNT2: Turtles in Time (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/tmnt2.png" /></td>
 </tr>
 <tr>
  <td>Track & Field (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttrack.png" /></td>
@@ -171,40 +171,41 @@ All artwork used is meant to resemble the game's official key artwork from the t
 <tr>
  <td>Toaplan Version 1 (Combo*) (<a href="https://github.com/dyreschlock/pocket-extras/tree/main/toaplan1_complete">details</a>) <img src="/pics/arcade/toaplan1_c.png" /></td>
  <td>Toaplan Version 2 (Combo*) (<a href="https://github.com/dyreschlock/pocket-extras/tree/main/toaplan2_complete">details</a>) <img src="/pics/arcade/toaplan2_c.png" /></td>
- <td>Armed Police Batrider (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/batrider.png" /></td> 
+ <td>Armed Police Batrider (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA"> Coin-Op </a>) <img src="/pics/arcade/batrider.png" /></td> 
 </tr>
 <tr>
- <td>Battle Garegga (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/garegga.png" /></td>
- <td>Battle Bakraid (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/bakraid.png" /></td>
- <td>Demon's World (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/demonwld.png" /></td>
+ <td>Battle Garegga (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA"> Coin-Op </a>) <img src="/pics/arcade/garegga.png" /></td>
+ <td>Battle Bakraid (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA"> Coin-Op </a>) <img src="/pics/arcade/bakraid.png" /></td>
+ <td>Demon's World (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA"> Coin-Op </a>) <img src="/pics/arcade/demonwld.png" /></td>
 </tr>
 <tr>
- <td>Kingdom Gran Prix (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/kingdmgp.png" /></td>
- <td>Sorcerer Striker (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/sstriker.png" /></td>
- <td>Snow Bros 2 (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/snowbros2.png" /></td>
+ <td>Kingdom Gran Prix (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA"> Coin-Op </a>) <img src="/pics/arcade/kingdmgp.png" /></td>
+ <td>Sorcerer Striker (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA"> Coin-Op </a>) <img src="/pics/arcade/sstriker.png" /></td>
+ <td>Snow Bros 2 (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA"> Coin-Op </a>) <img src="/pics/arcade/snowbros2.png" /></td>
 </tr>
 <tr>
- <td>Teki Paki (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="/pics/arcade/tekipaki.png" /></td>
- <td>Truxton II / Tatsujin Oh (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="/pics/arcade/truxton2.png" /></td>
- <td>Whoopee! (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="/pics/arcade/pipibibs.png" /></td>
+ <td>Teki Paki (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/tekipaki.png" /></td>
+ <td>Truxton II / Tatsujin Oh (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/truxton2.png" /></td>
+ <td>Twin Cobra (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/twincobr.png" /></td>
 </tr>
 <tr>
- <td>Zero Wing (by <a href="https://github.com/psomashekar"> Coin-Op </a>) <img src="/pics/arcade/zerowing.png" /></td>
+ <td>Whoopee! (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/pipibibs.png" /></td>
+ <td>Zero Wing (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/zerowing.png" /></td>
 </tr>
 <tr><th colspan="3"> Technos Japan Arcade Games</th></tr>
 <tr>
  <td>Double Dragon (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtdd.png" /></td>
  <td>Double Dragon II (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtdd2.png" /></td>
- <td>Double Dragon III (by <a href="https://github.com/psomashekar">Coin-Op</a>) <img src="/pics/arcade/doubledragoniii.png" /></td>
+ <td>Double Dragon III (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/doubledragoniii.png" /></td>
 </tr>
 <tr>
  <td>WWF Superstars (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtwwfss.png" /></td>
- <td>WWF Wrestlefest (by <a href="https://github.com/psomashekar">Coin-Op</a>) <img src="/pics/arcade/wrestlefest.png" /></td>
+ <td>WWF Wrestlefest (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/wrestlefest.png" /></td>
  <td>Karate Champ (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkchamp.png" /></td>
 </tr>
 <tr>
  <td>Renegade Kunio-kun (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkunio.png" /></td>
- <td>Combatribes (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/combatribes.png" /></td>
+ <td>Combatribes (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/combatribes.png" /></td>
  <td>Xain'd Sleena (by <a href="https://github.com/RndMnkIII">RndMnkIII</a>) <img src="/pics/arcade/xaindsleena.png" /></td>
 </tr>
 <tr><th colspan="3"> Data East Arcade Games</th></tr>
@@ -240,19 +241,19 @@ All artwork used is meant to resemble the game's official key artwork from the t
 </tr>
 <tr><th colspan="3">Williams / Midway Arcade Games</th></tr>
 <tr>
- <td>Smash TV (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/smashtv.png" /></td>
- <td>Total Carnage (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/totalcarnage.png" /></td>
- <td>Narc (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/narc.png" /></td>
+ <td>Smash TV (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/smashtv.png" /></td>
+ <td>Total Carnage (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/totalcarnage.png" /></td>
+ <td>Narc (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/narc.png" /></td>
 </tr>
 <tr>
- <td>Mortal Kombat (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/mortalkombat.png" /></td>
- <td>Terminator 2 (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/terminator2.png" /></td>
- <td>Trog (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/trog.png" /></td>
+ <td>Mortal Kombat (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/mortalkombat.png" /></td>
+ <td>Terminator 2 (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/terminator2.png" /></td>
+ <td>Trog (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/trog.png" /></td>
 <tr>
 </tr>
- <td>High Impact (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/hiimpact.png" /></td>
- <td>Super High Impact (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/superhiimpact.png" /></td>
- <td>Strike Force (by <a href="https://github.com/Coin-OpCollection">Coin-Op</a>) <img src="/pics/arcade/strikeforce.png" /></td>
+ <td>High Impact (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/hiimpact.png" /></td>
+ <td>Super High Impact (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/superhiimpact.png" /></td>
+ <td>Strike Force (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/strikeforce.png" /></td>
 </tr>
 <tr>
  <td>Williams Defender (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/defender.png" /></td>

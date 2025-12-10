@@ -130,10 +130,9 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>Snow Bros. (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/snowbros.png" /></td>
  <td>Truxton (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/truxton.png" /></td>
- <td>Twin Cobra (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/twincobr.png" /></td>
+ <td>Vimana (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/vimana.png" /></td>
 </tr>
 <tr>
- <td>Vimana (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/vimana.png" /></td>
  <td>Wardner (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/wardner.png" /></td> 
 </tr>
 <tr><th colspan="3">Irem Arcade cores</th></tr>
