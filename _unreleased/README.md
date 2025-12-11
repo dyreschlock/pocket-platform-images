@@ -151,6 +151,9 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>Bally Midway MCR-2 (by <a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/mcr2.png" /></td>
  <td>Bally Midway MCR-3  (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/mcr3.png" /></td>
 </tr>
+<tr>
+ <td>NBA Jam <img src="pics/nbajam.png" /></td>
+</tr>
 <tr><th colspan="3"> Nintendo Arcade Cores</th></tr>
 <tr>
  <td>Popeye (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/popeye.png" /></td>
@@ -173,6 +176,9 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>Bomb Jack (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/bombjack.png" /></td>
  <td>Crazy Kong (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/crazykong.png" /></td>
  <td>Solomon's Key <img src="pics/solomon.png" /></td>
+</tr>
+<tr>
+ <td>Caliber .50 <img src="pics/calibr50.png" /></td>
 </tr>
 </table>
 

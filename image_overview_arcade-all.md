@@ -381,6 +381,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Strike Force (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/strikeforce.png" /></td>
 </tr>
 <tr>
+ <td>NBA Jam (unreleased) <img src="/_unreleased/pics/nbajam.png" /></td>
  <td>William 6809 (Combo) (<a href="https://github.com/dyreschlock/pocket-extras/tree/main/williams_complete">details</a>) <img src="/pics/arcade/williams_c.png" /></td>
  <td>Bally Midway MCR (Combo) (unreleased) <img src="/_unreleased/pics/mcr_c.png" /></td>
 </tr>
@@ -410,5 +411,6 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr>
  <td>Crazy Kong  (unreleased) <img src="/_unreleased/pics/crazykong.png" /></td>
+ <td>Caliber .50 (unreleased) <img src="/_unreleased/pics/calibr50.png" /></td>
 </tr>
 </table>
