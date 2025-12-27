@@ -181,14 +181,15 @@ All artwork used is meant to resemble the game's official key artwork from the t
 <tr>
  <td>Kingdom Gran Prix (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA"> Coin-Op </a>) <img src="/pics/arcade/kingdmgp.png" /></td>
  <td>Sorcerer Striker (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA"> Coin-Op </a>) <img src="/pics/arcade/sstriker.png" /></td>
- <td>Snow Bros 2 (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA"> Coin-Op </a>) <img src="/pics/arcade/snowbros2.png" /></td>
+ <td>Snow Bros. (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA"> Coin-Op </a>) <img src="/pics/arcade/snowbros.png" /></td>
 </tr>
 <tr>
+ <td>Snow Bros 2 (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA"> Coin-Op </a>) <img src="/pics/arcade/snowbros2.png" /></td>
  <td>Teki Paki (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/tekipaki.png" /></td>
  <td>Truxton II / Tatsujin Oh (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/truxton2.png" /></td>
- <td>Twin Cobra (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/twincobr.png" /></td>
 </tr>
 <tr>
+ <td>Twin Cobra (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/twincobr.png" /></td>
  <td>Whoopee! (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/pipibibs.png" /></td>
  <td>Zero Wing (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/zerowing.png" /></td>
 </tr>

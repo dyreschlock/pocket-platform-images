@@ -223,7 +223,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>Rally Bike (unreleased) <img src="/_unreleased/pics/rallybike.png" /></td>
  <td>Same! Same! Same! (unreleased) <img src="/_unreleased/pics/samesame.png" /></td>
- <td>Snow Bros. (unreleased) <img src="/_unreleased/pics/snowbros.png" /></td>
+ <td>Snow Bros. (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA"> Coin-Op </a>) <img src="/pics/arcade/snowbros.png" /></td>
 </tr>
 <tr>
  <td>Snow Bros 2 (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA"> Coin-Op </a>) <img src="/pics/arcade/snowbros2.png" /></td>
