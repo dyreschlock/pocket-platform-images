@@ -216,7 +216,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>Sorcerer Striker (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA"> Coin-Op </a>) <img src="/pics/arcade/sstriker.png" /></td>
  <td>Demon's World (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA"> Coin-Op </a>) <img src="/pics/arcade/demonwld.png" /></td>
- <td>Flying Shark (unreleased) <img src="/_unreleased/pics/fshark.png" /></td>
+ <td>Flying Shark (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA"> Coin-Op </a>) <img src="/pics/arcade/fshark.png" /></td>
 </tr>
 <tr>
  <td>Ghox (unreleased) <img src="/_unreleased/pics/ghox.png" /></td> 
