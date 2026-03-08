@@ -409,11 +409,11 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr>
  <td>Toki (by <a href="https://github.com/vertrex">Vertex</a> & <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttoki.png" /></td>
- <td>Bagman (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/bagman.png" /></td>
+ <td>Caliber .50 (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtcal50.png" /></td>
  <td>Q*Bert (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/qbert.png" /></td>
 </tr>
 <tr>
+ <td>Bagman (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/bagman.png" /></td>
  <td>Crazy Kong  (unreleased) <img src="/_unreleased/pics/crazykong.png" /></td>
- <td>Caliber .50 (unreleased) <img src="/_unreleased/pics/calibr50.png" /></td>
 </tr>
 </table>

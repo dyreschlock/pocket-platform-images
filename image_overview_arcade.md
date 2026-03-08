@@ -270,13 +270,14 @@ All artwork used is meant to resemble the game's official key artwork from the t
 <tr>
  <td>Williams 6809 (Combo*) (<a href="https://github.com/dyreschlock/pocket-extras/tree/main/williams_complete">details</a>) <img src="/pics/arcade/williams_c.png" /></td>
 </tr>
-<tr><th colspan="3">TAD, Jaleco, Gottleib Games</th></tr>
+<tr><th colspan="3">Other Arcade Games</th></tr>
 <tr>
  <td>Toki (by <a href="https://github.com/vertrex">Vertex</a> & <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttoki.png" /></td>
  <td>Exerion (by <a href="https://github.com/antongale">Anton Gale</a>) <img src="/pics/arcade/exerion.png" /></td>
- <td>Q*Bert (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/qbert.png" /></td>
+ <td>Caliber .50 (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtcal50.png" /></td>
 </tr>
 <tr>
+ <td>Q*Bert (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/qbert.png" /></td>
  <td>Bagman (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/bagman.png" /></td>
 </tr>
 </table>
