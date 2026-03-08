@@ -97,6 +97,7 @@ You can view those differences here: <b><a href="/image_regional_variants.md">Re
 </tr>
 <tr>
  <td>pocketquake - Quake on RISC-V <img src="/pics/home/pocketquake.png" /></td>
+ <td>pocketdoom - Doom on RISC-V <img src="/pics/home/pocketdoom.png" /></td>
 </tr>
 <tr><th colspan="3">Utility Cores</th></tr>
 <tr>
