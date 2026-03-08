@@ -78,9 +78,10 @@ You can view those differences here: <b><a href="/image_regional_variants.md">Re
 <tr>
  <td>zxspectrum - ZX Spectrum <img src="/pics/home/zxspectrum.png" /></td>
  <td>videobrain - VideoBrain <img src="/pics/home/videobrain.png" /></td>
- <td>pdp1 - PDP-1 Spacewar <img src="/pics/home/pdp1.png" /></td>
+ <td>vector06c - Vector-06C <img src="/pics/home/vector06c.png" /></td>
 </tr>
 <tr>
+ <td>pdp1 - PDP-1 Spacewar <img src="/pics/home/pdp1.png" /></td>
  <td>Varvara / UXN <img src="/pics/home/varvara.png" /></td>
  <td>linux - RV32 Linux 6.8 <img src="/pics/home/linux.png" /></td>
 </tr>
