@@ -173,9 +173,6 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>Crazy Kong (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/crazykong.png" /></td>
  <td>Solomon's Key <img src="pics/solomon.png" /></td>
 </tr>
-<tr>
- <td>Caliber .50 <img src="pics/calibr50.png" /></td>
-</tr>
 </table>
 
 ## Unreleased Home Core Overrides
@@ -212,5 +209,10 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>MP3 Player <img src="pics/mp3.png" /></td>
  <td>Rom Dumper <img src="pics/rom_dumper.png" /></td>
+</tr>
+<tr><th colspan="3">Risc-V Conversions</th></tr>
+<tr>
+ <td>Wolfenstein 3D <img src="pics/pocketwolf.png" /></td>
+ <td>Tyrian <img src="pics/tyrian.png" /></td>
 </tr>
 </table>
