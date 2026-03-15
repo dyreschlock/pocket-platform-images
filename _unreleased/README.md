@@ -213,7 +213,6 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr><th colspan="3">Risc-V Conversions</th></tr>
 <tr>
  <td>Wolfenstein 3D <img src="pics/pocketwolf.png" /></td>
- <td>Tyrian <img src="pics/tyrian.png" /></td>
 </tr>
 <tr>
  <td>Hexen <img src="pics/hexen.png" /></td>

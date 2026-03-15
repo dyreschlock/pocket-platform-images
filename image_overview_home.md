@@ -97,8 +97,9 @@ You can view those differences here: <b><a href="/image_regional_variants.md">Re
  <td>life - Conway's Game of Life <img src="/pics/home/life.png" /></td>
 </tr>
 <tr>
- <td>pocketquake - Quake on RISC-V <img src="/pics/home/pocketquake.png" /></td>
- <td>pocketdoom - Doom on RISC-V <img src="/pics/home/pocketdoom.png" /></td>
+ <td>pocketquake - Quake on Risc-V <img src="/pics/home/pocketquake.png" /></td>
+ <td>pocketdoom - Doom on Risc-V <img src="/pics/home/pocketdoom.png" /></td>
+ <td>Tyrian on Risc-V<img src="pics/tyrian.png" /></td>
 </tr>
 <tr><th colspan="3">Utility Cores</th></tr>
 <tr>
