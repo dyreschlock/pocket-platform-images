@@ -217,8 +217,12 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>Duke Nukem 3D <img src="pics/duke3d.png" /></td>
 </tr>
 <tr>
+ <td>Rise of the Triad <img src="pics/triad.png" /></td>
+ <td>Tyrian <img src="pics/tyrian.png" /></td>
+</tr>
+<tr>
  <td>Warcraft <img src="pics/warcraft.png" /></td>
  <td>Warcraft II <img src="pics/warcraft2.png" /></td>
- <td>Tyrian <img src="pics/tyrian.png" /></td>
+ <td>Starcraft <img src="pics/starcraft.png" /></td>
 </tr>
 </table>
