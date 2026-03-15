@@ -213,6 +213,11 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr><th colspan="3">Risc-V Conversions</th></tr>
 <tr>
  <td>Wolfenstein 3D <img src="pics/pocketwolf.png" /></td>
+ <td>Duke Nukem 3D <img src="pics/duke3d.png" /></td>
  <td>Tyrian <img src="pics/tyrian.png" /></td>
+</tr>
+<tr>
+ <td>Warcraft <img src="pics/warcraft.png" /></td>
+ <td>Warcraft II <img src="pics/warcraft2.png" /></td>
 </tr>
 </table>
