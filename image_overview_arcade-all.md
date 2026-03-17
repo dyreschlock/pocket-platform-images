@@ -121,7 +121,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Sega System 1 & 2 (unreleased) <img src="/_unreleased/pics/segasys12.png" /></td>
 </tr>
 <tr>
- <td>Sega System C/C2 (unreleased) <img src-"/pics/arcade/system_c.png" /></td>
+ <td>Sega System C/C2 (unreleased) <img src="/pics/arcade/system_c.png" /></td>
  <td>Bank Panic (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/bankpanic.png" /></td>
  <td>Congo Bongo (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/congo.png" /></td>
 </tr>
