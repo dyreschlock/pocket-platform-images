@@ -121,16 +121,17 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Sega System 1 & 2 (unreleased) <img src="/_unreleased/pics/segasys12.png" /></td>
 </tr>
 <tr>
+ <td>Sega System C/C2 (unreleased) <img src-"/pics/arcade/system_c.png" /></td>
  <td>Bank Panic (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/bankpanic.png" /></td>
  <td>Congo Bongo (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/congo.png" /></td>
- <td>Outrun (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtoutrun.png" /></td>
 </tr>
 <tr>
+ <td>Outrun (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtoutrun.png" /></td>
  <td>Pengo (unreleased) <img src="/_unreleased/pics/pengo.png" /></td>
  <td>Super Hang-On (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtshanon.png" /></td>
- <td>Zaxxon (unreleased) <img src="/_unreleased/pics/zaxxon.png" /></td>
 </tr>
 <tr>
+ <td>Zaxxon (unreleased) <img src="/_unreleased/pics/zaxxon.png" /></td>
  <td>Sega System 16A (by <a href="https://patreon.com/jotego">Jotego</a>)  <img src="/pics/arcade/jts16.png" /></td>
  <td>Sega System 16B (by <a href="https://patreon.com/jotego">Jotego</a>)  <img src="/pics/arcade/jts16b.png" /></td>
 </tr>
