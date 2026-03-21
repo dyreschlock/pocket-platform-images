@@ -22,13 +22,15 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>Scramble <img src="pics/scramble.png" /></td>
  <td>Time Pilot <img src="pics/timepilot.png" /></td>
-</tr>
-<tr>
  <td>Time Pilot '84 <img src="pics/timepilot84.png" /></td>
 </tr>
 <tr><th colspan="3"> Sega Arcade Cores</th></tr>
 <tr>
  <td>Sega System 1 & 2 (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/segasys12.png" /></td>
+ <td>119 <img src="pics/119.png" /></td>
+ <td>Appoooh <img src="pics/appoooh.png" /></td>
+</tr>
+<tr>
  <td>Pengo <img src="pics/pengo.png" /></td>
  <td>Zaxxon (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/zaxxon.png" /></td>
 </tr>
@@ -162,6 +164,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>Arkanoid <img src="pics/arkanoid.png" /></td>
  <td>Crazy Balloon (by <a href="https://github.com/opengateware">OpenGateware</a>)  <img src="pics/crazyballoon.png" /></td>
+ <td>Qix <img src="pics/qix.png" /></td>
 </tr>
 <tr><th colspan="3"> Other Arcade Cores</th></tr>
 <tr>

@@ -151,8 +151,11 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>The Fairyland Story (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtflstory.png" /></td>
 </tr>
 <tr>
+ <td>Six (unreleased) <img src="/_unreleased/pics/qix.png" /></td>
  <td>Rastan (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtrastan.png" /></td>
  <td>Slap Fight (by <a href="https://github.com/antongale">Anton Gale</a>) <img src="/pics/arcade/slapfight.png" /></td>
+</tr>
+<tr>
  <td>Space Invaders (by <a href="https://github.com/AwesomeDolphin">AwesomeDolphin</a>) <img src="/pics/arcade/spaceinvaders.png" /></td>
 </tr>
 <tr><th colspan="3"> Namco Arcade Games</th></tr>
