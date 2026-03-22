@@ -191,7 +191,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Lunar Lander (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/lunarlander.png" /></td>
 </tr>
 <tr>
- <td>Missile Command (unreleased) <img src="/_unreleased/pics/missle.png" /></td>
+ <td>Missile Command (unreleased) <img src="/_unreleased/pics/missile.png" /></td>
  <td>Pong (by <a href="https://github.com/agg23">agg23</a>)  <img src="/pics/arcade/pong.png" /></td>
  <td>Space Race (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/spacerace.png" /></td>
 </tr>
