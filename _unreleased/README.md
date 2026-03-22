@@ -159,6 +159,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr><th colspan="3"> Atari Arcade Cores</th></tr>
 <tr>
  <td>Atari Tetris (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/ataritetris.png" /></td>
+ <td>Missile Command <img src="pics/missle.png" /></td>
 </tr>
 <tr><th colspan="3"> Taito Arcade Cores</th></tr>
 <tr>
@@ -215,11 +216,12 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr><th colspan="3">Risc-V Conversions</th></tr>
 <tr>
- <td>Wolfenstein 3D <img src="pics/pocketwolf.png" /></td>
+ <td>Duke Nukem 3D <img src="pics/duke3d.png" /></td>
+ <td>Cave Story <img src="pics/cavestory.png" /></td>
 </tr>
 <tr>
+ <td>Wolfenstein 3D <img src="pics/pocketwolf.png" /></td>
  <td>Hexen <img src="pics/hexen.png" /></td>
- <td>Duke Nukem 3D <img src="pics/duke3d.png" /></td>
  <td>Rise of the Triad <img src="pics/triad.png" /></td>
 </tr>
 <tr>
