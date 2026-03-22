@@ -132,10 +132,11 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr>
  <td>Pengo (unreleased) <img src="/_unreleased/pics/pengo.png" /></td>
+ <td>Puckman Pockimon (unreleased) <img src="/_unreleased/pics/puckpkmn.png" /></td>
  <td>Super Hang-On (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtshanon.png" /></td>
- <td>Zaxxon (unreleased) <img src="/_unreleased/pics/zaxxon.png" /></td>
 </tr>
 <tr>
+ <td>Zaxxon (unreleased) <img src="/_unreleased/pics/zaxxon.png" /></td>
  <td>Sega System 16A (by <a href="https://patreon.com/jotego">Jotego</a>)  <img src="/pics/arcade/jts16.png" /></td>
  <td>Sega System 16B (by <a href="https://patreon.com/jotego">Jotego</a>)  <img src="/pics/arcade/jts16b.png" /></td>
 </tr>

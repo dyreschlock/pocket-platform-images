@@ -33,6 +33,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>Pengo <img src="pics/pengo.png" /></td>
  <td>Zaxxon (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/zaxxon.png" /></td>
+ <td>Puckman Pockimon <img src="pics/puckpkmn.png" /></td>
 </tr>
 <tr><th colspan="3"> Namco Arcade Cores</th></tr>
 <tr>
