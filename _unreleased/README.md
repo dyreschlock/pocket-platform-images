@@ -159,7 +159,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr><th colspan="3"> Atari Arcade Cores</th></tr>
 <tr>
  <td>Atari Tetris (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/ataritetris.png" /></td>
- <td>Missile Command <img src="pics/missle.png" /></td>
+ <td>Missile Command <img src="pics/missile.png" /></td>
 </tr>
 <tr><th colspan="3"> Taito Arcade Cores</th></tr>
 <tr>
