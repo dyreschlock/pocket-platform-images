@@ -151,7 +151,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>The Fairyland Story (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtflstory.png" /></td>
 </tr>
 <tr>
- <td>Six (unreleased) <img src="/_unreleased/pics/qix.png" /></td>
+ <td>Qix (unreleased) <img src="/_unreleased/pics/qix.png" /></td>
  <td>Rastan (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtrastan.png" /></td>
  <td>Slap Fight (by <a href="https://github.com/antongale">Anton Gale</a>) <img src="/pics/arcade/slapfight.png" /></td>
 </tr>
@@ -191,11 +191,12 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Lunar Lander (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/lunarlander.png" /></td>
 </tr>
 <tr>
+ <td>Missile Command (unreleased) <img src="/_unreleased/pics/missle.png" /></td>
  <td>Pong (by <a href="https://github.com/agg23">agg23</a>)  <img src="/pics/arcade/pong.png" /></td>
  <td>Space Race (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/spacerace.png" /></td>
- <td>Star Wars (by <a href="https://github.com/Mazamars312">Mazamars</a>) <img src="/pics/arcade/ataristarwars.png" /></td>
 </tr>
 <tr>
+ <td>Star Wars (by <a href="https://github.com/Mazamars312">Mazamars</a>) <img src="/pics/arcade/ataristarwars.png" /></td>
  <td>Super Breakout (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/superbreakout.png" /></td>
  <td>Atari Tetris  (unreleased) <img src="/_unreleased/pics/ataritetris.png" /></td>
 </tr>
