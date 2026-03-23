@@ -219,6 +219,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>Duke Nukem 3D <img src="pics/duke3d.png" /></td>
  <td>Cave Story <img src="pics/cavestory.png" /></td>
+ <td>McPixel <img src="pics/mcpixel.png" /></td>
 </tr>
 <tr>
  <td>Wolfenstein 3D <img src="pics/pocketwolf.png" /></td>
