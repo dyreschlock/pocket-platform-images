@@ -42,6 +42,7 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>Pac-Man / Ms. Pac-Man (<a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/pacman.png" /></td> 
 </tr>
 <tr>
+ <td>Pole Position <img src="pics/polepos.png" /></td>
  <td>Rally-X (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="pics/rallyx.png" /></td>
  <td>Bosconian <img src="pics/bosconian.png" /></td>
 </tr>

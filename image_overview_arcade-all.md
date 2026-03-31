@@ -177,7 +177,10 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr>
  <td>Pac-Land (by <a href="https://patreon.com/jotego">Jotego</a>)<img src="/pics/arcade/jtpaclan.png" /></td>
+ <td>Pole Position (unreleased) <img src="/_unreleased/pics/polepos.png" /></td>
  <td>Rally-X (unreleased) <img src="/_unreleased/pics/rallyx.png" /></td>
+</tr>
+<tr>
  <td>Xevious (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/xevious.png" /></td>
 </tr>
 <tr><th colspan="3"> Atari Arcade Games</th></tr>
