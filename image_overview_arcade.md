@@ -211,7 +211,11 @@ All artwork used is meant to resemble the game's official key artwork from the t
  <td>Karate Champ (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkchamp.png" /></td>
 </tr>
 <tr>
+ <td>Mat Mania (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/matmania.png" /></td>
+ <td>Mania Challenge (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/maniach.png" /></td>
  <td>Renegade Kunio-kun (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkunio.png" /></td>
+</tr>
+<tr>
  <td>Combatribes (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/combatribes.png" /></td>
  <td>Xain'd Sleena (by <a href="https://github.com/RndMnkIII">RndMnkIII</a>) <img src="/pics/arcade/xaindsleena.png" /></td>
 </tr>
