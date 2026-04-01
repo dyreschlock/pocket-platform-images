@@ -278,17 +278,18 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr><th colspan="3"> Data East Arcade Games</th></tr>
 <tr>
- <td>Lock 'n Chase (Unreleased) <img src="/_unreleased/pics/locknchase.png" /></td>
  <td>Bad Dudes v. Dragon Ninja (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtninja.png" /></td>
- <td>Midnight Resistance (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtmidres.png" /></td>
+ <td>Edward Randy: The Cliffhanger (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/edrandy.png" /></td>
+ <td>Karnov (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkarnov.png" /></td> 
 </tr>
 <tr>
- <td>Karnov (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkarnov.png" /></td> 
+ <td>Lock 'n Chase (Unreleased) <img src="/_unreleased/pics/locknchase.png" /></td>
+ <td>Midnight Resistance (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtmidres.png" /></td>
  <td>Performan (by <a href="https://github.com/antongale">Anton Gale</a>) <img src="/pics/arcade/performan.png" /></td>
- <td>Sly Spy (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtslyspy.png" /></td>
 </tr>
 <tr>
  <td>Robocop (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtcop.png" /></td>
+ <td>Sly Spy (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtslyspy.png" /></td>
 </tr>
 <tr><th colspan="3">SNK Arcade Games</th></tr>
 <tr>
