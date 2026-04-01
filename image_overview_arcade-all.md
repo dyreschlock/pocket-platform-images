@@ -279,7 +279,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr><th colspan="3"> Data East Arcade Games</th></tr>
 <tr>
  <td>Bad Dudes v. Dragon Ninja (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtninja.png" /></td>
- <td>Edward Randy (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/edrandy.png" /></td>
+ <td>Edward Randy (Unreleased) <img src="/_unreleased/pics/edrandy.png" /></td>
  <td>Karnov (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkarnov.png" /></td> 
 </tr>
 <tr>
@@ -289,7 +289,11 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr>
  <td>Robocop (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtcop.png" /></td>
+ <td>Robocop 2 (Unreleased) <img src="/_unreleased/pics/robocop2.png" /></td>
  <td>Sly Spy (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtslyspy.png" /></td>
+</tr>
+<tr>
+ <td>Tumblepop (Unreleased) <img src="/_unreleased/pics/tumblep.png" /></td>
 </tr>
 <tr><th colspan="3">SNK Arcade Games</th></tr>
 <tr>
