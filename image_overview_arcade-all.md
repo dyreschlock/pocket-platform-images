@@ -293,7 +293,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Sly Spy (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtslyspy.png" /></td>
 </tr>
 <tr>
- <td>Tumblepop (Unreleased) <img src="/_unreleased/pics/tumblep.png" /></td>
+ <td>Tumblepop (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/tumblep.png" /></td>
 </tr>
 <tr><th colspan="3">SNK Arcade Games</th></tr>
 <tr>

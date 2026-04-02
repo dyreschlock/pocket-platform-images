@@ -50,9 +50,6 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>Edward Randy <img src="pics/edrandy.png" /></td>
  <td>Robocop 2 <img src="pics/robocop2.png" /></td>
- <td>Tumblepop <img src="pics/tumblep.png" /></td>
-</tr>
-<tr>
  <td>Lock 'n Chase (Unreleased) <img src="pics/locknchase.png" /></td>
 </tr>
 <tr><th colspan="3"> Nichibutsu Arcade Cores</th></tr>
