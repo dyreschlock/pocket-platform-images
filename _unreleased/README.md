@@ -52,6 +52,9 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>Robocop 2 <img src="pics/robocop2.png" /></td>
  <td>Lock 'n Chase (Unreleased) <img src="pics/locknchase.png" /></td>
 </tr>
+<tr>
+ <td>Vapor Trail <img src="pics/vaportra.png" /></td>
+</tr>
 <tr><th colspan="3"> Nichibutsu Arcade Cores</th></tr>
 <tr>
  <td>Amatelas (by <a href="https://patreon.com/atrac17">Coin-Op</a>) <img src="pics/amatelas.png" /></td>

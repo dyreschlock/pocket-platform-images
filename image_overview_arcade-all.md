@@ -294,6 +294,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr>
  <td>Tumblepop (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/tumblep.png" /></td>
+ <td>Vapor Trail (unreleased) <img src="/_unreleased/pics/vaportra.png" /></td>
 </tr>
 <tr><th colspan="3">SNK Arcade Games</th></tr>
 <tr>
