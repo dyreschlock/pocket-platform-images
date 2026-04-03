@@ -288,11 +288,12 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Performan (by <a href="https://github.com/antongale">Anton Gale</a>) <img src="/pics/arcade/performan.png" /></td>
 </tr>
 <tr>
+ <td>Psychic-Nics Oscar (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/oscar.png" /></td>
  <td>Robocop (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtcop.png" /></td>
  <td>Robocop 2 (Unreleased) <img src="/_unreleased/pics/robocop2.png" /></td>
- <td>Sly Spy (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtslyspy.png" /></td>
 </tr>
 <tr>
+ <td>Sly Spy (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtslyspy.png" /></td>
  <td>Tumblepop (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/tumblep.png" /></td>
  <td>Vapor Trail (unreleased) <img src="/_unreleased/pics/vaportra.png" /></td>
 </tr>
