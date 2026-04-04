@@ -107,6 +107,9 @@ You can view those differences here: <b><a href="/image_regional_variants.md">Re
  <td>MROM <img src="/pics/home/mrom.png" /></td>
  <td>Mem Tester <img src="/pics/home/memtest.png" /></td>
 </tr>
+<tr>
+ <td>Mod Player <img src="/pics/home/modplayer.png" /></td>
+</tr>
 <tr><th colspan="3">Others / Experimental Cores</th></tr>
 <tr>
  <td>riscv - Risc-V (dev) <img src="/pics/home/riscv.png" /></td>
