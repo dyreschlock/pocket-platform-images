@@ -19,6 +19,9 @@ These are overrides that were either used before or made as an alternative to wh
  <td>jtblock - Block Block* <img src="others/pics/jtblock.png" /></td>
  <td>uxn - UXN Platform <img src="others/pics/uxn.png" /></td>
 </tr>
+<tr>
+ <td>mod-layer <img src="others/pics/modplayer.png" /></td>
+</tr>
 </table>
 
 * TMNT Combines both TMNT and Simpsons into a Single core, but the video resolutions don't match, so it's not perfect :(
