@@ -110,6 +110,7 @@ All artwork used is meant to resemble the game's official key artwork from the t
  <td>Super Hang-On (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtshanon.png" /></td>
 </tr>
 <tr>
+ <td>Zaxxon (by <a href="https://github.com/harpmudd">Harp Mudd</a>) <img src="/pics/arcade/zaxxon.png" /></td>
  <td>Sega System 16A (by <a href="https://patreon.com/jotego">Jotego</a>)  <img src="/pics/arcade/jts16.png" /></td>
  <td>Sega System 16B (by <a href="https://patreon.com/jotego">Jotego</a>)  <img src="/pics/arcade/jts16b.png" /></td>
 </tr>
@@ -139,6 +140,7 @@ All artwork used is meant to resemble the game's official key artwork from the t
  <td>Gaplus (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/gaplus.png" /></td>
 </tr>
 <tr>
+ <td>Pac-Man / Ms. Pac-Man (by <a href="https://github.com/TheDiscordian">The Discordian</a>) <img src="/_unreleased/pics/pacman.png" /></td> 
  <td>Pac-Land (by <a href="https://patreon.com/jotego">Jotego</a>)<img src="/pics/arcade/jtpaclan.png" /></td>
  <td>Xevious (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/xevious.png" /></td>
 </tr>
