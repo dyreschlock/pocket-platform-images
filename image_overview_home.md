@@ -87,11 +87,17 @@ You can view those differences here: <b><a href="/image_regional_variants.md">Re
 </tr>
 <tr><th colspan="3">PC Game Conversions</th></tr>
 <tr>
- <td>Quake (pocketquake & quake)<img src="/pics/home/quake.png" /></td>
- <td>Doom (pocketdoom & doom)<img src="/pics/home/doom.png" /></td>
+ <td>Diablo<img src="/pics/home/diablo.png" /></td>
+ <td>Quake<img src="/pics/home/quake.png" /></td>
+ <td>Doom<img src="/pics/home/doom.png" /></td>
+</tr>
+<tr>
+ <td>Hexen<img src="/pics/home/hexen.png" /></td>
+ <td>Heretic<img src="/pics/home/heretic.png" /></td>
  <td>Wolfenstein <img src="/pics/home/wolfenstein.png" /></td>
 </tr>
 <tr>
+ <td>Scumm VM <img src="/pics/home/scummvm.png" /></td>
  <td>Duke Nukem 3D <img src="/pics/home/duke3d.png" /></td>
  <td>Tyrian on Risc-V<img src="/pics/home/tyrian.png" /></td>
 </tr>

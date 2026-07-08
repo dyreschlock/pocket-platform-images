@@ -221,13 +221,8 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr><th colspan="3">PC Conversions</th></tr>
 <tr>
  <td>Wipeout Rewrite <img src="pics/wipeout.png" /></td>
- <td>Diablo <img src="pics/diablo.png" /></td>
- <td>Scumm VM <img src="pics/scummvm.png" /></td>
-</tr>
-<tr>
- <td>Heretic <img src="pics/heretic.png" /></td>
- <td>Hexen <img src="pics/hexen.png" /></td>
  <td>Rise of the Triad <img src="pics/triad.png" /></td>
+ <td>Cave Story <img src="pics/cavestory.png" /></td>
 </tr>
 <tr>
  <td>Warcraft <img src="pics/warcraft.png" /></td>
@@ -235,7 +230,6 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>Starcraft <img src="pics/starcraft.png" /></td>
 </tr>
 <tr>
- <td>Cave Story <img src="pics/cavestory.png" /></td>
  <td>McPixel 3 <img src="pics/mcpixel3.png" /></td>
 </tr>
 </table>
