@@ -15,7 +15,7 @@ You can view those differences here: <b><a href="/image_regional_variants.md">Re
 </tr>
 <tr>
  <td>genesis - Sega Genesis <img src="/pics/home/genesis.png" /></td>
- <td>scd - Sega CD <img src="/pics/home/scd.png" /></td> 
+ <td>scd / megacd - Sega CD <img src="/pics/home/scd.png" /></td> 
  <td>32x - Sega 32x <img src="/pics/home/32x.png" /></td>
 </tr>
 <tr>
