@@ -8,7 +8,7 @@ The `pics` directory includes the raw PNG files I used to make the images.  I ha
 
 <table>
 <tr>
- <th><a href="/image_overview_arcade.md">View all Arcade Images</a></th>
+ <th><a href="/image_overview_arcade-all.md">View all Arcade Images</a></th>
  <th><a href="/image_overview_home.md">View all Home Images</a></th>
 </tr>
 <tr>
@@ -49,25 +49,26 @@ Thanks to **<a href="https://github.com/mattpannella">mattpannella</a>** for rel
 
 - Note: There's an `_alternatives` directory that contains previous or alternate overrides you can use with cores.
 
-- Note: There's also an `_unreleased` directory that has overrides for cores that haven't been released yet. These are not included in releases. But, as new cores are completed, they will be moved into the appropriate directories and a new release will be made. If you'd like to get them now, download the whole repository and grab them that way. :)
+- Note: There's also an `_unreleased` directory that has overrides for cores that most likely won't be released. These are not included in the releases. But, if these cores eventually are released, they will be moved into the appropriate directories and a new release will be made. If you'd like to get them now, download the whole repository and grab them that way. :)
 
-- Advisory: Putting too many* JSON files in the Platforms folder will caused some problems displaying cores in the openFPGA menu on the Pocket. It's recommended to only use JSON files for cores you have installed.
+**Advisory**
+Overall, there is a significant amount of images and overrides in each release of pocket-images. You can copy over all of the images, but it's recommended to only use JSON files for cores you have installed. Putting too many JSON files in the Platforms folder will cause openFPGA to not function. 
 
-  - *too many = Please read the disclaimer below.
-
-- Also! If you happen to think my images are too graphical and gaudy, then **terminator2k2** has a repo with only logos: <a href="https://github.com/terminator2k2/Analogue-Pocket-Core-Art">here</a>.
+How many is 'too many'?? Please read the following:
 
 ## Disclaimer about Too Many Platforms
 
-When there are too many JSON files in the Platforms folder, the Pocket will begin having errors trying to display everything. <b>terminator2k2</b> reached out to Analogue for clarification, and they responded saying that there's a hard limit of 255 platforms. However, <b>t2k2</b> was able to hit this limit at 239 platforms, so the limit could vary depending on the length of your platform titles.
+When there are too many JSON files in the Platforms folder, the Pocket will begin having errors trying to display everything. It has been determined that 239 cores is the general limit, but there is some wiggle room both ways depending on what cores you have installed. Once you hit your limit, openFPGA will display a QR code saying things are broken. You have too many cores.
 
-As of November 2025, I have overrides for 196 cores (141 arcade and 55 home). It's still 40 away from <b>t2k2</b>'s limit, but when all of the Coin Op Collective and Boogerman cores are released on the Pocket, we should pass 239 cores/platforms.
+It is now August 1st 2026, and there are more than 239 cores available to the public. You can't have absolutely everything available all at once. However, you can have everything installed if you like..
 
-Analogue recommends to organize cores using categories to prevent this, but you still hit the limit. So, you have two options:
+<a href="https://github.com/neil-morrison44/pocket-sync">Pocket Sync</a> and <a href="https://github.com/mattpannella/pupdate">Pupdate</a> are you friendly neighborhood Pocket updaters. By using them, you can see everything you have installed, everything available you don't have installed, and you can download my images through them, too. Because of the platform limit, they've added an option to 'archive' cores. Archiving a core moves the platform json out of its directory, but keeps all the core contents intact. They won't show up in openFPGA, but you can easily unarchive the core and have it available again.
 
-1. <b>You can only install cores you actually use.</b> Do you really need the Arcadia and Adventure Vision cores installed at all times? How often do you play Arcade Pong?
+<b>I recommend using the updaters to manage your favorite cores and prevent your Pocket from hitting the platform limit.</b>
 
-2. <b>You can use combination cores.</b> Several Arcade cores have been released that only load a single game, even though the architecture of the hardware is the same or near the same as another single Arcade core. As long as the video options are the same, you can make some alterations to the core's JSON setup and have the core run different RBF builds depending on the games you choose.
+## Combo Cores
+
+There's another option to help reduce your number of cores: <b>You can use combination cores.</b> Several Arcade cores have been released that only load a single game, even though the architecture of the hardware is the same or near the same as another single Arcade core. As long as the video options are the same, you can make some alterations to the core's JSON setup and have the core run different RBF builds depending on the games you choose.
 
 There are already a few combination cores that Espiox and myself have put together.
 - <b>Sega System 16 Combo</b> combines System 16A and System 16B together. Details are <a href="https://github.com/espiox/jts16_complete">here</a>.
@@ -79,7 +80,3 @@ There are already a few combination cores that Espiox and myself have put togeth
 Using all 5 of these Combo cores will save you 21 platforms. All of these combination cores are available through <a href="https://github.com/mattpannella/pupdate">Pupdate</a>, so you don't need to worry about any complicated instructions.
 
 There are two drawbacks for doing this that I can think of. 1. It can sometimes make finding specific games more difficult if you don't know where to look. 2. Automatic Pupdates are now dependent on the authors of these Combo cores updating their repos after the main repos are updated. I am not good at this.
-
-There's still time to figure things out, so there's no rush yet. 
-
-Each future release of pocket-images will include the total number of platforms included, so you can make your own decisions. :)
