@@ -34,29 +34,13 @@ These are platform overrides for cores that haven't been released yet. These cor
 <table>
 <tr><th colspan="3">Handheld Cores</th></tr>
 <tr>
- <td>Dreamcast VMU <img src="pics/sdvmu.png" /></td>
- <td>Virtual Boy <img src="pics/vb.png" /></td>
  <td>Tiger Game.Com <img src="pics/gamecom.png" /></td>
-</tr>
-<tr>
  <td>Nokia N-Gage <img src="pics/ngage.png" /></td>  
-</tr>
-<tr><th colspan="3">Consoles Cores</th></tr>
-<tr>
- <td>Sega 32x <img src="pics/32x.png" /></td>
- <td>Super 32x (JP) <img src="pics/32x_jp.png" /></td>
- <td>Mega Drive 32x (PAL) <img src="pics/32x_pal.png" /></td>
-</tr>
-<tr>
- <td>segapico - Sega Pico <img src="pics/segapico.png" /></td>
 </tr>
 <tr><th colspan="3">Computer Cores</th></tr>
 <tr>
- <td>Apple II <img src="pics/a2.png" /></td>
  <td>Sharp X68000 <img src="pics/x68000.png" /></td>
  <td>NEC PC-8801 <img src="pics/pc8801.png" /></td>
-</tr>
-<tr>
  <td>Bandai RX-78 <img src="pics/rx78.png" /></td>
 </tr>
 <tr><th colspan="3">Other Cores</th></tr>
@@ -67,15 +51,12 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr><th colspan="3">PC Conversions</th></tr>
 <tr>
  <td>Wipeout Rewrite <img src="pics/wipeout.png" /></td>
- <td>Rise of the Triad <img src="pics/triad.png" /></td>
  <td>Cave Story <img src="pics/cavestory.png" /></td>
+ <td>McPixel 3 <img src="pics/mcpixel3.png" /></td>
 </tr>
 <tr>
  <td>Warcraft <img src="pics/warcraft.png" /></td>
  <td>Warcraft II <img src="pics/warcraft2.png" /></td>
  <td>Starcraft <img src="pics/starcraft.png" /></td>
-</tr>
-<tr>
- <td>McPixel 3 <img src="pics/mcpixel3.png" /></td>
 </tr>
 </table>

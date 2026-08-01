@@ -35,6 +35,11 @@ To use these, download the corresponding zip from the latest release. The Zip fi
  <td>genesis - Mega Drive <img src="/pics/home-pal/genesis.png" /></td>
 </tr>
 <tr>
+ <td>32x - Sega 32x <img src="/pics/home/32x.png" /></td>
+ <td>32x - Super 32x <img src="/pics/home-jp/32x.png" /></td>
+ <td>32x - Mega Drive 32x <img src="/pics/home-pal/32x.png" /></td>
+</tr>
+<tr>
  <td>sms - MasterSystem <img src="/pics/home/sms.png" /></td>
  <td>sms - Sega Mark III <img src="/pics/home-jp/sms.png" /></td>
  <td>(same as NA)</td>
