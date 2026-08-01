@@ -51,8 +51,7 @@ Thanks to **<a href="https://github.com/mattpannella">mattpannella</a>** for rel
 
 - Note: There's also an `_unreleased` directory that has overrides for cores that most likely won't be released. These are not included in the releases. But, if these cores eventually are released, they will be moved into the appropriate directories and a new release will be made. If you'd like to get them now, download the whole repository and grab them that way. :)
 
-**Advisory**
-Overall, there is a significant amount of images and overrides in each release of pocket-images. You can copy over all of the images, but it's recommended to only use JSON files for cores you have installed. Putting too many JSON files in the Platforms folder will cause openFPGA to not function. 
+- **Advisory**: Overall, there is a significant amount of images and overrides in each release of pocket-images. You can copy over all of the images, but it's recommended to only use JSON files for cores you have installed. Putting too many JSON files in the Platforms folder will cause openFPGA to not function. 
 
 How many is 'too many'?? Please read the following:
 
