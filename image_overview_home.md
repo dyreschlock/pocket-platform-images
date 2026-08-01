@@ -88,7 +88,7 @@ You can view those differences here: <b><a href="/image_regional_variants.md">Re
 </tr>
 <tr>
  <td>zxspectrum - ZX Spectrum <img src="/pics/home/zxspectrum.png" /></td>
- <td>Apple II <img src="pics/a2.png" /></td>
+ <td>Apple II <img src="/pics/home/a2.png" /></td>
  <td>videobrain - VideoBrain <img src="/pics/home/videobrain.png" /></td>
 </tr>
 <tr>
@@ -111,12 +111,18 @@ You can view those differences here: <b><a href="/image_regional_variants.md">Re
  <td>Wolfenstein <img src="/pics/home/wolfenstein.png" /></td>
 </tr>
 <tr>
- <td>Scumm VM <img src="/pics/home/scummvm.png" /></td>
- <td>Duke Nukem 3D <img src="/pics/home/duke3d.png" /></td>
- <td>Tyrian on Risc-V<img src="/pics/home/tyrian.png" /></td>
+ <td>Warcraft <img src="pics/warcraft.png" /></td>
+ <td>Warcraft II <img src="pics/warcraft2.png" /></td>
+ <td>Starcraft <img src="pics/starcraft.png" /></td>
 </tr>
 <tr>
+ <td>Scumm VM <img src="/pics/home/scummvm.png" /></td>
+ <td>Duke Nukem 3D <img src="/pics/home/duke3d.png" /></td>
  <td>Rise of the Triad <img src="/pics/home/triad.png" /></td>
+</tr>
+<tr>
+ <td>Tyrian on Risc-V<img src="/pics/home/tyrian.png" /></td>
+ <td>Wipeout Rewrite <img src="pics/wipeout.png" /></td>
 </tr>
 <tr><th colspan="3">Single Game / Application Cores</th></tr>
 <tr>
