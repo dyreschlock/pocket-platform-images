@@ -120,7 +120,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>Sega System 16 (Combo*) (<a href="https://github.com/espiox/jts16_complete">details</a>) <img src="/pics/arcade/jts16_c.png"></td>
  <td>Sega System 18 (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jts18.png" /></td>
- <td>Sega System 1 & 2 (unreleased) <img src="/pics/arcade/segasys12.png" /></td>
+ <td>Sega System 1 & 2 (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/segasys12.png" /></td>
 </tr>
 <tr>
  <td>Sega System C/C2 (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/system_c.png" /></td>
@@ -138,7 +138,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Super Hang-On (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtshanon.png" /></td>
 </tr>
 <tr>
- <td>Zaxxon (by <a href="https://github.com/harpmudd">Harp Mudd</a>) <img src="/pics/arcade/zaxxon.png" /></td>
+ <td>Zaxxon (unreleased) <img src="/pics/arcade/zaxxon.png" /></td>
  <td>Sega System 16A (by <a href="https://patreon.com/jotego">Jotego</a>)  <img src="/pics/arcade/jts16.png" /></td>
  <td>Sega System 16B (by <a href="https://patreon.com/jotego">Jotego</a>)  <img src="/pics/arcade/jts16b.png" /></td>
 </tr>

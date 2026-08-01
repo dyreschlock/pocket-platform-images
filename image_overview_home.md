@@ -111,9 +111,9 @@ You can view those differences here: <b><a href="/image_regional_variants.md">Re
  <td>Wolfenstein <img src="/pics/home/wolfenstein.png" /></td>
 </tr>
 <tr>
- <td>Warcraft <img src="pics/warcraft.png" /></td>
- <td>Warcraft II <img src="pics/warcraft2.png" /></td>
- <td>Starcraft <img src="pics/starcraft.png" /></td>
+ <td>Warcraft <img src="/pics/home/warcraft.png" /></td>
+ <td>Warcraft II <img src="/pics/home/warcraft2.png" /></td>
+ <td>Starcraft <img src="/pics/home/starcraft.png" /></td>
 </tr>
 <tr>
  <td>Scumm VM <img src="/pics/home/scummvm.png" /></td>
@@ -122,7 +122,7 @@ You can view those differences here: <b><a href="/image_regional_variants.md">Re
 </tr>
 <tr>
  <td>Tyrian on Risc-V<img src="/pics/home/tyrian.png" /></td>
- <td>Wipeout Rewrite <img src="pics/wipeout.png" /></td>
+ <td>Wipeout Rewrite <img src="/pics/home/wipeout.png" /></td>
 </tr>
 <tr><th colspan="3">Single Game / Application Cores</th></tr>
 <tr>
