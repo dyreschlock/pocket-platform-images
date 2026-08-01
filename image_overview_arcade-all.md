@@ -43,10 +43,11 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr>
  <td>Section Z (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsectnz.png" /></td>
+ <td>SonSon (unreleased) <img src="/pics/arcade/sonson.png" /></td>
  <td>Speed Rumbler  (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtrumble.png" /></td>
- <td>Street Fighter (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsf.png" /></td>
 </tr>
 <tr>
+ <td>Street Fighter (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtsf.png" /></td>
  <td>Tiger Road (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttora.png" /></td>
  <td>Trojan (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttrojan.png" /></td>
 </tr>
@@ -68,7 +69,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr>
  <td>The Final Round (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtfround.png" /></td>
- <td>Finalizer (unreleased) <img src="/_unreleased/pics/finalizer.png" /></td>
+ <td>Finalizer (unreleased) <img src="/pics/arcade/finalizer.png" /></td>
  <td>Flak Attack (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtmx5k.png" /></td>
 </tr>
 <tr>
@@ -77,12 +78,12 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Gyruss (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/gyruss.png" /></td>
 </tr>
 <tr>
- <td>Iron Horse (unreleased) <img src="/_unreleased/pics/ironhorse.png" /></td>
+ <td>Iron Horse (unreleased) <img src="/pics/arcade/ironhorse.png" /></td>
  <td>Haunted Castle (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtcastle.png" /></td>
  <td>Jail Break (by <a href="https://github.com/rolandking">Rols</a>) <img src="/pics/arcade/jailbreak.png" /></td>
 </tr>
 <tr>
- <td>Jackal (unreleased) <img src="/_unreleased/pics/jackal.png" /></td>
+ <td>Jackal (unreleased) <img src="/pics/arcade/jackal.png" /></td>
  <td>Labyrinth Runner (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtlabrun.png" /></td>
  <td>Mikie (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtmikie.png" /></td>
 </tr>
@@ -98,7 +99,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr>
  <td>Run and Gun (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtrungun.png" /></td>
- <td>Scramble (unreleased) <img src="/_unreleased/pics/scramble.png" /></td>
+ <td>Scramble (unreleased) <img src="/pics/arcade/scramble.png" /></td>
  <td>Shao-Lin's Road (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkicker.png" /></td>
 </tr>
 <tr>
@@ -119,12 +120,12 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>Sega System 16 (Combo*) (<a href="https://github.com/espiox/jts16_complete">details</a>) <img src="/pics/arcade/jts16_c.png"></td>
  <td>Sega System 18 (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jts18.png" /></td>
- <td>Sega System 1 & 2 (unreleased) <img src="/_unreleased/pics/segasys12.png" /></td>
+ <td>Sega System 1 & 2 (unreleased) <img src="/pics/arcade/segasys12.png" /></td>
 </tr>
 <tr>
- <td>Sega System C/C2 (unreleased) <img src="/pics/arcade/system_c.png" /></td>
- <td>119 (unreleased) <img src="/_unreleased/pics/119.png" /></td>
- <td>Appoooh (unreleased) <img src="/_unreleased/pics/appoooh.png" /></td>
+ <td>Sega System C/C2 (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/system_c.png" /></td>
+ <td>119 (unreleased) <img src="/pics/arcade/119.png" /></td>
+ <td>Appoooh (unreleased) <img src="/pics/arcade/appoooh.png" /></td>
 </tr>
 <tr>
  <td>Bank Panic (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/bankpanic.png" /></td>
@@ -132,8 +133,8 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Outrun (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtoutrun.png" /></td>
 </tr>
 <tr>
- <td>Pengo (unreleased) <img src="/_unreleased/pics/pengo.png" /></td>
- <td>Puckman Pockimon (unreleased) <img src="/_unreleased/pics/puckpkmn.png" /></td>
+ <td>Pengo (unreleased) <img src="/pics/arcade/pengo.png" /></td>
+ <td>Puckman Pockimon (unreleased) <img src="/pics/arcade/puckpkmn.png" /></td>
  <td>Super Hang-On (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtshanon.png" /></td>
 </tr>
 <tr>
@@ -145,15 +146,15 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>Taito New Zealand Board (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkiwi.png" /></td>
  <td>Taito System SJ (by <a href="https://github.com/antongale">Anton Gale</a>) <img src="/pics/arcade/taitosj.png" /></b></td>
- <td>Arkanoid (unreleased) <img src="/_unreleased/pics/arkanoid.png" /></td>
+ <td>Arkanoid (unreleased) <img src="/pics/arcade/arkanoid.png" /></td>
 </tr>
 <tr>
  <td>Bubble Bobble (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtbubl.png" /></td>
- <td>Crazy Balloon  (unreleased) <img src="/_unreleased/pics/crazyballoon.png" /></td>
+ <td>Crazy Balloon  (unreleased) <img src="/pics/arcade/crazyballoon.png" /></td>
  <td>The Fairyland Story (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtflstory.png" /></td>
 </tr>
 <tr>
- <td>Qix (unreleased) <img src="/_unreleased/pics/qix.png" /></td>
+ <td>Qix (unreleased) <img src="/pics/arcade/qix.png" /></td>
  <td>Rastan (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtrastan.png" /></td>
  <td>Slap Fight (by <a href="https://github.com/antongale">Anton Gale</a>) <img src="/pics/arcade/slapfight.png" /></td>
 </tr>
@@ -167,21 +168,22 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Namco Druaga (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/druaga.png" /></td>
 </tr>
 <tr>
- <td>Namco Super Pacman Board (unreleased) <img src="/_unreleased/pics/superpac.png" /></td>
+ <td>Namco Super Pacman Board (unreleased) <img src="/pics/arcade/superpac.png" /></td>
+ <td>Bosconian (unreleased) <img src="/pics/arcade/superpac.png" /></td>
  <td>Dig Dug (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/digdug.png" /></td>
- <td>Galaxian (unreleased) <img src="/_unreleased/pics/galaxian.png" /></td> 
 </tr>
 <tr>
+ <td>Galaxian (unreleased) <img src="/pics/arcade/galaxian.png" /></td> 
  <td>Galaga (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/galaga.png" /></td>
  <td>Gaplus (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/gaplus.png" /></td>
- <td>Pac-Man / Ms. Pac-Man (by <a href="https://github.com/TheDiscordian">The Discordian</a>) <img src="/_unreleased/pics/pacman.png" /></td> 
 </tr>
 <tr>
+ <td>Pac-Man / Ms. Pac-Man (unreleased) <img src="/pics/arcade/pacman.png" /></td> 
  <td>Pac-Land (by <a href="https://patreon.com/jotego">Jotego</a>)<img src="/pics/arcade/jtpaclan.png" /></td>
- <td>Pole Position (unreleased) <img src="/_unreleased/pics/polepos.png" /></td>
- <td>Rally-X (unreleased) <img src="/_unreleased/pics/rallyx.png" /></td>
+ <td>Pole Position (unreleased) <img src="/pics/arcade/polepos.png" /></td>
 </tr>
 <tr>
+ <td>Rally-X (unreleased) <img src="/pics/arcade/rallyx.png" /></td>
  <td>Xevious (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/xevious.png" /></td>
 </tr>
 <tr><th colspan="3"> Atari Arcade Games</th></tr>
@@ -196,14 +198,14 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Lunar Lander (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/lunarlander.png" /></td>
 </tr>
 <tr>
- <td>Missile Command (unreleased) <img src="/_unreleased/pics/missile.png" /></td>
+ <td>Missile Command (unreleased) <img src="/pics/arcade/missile.png" /></td>
  <td>Pong (by <a href="https://github.com/agg23">agg23</a>)  <img src="/pics/arcade/pong.png" /></td>
  <td>Space Race (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/spacerace.png" /></td>
 </tr>
 <tr>
  <td>Star Wars (by <a href="https://github.com/Mazamars312">Mazamars</a>) <img src="/pics/arcade/ataristarwars.png" /></td>
  <td>Super Breakout (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/superbreakout.png" /></td>
- <td>Atari Tetris  (unreleased) <img src="/_unreleased/pics/ataritetris.png" /></td>
+ <td>Atari Tetris  (unreleased) <img src="/pics/arcade/ataritetris.png" /></td>
 </tr>
 <tr><th colspan="3"> Nintendo Arcade Games</th></tr>
 <tr>
@@ -213,7 +215,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr>
  <td>Mario Bros. (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/mario.png" /></td>
- <td>Popeye (unreleased) <img src="/_unreleased/pics/popeye.png" /></td>
+ <td>Popeye (unreleased) <img src="/pics/arcade/popeye.png" /></td>
  <td>Radar Scope (by <a href="https://github.com/ericlewis">ericlewis</a>) <img src="/pics/arcade/radarscope.png" /></td>
 </tr>
 <tr><th colspan="3"> Toaplan & Raizing Arcade Games</th></tr>
@@ -233,27 +235,27 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Flying Shark (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA"> Coin-Op </a>) <img src="/pics/arcade/fshark.png" /></td>
 </tr>
 <tr>
- <td>Ghox (unreleased) <img src="/_unreleased/pics/ghox.png" /></td> 
- <td>Hellfire (unreleased) <img src="/_unreleased/pics/hellfire.png" /></td>
- <td>Out Zone (unreleased) <img src="/_unreleased/pics/outzone.png" /></td>
+ <td>Ghox (unreleased) <img src="/pics/arcade/ghox.png" /></td> 
+ <td>Hellfire (unreleased) <img src="/pics/arcade/hellfire.png" /></td>
+ <td>Out Zone (unreleased) <img src="/pics/arcade/outzone.png" /></td>
 </tr>
 <tr>
- <td>Rally Bike (unreleased) <img src="/_unreleased/pics/rallybike.png" /></td>
- <td>Same! Same! Same! (unreleased) <img src="/_unreleased/pics/samesame.png" /></td>
+ <td>Rally Bike (unreleased) <img src="/pics/arcade/rallybike.png" /></td>
+ <td>Same! Same! Same! (unreleased) <img src="/pics/arcade/samesame.png" /></td>
  <td>Snow Bros. (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA"> Coin-Op </a>) <img src="/pics/arcade/snowbros.png" /></td>
 </tr>
 <tr>
  <td>Snow Bros 2 (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA"> Coin-Op </a>) <img src="/pics/arcade/snowbros2.png" /></td>
  <td>Teki Paki (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/tekipaki.png" /></td>
- <td>Truxton (unreleased) <img src="/_unreleased/pics/truxton.png" /></td>
+ <td>Truxton (unreleased) <img src="/pics/arcade/truxton.png" /></td>
 </tr>
 <tr>
  <td>Truxton II / Tatsujin Oh (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/truxton2.png" /></td>
  <td>Twin Cobra (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/twincobr.png" /></td>
- <td>Vimana (unreleased) <img src="/_unreleased/pics/vimana.png" /></td>
+ <td>Vimana (unreleased) <img src="/pics/arcade/vimana.png" /></td>
 </tr>
 <tr>
- <td>Wardner (unreleased) <img src="/_unreleased/pics/wardner.png" /></td> 
+ <td>Wardner (unreleased) <img src="/pics/arcade/wardner.png" /></td> 
  <td>Whoopee! (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/pipibibs.png" /></td>
  <td>Zero Wing (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA"> Coin-Op </a>) <img src="/pics/arcade/zerowing.png" /></td>
 </tr>
@@ -284,14 +286,14 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Karnov (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkarnov.png" /></td> 
 </tr>
 <tr>
- <td>Lock 'n Chase (Unreleased) <img src="/_unreleased/pics/locknchase.png" /></td>
+ <td>Lock 'n Chase (Unreleased) <img src="/pics/arcade/locknchase.png" /></td>
  <td>Midnight Resistance (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtmidres.png" /></td>
  <td>Performan (by <a href="https://github.com/antongale">Anton Gale</a>) <img src="/pics/arcade/performan.png" /></td>
 </tr>
 <tr>
  <td>Psychic-Nics Oscar (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/oscar.png" /></td>
  <td>Robocop (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtcop.png" /></td>
- <td>Robocop 2 (Unreleased) <img src="/_unreleased/pics/robocop2.png" /></td>
+ <td>Robocop 2 (Unreleased) <img src="/pics/arcade/robocop2.png" /></td>
 </tr>
 <tr>
  <td>Sly Spy (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtslyspy.png" /></td>
@@ -302,83 +304,87 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>Armored-Scrum-Object (by <a href="https://github.com/RndMnkIII">RndMnkIII</a>) <img src="/pics/arcade/alphamission.png" /></td>
  <td>Athena (by <a href="https://github.com/rolandking">Rolandking</a>) <img src="/pics/arcade/athena.png" /></td> 
- <td>Gang Wars (unreleased) <img src="/_unreleased/pics/gangwars.png" /></td>
+ <td>Gang Wars (unreleased) <img src="/pics/arcade/gangwars.png" /></td>
 </tr>
 <tr>
- <td>Ikari Warriors (unreleased) <img src="/_unreleased/pics/ikari.png" /></td>
- <td>Ikari 3 The Rescue (unreleased) <img src="/_unreleased/pics/ikari3.png" /></td>
- <td>The Next Space (unreleased) <img src="/_unreleased/pics/nextspace.png" /></td>
+ <td>Ikari Warriors (unreleased) <img src="/pics/arcade/ikari.png" /></td>
+ <td>Ikari 3 The Rescue (unreleased) <img src="/pics/arcade/ikari3.png" /></td>
+ <td>The Next Space (unreleased) <img src="/pics/arcade/nextspace.png" /></td>
 </tr>
 <tr>
- <td>Paddle Mania (unreleased) <img src="/_unreleased/pics/paddlema.png" /></td>
- <td>Prisoners of War (unreleased) <img src="/_unreleased/pics/pow.png" /></td>
- <td>Prehistoric Isle (unreleased) <img src="/_unreleased/pics/prehisle.png" /></td>
+ <td>Paddle Mania (unreleased) <img src="/pics/arcade/paddlema.png" /></td>
+ <td>Prisoners of War (unreleased) <img src="/pics/arcade/pow.png" /></td>
+ <td>Prehistoric Isle (unreleased) <img src="/pics/arcade/prehisle.png" /></td>
 </tr>
 <tr>
- <td>Super Champion Baseball (unreleased) <img src="/_unreleased/pics/sbaseball.png" /></td>
- <td>Search and Rescue (unreleased) <img src="/_unreleased/pics/searchar.png" /></td>
- <td>Sky Adventures (unreleased) <img src="/_unreleased/pics/skyadvnt.png" /></td>
+ <td>Super Champion Baseball (unreleased) <img src="/pics/arcade/sbaseball.png" /></td>
+ <td>Search and Rescue (unreleased) <img src="/pics/arcade/searchar.png" /></td>
+ <td>Sky Adventures (unreleased) <img src="/pics/arcade/skyadvnt.png" /></td>
 </tr>
 <tr>
- <td>Sky Soldiers (unreleased) <img src="/_unreleased/pics/skysoldr.png" /></td>
- <td>Street Smart (unreleased) <img src="/_unreleased/pics/streetsm.png" /></td>
- <td>Time Soldiers / Battle Field (unreleased) <img src="/_unreleased/pics/timesold.png" /></td>
+ <td>Sky Soldiers (unreleased) <img src="/pics/arcade/skysoldr.png" /></td>
+ <td>Street Smart (unreleased) <img src="/pics/arcade/streetsm.png" /></td>
+ <td>Time Soldiers / Battle Field (unreleased) <img src="/pics/arcade/timesold.png" /></td>
 </tr>
 <tr>
- <td>TNK III (unreleased) <img src="/_unreleased/pics/tnkiii.png" /></td>
+ <td>TNK III (unreleased) <img src="/pics/arcade/tnkiii.png" /></td>
 </tr>
 <tr><th colspan="3">Jaleco Arcade Games</th></tr>
 <tr>
  <td>Mega System 1 (Combo*) (unreleased) <img src="/_unreleased/pics/megasys1_c.png" /></td>
- <td>Astyanax / The Lord of King (unreleased) <img src="/_unreleased/pics/astyanax.png" /></td>
- <td>Earth Defense Force (unreleased) <img src="/_unreleased/pics/edf.png" /></td>
+ <td>Astyanax / The Lord of King (unreleased) <img src="/pics/arcade/astyanax.png" /></td>
+ <td>Chameleon (unreleased) <img src="/pics/arcade/chameleon.png" /></td>
 </tr>
 <tr>
+ <td>Earth Defense Force (unreleased) <img src="/pics/arcade/edf.png" /></td>
  <td>Exerion (by <a href="https://github.com/antongale">Anton Gale</a>) <img src="/pics/arcade/exerion.png" /></td>
- <td>Hachoo (unreleased) <img src="/_unreleased/pics/hachoo.png" /></td> 
- <td>In Your Face (unreleased) <img src="/_unreleased/pics/inyourface.png" /></td>
+ <td>Hachoo (unreleased) <img src="/pics/arcade/hachoo.png" /></td> 
 </tr>
 <tr>
- <td>Jitsuryoku! Pro Baseball (unreleased) <img src="/_unreleased/pics/jitsupro.png "/></td>
- <td>Ninja Kazan / Iga Ninjyutsuden (unreleased) <img src="/_unreleased/pics/kazan.png" /></td>
- <td>P47 The Freedom Fighter (unreleased) <img src="/_unreleased/pics/p47.png" /></td>
+ <td>In Your Face (unreleased) <img src="/pics/arcade/inyourface.png" /></td>
+ <td>Jitsuryoku! Pro Baseball (unreleased) <img src="/pics/arcade/jitsupro.png "/></td>
+ <td>Ninja Kazan / Iga Ninjyutsuden (unreleased) <img src="/pics/arcade/kazan.png" /></td>
 </tr>
 <tr>
- <td>Phantasm Avenging Spirit (unreleased) <img src="/_unreleased/pics/phantasm.png" /></td>
- <td>Plus Alpha (unreleased) <img src="/_unreleased/pics/plusalpha.png" /></td>
- <td>Rodland (unreleased) <img src="/_unreleased/pics/rodland.png" /></td> 
+ <td>P47 The Freedom Fighter (unreleased) <img src="/pics/arcade/p47.png" /></td>
+ <td>Phantasm Avenging Spirit (unreleased) <img src="/pics/arcade/phantasm.png" /></td>
+ <td>Plus Alpha (unreleased) <img src="/pics/arcade/plusalpha.png" /></td>
 </tr>
 <tr>
- <td>Soldam (unreleased) <img src="/_unreleased/pics/soldam.png" /></td>
- <td>Saint Dragon (unreleased) <img src="/_unreleased/pics/stdragon.png" /></td>
+ <td>Psychic 5 (unreleased) <img src="/pics/arcade/psychic5.png" /></td>
+ <td>Rodland (unreleased) <img src="/pics/arcade/rodland.png" /></td> 
+ <td>Soldam (unreleased) <img src="/pics/arcade/soldam.png" /></td>
+</tr>
+<tr>
+ <td>Saint Dragon (unreleased) <img src="/pics/arcade/stdragon.png" /></td>
 </tr>
 <tr><th colspan="3">Nichibutsu Arcade Games</th></tr>
 <tr>
- <td>Amatelas (unreleased) <img src="/_unreleased/pics/amatelas.png" /></td>
- <td>Armed Formation F (unreleased) <img src="/_unreleased/pics/armedf.png" /></td>
- <td>Tatekae! Big Fighter (unreleased) <img src="/_unreleased/pics/bigfghtr.png" /></td>
+ <td>Amatelas (unreleased) <img src="/pics/arcade/amatelas.png" /></td>
+ <td>Armed Formation F (unreleased) <img src="/pics/arcade/armedf.png" /></td>
+ <td>Tatekae! Big Fighter (unreleased) <img src="/pics/arcade/bigfghtr.png" /></td>
 </tr>
 <tr>
- <td>Cosmo Police Galivan (unreleased) <img src="/_unreleased/pics/galivan.png" /></td>
- <td>Crazy Climber 2 (unreleased) <img src="/_unreleased/pics/cclimbr2.png" /></td>
- <td>Kid no Hore Hore Daisakusen (unreleased) <img src="/_unreleased/pics/horekid.png" /></td>
+ <td>Cosmo Police Galivan (unreleased) <img src="/pics/arcade/galivan.png" /></td>
+ <td>Crazy Climber 2 (unreleased) <img src="/pics/arcade/cclimbr2.png" /></td>
+ <td>Kid no Hore Hore Daisakusen (unreleased) <img src="/pics/arcade/horekid.png" /></td>
 </tr>
 <tr>
- <td>Lone Wolf & Club (unreleased) <img src="/_unreleased/pics/kozure.png" /></td>
- <td>Chouji Meikyuu Legion (unreleased) <img src="/_unreleased/pics/legionj.png" /></td>
- <td>Terra Cresta (unreleased) <img src="/_unreleased/pics/terracresta.png" /></td> 
+ <td>Lone Wolf & Club (unreleased) <img src="/pics/arcade/kozure.png" /></td>
+ <td>Chouji Meikyuu Legion (unreleased) <img src="/pics/arcade/legionj.png" /></td>
+ <td>Terra Cresta (unreleased) <img src="/pics/arcade/terracresta.png" /></td> 
 </tr>
 <tr>
- <td>Terra Force (unreleased) <img src="/_unreleased/pics/terrafj.png" /></td>
+ <td>Terra Force (unreleased) <img src="/pics/arcade/terrafj.png" /></td>
 </tr>
 <tr><th colspan="3">Irem Arcade Games</th></tr>
 <tr>
  <td>Irem M92 Board (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/irem_m92.png" /></td>
  <td>Irem M72 Board (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/irem_m72.png" /></td>
- <td>Irem M62 Board (unreleased) <img src="/_unreleased/pics/irem_m62.png" /></td>
+ <td>Irem M62 Board (unreleased) <img src="/pics/arcade/irem_m62.png" /></td>
 </tr>
 <tr>
- <td>Irem M50 Series (unreleased) <img src="/_unreleased/pics/irem_m5x.png" /></td>
+ <td>Irem M50 Series (unreleased) <img src="/pics/arcade/irem_m5x.png" /></td>
  <td>Vigilante (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtvigil.png" /></td>
 </tr>
 <tr><th colspan="3">Tecmo / Tehkan Arcade Games</th></tr>
@@ -389,8 +395,8 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr>
  <td>Star Force (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/starforce.png" /></td>
- <td>Solomon's Key (unreleased) <img src="/_unreleased/pics/solomon.png" /></td>
- <td>Bomb Jack (unreleased) <img src="/_unreleased/pics/bombjack.png" /></td>
+ <td>Solomon's Key (unreleased) <img src="/pics/arcade/solomon.png" /></td>
+ <td>Bomb Jack (unreleased) <img src="/pics/arcade/bombjack.png" /></td>
 </tr>
 <tr><th colspan="3">Williams / Midway Arcade Games</th></tr>
 <tr>
@@ -409,27 +415,27 @@ All artwork used is meant to be official artwork from the time of the game's rel
  <td>Strike Force (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/strikeforce.png" /></td>
 </tr>
 <tr>
- <td>NBA Jam (unreleased) <img src="/_unreleased/pics/nbajam.png" /></td>
+ <td>NBA Jam (unreleased) <img src="/pics/arcade/nbajam.png" /></td>
  <td>William 6809 (Combo) (<a href="https://github.com/dyreschlock/pocket-extras/tree/main/williams_complete">details</a>) <img src="/pics/arcade/williams_c.png" /></td>
- <td>Bally Midway MCR (Combo) (unreleased) <img src="/_unreleased/pics/mcr_c.png" /></td>
+ <td>Bally Midway MCR (Combo) (unreleased) <img src="/pics/arcade/mcr_c.png" /></td>
 </tr>
 <tr>
  <td>Williams Defender (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/defender.png" /></td>
- <td>Bally Midway MCR-3 (Scroll) (unreleased) <img src="/_unreleased/pics/mcr3scroll.png" /></td>
- <td>Bally Midway MCR-3 (Mono) (unreleased) <img src="/_unreleased/pics/mcr3mono.png" /></td>
+ <td>Bally Midway MCR-3 (Scroll) (unreleased) <img src="/pics/arcade/mcr3scroll.png" /></td>
+ <td>Bally Midway MCR-3 (Mono) (unreleased) <img src="/pics/arcade/mcr3mono.png" /></td>
 </tr>
 <tr>
  <td>Williams Robotron (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/robotron.png" /></td>
- <td>Bally Midway MCR-3 (unreleased) <img src="/_unreleased/pics/mcr3.png" /></td>
- <td>Bally Midway MCR-2 (unreleased) <img src="/_unreleased/pics/mcr2.png" /></td>
+ <td>Bally Midway MCR-3 (unreleased) <img src="/pics/arcade/mcr3.png" /></td>
+ <td>Bally Midway MCR-2 (unreleased) <img src="/pics/arcade/mcr2.png" /></td>
 </tr>
 <tr>
  <td>Williams Joust 2 (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/joust2.png" /></td>
- <td>Bally Midway MCR-1 (unreleased) <img src="/_unreleased/pics/mcr1.png" /></td>
+ <td>Bally Midway MCR-1 (unreleased) <img src="/pics/arcade/mcr1.png" /></td>
 </tr>
 <tr><th colspan="3">Other Games</th></tr>
 <tr>
- <td>Exidy UGB 2 (unreleased) <img src="/_unreleased/pics/exidyugb2.png" /></td>
+ <td>Exidy UGB 2 (unreleased) <img src="/pics/arcade/exidyugb2.png" /></td>
  <td>Cave 68000 (unreleased) <img src="/_unreleased/pics/cave.png" /></td>
 </tr>
 <tr>
@@ -439,6 +445,6 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr>
  <td>Bagman (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/bagman.png" /></td>
- <td>Crazy Kong  (unreleased) <img src="/_unreleased/pics/crazykong.png" /></td>
+ <td>Crazy Kong  (unreleased) <img src="/pics/arcade/crazykong.png" /></td>
 </tr>
 </table>
