@@ -21,22 +21,11 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>Mega System 1 (Combo*) (unreleased) <img src="/_unreleased/pics/megasys1_c.png" /></td>
 </tr>
-
-
-<tr><th colspan="3"> Other Arcade Cores</th></tr>
-<tr>
- <td>Cave 68000 (by <a href="https://www.patreon.com/nullobject/posts">nullobject</a>) <img src="pics/cave.png" /></td>
-</tr>
 </table>
 
 ## Unreleased Home Core Overrides
 
 <table>
-<tr><th colspan="3">Handheld Cores</th></tr>
-<tr>
- <td>Tiger Game.Com <img src="pics/gamecom.png" /></td>
- <td>Nokia N-Gage <img src="pics/ngage.png" /></td>  
-</tr>
 <tr><th colspan="3">Computer Cores</th></tr>
 <tr>
  <td>Sharp X68000 <img src="pics/x68000.png" /></td>

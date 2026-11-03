@@ -436,7 +436,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr><th colspan="3">Other Games</th></tr>
 <tr>
  <td>Exidy UGB 2 (unreleased) <img src="/pics/arcade/exidyugb2.png" /></td>
- <td>Cave 68000 (unreleased) <img src="/_unreleased/pics/cave.png" /></td>
+ <td>Cave 68000 <img src="/pics/arcade/cave.png" /></td>
 </tr>
 <tr>
  <td>Toki (by <a href="https://github.com/vertrex">Vertex</a> & <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jttoki.png" /></td>
@@ -446,5 +446,6 @@ All artwork used is meant to be official artwork from the time of the game's rel
 <tr>
  <td>Bagman (by <a href="https://github.com/obsidian-dot-dev">Obsidian</a>) <img src="/pics/arcade/bagman.png" /></td>
  <td>Crazy Kong  (unreleased) <img src="/pics/arcade/crazykong.png" /></td>
+ <td>Ninja-kun <img src="/pics/arcade/ninjakun.png" /></td>
 </tr>
 </table>

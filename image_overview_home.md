@@ -29,21 +29,22 @@ You can view those differences here: <b><a href="/image_regional_variants.md">Re
  <td>pcecd - Turbo Grafx CD <img src="/pics/home/pcecd.png" /></td>
 </tr>
 <tr>
- <td>coleco - Colecovision <img src="/pics/home/coleco.png" /></td>
  <td>7800 - Atari 7800 <img src="/pics/home/7800.png" /></td>
+ <td>5200 - Atari 5200 <img src="/pics/home/5200.png" /></td>
  <td>2600 - Atari 2600 <img src="/pics/home/2600.png" /></td>
 </tr>
 <tr>
+ <td>coleco - Colecovision <img src="/pics/home/coleco.png" /></td>
  <td>intv - Intellivision <img src="/pics/home/intv.png" /></td>
  <td>vectrex - Vectrex <img src="/pics/home/vectrex.png" /></td>
- <td>odyssey2 - Odyssey 2 <img src="/pics/home/odyssey2.png" /></td>
 </tr>
 <tr>
+ <td>odyssey2 - Odyssey 2 <img src="/pics/home/odyssey2.png" /></td>
  <td>channel_f - Channel-F <img src="/pics/home/channel_f.png" /></td>
  <td>arcadia - Arcadia 2001 <img src="/pics/home/arcadia.png" /></td>
- <td>creativision - Creativsion <img src="/pics/home/creativision.png" /></td>
 </tr>
 <tr>
+ <td>creativision - Creativsion <img src="/pics/home/creativision.png" /></td>
  <td>studio2 - RCA Studio II <img src="/pics/home/studio2.png" /></td>
 </tr>
 <tr><th colspan="3">Handheld Cores</th></tr>
@@ -78,6 +79,8 @@ You can view those differences here: <b><a href="/image_regional_variants.md">Re
  <td>avision - Adventure Vision <img src="/pics/home/avision.png" /></td>
 </tr>
 <tr>
+ <td>gamecom - Tiger Game.Com <img src="pics/home/gamecom.png" /></td>
+ <td>ngage - Nokia N-Gage <img src="pics/home/ngage.png" /></td>  
  <td>tamagotchi_p1 - Tamagotchi <img src="/pics/home/tamagotchi_p1.png" /></td>
 </tr>
 <tr><th colspan="3">Computer Cores</th></tr>
