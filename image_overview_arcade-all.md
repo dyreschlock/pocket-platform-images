@@ -184,6 +184,7 @@ All artwork used is meant to be official artwork from the time of the game's rel
 </tr>
 <tr>
  <td>Rally-X (unreleased) <img src="/pics/arcade/rallyx.png" /></td>
+ <td>Sky Kid <img src="/pics/arcade/jtskykid.png" /></td>
  <td>Xevious (by <a href="https://github.com/opengateware">OpenGateware</a>) <img src="/pics/arcade/xevious.png" /></td>
 </tr>
 <tr><th colspan="3"> Atari Arcade Games</th></tr>
