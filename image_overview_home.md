@@ -100,6 +100,8 @@ You can view those differences here: <b><a href="/image_regional_variants.md">Re
  <td>Varvara / UXN <img src="/pics/home/varvara.png" /></td>
 </tr>
 <tr>
+ <td>Sharp X68000 <img src="/pics/home/x68000.png" /></td>
+ <td>NEC PC-8801 <img src="/pics/home/pc8801.png" /></td>
  <td>linux - RV32 Linux 6.8 <img src="/pics/home/linux.png" /></td>
 </tr>
 <tr><th colspan="3">PC Game Conversions</th></tr>

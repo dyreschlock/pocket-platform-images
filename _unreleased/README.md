@@ -28,8 +28,6 @@ These are platform overrides for cores that haven't been released yet. These cor
 <table>
 <tr><th colspan="3">Computer Cores</th></tr>
 <tr>
- <td>Sharp X68000 <img src="pics/x68000.png" /></td>
- <td>NEC PC-8801 <img src="pics/pc8801.png" /></td>
  <td>Bandai RX-78 <img src="pics/rx78.png" /></td>
 </tr>
 <tr><th colspan="3">Other Cores</th></tr>
