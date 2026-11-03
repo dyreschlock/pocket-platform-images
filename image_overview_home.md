@@ -9,9 +9,9 @@ You can view those differences here: <b><a href="/image_regional_variants.md">Re
 <table>
 <tr><th colspan="3">Console Cores</th></tr>
 <tr>
+ <td>n64 - Nintendo 64 <img src="/pics/home/n64.png" /></td>
  <td>snes - Super Nintendo <img src="/pics/home/snes.png" /></td>
  <td>nes - Nintendo NES <img src="/pics/home/nes.png" /></td>
- <td>vb - Virtual Boy <img src="/pics/home/vb.png" /></td>
 </tr>
 <tr>
  <td>genesis - Sega Genesis <img src="/pics/home/genesis.png" /></td>
@@ -24,9 +24,14 @@ You can view those differences here: <b><a href="/image_regional_variants.md">Re
  <td>sg1000 - Sega SG-1000 <img src="/pics/home/sg1000.png" /></td>
 </tr>
 <tr>
+ <td>saturn - Sega Saturn <img src="/pics/home/saturn.png" /></td>
  <td>ng - SNK Neo Geo <img src="/pics/home/ng.png" /></td>
+ <td>ngcd - Neo Geo CD <img src="/pics/home/ngcd.png" /></td> 
+</tr>
+<tr>
  <td>pce - Turbo Grafx 16 <img src="/pics/home/pce.png" /></td>
  <td>pcecd - Turbo Grafx CD <img src="/pics/home/pcecd.png" /></td>
+ <td>vb - Virtual Boy <img src="/pics/home/vb.png" /></td>
 </tr>
 <tr>
  <td>7800 - Atari 7800 <img src="/pics/home/7800.png" /></td>
